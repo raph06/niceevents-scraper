@@ -2,19 +2,13 @@
 """
 NiceEvents backend scraper
 Runs on GitHub Actions every 3h, outputs events.json served via GitHub Pages.
-
-Strategy per site:
-  1. Playwright renders the page (executes JS, waits for network idle)
-  2. Extract JSON-LD <script type="application/ld+json"> from rendered DOM
-  3. If 0 events: walk captured API responses (network interception)
-  4. If still 0: BeautifulSoup CSS selector fallback for known HTML structures
 """
 
 import asyncio
 import json
 import re
 import time
-from datetime import datetime, timezone
+from datetime import datetime
 from typing import Optional
 
 import dateutil.parser
@@ -66,8 +60,8 @@ def infer_category(title: str) -> str:
 
 # ─── Parsing helpers ───────────────────────────────────────────────────────────
 
-def parse_ms(s: str) -> Optional[int]:
-    if not s:
+def parse_ms(s) -> Optional[int]:
+    if not s or not isinstance(s, str):
         return None
     try:
         return int(dateutil.parser.parse(s, dayfirst=True).timestamp() * 1000)
@@ -106,7 +100,7 @@ def _img(obj: dict) -> Optional[str]:
                 return u
     return None
 
-# ─── JSON event extraction (recursive) ────────────────────────────────────────
+# ─── JSON event extraction ─────────────────────────────────────────────────────
 
 _NOW_MS = int(time.time() * 1000)
 
@@ -152,12 +146,10 @@ def walk(data, site: dict, seen: set, depth: int = 0) -> list:
     events = []
     if isinstance(data, dict):
         type_val = str(data.get("@type", ""))
-        # JSON-LD Event
         if "Event" in type_val and "ItemList" not in type_val:
             name = _str(data, "name")
             date = _str(data, "startDate")
             if name and date:
-                # Skip virtual events
                 loc = data.get("location") or {}
                 if "VirtualLocation" in str(loc.get("@type", "") if isinstance(loc, dict) else ""):
                     return []
@@ -165,13 +157,11 @@ def walk(data, site: dict, seen: set, depth: int = 0) -> list:
                 if ev:
                     return [ev]
             return []
-        # ItemList
         if "ItemList" in type_val:
             for item in data.get("itemListElement", []):
                 inner = item.get("item", item) if isinstance(item, dict) else item
                 events.extend(walk(inner, site, seen, depth + 1))
             return events
-        # Generic heuristic: title-like + date-like fields
         title = _str(data, "title", "name", "titre", "nom", "libelle", "label")
         date_str = _str(data, "startDate", "start_date", "dateDebut", "date_debut",
                         "startsAt", "start_at", "date_start")
@@ -179,7 +169,6 @@ def walk(data, site: dict, seen: set, depth: int = 0) -> list:
             ev = _make_event(title, date_str, data, site, seen)
             if ev:
                 return [ev]
-        # Recurse
         for v in data.values():
             events.extend(walk(v, site, seen, depth + 1))
     elif isinstance(data, list):
@@ -190,14 +179,15 @@ def walk(data, site: dict, seen: set, depth: int = 0) -> list:
 # ─── Per-site Playwright scrape ────────────────────────────────────────────────
 
 async def scrape_site(page: Page, site: dict) -> list:
-    print(f"  [{site['source']}] {site['url']}")
+    print(f"\n[{site['source']}] {site['url']}")
     captured: list = []
 
     async def on_response(resp):
         try:
-            if resp.status == 200 and "json" in resp.headers.get("content-type", ""):
+            ct = resp.headers.get("content-type", "")
+            if resp.status == 200 and "json" in ct:
                 body = await resp.body()
-                if len(body) > 500:
+                if len(body) > 200:
                     try:
                         captured.append(json.loads(body))
                     except Exception:
@@ -208,58 +198,124 @@ async def scrape_site(page: Page, site: dict) -> list:
     page.on("response", on_response)
 
     try:
-        await page.goto(site["url"], wait_until="networkidle", timeout=45_000)
+        await page.goto(site["url"], wait_until="domcontentloaded", timeout=45_000)
     except Exception as e:
-        print(f"    WARN: {e}")
+        print(f"  goto error: {e}")
 
-    # Dismiss cookie/RGPD banners (best effort)
+    # Wait for JS to hydrate and fire API calls
+    await asyncio.sleep(4)
+
+    # Dismiss cookie/RGPD banners
     for sel in ["#tarteaucitronAllDenied2", "#accept-all-cookies", ".cc-btn.cc-dismiss",
-                "[class*='cookie-accept']", ".rgpd button", ".popin-cookies .accept",
-                "button[data-testid='accept-all']"]:
+                "[class*='cookie-accept']", ".popin-cookies .accept", ".rgpd-accept-all",
+                "button[data-testid='accept-all']", "#axeptio_btn_acceptAll"]:
         try:
             await page.click(sel, timeout=1_000)
-            await asyncio.sleep(0.5)
+            await asyncio.sleep(1)
             break
         except Exception:
             pass
 
-    # Scroll to trigger lazy-loaded content
+    # Scroll to trigger lazy-loaded content, wait for any new requests
     try:
         await page.evaluate("window.scrollTo(0, document.body.scrollHeight)")
-        await asyncio.sleep(2)
+        await asyncio.sleep(3)
     except Exception:
         pass
+
+    # Remove listener before processing
+    page.remove_listener("response", on_response)
 
     content = await page.content()
     soup = BeautifulSoup(content, "lxml")
     seen: set = set()
     events: list = []
 
-    # 1. JSON-LD (post-JS render — best quality)
-    for script in soup.find_all("script", type="application/ld+json"):
+    # Diagnostics
+    ld_scripts = soup.find_all("script", type="application/ld+json")
+    print(f"  HTML: {len(content)} chars | JSON-LD scripts: {len(ld_scripts)} | API responses captured: {len(captured)}")
+    if captured:
+        for i, r in enumerate(captured[:3]):
+            print(f"  API[{i}]: {str(r)[:120]}")
+
+    # Strategy 1: JSON-LD
+    for script in ld_scripts:
         try:
             data = json.loads(script.string or "")
             events.extend(walk(data, site, seen))
         except Exception:
             pass
     if events:
-        print(f"    JSON-LD → {len(events)}")
+        print(f"  → JSON-LD: {len(events)} events")
         return events
 
-    # 2. Network-intercepted API responses
+    # Strategy 2: Network-intercepted API responses
     for resp in captured:
         events.extend(walk(resp, site, seen))
     if events:
-        print(f"    API intercept → {len(events)}")
+        print(f"  → API intercept: {len(events)} events")
         return events
 
-    print("    0 events")
+    # Strategy 3: BeautifulSoup CSS selectors (static/SSR pages)
+    events = scrape_html(soup, site, seen)
+    if events:
+        print(f"  → HTML selectors: {len(events)} events")
+        return events
+
+    print("  → 0 events")
     return []
+
+
+def scrape_html(soup: BeautifulSoup, site: dict, seen: set) -> list:
+    """CSS selector fallback for sites with known HTML structure."""
+    events = []
+    source = site["source"]
+
+    # infoconcert.com — concert listings
+    if source == "STOCKFISH":
+        for card in soup.select(".concert-item, .event-item, article.concert, .list-concert li"):
+            title_el = card.select_one("h2, h3, .title, .artist, .concert-title")
+            date_el = card.select_one("time, .date, .concert-date, [datetime]")
+            if not title_el:
+                continue
+            title = title_el.get_text(strip=True)
+            date_str = date_el.get("datetime") or date_el.get_text(strip=True) if date_el else None
+            link_el = card.select_one("a[href]")
+            url = link_el["href"] if link_el else site["url"]
+            if not url.startswith("http"):
+                url = "https://www.infoconcert.com" + url
+            ev = _make_event(title, date_str, {}, site, seen) if date_str else None
+            if ev:
+                ev["source_url"] = url
+                events.append(ev)
+
+    # Generic: look for <article> or <li> with a <time datetime="..."> and a heading
+    if not events:
+        for card in soup.select("article, li.event, li.evenement, .event-card, .agenda-item"):
+            title_el = card.select_one("h1, h2, h3, h4, .title, .event-title")
+            time_el = card.select_one("time[datetime]")
+            if not title_el or not time_el:
+                continue
+            title = title_el.get_text(strip=True)
+            date_str = time_el.get("datetime", "")
+            if not date_str or not re.search(r"20\d{2}", date_str):
+                continue
+            link_el = card.select_one("a[href]")
+            url = link_el["href"] if link_el else site["url"]
+            if not url.startswith("http"):
+                base = re.match(r"https?://[^/]+", site["url"])
+                url = (base.group(0) if base else "") + url
+            ev = _make_event(title, date_str, {}, site, seen)
+            if ev:
+                ev["source_url"] = url
+                events.append(ev)
+
+    return events
 
 # ─── Main ──────────────────────────────────────────────────────────────────────
 
 async def main():
-    print(f"Scrape started {datetime.utcnow().isoformat()}Z\n")
+    print(f"Scrape started {datetime.utcnow().isoformat()}Z")
     all_events: list = []
 
     async with async_playwright() as p:
@@ -283,7 +339,6 @@ async def main():
 
         await browser.close()
 
-    # Filter past and deduplicate
     now_ms = int(time.time() * 1000)
     future = [e for e in all_events if e["starts_at"] > now_ms - 3_600_000]
     seen_keys: set = set()
@@ -304,7 +359,8 @@ async def main():
     with open("events.json", "w", encoding="utf-8") as f:
         json.dump(output, f, ensure_ascii=False, indent=2)
 
-    print(f"\nTotal: {len(deduped)} events")
+    print(f"\n{'='*50}")
+    print(f"Total: {len(deduped)} events")
     breakdown: dict = {}
     for ev in deduped:
         breakdown[ev["source"]] = breakdown.get(ev["source"], 0) + 1
