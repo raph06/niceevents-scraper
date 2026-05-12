@@ -292,6 +292,18 @@ async def scrape_site(page: Page, site: dict) -> list:
         except Exception:
             pass
 
+    # OPERA_NICE: calendar defaults to past season — click "today/next" to reach current month
+    if site["source"] == "OPERA_NICE":
+        for nav_sel in [".fc-today-button", "button[aria-label*='aujourd']",
+                        "button[aria-label*='Today']", ".calendar-today",
+                        ".fc-next-button", "button[aria-label*='next']", "button[aria-label*='suivant']"]:
+            try:
+                await page.click(nav_sel, timeout=1_500)
+                await asyncio.sleep(2)
+                break
+            except Exception:
+                pass
+
     # Scroll to trigger lazy-loaded content, wait for any new requests
     try:
         await page.evaluate("window.scrollTo(0, document.body.scrollHeight)")
@@ -494,11 +506,7 @@ def scrape_html(soup: BeautifulSoup, site: dict, seen: set) -> list:
                 if parsed:
                     date_str = parsed
                     break
-            if not date_str:
-                # Fall back to time[datetime] only if it looks per-event (not a page-level element)
-                time_el = card.select_one("time[datetime]")
-                if time_el:
-                    date_str = time_el.get("datetime")
+            # No time[datetime] fallback — would pick up page-level shared timestamp
             link_el = card.select_one("a[href]")
             url = link_el.get("href") if link_el else site["url"]
             if url and not url.startswith("http"):
@@ -510,29 +518,48 @@ def scrape_html(soup: BeautifulSoup, site: dict, seen: set) -> list:
                     events.append(ev)
         return events
 
-    # tnn.fr — date is in a sibling/parent element outside the <a> link
+    # tnn.fr — date is a text sibling of the <a>, title may be link text directly
     if source == "TNN":
         base = "https://www.tnn.fr"
+        # Exclude season overview page — only match event-specific slugs (contain at least 2 slashes after /fr/)
         for link in soup.select("a[href*='/spectacles/'], a[href*='/evenements/']"):
             href = link.get("href", "")
             if not href:
                 continue
-            title_el = link.select_one("h3, h2, h4, [class*='event-title'], [class*='title']")
-            if not title_el:
+            # Skip nav-level links like /fr/spectacles/saison-2025-2026 (no event slug after)
+            if re.search(r"/(spectacles|evenements)/?$", href):
                 continue
-            title = title_el.get_text(strip=True)
+            if re.search(r"/spectacles/saison-\d{4}-\d{4}/?$", href):
+                continue
+            # Title: prefer heading inside link, fall back to link text
+            title_el = link.select_one("h3, h2, h4, [class*='event-title'], [class*='title']")
+            title = title_el.get_text(strip=True) if title_el else link.get_text(strip=True)
+            if not title or len(title) < 3:
+                continue
             date_str = None
-            # Date lives outside the <a> — check parent and grandparent containers
-            for container in filter(None, [link.parent, getattr(link.parent, "parent", None)]):
-                for el in container.find_all(["strong", "span", "time", "div", "h2", "h3", "p"]):
-                    if link in el.parents or el is link:
-                        continue  # skip elements inside the link itself
-                    parsed = parse_french_date(el.get_text(strip=True))
-                    if parsed:
-                        date_str = parsed
-                        break
-                if date_str:
+            # Date is outside the <a>: check preceding siblings first, then parent containers
+            for sib in link.find_previous_siblings(["strong", "span", "time", "p"]):
+                if sib.name == "time" and sib.get("datetime"):
+                    date_str = sib.get("datetime")
                     break
+                parsed = parse_french_date(sib.get_text(strip=True))
+                if parsed:
+                    date_str = parsed
+                    break
+            if not date_str:
+                for container in filter(None, [link.parent, getattr(link.parent, "parent", None)]):
+                    for el in container.find_all(["strong", "span", "time", "h2", "h3", "p"]):
+                        if link in el.parents or el is link:
+                            continue
+                        if el.name == "time" and el.get("datetime"):
+                            date_str = el.get("datetime")
+                            break
+                        parsed = parse_french_date(el.get_text(strip=True))
+                        if parsed:
+                            date_str = parsed
+                            break
+                    if date_str:
+                        break
             if not date_str:
                 continue
             url = href if href.startswith("http") else base + href
