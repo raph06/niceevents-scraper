@@ -14,6 +14,7 @@ from typing import Optional
 
 import dateutil.parser
 from bs4 import BeautifulSoup
+from dateutil.tz import gettz
 from playwright.async_api import async_playwright, Page
 
 # ─── Site configs ──────────────────────────────────────────────────────────────
@@ -34,6 +35,9 @@ SITES = [
     {"source": "CHAGALL",          "city": "Nice",           "url": "https://musees-nationaux-alpesmaritimes.fr/chagall/agenda"},
     {"source": "MATISSE",          "city": "Nice",           "url": "https://www.musee-matisse-nice.org/fr/evenement/"},
     {"source": "STOCKFISH",        "city": "Nice",           "url": "https://www.infoconcert.com/salle/stockfish-a-nice-68191/concerts"},
+    {"source": "MONACO",           "city": "Monaco",         "url": "https://www.visitmonaco.com/evenements/agenda-des-evenements?page=1"},
+    {"source": "MONACO",           "city": "Monaco",         "url": "https://www.visitmonaco.com/evenements/agenda-des-evenements?page=2"},
+    {"source": "MONACO",           "city": "Monaco",         "url": "https://www.visitmonaco.com/evenements/agenda-des-evenements?page=3"},
 ]
 
 # ─── Category inference ────────────────────────────────────────────────────────
@@ -61,11 +65,16 @@ def infer_category(title: str) -> str:
 
 # ─── Parsing helpers ───────────────────────────────────────────────────────────
 
+_PARIS_TZ = gettz("Europe/Paris")
+
 def parse_ms(s) -> Optional[int]:
     if not s or not isinstance(s, str):
         return None
     try:
-        return int(dateutil.parser.parse(s, dayfirst=True).timestamp() * 1000)
+        dt = dateutil.parser.parse(s, dayfirst=True)
+        if dt.tzinfo is None:
+            dt = dt.replace(tzinfo=_PARIS_TZ)
+        return int(dt.timestamp() * 1000)
     except Exception:
         return None
 
@@ -91,12 +100,14 @@ def _str(obj: dict, *keys) -> Optional[str]:
     return None
 
 def _img(obj: dict) -> Optional[str]:
-    for k in ["image", "imageUrl", "thumbnail", "photo", "cover", "picture"]:
+    for k in ["image", "imageUrl", "thumbnail", "photo", "cover", "picture",
+              "thumbnail_url", "image_url", "featured_image", "banner", "poster",
+              "visual", "visuel", "affiche", "illustration", "media"]:
         v = obj.get(k)
         if isinstance(v, str) and v.startswith("http"):
             return v
         if isinstance(v, dict):
-            u = v.get("url") or v.get("src") or v.get("contentUrl")
+            u = v.get("url") or v.get("src") or v.get("contentUrl") or v.get("href")
             if isinstance(u, str) and u.startswith("http"):
                 return u
     return None
@@ -262,6 +273,16 @@ async def scrape_site(page: Page, site: dict) -> list:
     events = scrape_html(soup, site, seen)
     if events:
         print(f"  → HTML selectors: {len(events)} events")
+
+    # Apply og:image as fallback for events without a per-event image
+    og_tag = soup.find("meta", property="og:image")
+    page_image = og_tag.get("content") if og_tag else None
+    if page_image and page_image.startswith("http"):
+        for ev in events:
+            if not ev.get("image_url"):
+                ev["image_url"] = page_image
+
+    if events:
         return events
 
     print("  → 0 events")
