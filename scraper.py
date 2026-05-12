@@ -9,7 +9,7 @@ import json
 import re
 import time
 from collections import Counter
-from datetime import datetime
+from datetime import datetime, timezone
 from typing import Optional
 
 import dateutil.parser
@@ -538,7 +538,7 @@ def scrape_html(soup: BeautifulSoup, site: dict, seen: set) -> list:
 # ─── Main ──────────────────────────────────────────────────────────────────────
 
 async def main():
-    print(f"Scrape started {datetime.utcnow().isoformat()}Z")
+    print(f"Scrape started {datetime.now(timezone.utc).isoformat()}Z")
     all_events: list = []
 
     async with async_playwright() as p:
@@ -595,7 +595,7 @@ async def main():
     deduped.sort(key=lambda e: e["starts_at"])
 
     output = {
-        "scraped_at": datetime.utcnow().isoformat() + "Z",
+        "scraped_at": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
         "count": len(deduped),
         "events": deduped,
     }
