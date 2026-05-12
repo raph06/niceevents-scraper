@@ -1,7 +1,21 @@
 {
-  "scraped_at": "2026-05-12T06:24:56.466090Z",
-  "count": 67,
+  "scraped_at": "2026-05-12T08:10:23Z",
+  "count": 85,
   "events": [
+    {
+      "title": "Afterwork / La Providence / Musique sacrée à trois voix de femmes autour de cinq évocations de la vierge",
+      "description": "",
+      "place": "Opéra de Nice",
+      "city": "Nice",
+      "starts_at": 1778605200000,
+      "ends_at": 1778608800000,
+      "price": "—",
+      "price_val": 0,
+      "source": "OPERA_NICE",
+      "source_url": "https://www.opera-nice.org/fr/evenement/1321/afterwork-la-providence-musique-sacree-a-trois-voix-de-femmes-autour-de-cinq-evocations-de-la-vierge?origin=menu",
+      "image_url": null,
+      "category": "CONCERT"
+    },
     {
       "title": "Projection du FILM « HENRI Matisse »",
       "description": "",
@@ -40,7 +54,7 @@
       "price": "—",
       "price_val": 0,
       "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements?page=1",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/animation-jeux2",
       "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/4/5/8/1/2071854-1-fre-FR/9a223564a84d-M9h2cteNg8BsCX2OQqRmK4wIoO38obb4Ok5XfRMBY9WQkx.jpg.webp",
       "category": "AUTRE"
     },
@@ -68,7 +82,7 @@
       "price": "—",
       "price_val": 0,
       "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements?page=1",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/mon-jour-de-chance",
       "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/5/8/6/5/1255685-32-fre-FR/b72c8c224155-104857_img_0U4fzlv.jpg.webp",
       "category": "AUTRE"
     },
@@ -138,7 +152,7 @@
       "price": "—",
       "price_val": 0,
       "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements?page=1",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/musique-de-chambre-daniel-lozakovich",
       "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/0/6/7/6/1266760-4-fre-FR/2e748a3d422e-104937_img_0atfJBV.png.webp",
       "category": "CONCERT"
     },
@@ -152,7 +166,7 @@
       "price": "—",
       "price_val": 0,
       "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements?page=1",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/10eme-11eme-monaco-e-prix-2026",
       "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/4/0/4/2/1982404-1-fre-FR/5accd6a2c154-105721_img_04WvCHQ.png.webp",
       "category": "AUTRE"
     },
@@ -185,6 +199,20 @@
       "category": "AUTRE"
     },
     {
+      "title": "Viens avec ton doudou / saison 25-26",
+      "description": "",
+      "place": "Opéra de Nice",
+      "city": "Nice",
+      "starts_at": 1779004800000,
+      "ends_at": 1779007500000,
+      "price": "—",
+      "price_val": 0,
+      "source": "OPERA_NICE",
+      "source_url": "https://www.opera-nice.org/fr/evenement/1303/viens-avec-ton-doudou-saison-25-26?origin=menu",
+      "image_url": null,
+      "category": "AUTRE"
+    },
+    {
       "title": "Délivre nous du malin",
       "description": "",
       "place": "Monaco",
@@ -194,7 +222,7 @@
       "price": "—",
       "price_val": 0,
       "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements?page=1",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/delivre-nous-du-malin",
       "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/9/2/1/8/2078129-1-fre-FR/89849c73fa53-fdd6685cb344bfd74b42406aa3e9c41ecKR3C2.jpeg.webp",
       "category": "AUTRE"
     },
@@ -208,7 +236,7 @@
       "price": "—",
       "price_val": 0,
       "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements?page=1",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/concert-jeune-public-les-fables-de-la-fontaine",
       "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/4/1/8/6/1266814-4-fre-FR/0c5b8f4e9b4e-104938_img_0OKveTf.jpeg.webp",
       "category": "CONCERT"
     },
@@ -222,9 +250,23 @@
       "price": "—",
       "price_val": 0,
       "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements?page=2",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/andersen",
       "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/4/8/5/8/2038584-1-fre-FR/6607ad9bf4ef-C6zSeb5KmG65Jo4e.png.webp",
       "category": "AUTRE"
+    },
+    {
+      "title": "Afterwork / Foyer de l'Opéra / Bruno se fait des films",
+      "description": "",
+      "place": "Opéra de Nice",
+      "city": "Nice",
+      "starts_at": 1779296400000,
+      "ends_at": 1779300000000,
+      "price": "—",
+      "price_val": 0,
+      "source": "OPERA_NICE",
+      "source_url": "https://www.opera-nice.org/fr/evenement/1322/afterwork-foyer-de-l-opera-bruno-se-fait-des-films?origin=menu",
+      "image_url": null,
+      "category": "CONCERT"
     },
     {
       "title": "Projection en plein air - rencontre avec Helga Fanderl",
@@ -236,7 +278,7 @@
       "price": "—",
       "price_val": 0,
       "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements?page=2",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/projection-en-plein-air-rencontre-avec-helga-fanderl",
       "image_url": null,
       "category": "CINEMA"
     },
@@ -250,7 +292,7 @@
       "price": "—",
       "price_val": 0,
       "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements?page=2",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/l-art-d-etre-mon-pere",
       "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/2/3/5/5/2045532-1-fre-FR/46254e24f304-105926_img_0KrCoMF.png.webp",
       "category": "AUTRE"
     },
@@ -353,6 +395,20 @@
       "category": "EXPO"
     },
     {
+      "title": "Conférence / La dernière année de Mozart",
+      "description": "",
+      "place": "Opéra de Nice",
+      "city": "Nice",
+      "starts_at": 1779541200000,
+      "ends_at": 1779544800000,
+      "price": "—",
+      "price_val": 0,
+      "source": "OPERA_NICE",
+      "source_url": "https://www.opera-nice.org/fr/evenement/1346/conference-la-derniere-annee-de-mozart?origin=menu",
+      "image_url": null,
+      "category": "AUTRE"
+    },
+    {
       "title": "Apéro DésAstres #30 : Chat Pe...",
       "description": "",
       "place": "Nice",
@@ -404,9 +460,23 @@
       "price": "—",
       "price_val": 0,
       "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements?page=2",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/concert-symphonique-e.-grandy-j.-y.-thibaudet",
       "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/8/6/8/6/1266868-4-fre-FR/5f87b8456ee0-104939_img_0s2xtuK.png.webp",
       "category": "CONCERT"
+    },
+    {
+      "title": "Face à face / La Traviata",
+      "description": "",
+      "place": "Opéra de Nice",
+      "city": "Nice",
+      "starts_at": 1779811200000,
+      "ends_at": 1779814800000,
+      "price": "—",
+      "price_val": 0,
+      "source": "OPERA_NICE",
+      "source_url": "https://www.opera-nice.org/fr/evenement/1332/face-a-face-la-traviata?origin=menu",
+      "image_url": null,
+      "category": "AUTRE"
     },
     {
       "title": "Conférence - Gustave Caillebotte, peintre et mécène des Impressionnistes par Cécilia Auber",
@@ -418,7 +488,7 @@
       "price": "—",
       "price_val": 0,
       "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements?page=2",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/conference-gustave-caillebotte-peintre-et-mecene-des-impressionnistes-par-cecilia-auber",
       "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/5/3/3/8/2028335-1-fre-FR/f9dc989bebb4-105878_img_0omNOOf.png.webp",
       "category": "AUTRE"
     },
@@ -432,7 +502,7 @@
       "price": "—",
       "price_val": 0,
       "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements?page=2",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/haute-pegre-d-ernst-lubitsch",
       "image_url": null,
       "category": "AUTRE"
     },
@@ -446,8 +516,22 @@
       "price": "—",
       "price_val": 0,
       "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements?page=2",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/vente-des-rosiers-du-8ᵉ-concours-de-roses-nouvelles-de-monaco",
       "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/5/0/8/7/2077805-1-fre-FR/54ec5e41fb76-VFFlV0GnxK5lXYkT.png.webp",
+      "category": "AUTRE"
+    },
+    {
+      "title": "La Traviata",
+      "description": "",
+      "place": "Opéra de Nice",
+      "city": "Nice",
+      "starts_at": 1779904800000,
+      "ends_at": 1779913200000,
+      "price": "—",
+      "price_val": 0,
+      "source": "OPERA_NICE",
+      "source_url": "https://www.opera-nice.org/fr/evenement/1279/la-traviata?origin=menu",
+      "image_url": null,
       "category": "AUTRE"
     },
     {
@@ -460,7 +544,7 @@
       "price": "—",
       "price_val": 0,
       "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements?page=2",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/the-blue-economy-and-finance-forum",
       "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/0/9/2/7/2037290-1-fre-FR/a17cc4d9517a-direction-de-la-communication-du-gouvernement-princier_befftcLUUT.jpg.webp",
       "category": "AUTRE"
     },
@@ -474,7 +558,7 @@
       "price": "—",
       "price_val": 0,
       "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements?page=2",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/happy-hour-musical2",
       "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/2/2/9/6/1266922-4-fre-FR/44527fe969cb-104940_img_02sRKik.jpg.webp",
       "category": "AUTRE"
     },
@@ -488,7 +572,7 @@
       "price": "—",
       "price_val": 0,
       "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements?page=2",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/marius",
       "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/5/0/5/4/2054505-1-fre-FR/4542f44194cc-105946_img_08dmbQ3.png.webp",
       "category": "AUTRE"
     },
@@ -502,7 +586,7 @@
       "price": "—",
       "price_val": 0,
       "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements?page=2",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/la-note-bleue-summer-festival-2026",
       "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/4/4/0/1/2071044-1-fre-FR/6c8d6b870a60-98Ljqs_I37atQHym.png.webp",
       "category": "AUTRE"
     },
@@ -530,7 +614,7 @@
       "price": "—",
       "price_val": 0,
       "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements?page=2",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/hommage-a-la-diva-maria-malibran",
       "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/0/3/9/5/1815930-5-fre-FR/7a0cd4d15bf1-105261_img_0U45Ow8.png.webp",
       "category": "AUTRE"
     },
@@ -544,7 +628,7 @@
       "price": "—",
       "price_val": 0,
       "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements?page=2",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/david-bruno-font-leur-cinema",
       "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/5/0/1/8/2068105-1-fre-FR/575af4f4b3c1-PJZUOI_StGnH98Fw.png.webp",
       "category": "CINEMA"
     },
@@ -572,8 +656,22 @@
       "price": "—",
       "price_val": 0,
       "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements?page=2",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/nino-arial-pas-comme-eux",
       "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/1/1/9/5/1915911-73-fre-FR/ca5eb2fc49ed-105401_img_0ySfNlJ.jpeg.webp",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Viens avec tes parents / saison 25-26",
+      "description": "",
+      "place": "Opéra de Nice",
+      "city": "Nice",
+      "starts_at": 1780232400000,
+      "ends_at": 1780240800000,
+      "price": "—",
+      "price_val": 0,
+      "source": "OPERA_NICE",
+      "source_url": "https://www.opera-nice.org/fr/evenement/1304/viens-avec-tes-parents-saison-25-26?origin=menu",
+      "image_url": null,
       "category": "AUTRE"
     },
     {
@@ -586,8 +684,50 @@
       "price": "—",
       "price_val": 0,
       "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements?page=2",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/concert-symphonique-k.-yamada-t.-moerk",
       "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/6/7/9/6/1266976-4-fre-FR/d502095e2336-104941_img_0sey4zZ.png.webp",
+      "category": "CONCERT"
+    },
+    {
+      "title": "Musique de chambre au Foyer de l'Opéra / Saison 25-26",
+      "description": "",
+      "place": "Opéra de Nice",
+      "city": "Nice",
+      "starts_at": 1780308900000,
+      "ends_at": 1780312500000,
+      "price": "—",
+      "price_val": 0,
+      "source": "OPERA_NICE",
+      "source_url": "https://www.opera-nice.org/fr/evenement/1353/musique-de-chambre-au-foyer-de-l-opera-saison-25-26?origin=menu",
+      "image_url": null,
+      "category": "CONCERT"
+    },
+    {
+      "title": "Goûter sur scène",
+      "description": "",
+      "place": "Opéra de Nice",
+      "city": "Nice",
+      "starts_at": 1780491600000,
+      "ends_at": 1780495200000,
+      "price": "—",
+      "price_val": 0,
+      "source": "OPERA_NICE",
+      "source_url": "https://www.opera-nice.org/fr/evenement/1302/gouter-sur-scene?origin=menu",
+      "image_url": null,
+      "category": "AUTRE"
+    },
+    {
+      "title": "Café Jazz 2025/2026",
+      "description": "",
+      "place": "Opéra de Nice",
+      "city": "Nice",
+      "starts_at": 1780736400000,
+      "ends_at": 1780741800000,
+      "price": "—",
+      "price_val": 0,
+      "source": "OPERA_NICE",
+      "source_url": "https://www.opera-nice.org/fr/evenement/1298/cafe-jazz-2025-2026?origin=menu",
+      "image_url": null,
       "category": "CONCERT"
     },
     {
@@ -602,6 +742,62 @@
       "source": "NIKAIA",
       "source_url": "https://www.nikaia.fr/programmation/le-choeur-du-sud-avec-marc-lavoine",
       "image_url": "https://www.nikaia.fr/files/nikaia-share-default.png",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Escape Game 2025/2026",
+      "description": "",
+      "place": "Opéra de Nice",
+      "city": "Nice",
+      "starts_at": 1780835400000,
+      "ends_at": 1780842600000,
+      "price": "—",
+      "price_val": 0,
+      "source": "OPERA_NICE",
+      "source_url": "https://www.opera-nice.org/fr/evenement/1301/escape-game-2025-2026?origin=menu",
+      "image_url": null,
+      "category": "AUTRE"
+    },
+    {
+      "title": "Musique de chambre au Musée Chagall - Saison 25/26",
+      "description": "",
+      "place": "Opéra de Nice",
+      "city": "Nice",
+      "starts_at": 1780938000000,
+      "ends_at": 1780941600000,
+      "price": "—",
+      "price_val": 0,
+      "source": "OPERA_NICE",
+      "source_url": "https://www.opera-nice.org/fr/evenement/1352/musique-de-chambre-au-musee-chagall-saison-25-26?origin=menu",
+      "image_url": null,
+      "category": "CONCERT"
+    },
+    {
+      "title": "Afterwork / La plage de l'Opéra / Violon électrique",
+      "description": "",
+      "place": "Opéra de Nice",
+      "city": "Nice",
+      "starts_at": 1781110800000,
+      "ends_at": 1781114400000,
+      "price": "—",
+      "price_val": 0,
+      "source": "OPERA_NICE",
+      "source_url": "https://www.opera-nice.org/fr/evenement/1323/afterwork-la-plage-de-l-opera-violon-electrique?origin=menu",
+      "image_url": null,
+      "category": "CONCERT"
+    },
+    {
+      "title": "Plançon / Bruch / Brahms",
+      "description": "",
+      "place": "Opéra de Nice",
+      "city": "Nice",
+      "starts_at": 1781287200000,
+      "ends_at": 1781292600000,
+      "price": "—",
+      "price_val": 0,
+      "source": "OPERA_NICE",
+      "source_url": "https://www.opera-nice.org/fr/evenement/1289/plancon-bruch-brahms?origin=menu",
+      "image_url": null,
       "category": "AUTRE"
     },
     {
@@ -628,7 +824,7 @@
       "price": "—",
       "price_val": 0,
       "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements?page=3",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/concert-symphonique-k.-yamada-g.-shaham",
       "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/4/8/0/7/1267084-4-fre-FR/cb980fa6ba64-104943_img_0FLwWHA.png.webp",
       "category": "CONCERT"
     },
@@ -642,7 +838,7 @@
       "price": "—",
       "price_val": 0,
       "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements?page=3",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/recital-piano-arcadi-volodos",
       "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/8/3/1/7/1267138-4-fre-FR/0e69341183b9-104944_img_0rfcLqx.png.webp",
       "category": "CONCERT"
     },
@@ -656,9 +852,23 @@
       "price": "—",
       "price_val": 0,
       "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements?page=3",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/thursday-live-sessions-bande-a-part",
       "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/6/7/3/6/1986376-29-fre-FR/3d18cd9bf96a-105728_img_0UcfCmU.jpg.webp",
       "category": "AUTRE"
+    },
+    {
+      "title": "Afterwork / L'Observatoire / Comédies musicales américaines",
+      "description": "",
+      "place": "Opéra de Nice",
+      "city": "Nice",
+      "starts_at": 1781802000000,
+      "ends_at": 1781805600000,
+      "price": "—",
+      "price_val": 0,
+      "source": "OPERA_NICE",
+      "source_url": "https://www.opera-nice.org/fr/evenement/1324/afterwork-l-observatoire-comedies-musicales-americaines?origin=menu",
+      "image_url": null,
+      "category": "THEATRE"
     },
     {
       "title": "Gala de l'Académie",
@@ -670,7 +880,7 @@
       "price": "—",
       "price_val": 0,
       "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements?page=3",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/gala-de-l-academie",
       "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/6/3/8/3/1863836-2-fre-FR/20249675dd61-105288_img_0SnOF6C.jpg.webp",
       "category": "AUTRE"
     },
@@ -684,8 +894,22 @@
       "price": "—",
       "price_val": 0,
       "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements?page=3",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/munegu-repair-cafe5",
       "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/1/9/2/8/2078291-1-fre-FR/306f0ff6e1c5-SMU51gGKq1SPWWszPYJEdBLQuYej30Bn9oPXhs8eHHpYJj.jpg.webp",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Un Monde Ensemble",
+      "description": "",
+      "place": "Opéra de Nice",
+      "city": "Nice",
+      "starts_at": 1781960400000,
+      "ends_at": 1781964000000,
+      "price": "—",
+      "price_val": 0,
+      "source": "OPERA_NICE",
+      "source_url": "https://www.opera-nice.org/fr/evenement/1280/un-monde-ensemble?origin=menu",
+      "image_url": null,
       "category": "AUTRE"
     },
     {
@@ -712,8 +936,22 @@
       "price": "—",
       "price_val": 0,
       "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements?page=3",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/fete-de-la-musique-le-feu-et-la-passion",
       "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/4/5/2/6/1816254-5-fre-FR/36133080cac1-105262_img_0G0JMg1.png.webp",
+      "category": "CONCERT"
+    },
+    {
+      "title": "Festival de musique sacrée 2026",
+      "description": "",
+      "place": "Opéra de Nice",
+      "city": "Nice",
+      "starts_at": 1782032400000,
+      "ends_at": 1782036000000,
+      "price": "—",
+      "price_val": 0,
+      "source": "OPERA_NICE",
+      "source_url": "https://www.opera-nice.org/fr/evenement/1347/festival-de-musique-sacree-2026?origin=menu",
+      "image_url": null,
       "category": "CONCERT"
     },
     {
@@ -726,7 +964,7 @@
       "price": "—",
       "price_val": 0,
       "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements?page=3",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/la-la-land-en-cine-concert",
       "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/2/9/1/7/1267192-66-fre-FR/5578211afe25-104945_img_0glxJAF.png.webp",
       "category": "CONCERT"
     },
@@ -740,7 +978,7 @@
       "price": "—",
       "price_val": 0,
       "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements?page=3",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/fund-forum",
       "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/3/0/6/0/2030603-1-fre-FR/e8bace9c77fb-403a0486GIref4.JPG.webp",
       "category": "AUTRE"
     },
@@ -773,6 +1011,20 @@
       "category": "AUTRE"
     },
     {
+      "title": "Afterwork / Centre Universitaire Méditerranéen / Artistes du Chœur",
+      "description": "",
+      "place": "Opéra de Nice",
+      "city": "Nice",
+      "starts_at": 1782320400000,
+      "ends_at": 1782324000000,
+      "price": "—",
+      "price_val": 0,
+      "source": "OPERA_NICE",
+      "source_url": "https://www.opera-nice.org/fr/evenement/1325/afterwork-centre-universitaire-mediterraneen-artistes-du-choeur?origin=menu",
+      "image_url": null,
+      "category": "NUIT"
+    },
+    {
       "title": "Sirba Octet",
       "description": "",
       "place": "Monaco",
@@ -782,7 +1034,7 @@
       "price": "—",
       "price_val": 0,
       "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements?page=3",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/sirba-octet",
       "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/6/4/2/7/1267246-4-fre-FR/d26a219598e9-104946_img_0I7RlkP.png.webp",
       "category": "AUTRE"
     },
@@ -824,7 +1076,7 @@
       "price": "—",
       "price_val": 0,
       "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements?page=1",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/exposition-patrimoine-en-danger",
       "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/8/5/1/0/2050158-2-fre-FR/d947f6783c1b-2026-03_Expo-Photos-2026_32x48cm_01-sans-traits.jpg.webp.webp",
       "category": "EXPO"
     },
@@ -866,7 +1118,7 @@
       "price": "—",
       "price_val": 0,
       "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements?page=3",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/happy-hour-musical",
       "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/0/3/0/7/1267030-4-fre-FR/8e87970da58f-104942_img_0GRsmtK.jpg.webp",
       "category": "AUTRE"
     },
@@ -880,7 +1132,7 @@
       "price": "—",
       "price_val": 0,
       "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements?page=3",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/the-unique-show-luxury-monte-carlo-2026",
       "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/0/6/2/8/2048260-1-fre-FR/84ba0694c758-105929_img_0Te0Uqp.png.webp",
       "category": "AUTRE"
     },
@@ -894,7 +1146,7 @@
       "price": "—",
       "price_val": 0,
       "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements?page=3",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/les-fourberies-de-scapin",
       "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/9/2/8/4/2054829-1-fre-FR/09833c0b9ef2-105947_img_0kcAnNk.png.webp",
       "category": "AUTRE"
     },
@@ -908,7 +1160,7 @@
       "price": "—",
       "price_val": 0,
       "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements?page=3",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/65e-festival-de-television-de-monte-carlo",
       "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/2/8/8/2/1852882-5-fre-FR/bea390b27a70-AFFICHE_FTV26.jpg.webp",
       "category": "AUTRE"
     },
@@ -936,7 +1188,7 @@
       "price": "—",
       "price_val": 0,
       "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements?page=1",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/paris-texas-de-win-wenders",
       "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/3/2/2/4/2014223-2-fre-FR/94ba780f389f-Vignette_ParisTexas_3.jpg.webp",
       "category": "AUTRE"
     }
