@@ -8,6 +8,7 @@ import asyncio
 import json
 import re
 import time
+from collections import Counter
 from datetime import datetime
 from typing import Optional
 
@@ -235,8 +236,9 @@ async def scrape_site(page: Page, site: dict) -> list:
     ld_scripts = soup.find_all("script", type="application/ld+json")
     print(f"  HTML: {len(content)} chars | JSON-LD scripts: {len(ld_scripts)} | API responses captured: {len(captured)}")
     if captured:
-        for i, r in enumerate(captured[:3]):
-            print(f"  API[{i}]: {str(r)[:120]}")
+        for i, r in enumerate(captured[:5]):
+            keys = list(r.keys()) if isinstance(r, dict) else f"list[{len(r)}]"
+            print(f"  API[{i}]: keys={keys} | {str(r)[:500]}")
 
     # Strategy 1: JSON-LD
     for script in ld_scripts:
@@ -341,6 +343,26 @@ async def main():
 
     now_ms = int(time.time() * 1000)
     future = [e for e in all_events if e["starts_at"] > now_ms - 3_600_000]
+
+    # Remove events from sources where >60% share the same timestamp (bad date extraction)
+    by_source: dict = {}
+    for ev in future:
+        by_source.setdefault(ev["source"], []).append(ev)
+    filtered: list = []
+    for src, evs in by_source.items():
+        if len(evs) < 3:
+            filtered.extend(evs)
+            continue
+        ts_counts = Counter(e["starts_at"] for e in evs)
+        top_ts, top_count = ts_counts.most_common(1)[0]
+        if top_count >= max(3, len(evs) * 0.6):
+            valid = [e for e in evs if ts_counts[e["starts_at"]] < 3]
+            print(f"  ⚠ {src}: {top_count}/{len(evs)} events share ts {top_ts} → discarded (bad date), kept {len(valid)}")
+            filtered.extend(valid)
+        else:
+            filtered.extend(evs)
+    future = filtered
+
     seen_keys: set = set()
     deduped = []
     for ev in future:
