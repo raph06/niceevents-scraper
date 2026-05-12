@@ -494,7 +494,10 @@ def scrape_html(soup: BeautifulSoup, site: dict, seen: set) -> list:
             ".agenda-list__item, .event-card, .card--event, "
             "[class*='agenda-item'], [class*='event-item'], article[class*='event']"
         )
-        for card in soup.select(selectors):
+        all_cards = soup.select(selectors)
+        if all_cards:
+            print(f"  VILLE_NICE: {len(all_cards)} cards — first card snippet: {str(all_cards[0])[:500]}")
+        for card in all_cards:
             title_el = card.select_one("h2, h3, h4, .card-title, .event-title, [class*='title']")
             if not title_el:
                 continue
@@ -540,29 +543,17 @@ def scrape_html(soup: BeautifulSoup, site: dict, seen: set) -> list:
             if not title or len(title) < 3:
                 continue
             date_str = None
-            # Date is outside the <a>: check preceding siblings first, then parent containers
-            for sib in link.find_previous_siblings(["strong", "span", "time", "p"]):
-                if sib.name == "time" and sib.get("datetime"):
-                    date_str = sib.get("datetime")
+            # Date is a day-group header (e.g. <strong>mardi 12 mai</strong>) sitting
+            # several DOM levels above the link — find_all_previous() traverses backward
+            # through the whole document regardless of nesting depth.
+            for prev in link.find_all_previous(["strong", "h2", "h3", "time"], limit=15):
+                if prev.name == "time" and prev.get("datetime"):
+                    date_str = prev.get("datetime")
                     break
-                parsed = parse_french_date(sib.get_text(strip=True))
+                parsed = parse_french_date(prev.get_text(strip=True))
                 if parsed:
                     date_str = parsed
                     break
-            if not date_str:
-                for container in filter(None, [link.parent, getattr(link.parent, "parent", None)]):
-                    for el in container.find_all(["strong", "span", "time", "h2", "h3", "p"]):
-                        if link in el.parents or el is link:
-                            continue
-                        if el.name == "time" and el.get("datetime"):
-                            date_str = el.get("datetime")
-                            break
-                        parsed = parse_french_date(el.get_text(strip=True))
-                        if parsed:
-                            date_str = parsed
-                            break
-                    if date_str:
-                        break
             if not date_str:
                 continue
             url = href if href.startswith("http") else base + href
