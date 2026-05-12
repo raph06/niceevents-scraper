@@ -9,7 +9,7 @@ import json
 import re
 import time
 from collections import Counter
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from typing import Optional
 
 import dateutil.parser
@@ -85,15 +85,31 @@ _FRENCH_MONTHS = {
 }
 
 def parse_french_date(text: str) -> Optional[str]:
-    """'Ven. 23 mai 2026' or 'Du 5 au 8 juin 2026' → ISO date string."""
+    """'Ven. 23 mai 2026', 'Du 5 au 8 juin 2026', 'mardi 12 mai' → ISO date string."""
     text = re.sub(r"\b(lun|mar|mer|jeu|ven|sam|dim)\.?\s*", "", text.strip(), flags=re.IGNORECASE)
-    text = text.lower()
+    text = text.lower().strip()
+    # With explicit year: "23 mai 2026"
     m = re.search(r"(\d{1,2})\s+(\w+)\s+(20\d{2})", text)
     if m:
         day, month_str, year = m.group(1), m.group(2), m.group(3)
         month = _FRENCH_MONTHS.get(month_str)
         if month:
             return f"{year}-{month:02d}-{int(day):02d}"
+    # Without year: "12 mai" — infer current or next year
+    m = re.search(r"(\d{1,2})\s+(\w+)", text)
+    if m:
+        day, month_str = m.group(1), m.group(2)
+        month = _FRENCH_MONTHS.get(month_str)
+        if month:
+            now = datetime.now(timezone.utc)
+            year = now.year
+            try:
+                candidate = datetime(year, month, int(day), tzinfo=timezone.utc)
+                if candidate < now - timedelta(days=1):
+                    year += 1
+                return f"{year}-{month:02d}-{int(day):02d}"
+            except ValueError:
+                return None
     return None
 
 def parse_price(raw: Optional[str]) -> tuple:
@@ -492,6 +508,42 @@ def scrape_html(soup: BeautifulSoup, site: dict, seen: set) -> list:
                 if ev:
                     ev["source_url"] = url
                     events.append(ev)
+        return events
+
+    # tnn.fr — date is in a sibling/parent element outside the <a> link
+    if source == "TNN":
+        base = "https://www.tnn.fr"
+        for link in soup.select("a[href*='/spectacles/'], a[href*='/evenements/']"):
+            href = link.get("href", "")
+            if not href:
+                continue
+            title_el = link.select_one("h3, h2, h4, [class*='event-title'], [class*='title']")
+            if not title_el:
+                continue
+            title = title_el.get_text(strip=True)
+            date_str = None
+            # Date lives outside the <a> — check parent and grandparent containers
+            for container in filter(None, [link.parent, getattr(link.parent, "parent", None)]):
+                for el in container.find_all(["strong", "span", "time", "div", "h2", "h3", "p"]):
+                    if link in el.parents or el is link:
+                        continue  # skip elements inside the link itself
+                    parsed = parse_french_date(el.get_text(strip=True))
+                    if parsed:
+                        date_str = parsed
+                        break
+                if date_str:
+                    break
+            if not date_str:
+                continue
+            url = href if href.startswith("http") else base + href
+            img_el = link.select_one("img[src]")
+            img_url = img_el.get("src") if img_el else None
+            ev = _make_event(title, date_str, {}, site, seen)
+            if ev:
+                ev["source_url"] = url
+                if img_url:
+                    ev["image_url"] = img_url if img_url.startswith("http") else base + img_url
+                events.append(ev)
         return events
 
     # infoconcert.com — concert listings
