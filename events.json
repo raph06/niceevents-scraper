@@ -1,21 +1,7 @@
 {
-  "scraped_at": "2026-05-12T17:09:32Z",
-  "count": 95,
+  "scraped_at": "2026-05-12T19:36:13Z",
+  "count": 93,
   "events": [
-    {
-      "title": "Afterwork / La Providence / Musique sacrée à trois voix de femmes autour de cinq évocations de la vierge",
-      "description": "",
-      "place": "Opéra de Nice",
-      "city": "Nice",
-      "starts_at": 1778605200000,
-      "ends_at": 1778608800000,
-      "price": "—",
-      "price_val": 0,
-      "source": "OPERA_NICE",
-      "source_url": "https://www.opera-nice.org/fr/evenement/1321/afterwork-la-providence-musique-sacree-a-trois-voix-de-femmes-autour-de-cinq-evocations-de-la-vierge?origin=menu",
-      "image_url": null,
-      "category": "CONCERT"
-    },
     {
       "title": "« Seniors en Forme » – Riquier",
       "description": "",
@@ -307,7 +293,7 @@
       "price_val": 0,
       "source": "OPERA_NICE",
       "source_url": "https://www.opera-nice.org/fr/evenement/1303/viens-avec-ton-doudou-saison-25-26?origin=menu",
-      "image_url": null,
+      "image_url": "http://www.opera-nice.org/uploads/evenement/photos/viens-avec-ton-doudou-saison-25-26_1303.png",
       "category": "AUTRE"
     },
     {
@@ -363,7 +349,7 @@
       "price_val": 0,
       "source": "OPERA_NICE",
       "source_url": "https://www.opera-nice.org/fr/evenement/1322/afterwork-foyer-de-l-opera-bruno-se-fait-des-films?origin=menu",
-      "image_url": null,
+      "image_url": "http://www.opera-nice.org/uploads/evenement/photos/afterwork-foyer-de-l-opera-bruno-se-fait-des-films_1322.jpg",
       "category": "CONCERT"
     },
     {
@@ -433,7 +419,7 @@
       "price_val": 0,
       "source": "OPERA_NICE",
       "source_url": "https://www.opera-nice.org/fr/evenement/1346/conference-la-derniere-annee-de-mozart?origin=menu",
-      "image_url": null,
+      "image_url": "http://www.opera-nice.org/uploads/evenement/photos/conference-la-derniere-annee-de-mozart_1346.jpg",
       "category": "AUTRE"
     },
     {
@@ -503,7 +489,7 @@
       "price_val": 0,
       "source": "OPERA_NICE",
       "source_url": "https://www.opera-nice.org/fr/evenement/1332/face-a-face-la-traviata?origin=menu",
-      "image_url": null,
+      "image_url": "http://www.opera-nice.org/uploads/evenement/photos/face-a-face-la-traviata_1332.jpg",
       "category": "AUTRE"
     },
     {
@@ -559,7 +545,7 @@
       "price_val": 0,
       "source": "OPERA_NICE",
       "source_url": "https://www.opera-nice.org/fr/evenement/1279/la-traviata?origin=menu",
-      "image_url": null,
+      "image_url": "http://www.opera-nice.org/uploads/evenement/photos/la-traviata_1279.jpg",
       "category": "AUTRE"
     },
     {
@@ -699,7 +685,7 @@
       "price_val": 0,
       "source": "OPERA_NICE",
       "source_url": "https://www.opera-nice.org/fr/evenement/1304/viens-avec-tes-parents-saison-25-26?origin=menu",
-      "image_url": null,
+      "image_url": "http://www.opera-nice.org/uploads/evenement/photos/viens-avec-tes-parents-saison-25-26_1304.png",
       "category": "AUTRE"
     },
     {
@@ -727,7 +713,7 @@
       "price_val": 0,
       "source": "OPERA_NICE",
       "source_url": "https://www.opera-nice.org/fr/evenement/1353/musique-de-chambre-au-foyer-de-l-opera-saison-25-26?origin=menu",
-      "image_url": null,
+      "image_url": "http://www.opera-nice.org/uploads/evenement/photos/musique-de-chambre-au-foyer-de-l-opera-saison-25-26_1353.PNG",
       "category": "CONCERT"
     },
     {
@@ -741,7 +727,7 @@
       "price_val": 0,
       "source": "OPERA_NICE",
       "source_url": "https://www.opera-nice.org/fr/evenement/1302/gouter-sur-scene?origin=menu",
-      "image_url": null,
+      "image_url": "http://www.opera-nice.org/uploads/evenement/photos/gouter-sur-scene_1302.png",
       "category": "AUTRE"
     },
     {
@@ -755,7 +741,7 @@
       "price_val": 0,
       "source": "OPERA_NICE",
       "source_url": "https://www.opera-nice.org/fr/evenement/1298/cafe-jazz-2025-2026?origin=menu",
-      "image_url": null,
+      "image_url": "http://www.opera-nice.org/uploads/evenement/photos/cafe-jazz-2025-2026_1298.png",
       "category": "CONCERT"
     },
     {
@@ -783,7 +769,7 @@
       "price_val": 0,
       "source": "OPERA_NICE",
       "source_url": "https://www.opera-nice.org/fr/evenement/1301/escape-game-2025-2026?origin=menu",
-      "image_url": null,
+      "image_url": "http://www.opera-nice.org/uploads/evenement/photos/escape-game-2025-2026_1301.jpg",
       "category": "AUTRE"
     },
     {
@@ -797,7 +783,7 @@
       "price_val": 0,
       "source": "OPERA_NICE",
       "source_url": "https://www.opera-nice.org/fr/evenement/1352/musique-de-chambre-au-musee-chagall-saison-25-26?origin=menu",
-      "image_url": null,
+      "image_url": "http://www.opera-nice.org/uploads/evenement/photos/_.JPG",
       "category": "CONCERT"
     },
     {
@@ -811,7 +797,7 @@
       "price_val": 0,
       "source": "OPERA_NICE",
       "source_url": "https://www.opera-nice.org/fr/evenement/1323/afterwork-la-plage-de-l-opera-violon-electrique?origin=menu",
-      "image_url": null,
+      "image_url": "http://www.opera-nice.org/uploads/evenement/photos/afterwork-opera-plage-violon-electrique_1323.jpg",
       "category": "CONCERT"
     },
     {
@@ -825,7 +811,7 @@
       "price_val": 0,
       "source": "OPERA_NICE",
       "source_url": "https://www.opera-nice.org/fr/evenement/1289/plancon-bruch-brahms?origin=menu",
-      "image_url": null,
+      "image_url": "http://www.opera-nice.org/uploads/evenement/photos/plancon-bruch-brahms_1289.jpg",
       "category": "AUTRE"
     },
     {
@@ -895,7 +881,7 @@
       "price_val": 0,
       "source": "OPERA_NICE",
       "source_url": "https://www.opera-nice.org/fr/evenement/1324/afterwork-l-observatoire-comedies-musicales-americaines?origin=menu",
-      "image_url": null,
+      "image_url": "http://www.opera-nice.org/uploads/evenement/photos/afterwork-l-observatoire-comedies-musicales-americaines_1324.jpg",
       "category": "THEATRE"
     },
     {
@@ -937,7 +923,7 @@
       "price_val": 0,
       "source": "OPERA_NICE",
       "source_url": "https://www.opera-nice.org/fr/evenement/1280/un-monde-ensemble?origin=menu",
-      "image_url": null,
+      "image_url": "http://www.opera-nice.org/uploads/evenement/photos/un-monde-ensemble_1280.jpg",
       "category": "AUTRE"
     },
     {
@@ -979,7 +965,7 @@
       "price_val": 0,
       "source": "OPERA_NICE",
       "source_url": "https://www.opera-nice.org/fr/evenement/1347/festival-de-musique-sacree-2026?origin=menu",
-      "image_url": null,
+      "image_url": "http://www.opera-nice.org/uploads/evenement/photos/festival-de-musique-sacree-2026_1347.jpg",
       "category": "CONCERT"
     },
     {
@@ -1049,7 +1035,7 @@
       "price_val": 0,
       "source": "OPERA_NICE",
       "source_url": "https://www.opera-nice.org/fr/evenement/1325/afterwork-centre-universitaire-mediterraneen-artistes-du-choeur?origin=menu",
-      "image_url": null,
+      "image_url": "http://www.opera-nice.org/uploads/evenement/photos/afterwork-centre-universitaire-mediterranneen-artistes-du-choeur_1325.jpg",
       "category": "NUIT"
     },
     {
@@ -1316,20 +1302,6 @@
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/culture/",
       "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
-      "category": "AUTRE"
-    },
-    {
-      "title": "\"Paris, Texas\" de Win Wenders",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1796490000000,
-      "ends_at": 1796497200000,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/paris-texas-de-win-wenders",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/3/2/2/4/2014223-2-fre-FR/94ba780f389f-Vignette_ParisTexas_3.jpg.webp",
       "category": "AUTRE"
     }
   ]
