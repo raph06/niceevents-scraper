@@ -12,10 +12,28 @@ from collections import Counter
 from datetime import datetime, timedelta, timezone
 from typing import Optional
 
+import aiohttp
 import dateutil.parser
 from bs4 import BeautifulSoup
 from dateutil.tz import gettz
 from playwright.async_api import async_playwright, Page
+
+# ─── Unsplash config ───────────────────────────────────────────────────────────
+# Get a free key at https://unsplash.com/developers (50 req/h on free tier)
+UNSPLASH_ACCESS_KEY = ""
+
+_CAT_QUERIES = {
+    "CONCERT": "concert live music performance crowd",
+    "EXPO":    "art exhibition gallery contemporary museum",
+    "THEATRE": "theatre stage actors performance spotlight",
+    "CINEMA":  "cinema film projector screen",
+    "MARCHE":  "outdoor market france provence vendors",
+    "FOOD":    "gourmet food restaurant meal table",
+    "FAMILLE": "family children activities outdoor fun",
+    "NUIT":    "nightclub party dj crowd lights",
+    "SPORT":   "sport outdoor running competition",
+    "AUTRE":   "côte d'azur nice france mediterranean",
+}
 
 # ─── Site configs ──────────────────────────────────────────────────────────────
 
@@ -610,6 +628,95 @@ def scrape_html(soup: BeautifulSoup, site: dict, seen: set) -> list:
 
 # ─── Main ──────────────────────────────────────────────────────────────────────
 
+async def _og_image(url: str, session: aiohttp.ClientSession) -> Optional[str]:
+    """Fetch the og:image from an event detail page."""
+    try:
+        async with session.get(url, timeout=aiohttp.ClientTimeout(total=6)) as r:
+            if r.status != 200:
+                return None
+            text = await r.text(errors="ignore")
+            # og:image can appear in either attribute order
+            m = re.search(
+                r'<meta[^>]+property=["\']og:image["\'][^>]+content=["\']([^"\']+)["\']',
+                text, re.IGNORECASE,
+            ) or re.search(
+                r'<meta[^>]+content=["\']([^"\']+)["\'][^>]+property=["\']og:image["\']',
+                text, re.IGNORECASE,
+            )
+            if m:
+                img = m.group(1).strip()
+                return img if img.startswith("http") else None
+    except Exception:
+        pass
+    return None
+
+
+async def _unsplash(category: str, session: aiohttp.ClientSession) -> Optional[str]:
+    if not UNSPLASH_ACCESS_KEY:
+        return None
+    query = _CAT_QUERIES.get(category, _CAT_QUERIES["AUTRE"])
+    try:
+        url = f"https://api.unsplash.com/search/photos?query={query}&per_page=3&orientation=landscape"
+        async with session.get(
+            url,
+            headers={"Authorization": f"Client-ID {UNSPLASH_ACCESS_KEY}"},
+            timeout=aiohttp.ClientTimeout(total=8),
+        ) as r:
+            if r.status == 200:
+                data = await r.json()
+                results = data.get("results", [])
+                if results:
+                    return results[0].get("urls", {}).get("regular")
+    except Exception:
+        pass
+    return None
+
+
+async def enrich_images(events: list) -> None:
+    """
+    Two-pass image enrichment:
+      1. Fetch og:image from each event's detail page (async, capped at 30).
+      2. Unsplash fallback keyed by category (at most ~10 API calls).
+    """
+    no_img = [e for e in events if not e.get("image_url")]
+    print(f"\nImage enrichment: {len(no_img)}/{len(events)} events without image")
+
+    connector = aiohttp.TCPConnector(limit=10)
+    ua = "Mozilla/5.0 (compatible; NiceEventsScraper/1.0)"
+    async with aiohttp.ClientSession(connector=connector, headers={"User-Agent": ua}) as session:
+
+        # Pass 1 — detail page og:image (only URLs with a real slug, not site roots)
+        fetchable = [
+            e for e in no_img
+            if e.get("source_url", "").startswith("http")
+            and re.search(r"/[^/?#]{3,}/[^/?#]{3,}", e["source_url"])
+        ][:30]
+        if fetchable:
+            images = await asyncio.gather(*[_og_image(e["source_url"], session) for e in fetchable])
+            hits = sum(1 for img in images if img)
+            for ev, img in zip(fetchable, images):
+                if img:
+                    ev["image_url"] = img
+            print(f"  → {hits} images from detail pages ({len(fetchable)} fetched)")
+
+        # Pass 2 — Unsplash by category for anything still missing
+        unsplash_cache: dict = {}
+        unsplash_hits = 0
+        for ev in events:
+            if not ev.get("image_url"):
+                cat = ev.get("category", "AUTRE")
+                if cat not in unsplash_cache:
+                    unsplash_cache[cat] = await _unsplash(cat, session)
+                if unsplash_cache.get(cat):
+                    ev["image_url"] = unsplash_cache[cat]
+                    unsplash_hits += 1
+        if UNSPLASH_ACCESS_KEY:
+            print(f"  → {unsplash_hits} images from Unsplash")
+        else:
+            still_missing = sum(1 for e in events if not e.get("image_url"))
+            print(f"  → Unsplash disabled (no key) — {still_missing} events still without image")
+
+
 async def main():
     print(f"Scrape started {datetime.now(timezone.utc).isoformat()}Z")
     all_events: list = []
@@ -666,6 +773,8 @@ async def main():
             deduped.append(ev)
 
     deduped.sort(key=lambda e: e["starts_at"])
+
+    await enrich_images(deduped)
 
     output = {
         "scraped_at": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
