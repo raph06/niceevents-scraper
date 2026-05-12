@@ -501,12 +501,12 @@ def scrape_html(soup: BeautifulSoup, site: dict, seen: set) -> list:
             title = title_el.get_text(strip=True)
             date_str = None
             # Prefer French text date over time[datetime] (which tends to be shared page-level)
-            for el in card.select("[class*='date'], .event-date, .agenda-date, time"):
+            for el in card.select("[class*='date'], .event-date, .agenda-date"):
                 parsed = parse_french_date(el.get_text(strip=True))
                 if parsed:
                     date_str = parsed
                     break
-            # No time[datetime] fallback — would pick up page-level shared timestamp
+            # No <time> element fallback — would pick up page-level shared timestamp
             link_el = card.select_one("a[href]")
             url = link_el.get("href") if link_el else site["url"]
             if url and not url.startswith("http"):
@@ -520,6 +520,9 @@ def scrape_html(soup: BeautifulSoup, site: dict, seen: set) -> list:
 
     # tnn.fr — date is a text sibling of the <a>, title may be link text directly
     if source == "TNN":
+        # Diagnostics: show first spectacle/evenement links found
+        sample = soup.select("a[href*='/spectacles/'], a[href*='/evenements/']")
+        print(f"  TNN links found: {len(sample)} — first 3: {[a.get('href','')[:80] for a in sample[:3]]}")
         base = "https://www.tnn.fr"
         # Exclude season overview page — only match event-specific slugs (contain at least 2 slashes after /fr/)
         for link in soup.select("a[href*='/spectacles/'], a[href*='/evenements/']"):
