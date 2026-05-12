@@ -78,6 +78,24 @@ def parse_ms(s) -> Optional[int]:
     except Exception:
         return None
 
+_FRENCH_MONTHS = {
+    "janvier": 1, "février": 2, "fevrier": 2, "mars": 3,
+    "avril": 4, "mai": 5, "juin": 6, "juillet": 7, "août": 8, "aout": 8,
+    "septembre": 9, "octobre": 10, "novembre": 11, "décembre": 12, "decembre": 12,
+}
+
+def parse_french_date(text: str) -> Optional[str]:
+    """'Ven. 23 mai 2026' or 'Du 5 au 8 juin 2026' → ISO date string."""
+    text = re.sub(r"\b(lun|mar|mer|jeu|ven|sam|dim)\.?\s*", "", text.strip(), flags=re.IGNORECASE)
+    text = text.lower()
+    m = re.search(r"(\d{1,2})\s+(\w+)\s+(20\d{2})", text)
+    if m:
+        day, month_str, year = m.group(1), m.group(2), m.group(3)
+        month = _FRENCH_MONTHS.get(month_str)
+        if month:
+            return f"{year}-{month:02d}-{int(day):02d}"
+    return None
+
 def parse_price(raw: Optional[str]) -> tuple:
     if not raw:
         return "—", 0
@@ -110,7 +128,39 @@ def _img(obj: dict) -> Optional[str]:
             u = v.get("url") or v.get("src") or v.get("contentUrl") or v.get("href")
             if isinstance(u, str) and u.startswith("http"):
                 return u
+            # Monaco-style srcset dict: {w414_search: "https://...", w592_search: "https://..."}
+            srcset = v.get("srcset")
+            if isinstance(srcset, dict):
+                for sv in srcset.values():
+                    if isinstance(sv, str) and sv.startswith("http"):
+                        return sv
+            elif isinstance(srcset, str):
+                first = srcset.split(",")[0].strip().split(" ")[0]
+                if first.startswith("http"):
+                    return first
     return None
+
+def _url(obj: dict, site_url: str) -> str:
+    """Extract URL from event object, handling both string and dict values."""
+    for k in ["url", "link", "lien", "permalink", "href"]:
+        v = obj.get(k)
+        if isinstance(v, str) and v.strip():
+            u = v.strip()
+            if u.startswith("http"):
+                return u
+            if u.startswith("/"):
+                base = re.match(r"https?://[^/]+", site_url)
+                return (base.group(0) if base else "") + u
+        if isinstance(v, dict):
+            u = v.get("href") or v.get("url") or v.get("src")
+            if isinstance(u, str) and u.strip():
+                u = u.strip()
+                if u.startswith("http"):
+                    return u
+                if u.startswith("/"):
+                    base = re.match(r"https?://[^/]+", site_url)
+                    return (base.group(0) if base else "") + u
+    return site_url
 
 # ─── JSON event extraction ─────────────────────────────────────────────────────
 
@@ -131,9 +181,7 @@ def _make_event(title, date_str, obj, site, seen) -> Optional[dict]:
         place = loc
     else:
         place = site["city"]
-    url = _str(obj, "url", "link", "lien", "permalink", "href") or site["url"]
-    if not url.startswith("http"):
-        url = site["url"]
+    url = _url(obj, site["url"])
     price_raw = _str(obj, "price", "prix", "tarif", "cost")
     price, price_val = parse_price(price_raw)
     seen.add(title)
@@ -262,6 +310,124 @@ async def scrape_site(page: Page, site: dict) -> list:
         print(f"  → JSON-LD: {len(events)} events")
         return events
 
+    # Strategy 2a: Site-specific parsers for known API formats
+    source = site["source"]
+    if not events:
+        if source == "OPERA_NICE":
+            for resp in captured:
+                if not isinstance(resp, dict) or resp.get("success") != 1:
+                    continue
+                result = resp.get("result", [])
+                if not isinstance(result, list):
+                    continue
+                for item in result:
+                    title = _str(item, "title", "name")
+                    start_ms = item.get("start")
+                    if not title or not isinstance(start_ms, (int, float)):
+                        continue
+                    start_ms = int(start_ms)
+                    if start_ms < _NOW_MS - 3_600_000 or title in seen:
+                        continue
+                    seen.add(title)
+                    end_ms = item.get("end")
+                    end_ms = int(end_ms) if isinstance(end_ms, (int, float)) else (start_ms + 7_200_000)
+                    url = item.get("url", "")
+                    if url and not url.startswith("http"):
+                        url = "https://www.opera-nice.org" + url
+                    events.append({
+                        "title": title,
+                        "description": _str(item, "description", "summary") or "",
+                        "place": "Opéra de Nice",
+                        "city": site["city"],
+                        "starts_at": start_ms,
+                        "ends_at": end_ms,
+                        "price": "—",
+                        "price_val": 0,
+                        "source": site["source"],
+                        "source_url": url or site["url"],
+                        "image_url": _img(item),
+                        "category": infer_category(title),
+                    })
+            if events:
+                print(f"  → OPERA_NICE API: {len(events)} events")
+                return events
+
+        elif source == "CHAGALL":
+            for resp in captured:
+                if not isinstance(resp, dict):
+                    continue
+                html_str = resp.get("html")
+                if not html_str:
+                    continue
+                ch_soup = BeautifulSoup(html_str, "lxml")
+                base_url = "https://musees-nationaux-alpesmaritimes.fr"
+                for article in ch_soup.select("article[about], article.node-event, article[class*='event']"):
+                    title_el = article.select_one("h2 a, h3 a, h2, h3, .field-name-title, .node-title")
+                    if not title_el:
+                        continue
+                    title = title_el.get_text(strip=True)
+                    date_str = None
+                    for date_el in article.select("time[datetime], .date-display-single, [class*='date-field'], [class*='field-date']"):
+                        date_str = date_el.get("datetime") or parse_french_date(date_el.get_text(strip=True))
+                        if date_str:
+                            break
+                    if not date_str:
+                        continue
+                    url = article.get("about", "")
+                    if url and not url.startswith("http"):
+                        url = base_url + url
+                    img_el = article.select_one("img[src]")
+                    img_url = img_el.get("src") if img_el else None
+                    if img_url and not img_url.startswith("http"):
+                        img_url = base_url + img_url
+                    ev = _make_event(title, date_str, {}, site, seen)
+                    if ev:
+                        ev["source_url"] = url or site["url"]
+                        if img_url:
+                            ev["image_url"] = img_url
+                        events.append(ev)
+            if events:
+                print(f"  → CHAGALL HTML: {len(events)} events")
+                return events
+
+        elif source == "CAGNES":
+            for resp in captured:
+                if not isinstance(resp, dict):
+                    continue
+                data = resp.get("data")
+                if not isinstance(data, dict):
+                    continue
+                html_str = data.get("html")
+                if not html_str:
+                    continue
+                ca_soup = BeautifulSoup(html_str, "lxml")
+                for item in ca_soup.select(".jet-listing-grid__item, .jet-listing-item, article, .elementor-post"):
+                    title_el = item.select_one(
+                        "h2, h3, h4, .jet-listing-dynamic-field__content, "
+                        ".elementor-heading-title, .entry-title"
+                    )
+                    if not title_el:
+                        continue
+                    title = title_el.get_text(strip=True)
+                    date_str = None
+                    for date_el in item.select("time[datetime], [class*='date'], .elementor-icon-list-text"):
+                        date_str = date_el.get("datetime") or parse_french_date(date_el.get_text(strip=True))
+                        if date_str:
+                            break
+                    if not date_str:
+                        continue
+                    link_el = item.select_one("a[href]")
+                    url = link_el.get("href") if link_el else site["url"]
+                    if url and not url.startswith("http"):
+                        url = "https://ville.cagnes.fr" + url
+                    ev = _make_event(title, date_str, {}, site, seen)
+                    if ev:
+                        ev["source_url"] = url or site["url"]
+                        events.append(ev)
+            if events:
+                print(f"  → CAGNES JetEngine HTML: {len(events)} events")
+                return events
+
     # Strategy 2: Network-intercepted API responses
     for resp in captured:
         events.extend(walk(resp, site, seen))
@@ -293,6 +459,40 @@ def scrape_html(soup: BeautifulSoup, site: dict, seen: set) -> list:
     """CSS selector fallback for sites with known HTML structure."""
     events = []
     source = site["source"]
+
+    # nice.fr — municipal agenda with French date text in cards
+    if source == "VILLE_NICE":
+        selectors = (
+            ".agenda-list__item, .event-card, .card--event, "
+            "[class*='agenda-item'], [class*='event-item'], article[class*='event']"
+        )
+        for card in soup.select(selectors):
+            title_el = card.select_one("h2, h3, h4, .card-title, .event-title, [class*='title']")
+            if not title_el:
+                continue
+            title = title_el.get_text(strip=True)
+            date_str = None
+            # Prefer French text date over time[datetime] (which tends to be shared page-level)
+            for el in card.select("[class*='date'], .event-date, .agenda-date, time"):
+                parsed = parse_french_date(el.get_text(strip=True))
+                if parsed:
+                    date_str = parsed
+                    break
+            if not date_str:
+                # Fall back to time[datetime] only if it looks per-event (not a page-level element)
+                time_el = card.select_one("time[datetime]")
+                if time_el:
+                    date_str = time_el.get("datetime")
+            link_el = card.select_one("a[href]")
+            url = link_el.get("href") if link_el else site["url"]
+            if url and not url.startswith("http"):
+                url = "https://www.nice.fr" + url
+            if title and date_str:
+                ev = _make_event(title, date_str, {}, site, seen)
+                if ev:
+                    ev["source_url"] = url
+                    events.append(ev)
+        return events
 
     # infoconcert.com — concert listings
     if source == "STOCKFISH":
