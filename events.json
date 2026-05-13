@@ -1,35 +1,7 @@
 {
-  "scraped_at": "2026-05-13T17:15:58Z",
-  "count": 74,
+  "scraped_at": "2026-05-13T19:47:58Z",
+  "count": 72,
   "events": [
-    {
-      "title": "Une affiche pour Angela",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1778691600000,
-      "ends_at": 1778698800000,
-      "price": "—",
-      "price_val": 0,
-      "source": "LE109",
-      "source_url": "https://le109.nice.fr/programmation/une-affiche-pour-angela",
-      "image_url": null,
-      "category": "AUTRE"
-    },
-    {
-      "title": "Mon jour de chance",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1778695200000,
-      "ends_at": 1778700600000,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/mon-jour-de-chance",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/5/8/6/5/1255685-32-fre-FR/b72c8c224155-104857_img_0U4fzlv.jpg.webp",
-      "category": "AUTRE"
-    },
     {
       "title": "Rallye Antibes Côte d'Azur",
       "description": "",
