@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-13T11:32:52Z",
-  "count": 78,
+  "scraped_at": "2026-05-13T14:18:04Z",
+  "count": 76,
   "events": [
     {
       "title": "Animation jeux",
@@ -42,34 +42,6 @@
       "source": "MONACO",
       "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/mon-jour-de-chance",
       "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/5/8/6/5/1255685-32-fre-FR/b72c8c224155-104857_img_0U4fzlv.jpg.webp",
-      "category": "AUTRE"
-    },
-    {
-      "title": "« Seniors en Forme » – L’Ariane",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1778709600000,
-      "ends_at": 1778716800000,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/seance-de-plein-air/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
-      "category": "AUTRE"
-    },
-    {
-      "title": "« Seniors en Forme » – Centre-Ville Mozart",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1778709600000,
-      "ends_at": 1778716800000,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/seance-de-plein-air/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
