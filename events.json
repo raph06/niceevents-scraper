@@ -1,21 +1,7 @@
 {
-  "scraped_at": "2026-05-13T14:18:04Z",
-  "count": 76,
+  "scraped_at": "2026-05-13T17:15:58Z",
+  "count": 74,
   "events": [
-    {
-      "title": "Animation jeux",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1778680800000,
-      "ends_at": 1778688000000,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/animation-jeux2",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/4/5/8/1/2071854-1-fre-FR/9a223564a84d-M9h2cteNg8BsCX2OQqRmK4wIoO38obb4Ok5XfRMBY9WQkx.jpg.webp",
-      "category": "AUTRE"
-    },
     {
       "title": "Une affiche pour Angela",
       "description": "",
@@ -994,20 +980,6 @@
       "source": "NIKAIA",
       "source_url": "https://www.nikaia.fr/programmation/la-legende-de-monte-cristo-le-musical",
       "image_url": "https://www.nikaia.fr/files/nikaia-share-default.png",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Happy Hour Musical",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1791304200000,
-      "ends_at": 1791308700000,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/happy-hour-musical",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/0/3/0/7/1267030-4-fre-FR/8e87970da58f-104942_img_0GRsmtK.jpg.webp",
       "category": "AUTRE"
     },
     {
