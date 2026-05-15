@@ -1,21 +1,7 @@
 {
-  "scraped_at": "2026-05-15T16:52:52Z",
-  "count": 69,
+  "scraped_at": "2026-05-15T19:24:39Z",
+  "count": 68,
   "events": [
-    {
-      "title": "Musique de chambre - Daniel Lozakovich",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1778866200000,
-      "ends_at": 1778871600000,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/musique-de-chambre-daniel-lozakovich",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/0/6/7/6/1266760-4-fre-FR/2e748a3d422e-104937_img_0atfJBV.png.webp",
-      "category": "CONCERT"
-    },
     {
       "title": "10ème & 11ème Monaco E-Prix 2026",
       "description": "",
