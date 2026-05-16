@@ -1,7 +1,35 @@
 {
-  "scraped_at": "2026-05-16T10:14:08Z",
-  "count": 67,
+  "scraped_at": "2026-05-16T13:07:10Z",
+  "count": 69,
   "events": [
+    {
+      "title": "Viens avec ton doudou",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1778968800000,
+      "ends_at": 1778976000000,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/culture/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Fête des mai – 17 mai",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1778968800000,
+      "ends_at": 1778976000000,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/culture/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "category": "AUTRE"
+    },
     {
       "title": "Le MAMAC nomade à la Fête des Mai",
       "description": "",
