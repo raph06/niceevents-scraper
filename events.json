@@ -1,21 +1,7 @@
 {
-  "scraped_at": "2026-05-17T06:20:09Z",
-  "count": 68,
+  "scraped_at": "2026-05-17T10:23:41Z",
+  "count": 67,
   "events": [
-    {
-      "title": "Viens avec ton doudou / saison 25-26",
-      "description": "",
-      "place": "Opéra de Nice",
-      "city": "Nice",
-      "starts_at": 1779004800000,
-      "ends_at": 1779007500000,
-      "price": "—",
-      "price_val": 0,
-      "source": "OPERA_NICE",
-      "source_url": "https://www.opera-nice.org/fr/evenement/1303/viens-avec-ton-doudou-saison-25-26?origin=menu",
-      "image_url": "http://www.opera-nice.org/uploads/evenement/photos/viens-avec-ton-doudou-saison-25-26_1303.png",
-      "category": "AUTRE"
-    },
     {
       "title": "Tour Bellanda – Le Bellandarium",
       "description": "",
