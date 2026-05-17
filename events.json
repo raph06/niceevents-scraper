@@ -1,63 +1,7 @@
 {
-  "scraped_at": "2026-05-16T21:45:50Z",
-  "count": 69,
+  "scraped_at": "2026-05-17T02:17:23Z",
+  "count": 68,
   "events": [
-    {
-      "title": "Viens avec ton doudou",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1778968800000,
-      "ends_at": 1778976000000,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/culture/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Fête des mai – 17 mai",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1778968800000,
-      "ends_at": 1778976000000,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/culture/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Le MAMAC nomade à la Fête des Mai",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1778968800000,
-      "ends_at": 1778976000000,
-      "price": "—",
-      "price_val": 0,
-      "source": "MAMAC",
-      "source_url": "https://www.mamac-nice.org/evenement/le-mamac-nomade-a-la-fete-des-mai/",
-      "image_url": "https://www.mamac-nice.org/wp-content/uploads/2021/05/site-mamac.jpg",
-      "category": "AUTRE"
-    },
-    {
-      "title": "FÊTE DES MAI",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1778968800000,
-      "ends_at": 1778976000000,
-      "price": "—",
-      "price_val": 0,
-      "source": "MATISSE",
-      "source_url": "https://www.musee-matisse-nice.org/fr/evenement/fete-des-mai/",
-      "image_url": "https://www.musee-matisse-nice.org/wp-content/uploads/2021/02/Musee-Matisse-Nice-Partage.png",
-      "category": "AUTRE"
-    },
     {
       "title": "Viens avec ton doudou / saison 25-26",
       "description": "",
@@ -70,6 +14,34 @@
       "source": "OPERA_NICE",
       "source_url": "https://www.opera-nice.org/fr/evenement/1303/viens-avec-ton-doudou-saison-25-26?origin=menu",
       "image_url": "http://www.opera-nice.org/uploads/evenement/photos/viens-avec-ton-doudou-saison-25-26_1303.png",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Tour Bellanda – Le Bellandarium",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1779141600000,
+      "ends_at": 1779148800000,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/culture/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "category": "AUTRE"
+    },
+    {
+      "title": "« Seniors en Forme » – Espace Leclerc",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1779141600000,
+      "ends_at": 1779148800000,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/seance-de-plein-air/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
@@ -897,6 +869,20 @@
       "source_url": "https://www.antibes-juanlespins.com/information/agenda/evenements-ponctuels/festival-international-de-bridge",
       "image_url": "https://www.antibes-juanlespins.com/typo3conf/ext/stratis_site/Resources/Public/Images/logos/logo.png",
       "category": "AUTRE"
+    },
+    {
+      "title": "Concert au Palais Princier",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1788809400000,
+      "ends_at": 1788814800000,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/concert-au-palais-princier",
+      "image_url": null,
+      "category": "CONCERT"
     },
     {
       "title": "LA LÉGENDE DE MONTE-CRISTO, L...",
