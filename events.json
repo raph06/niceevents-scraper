@@ -1,35 +1,7 @@
 {
-  "scraped_at": "2026-05-17T10:23:41Z",
-  "count": 67,
+  "scraped_at": "2026-05-17T13:06:06Z",
+  "count": 65,
   "events": [
-    {
-      "title": "Tour Bellanda – Le Bellandarium",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1779141600000,
-      "ends_at": 1779148800000,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/culture/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
-      "category": "AUTRE"
-    },
-    {
-      "title": "« Seniors en Forme » – Espace Leclerc",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1779141600000,
-      "ends_at": 1779148800000,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/seance-de-plein-air/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
-      "category": "AUTRE"
-    },
     {
       "title": "Délivre nous du malin",
       "description": "",
