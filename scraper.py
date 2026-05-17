@@ -6,6 +6,7 @@ Runs on GitHub Actions every 3h, outputs events.json served via GitHub Pages.
 
 import asyncio
 import json
+import os
 import re
 import time
 from collections import Counter
@@ -20,7 +21,7 @@ from playwright.async_api import async_playwright, Page
 
 # ─── Unsplash config ───────────────────────────────────────────────────────────
 # Get a free key at https://unsplash.com/developers (50 req/h on free tier)
-UNSPLASH_ACCESS_KEY = ""
+UNSPLASH_ACCESS_KEY = os.environ.get("UNSPLASH_ACCESS_KEY", "").strip()
 
 _CAT_QUERIES = {
     "CONCERT": "concert live music performance crowd",
@@ -151,27 +152,46 @@ def _str(obj: dict, *keys) -> Optional[str]:
             return v.strip()
     return None
 
+def _normalize_image_url(value: Optional[str]) -> Optional[str]:
+    if not isinstance(value, str):
+        return None
+    url = value.strip()
+    if not url:
+        return None
+    if url.startswith("https://"):
+        return url
+    if url.startswith("http://"):
+        return "https://" + url[len("http://"):]
+    if url.startswith("//"):
+        return "https:" + url
+    return None
+
 def _img(obj: dict) -> Optional[str]:
     for k in ["image", "imageUrl", "thumbnail", "photo", "cover", "picture",
               "thumbnail_url", "image_url", "featured_image", "banner", "poster",
               "visual", "visuel", "affiche", "illustration", "media"]:
         v = obj.get(k)
-        if isinstance(v, str) and v.startswith("http"):
-            return v
+        if isinstance(v, str):
+            url = _normalize_image_url(v)
+            if url:
+                return url
         if isinstance(v, dict):
             u = v.get("url") or v.get("src") or v.get("contentUrl") or v.get("href")
-            if isinstance(u, str) and u.startswith("http"):
-                return u
+            url = _normalize_image_url(u)
+            if url:
+                return url
             # Monaco-style srcset dict: {w414_search: "https://...", w592_search: "https://..."}
             srcset = v.get("srcset")
             if isinstance(srcset, dict):
                 for sv in srcset.values():
-                    if isinstance(sv, str) and sv.startswith("http"):
-                        return sv
+                    url = _normalize_image_url(sv)
+                    if url:
+                        return url
             elif isinstance(srcset, str):
                 first = srcset.split(",")[0].strip().split(" ")[0]
-                if first.startswith("http"):
-                    return first
+                url = _normalize_image_url(first)
+                if url:
+                    return url
     return None
 
 def _url(obj: dict, site_url: str) -> str:
@@ -206,6 +226,7 @@ def _make_event(title, date_str, obj, site, seen) -> Optional[dict]:
     starts_at = parse_ms(date_str)
     if not starts_at or starts_at < _NOW_MS - 3_600_000:
         return None
+    has_time = bool(re.search(r'[T ]\d{2}:\d{2}', date_str or ""))
     end_str = _str(obj, "endDate", "end_date", "dateFin", "endsAt", "end_at")
     ends_at = parse_ms(end_str) or (starts_at + 7_200_000)
     loc = obj.get("location") or obj.get("lieu") or obj.get("place") or obj.get("venue")
@@ -226,6 +247,7 @@ def _make_event(title, date_str, obj, site, seen) -> Optional[dict]:
         "city": site["city"],
         "starts_at": starts_at,
         "ends_at": ends_at,
+        "has_time": has_time,
         "price": price,
         "price_val": price_val,
         "source": site["source"],
@@ -387,6 +409,7 @@ async def scrape_site(page: Page, site: dict) -> list:
                         "city": site["city"],
                         "starts_at": start_ms,
                         "ends_at": end_ms,
+                        "has_time": True,
                         "price": "—",
                         "price_val": 0,
                         "source": site["source"],
@@ -430,7 +453,7 @@ async def scrape_site(page: Page, site: dict) -> list:
                     if ev:
                         ev["source_url"] = url or site["url"]
                         if img_url:
-                            ev["image_url"] = img_url
+                            ev["image_url"] = _normalize_image_url(img_url)
                         events.append(ev)
             if events:
                 print(f"  → CHAGALL HTML: {len(events)} events")
@@ -488,8 +511,8 @@ async def scrape_site(page: Page, site: dict) -> list:
 
     # Apply og:image as fallback for events without a per-event image
     og_tag = soup.find("meta", property="og:image")
-    page_image = og_tag.get("content") if og_tag else None
-    if page_image and page_image.startswith("http"):
+    page_image = _normalize_image_url(og_tag.get("content") if og_tag else None)
+    if page_image:
         for ev in events:
             if not ev.get("image_url"):
                 ev["image_url"] = page_image
@@ -581,7 +604,7 @@ def scrape_html(soup: BeautifulSoup, site: dict, seen: set) -> list:
             if ev:
                 ev["source_url"] = url
                 if img_url:
-                    ev["image_url"] = img_url if img_url.startswith("http") else base + img_url
+                    ev["image_url"] = _normalize_image_url(img_url if img_url.startswith("http") else base + img_url)
                 events.append(ev)
         return events
 
@@ -644,8 +667,7 @@ async def _og_image(url: str, session: aiohttp.ClientSession) -> Optional[str]:
                 text, re.IGNORECASE,
             )
             if m:
-                img = m.group(1).strip()
-                return img if img.startswith("http") else None
+                return _normalize_image_url(m.group(1))
     except Exception:
         pass
     return None
@@ -666,7 +688,7 @@ async def _unsplash(category: str, session: aiohttp.ClientSession) -> Optional[s
                 data = await r.json()
                 results = data.get("results", [])
                 if results:
-                    return results[0].get("urls", {}).get("regular")
+                    return _normalize_image_url(results[0].get("urls", {}).get("regular"))
     except Exception:
         pass
     return None
@@ -678,6 +700,9 @@ async def enrich_images(events: list) -> None:
       1. Fetch og:image from each event's detail page (async, capped at 30).
       2. Unsplash fallback keyed by category (at most ~10 API calls).
     """
+    for ev in events:
+        ev["image_url"] = _normalize_image_url(ev.get("image_url"))
+
     no_img = [e for e in events if not e.get("image_url")]
     print(f"\nImage enrichment: {len(no_img)}/{len(events)} events without image")
 
