@@ -608,12 +608,17 @@ def scrape_html(soup: BeautifulSoup, site: dict, seen: set) -> list:
             if not title:
                 continue
             date_str = None
+            # Tribe Events / Schema.org: prefer itemprop="startDate" (has full ISO datetime incl. time)
+            # then abbr.tribe-event-date-start[title] (also has full datetime)
+            # then time[datetime] (may be date-only)
             date_el = card.select_one(
-                "time[datetime], [class*='tribe-event-date'], [class*='date-start'], abbr[class*='dtstart']"
+                "[itemprop='startDate'], abbr.tribe-event-date-start, "
+                "time[datetime], [class*='tribe-event-date'], abbr[class*='date-start']"
             )
             if date_el:
-                dt_attr = date_el.get("datetime")
-                if dt_attr:
+                dt_attr = (date_el.get("content") or date_el.get("title")
+                           or date_el.get("datetime"))
+                if dt_attr and re.search(r'\d{4}-\d{2}-\d{2}', dt_attr):
                     date_str = dt_attr
                 else:
                     date_str = parse_french_date(date_el.get_text(strip=True))
