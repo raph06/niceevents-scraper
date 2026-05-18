@@ -725,6 +725,8 @@ def scrape_html(soup: BeautifulSoup, site: dict, seen: set) -> list:
             lines = [l.strip() for l in link.get_text(separator="\n", strip=True).split("\n") if l.strip()]
             if not lines:
                 continue
+            if len(events) < 2:
+                print(f"  LE109 lines: {lines}")
             # Title = first line that isn't a date indicator or a short number (price/year)
             title = None
             for line in lines:
