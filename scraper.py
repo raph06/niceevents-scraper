@@ -609,25 +609,22 @@ def scrape_html(soup: BeautifulSoup, site: dict, seen: set) -> list:
     if source == "OT_NICE":
         base = "https://www.explorenicecotedazur.com"
         block = soup.select_one("div.wpet-block-list")
-        # <a.stretched-link> is inside <h2.iris-card__content__title> — go up to full card
         title_els = block.select("h2.iris-card__content__title") if block else []
         print(f"  OT_NICE: {len(title_els)} h2 title elements")
-        for h2 in title_els[:2]:
-            link = h2.select_one("a[href*='/evenement/']")
-            href = link.get("href","") if link else ""
-            title = h2.get_text(strip=True)
-            # Walk up to find card container with date + image
-            card = h2.parent
+        if title_els:
+            h2 = title_els[0]
+            # Walk up to iris-card__wrapper
+            wrapper = h2.parent
             for _ in range(4):
-                date_el = card.select_one("[class*='DatesDuAu'],[class*='date'],time")
-                img_el  = card.select_one("img")
-                if date_el or img_el:
+                if "iris-card__wrapper" in " ".join(wrapper.get("class",[])):
                     break
-                card = card.parent
-            card_cls = " ".join(card.get("class",[]))[:40]
-            date_t = date_el.get_text(strip=True)[:40] if date_el else "—"
-            img_src = (img_el.get("data-src") or img_el.get("src",""))[:60] if img_el else "—"
-            print(f"    card={card.name}.{card_cls} title={title[:40]!r} date={date_t!r} img={img_src!r}")
+                wrapper = wrapper.parent
+            # Dump all direct children and their classes/text
+            for child in wrapper.children:
+                if hasattr(child, "name") and child.name:
+                    cls = " ".join(child.get("class",[]))[:40]
+                    txt = child.get_text(separator=" ", strip=True)[:50]
+                    print(f"    child: {child.name}.{cls} → {txt!r}")
 
     # nice.fr — municipal agenda with French date text in cards
     if source == "VILLE_NICE":
