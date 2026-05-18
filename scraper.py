@@ -1197,6 +1197,9 @@ async def main():
             seen_keys.add(key)
             deduped.append(ev)
 
+    _TITLE_BLOCKLIST = re.compile(r'séniors?|seniors?', re.IGNORECASE)
+    deduped = [e for e in deduped if not _TITLE_BLOCKLIST.search(e.get("title", ""))]
+
     deduped.sort(key=lambda e: e["starts_at"])
 
     await enrich_images(deduped)
