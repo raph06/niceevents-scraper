@@ -607,15 +607,15 @@ def scrape_html(soup: BeautifulSoup, site: dict, seen: set) -> list:
 
     # explorenicecotedazur.com — IRIS/wp-etourisme-v3 SSR WordPress
     if source == "OT_NICE":
-        iris_els = soup.select("[class*='iris'],[class*='etourisme'],[class*='wp-etourisme']")
-        if iris_els:
-            print(f"  OT_NICE iris elements: {len(iris_els)}")
-            for el in iris_els[:3]:
-                print(f"    {el.name} class={el.get('class')} text={el.get_text(separator=' ', strip=True)[:80]!r}")
-        else:
-            # Show all article/div with href to guess card structure
-            for el in soup.select("article a[href*='/evenement'], article a[href*='/event'], .card a, [class*='card'] a")[:3]:
-                print(f"  OT_NICE card candidate: {el.get('href')} | {el.get_text(separator=' ', strip=True)[:60]!r}")
+        event_links = soup.select("a[href*='/evenements/'], a[href*='/evenement/']")
+        print(f"  OT_NICE event links: {len(event_links)}")
+        for link in event_links[:3]:
+            parent = link.parent
+            print(f"  OT_NICE link: href={link.get('href','')[:60]} | parent={parent.name} class={parent.get('class')} | text={link.get_text(separator=' ', strip=True)[:80]!r}")
+        wpet_els = soup.select("[class*='wpet'],[class*='wp-etourisme'],[class*='block-list']")
+        print(f"  OT_NICE wpet elements: {len(wpet_els)}")
+        for el in wpet_els[:2]:
+            print(f"    {el.name}.{' '.join(el.get('class',[]))} text={el.get_text(separator=' ', strip=True)[:100]!r}")
 
     # nice.fr — municipal agenda with French date text in cards
     if source == "VILLE_NICE":
