@@ -619,20 +619,34 @@ def scrape_html(soup: BeautifulSoup, site: dict, seen: set) -> list:
             if not title:
                 continue
             date_str = None
-            # Tribe Events: <meta itemprop="startDate" content="2026-05-19T21:00:00+02:00"> is inside
-            # the article but is a <meta> tag (invisible) — select_one("[itemprop]") finds it
-            date_el = card.select_one(
-                "meta[itemprop='startDate'], [itemprop='startDate'], "
-                "abbr.tribe-event-date-start, time[datetime], "
-                "[class*='tribe-event-date'], abbr[class*='date-start']"
-            )
-            if date_el:
-                dt_attr = (date_el.get("content") or date_el.get("title")
-                           or date_el.get("datetime"))
-                if dt_attr and re.search(r'\d{4}-\d{2}-\d{2}', dt_attr):
-                    date_str = dt_attr
-                else:
-                    date_str = parse_french_date(date_el.get_text(strip=True))
+            # Tribe Events: date is in <meta itemprop="startDate" content="2026-05-19">
+            # and time is in a SEPARATE <time datetime="14:30:00"> — must combine both
+            meta_el = card.select_one("meta[itemprop='startDate']")
+            if meta_el:
+                date_val = meta_el.get("content", "")
+                if re.search(r'^\d{4}-\d{2}-\d{2}T', date_val):
+                    # Already a full ISO datetime (includes time) — use as-is
+                    date_str = date_val
+                elif re.search(r'^\d{4}-\d{2}-\d{2}$', date_val):
+                    # Date-only — look for a separate time element
+                    date_str = date_val
+                    for tel in card.select("time[datetime]"):
+                        tval = tel.get("datetime", "")
+                        if re.match(r'^\d{1,2}:\d{2}', tval):  # time-only value
+                            date_str = date_val + "T" + tval
+                            break
+            if not date_str:
+                # Fallback: abbr with title attribute, or visible text
+                date_el = card.select_one(
+                    "abbr.tribe-event-date-start, time[datetime], "
+                    "[class*='tribe-event-date'], abbr[class*='date-start']"
+                )
+                if date_el:
+                    dt_attr = date_el.get("title") or date_el.get("datetime")
+                    if dt_attr and re.search(r'\d{4}-\d{2}-\d{2}', dt_attr):
+                        date_str = dt_attr
+                    else:
+                        date_str = parse_french_date(date_el.get_text(strip=True))
             if not date_str:
                 continue
             link_el = card.select_one("a[href*='/agenda/']")
