@@ -607,15 +607,18 @@ def scrape_html(soup: BeautifulSoup, site: dict, seen: set) -> list:
 
     # explorenicecotedazur.com — IRIS/wp-etourisme-v3 SSR WordPress
     if source == "OT_NICE":
-        event_links = soup.select("a[href*='/evenements/'], a[href*='/evenement/']")
-        print(f"  OT_NICE event links: {len(event_links)}")
-        for link in event_links[:3]:
-            parent = link.parent
-            print(f"  OT_NICE link: href={link.get('href','')[:60]} | parent={parent.name} class={parent.get('class')} | text={link.get_text(separator=' ', strip=True)[:80]!r}")
-        wpet_els = soup.select("[class*='wpet'],[class*='wp-etourisme'],[class*='block-list']")
+        wpet_els = soup.select("[class*='wpet']")
         print(f"  OT_NICE wpet elements: {len(wpet_els)}")
-        for el in wpet_els[:2]:
-            print(f"    {el.name}.{' '.join(el.get('class',[]))} text={el.get_text(separator=' ', strip=True)[:100]!r}")
+        # Find wpet elements that look like event cards (have a link with title/date)
+        for el in wpet_els[:6]:
+            classes = " ".join(el.get("class", []))
+            inner_a = el.select_one("a[href]")
+            inner_h = el.select_one("h2,h3,h4,.title,[class*='title']")
+            inner_d = el.select_one("time,[class*='date'],[class*='Date']")
+            href = inner_a.get("href","")[:60] if inner_a else ""
+            title = inner_h.get_text(strip=True)[:40] if inner_h else ""
+            date_t = (inner_d.get("datetime") or inner_d.get_text(strip=True)[:30]) if inner_d else ""
+            print(f"    {el.name}.{classes[:50]} | href={href} | title={title!r} | date={date_t!r}")
 
     # nice.fr — municipal agenda with French date text in cards
     if source == "VILLE_NICE":
