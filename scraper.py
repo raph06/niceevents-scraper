@@ -706,49 +706,66 @@ def scrape_html(soup: BeautifulSoup, site: dict, seen: set) -> list:
                 events.append(ev)
         return events
 
-    # le109.nice.fr — structure: <a href="/programmation/[slug]"><img><h2><p date><p venue></a>
+    # le109.nice.fr — cards: <a href="/programmation/[slug]"><img><h2>Title<span>date</span><span>venue</span></a>
+    # get_text(strip=True) concatenates all without separators → use separator="\n" to split cleanly
     if source == "LE109":
         base = "https://le109.nice.fr"
         all_links = soup.select("a[href*='/programmation/']")
         event_links = [l for l in all_links if not re.match(r"^/programmation/?$", l.get("href", ""))]
         print(f"  LE109 debug: {len(all_links)} total links, {len(event_links)} event links")
-        for link in soup.select("a[href*='/programmation/']"):
+        _date_hint = re.compile(
+            r"\d{4}|janvier|février|fevrier|mars|avril|mai|juin|juillet|août|aout|"
+            r"septembre|octobre|novembre|décembre|decembre|lundi|mardi|mercredi|"
+            r"jeudi|vendredi|samedi|dimanche", re.IGNORECASE
+        )
+        for link in event_links:
             href = link.get("href", "")
-            # Skip the listing page itself
-            if re.match(r"^/programmation/?$", href) or href == site["url"]:
+            url = href if href.startswith("http") else base + href
+            # Split all text by newline to get clean fields (title / date / venue / price)
+            lines = [l.strip() for l in link.get_text(separator="\n", strip=True).split("\n") if l.strip()]
+            if not lines:
                 continue
-            # Title: try inside link first, then parent container
-            title_el = link.select_one("h2, h3, h4, [class*='title'], [class*='titre']")
-            if not title_el:
-                parent = link.parent
-                title_el = parent.select_one("h2, h3, h4, [class*='title'], [class*='titre']") if parent else None
-            if not title_el:
-                # Last resort: use link text directly
-                raw = link.get_text(strip=True)
-                title = raw.split("\n")[0].strip() if raw else None
-            else:
-                title = title_el.get_text(strip=True)
+            # Title = first line that isn't a date indicator or a short number (price/year)
+            title = None
+            for line in lines:
+                if len(line) >= 3 and not _date_hint.search(line) and not re.match(r"^\d+\s*€?$", line):
+                    title = line
+                    break
             if not title:
+                title = lines[0]  # fallback: take first line
+            if not title or len(title) < 2:
                 continue
+            # Date + time: scan all lines
             date_str = None
-            for p in link.select("p, span, time"):
-                text = p.get_text(strip=True)
-                parsed = parse_french_date(text)
+            for line in lines:
+                parsed = parse_french_date(line)
                 if parsed:
                     date_str = parsed
                     break
             if not date_str:
                 continue
-            url = href if href.startswith("http") else base + href
-            img_el = link.select_one("img[src]")
-            img_url = img_el.get("src") if img_el else None
-            if img_url and not img_url.startswith("http"):
-                img_url = base + img_url
+            # Venue/description: last meaningful non-date, non-price, non-title line
+            description = ""
+            for line in lines:
+                if line == title or _date_hint.search(line) or re.match(r"^\d+\s*€?$", line):
+                    continue
+                if len(line) >= 2:
+                    description = line
+                    break
+            # Image: prefer data-src (lazy loading), fallback to src
+            img_url = None
+            img_el = link.select_one("img[data-src], img[src]")
+            if img_el:
+                src = img_el.get("data-src") or img_el.get("src", "")
+                if src and not src.startswith("data:"):
+                    img_url = _normalize_image_url(src if src.startswith("http") else base + src)
             ev = _make_event(title, date_str, {}, site, seen)
             if ev:
                 ev["source_url"] = url
                 if img_url:
-                    ev["image_url"] = _normalize_image_url(img_url)
+                    ev["image_url"] = img_url
+                if description:
+                    ev["description"] = description
                 events.append(ev)
         if events:
             print(f"  → LE109: {len(events)} events")
