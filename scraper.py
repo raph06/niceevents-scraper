@@ -543,12 +543,6 @@ async def scrape_site(page: Page, site: dict) -> list:
                     print(f"  → INFOLOCALE Algolia: {len(events)} events")
                     return events
 
-        elif source in ("LE109", "COTEDAZUR"):
-            # Diagnostic: dump first 3000 chars of body HTML to find selectors
-            body = soup.find("body")
-            body_snippet = str(body)[:3000] if body else str(soup)[:3000]
-            print(f"  [{source}] HTML body snippet:\n{body_snippet}")
-
     # Strategy 2: Network-intercepted API responses
     for resp in captured:
         events.extend(walk(resp, site, seen))
@@ -660,40 +654,35 @@ def scrape_html(soup: BeautifulSoup, site: dict, seen: set) -> list:
                 events.append(ev)
         return events
 
-    # le109.nice.fr — XPath: main/article/div[1]/div/div/figure/img
+    # le109.nice.fr — structure: <a href="/programmation/[slug]"><img><h2><p date><p venue></a>
     if source == "LE109":
         base = "https://le109.nice.fr"
-        for article in soup.select("main article"):
-            title_el = article.select_one("h2, h3, h4, .event-title, [class*='title']")
+        for link in soup.select("a[href*='/programmation/']"):
+            href = link.get("href", "")
+            # Skip the listing page itself
+            if re.match(r"^/programmation/?$", href) or href == site["url"]:
+                continue
+            title_el = link.select_one("h2, h3, h4")
             if not title_el:
                 continue
             title = title_el.get_text(strip=True)
             date_str = None
-            for date_el in article.select("time[datetime], [class*='date'], [class*='Date']"):
-                date_str = date_el.get("datetime") or parse_french_date(date_el.get_text(strip=True))
-                if date_str:
+            for p in link.select("p, span, time"):
+                text = p.get_text(strip=True)
+                parsed = parse_french_date(text)
+                if parsed:
+                    date_str = parsed
                     break
             if not date_str:
-                # Try any text that looks like a date
-                for el in article.find_all(string=True):
-                    parsed = parse_french_date(el.strip())
-                    if parsed:
-                        date_str = parsed
-                        break
-            if not date_str:
                 continue
-            link_el = article.select_one("a[href]")
-            url = link_el.get("href", "") if link_el else site["url"]
-            if url and not url.startswith("http"):
-                url = base + url
-            # Image: figure > img (XPath: article/div[1]/div/div/figure/img)
-            img_el = article.select_one("figure img[src], div figure img[src], img[src]")
-            img_url = img_el.get("src") or img_el.get("data-src") if img_el else None
+            url = href if href.startswith("http") else base + href
+            img_el = link.select_one("img[src]")
+            img_url = img_el.get("src") if img_el else None
             if img_url and not img_url.startswith("http"):
                 img_url = base + img_url
             ev = _make_event(title, date_str, {}, site, seen)
             if ev:
-                ev["source_url"] = url or site["url"]
+                ev["source_url"] = url
                 if img_url:
                     ev["image_url"] = _normalize_image_url(img_url)
                 events.append(ev)
@@ -719,36 +708,29 @@ def scrape_html(soup: BeautifulSoup, site: dict, seen: set) -> list:
                 ev["source_url"] = url
                 events.append(ev)
 
-    # cotedazurfrance.fr — tourism agenda Nice, paginated (?listpage=N)
+    # cotedazurfrance.fr — structure: <a href="/offres/...-nice-fr-[id]/"><img><span date><h3 title></a>
     if source == "COTEDAZUR":
-        base = "https://cotedazurfrance.fr"
-        for card in soup.select(
-            ".event-card, .agenda-item, .agenda-card, .listing-event, "
-            "article.event, article[class*='event'], article[class*='agenda'], "
-            ".card--event, [class*='evenement'], [class*='event-item']"
-        ):
-            title_el = card.select_one("h2, h3, h4, .title, .event-title, [class*='title']")
+        for link in soup.select("a[href*='/offres/']"):
+            href = link.get("href", "")
+            title_el = link.select_one("h3, h2, h4")
             if not title_el:
                 continue
             title = title_el.get_text(strip=True)
             date_str = None
-            for date_el in card.select("time[datetime], [class*='date'], [class*='Date']"):
-                date_str = date_el.get("datetime") or parse_french_date(date_el.get_text(strip=True))
-                if date_str:
+            for el in link.select("span, p, time"):
+                text = el.get_text(strip=True)
+                parsed = parse_french_date(text)
+                if parsed:
+                    date_str = parsed
                     break
             if not date_str:
                 continue
-            link_el = card.select_one("a[href]")
-            url = link_el.get("href", "") if link_el else site["url"]
-            if url and not url.startswith("http"):
-                url = base + url
-            img_el = card.select_one("img[src], img[data-src]")
-            img_url = (img_el.get("src") or img_el.get("data-src")) if img_el else None
-            if img_url and not img_url.startswith("http"):
-                img_url = base + img_url
+            url = href if href.startswith("http") else "https://cotedazurfrance.fr" + href
+            img_el = link.select_one("img[src]")
+            img_url = img_el.get("src") if img_el else None
             ev = _make_event(title, date_str, {}, site, seen)
             if ev:
-                ev["source_url"] = url or site["url"]
+                ev["source_url"] = url
                 if img_url:
                     ev["image_url"] = _normalize_image_url(img_url)
                 events.append(ev)
