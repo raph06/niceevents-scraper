@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-18T20:03:23Z",
-  "count": 99,
+  "scraped_at": "2026-05-18T20:12:52Z",
+  "count": 95,
   "events": [
     {
       "title": "Tour Bellanda – Le Bellandarium",
@@ -14,37 +14,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
-      "category": "AUTRE"
-    },
-    {
-      "title": "« Seniors en Forme » – Espace Leclerc",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1779174000000,
-      "ends_at": 1779181200000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/seance-de-plein-air/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/06/423476-senior-en-forme.jpg",
-      "category": "AUTRE"
-    },
-    {
-      "title": "« Seniors en Forme » – Californie",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1779174000000,
-      "ends_at": 1779181200000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/seance-de-plein-air/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/06/423476-senior-en-forme.jpg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/04/611891-tour-bellanda-250x250.jpg",
       "category": "AUTRE"
     },
     {
@@ -135,36 +105,6 @@
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/atelier/",
       "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
-      "category": "AUTRE"
-    },
-    {
-      "title": "« Seniors en Forme » – Jardin du Château",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1779179400000,
-      "ends_at": 1779186600000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/seance-de-plein-air/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/06/423476-senior-en-forme.jpg",
-      "category": "AUTRE"
-    },
-    {
-      "title": "« Seniors en Forme » – Fabron",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1779179400000,
-      "ends_at": 1779186600000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/seance-de-plein-air/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/06/423476-senior-en-forme.jpg",
       "category": "AUTRE"
     },
     {
@@ -364,7 +304,7 @@
     },
     {
       "title": "PLATURNE",
-      "description": "Le",
+      "description": "",
       "place": "Nice",
       "city": "Nice",
       "starts_at": 1779400800000,
@@ -409,7 +349,7 @@
     },
     {
       "title": "Apéro DésAstres #30 : Chat Pe...",
-      "description": "Le",
+      "description": "",
       "place": "Nice",
       "city": "Nice",
       "starts_at": 1779487200000,
@@ -424,7 +364,7 @@
     },
     {
       "title": "RIFF & BLOOD #2",
-      "description": "Le",
+      "description": "",
       "place": "Nice",
       "city": "Nice",
       "starts_at": 1779487200000,
@@ -724,7 +664,7 @@
     },
     {
       "title": "CROSSOVER FESTIVAL",
-      "description": "Du",
+      "description": "",
       "place": "Nice",
       "city": "Nice",
       "starts_at": 1780005600000,
@@ -979,7 +919,7 @@
     },
     {
       "title": "QUANTIC",
-      "description": "Le",
+      "description": "",
       "place": "Nice",
       "city": "Nice",
       "starts_at": 1781301600000,
@@ -1369,7 +1309,7 @@
     },
     {
       "title": "Ladies Football Club",
-      "description": "Le",
+      "description": "",
       "place": "Nice",
       "city": "Nice",
       "starts_at": 1793919600000,
@@ -1428,8 +1368,23 @@
       "category": "AUTRE"
     },
     {
+      "title": "MARCUS GAD",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1795215600000,
+      "ends_at": 1795222800000,
+      "has_time": false,
+      "price": "—",
+      "price_val": 0,
+      "source": "LE109",
+      "source_url": "https://le109.nice.fr/programmation/marcus-gad",
+      "image_url": "https://le109.nice.fr/thumbs/100x100c/2026-04/capture-d-e-cran-2026-04-27-a-11.17.34.png",
+      "category": "AUTRE"
+    },
+    {
       "title": "Le labyrinthe de l'oie",
-      "description": "Le",
+      "description": "",
       "place": "Nice",
       "city": "Nice",
       "starts_at": 1796511600000,
@@ -1444,7 +1399,7 @@
     },
     {
       "title": "Service à tous les étages",
-      "description": "Le",
+      "description": "",
       "place": "Nice",
       "city": "Nice",
       "starts_at": 1796511600000,
@@ -1459,7 +1414,7 @@
     },
     {
       "title": "Atmosphérique, filmer l'archi...",
-      "description": "Du",
+      "description": "",
       "place": "Nice",
       "city": "Nice",
       "starts_at": 1808949600000,
@@ -1470,21 +1425,6 @@
       "source": "LE109",
       "source_url": "https://le109.nice.fr/programmation/atmospherique-filmer-l-architecture",
       "image_url": "https://le109.nice.fr/thumbs/100x100c/2026-04/capture-d-e-cran-2026-04-24-a-00.20.39.png",
-      "category": "CINEMA"
-    },
-    {
-      "title": "Projection du FILM « HENRI Matisse »",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1810159200000,
-      "ends_at": 1810166400000,
-      "has_time": false,
-      "price": "—",
-      "price_val": 0,
-      "source": "MATISSE",
-      "source_url": "https://www.musee-matisse-nice.org/fr/evenement/projection-du-film-henri-matisse/",
-      "image_url": "https://www.musee-matisse-nice.org/wp-content/uploads/2021/02/Musee-Matisse-Nice-Partage.png",
       "category": "CINEMA"
     }
   ]
