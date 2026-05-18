@@ -608,6 +608,47 @@ def scrape_html(soup: BeautifulSoup, site: dict, seen: set) -> list:
                 events.append(ev)
         return events
 
+    # le109.nice.fr — XPath: main/article/div[1]/div/div/figure/img
+    if source == "LE109":
+        base = "https://le109.nice.fr"
+        for article in soup.select("main article"):
+            title_el = article.select_one("h2, h3, h4, .event-title, [class*='title']")
+            if not title_el:
+                continue
+            title = title_el.get_text(strip=True)
+            date_str = None
+            for date_el in article.select("time[datetime], [class*='date'], [class*='Date']"):
+                date_str = date_el.get("datetime") or parse_french_date(date_el.get_text(strip=True))
+                if date_str:
+                    break
+            if not date_str:
+                # Try any text that looks like a date
+                for el in article.find_all(string=True):
+                    parsed = parse_french_date(el.strip())
+                    if parsed:
+                        date_str = parsed
+                        break
+            if not date_str:
+                continue
+            link_el = article.select_one("a[href]")
+            url = link_el.get("href", "") if link_el else site["url"]
+            if url and not url.startswith("http"):
+                url = base + url
+            # Image: figure > img (XPath: article/div[1]/div/div/figure/img)
+            img_el = article.select_one("figure img[src], div figure img[src], img[src]")
+            img_url = img_el.get("src") or img_el.get("data-src") if img_el else None
+            if img_url and not img_url.startswith("http"):
+                img_url = base + img_url
+            ev = _make_event(title, date_str, {}, site, seen)
+            if ev:
+                ev["source_url"] = url or site["url"]
+                if img_url:
+                    ev["image_url"] = _normalize_image_url(img_url)
+                events.append(ev)
+        if events:
+            print(f"  → LE109: {len(events)} events")
+        return events
+
     # infoconcert.com — concert listings
     if source == "STOCKFISH":
         for card in soup.select(".concert-item, .event-item, article.concert, .list-concert li"):
