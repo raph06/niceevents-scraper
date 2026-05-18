@@ -40,7 +40,7 @@ _CAT_QUERIES = {
 
 SITES = [
     {"source": "VILLE_NICE",       "city": "Nice",           "url": "https://www.nice.fr/agenda/"},
-    {"source": "OT_NICE",          "city": "Nice",           "url": "https://www.explorenicecotedazur.com/agenda/"},
+    {"source": "OT_NICE",          "city": "Nice",           "url": "https://www.explorenicecotedazur.com/evenements/agenda-de-la-semaine/"},
     {"source": "CANNES",           "city": "Cannes",         "url": "https://www.cannes.com/fr/agenda/agenda-recherche-filtree.html"},
     {"source": "ANTIBES",          "city": "Antibes",        "url": "https://www.antibes-juanlespins.com/information/agenda/evenements-ponctuels"},
     {"source": "MENTON",           "city": "Menton",         "url": "https://www.menton-riviera-merveilles.fr/sorganiser/agenda/tout-lagenda/"},
@@ -101,9 +101,18 @@ def parse_ms(s) -> Optional[int]:
         return None
 
 _FRENCH_MONTHS = {
-    "janvier": 1, "février": 2, "fevrier": 2, "mars": 3,
-    "avril": 4, "mai": 5, "juin": 6, "juillet": 7, "août": 8, "aout": 8,
-    "septembre": 9, "octobre": 10, "novembre": 11, "décembre": 12, "decembre": 12,
+    "janvier": 1, "jan": 1, "jan.": 1,
+    "février": 2, "fevrier": 2, "fév": 2, "fev": 2, "fév.": 2, "fev.": 2,
+    "mars": 3, "mar": 3, "mar.": 3,
+    "avril": 4, "avr": 4, "avr.": 4,
+    "mai": 5,
+    "juin": 6,
+    "juillet": 7, "juil": 7, "juil.": 7,
+    "août": 8, "aout": 8, "aoû": 8, "aou": 8,
+    "septembre": 9, "sept": 9, "sep": 9, "sept.": 9, "sep.": 9,
+    "octobre": 10, "oct": 10, "oct.": 10,
+    "novembre": 11, "nov": 11, "nov.": 11,
+    "décembre": 12, "decembre": 12, "déc": 12, "dec": 12, "déc.": 12, "dec.": 12,
 }
 
 def parse_french_date(text: str) -> Optional[str]:
@@ -118,15 +127,15 @@ def parse_french_date(text: str) -> Optional[str]:
         h_val, m_val = int(tm.group(1)), int(tm.group(2)) if tm.group(2) else 0
         if 0 <= h_val <= 23 and 0 <= m_val <= 59:
             time_suffix = f"T{h_val:02d}:{m_val:02d}:00"
-    # With explicit year: "23 mai 2026"
-    m = re.search(r"(\d{1,2})\s+(\w+)\s+(20\d{2})", text)
+    # With explicit year: "23 mai 2026" or "1 déc. 2026" (period after abbrev month)
+    m = re.search(r"(\d{1,2})\s+(\w+\.?)\s+(20\d{2})", text)
     if m:
         day, month_str, year = m.group(1), m.group(2), m.group(3)
         month = _FRENCH_MONTHS.get(month_str)
         if month:
             return f"{year}-{month:02d}-{int(day):02d}{time_suffix}"
-    # Without year: "12 mai" — infer current or next year
-    m = re.search(r"(\d{1,2})\s+(\w+)", text)
+    # Without year: "12 mai" or "2 déc." — infer current or next year
+    m = re.search(r"(\d{1,2})\s+(\w+\.?)", text)
     if m:
         day, month_str = m.group(1), m.group(2)
         month = _FRENCH_MONTHS.get(month_str)
@@ -312,6 +321,8 @@ async def scrape_site(page: Page, site: dict) -> list:
     async def on_response(resp):
         try:
             ct = resp.headers.get("content-type", "")
+            if site["source"] == "OT_NICE" and resp.status == 200 and len(resp.url) < 120:
+                print(f"  OT_NICE net: {ct[:25]} {resp.url}")
             if resp.status == 200 and "json" in ct:
                 body = await resp.body()
                 if len(body) > 200:
@@ -725,8 +736,6 @@ def scrape_html(soup: BeautifulSoup, site: dict, seen: set) -> list:
             lines = [l.strip() for l in link.get_text(separator="\n", strip=True).split("\n") if l.strip()]
             if not lines:
                 continue
-            if len(events) < 2:
-                print(f"  LE109 lines: {lines}")
             # Title = first line that isn't a date indicator or a short number (price/year)
             title = None
             for line in lines:
@@ -757,14 +766,16 @@ def scrape_html(soup: BeautifulSoup, site: dict, seen: set) -> list:
                 continue
             if time_suffix and "T" not in date_str:
                 date_str += time_suffix
-            # Venue/description: first non-date, non-price, non-title, non-time line
+            # Venue/description: first non-date, non-price, non-title, non-time, non-stopword line
+            _LE109_STOP = {"le", "la", "les", "du", "de", "au", "aux", "un", "une", "des", "en", "et", "à"}
             description = ""
             for line in lines:
                 if (line == title or _date_hint.search(line)
                         or re.match(r"^\d+\s*€?$", line)
-                        or _time_only_re.match(line.strip())):
+                        or _time_only_re.match(line.strip())
+                        or line.lower() in _LE109_STOP
+                        or len(line) < 3):
                     continue
-                if len(line) >= 2:
                     description = line
                     break
             # Image: prefer data-src (lazy loading), fallback to src
