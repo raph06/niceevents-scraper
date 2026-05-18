@@ -57,6 +57,9 @@ SITES = [
     {"source": "MONACO",           "city": "Monaco",         "url": "https://www.visitmonaco.com/evenements/agenda-des-evenements?page=1"},
     {"source": "MONACO",           "city": "Monaco",         "url": "https://www.visitmonaco.com/evenements/agenda-des-evenements?page=2"},
     {"source": "MONACO",           "city": "Monaco",         "url": "https://www.visitmonaco.com/evenements/agenda-des-evenements?page=3"},
+    {"source": "COTEDAZUR",        "city": "Nice",           "url": "https://cotedazurfrance.fr/decouvrir/votre-sejour/nice-cote-dazur/lagenda-des-evenements-a-nice/?listpage=1"},
+    {"source": "COTEDAZUR",        "city": "Nice",           "url": "https://cotedazurfrance.fr/decouvrir/votre-sejour/nice-cote-dazur/lagenda-des-evenements-a-nice/?listpage=2"},
+    {"source": "INFOLOCALE",       "city": "Nice",           "url": "https://www.infolocale.fr/evenements?age%5B0%5D=Tout%20Public&age%5B1%5D=Adulte&age%5B2%5D=Adolescent&age%5B3%5D=Enfant&age%5B4%5D=Bebe&commune=06088"},
 ]
 
 # ─── Category inference ────────────────────────────────────────────────────────
@@ -666,6 +669,80 @@ def scrape_html(soup: BeautifulSoup, site: dict, seen: set) -> list:
             if ev:
                 ev["source_url"] = url
                 events.append(ev)
+
+    # cotedazurfrance.fr — tourism agenda Nice, paginated (?listpage=N)
+    if source == "COTEDAZUR":
+        base = "https://cotedazurfrance.fr"
+        for card in soup.select(
+            ".event-card, .agenda-item, .agenda-card, .listing-event, "
+            "article.event, article[class*='event'], article[class*='agenda'], "
+            ".card--event, [class*='evenement'], [class*='event-item']"
+        ):
+            title_el = card.select_one("h2, h3, h4, .title, .event-title, [class*='title']")
+            if not title_el:
+                continue
+            title = title_el.get_text(strip=True)
+            date_str = None
+            for date_el in card.select("time[datetime], [class*='date'], [class*='Date']"):
+                date_str = date_el.get("datetime") or parse_french_date(date_el.get_text(strip=True))
+                if date_str:
+                    break
+            if not date_str:
+                continue
+            link_el = card.select_one("a[href]")
+            url = link_el.get("href", "") if link_el else site["url"]
+            if url and not url.startswith("http"):
+                url = base + url
+            img_el = card.select_one("img[src], img[data-src]")
+            img_url = (img_el.get("src") or img_el.get("data-src")) if img_el else None
+            if img_url and not img_url.startswith("http"):
+                img_url = base + img_url
+            ev = _make_event(title, date_str, {}, site, seen)
+            if ev:
+                ev["source_url"] = url or site["url"]
+                if img_url:
+                    ev["image_url"] = _normalize_image_url(img_url)
+                events.append(ev)
+        if events:
+            print(f"  → COTEDAZUR: {len(events)} events")
+        return events
+
+    # infolocale.fr — local events aggregator, commune=06088 (Nice)
+    if source == "INFOLOCALE":
+        base = "https://www.infolocale.fr"
+        for card in soup.select(
+            ".event-item, .evenement, article.node-evenement, .views-row, "
+            "article[class*='event'], li[class*='event'], .card-event, "
+            "[class*='fiche-event'], [class*='event-teaser']"
+        ):
+            title_el = card.select_one("h2, h3, h4, .title, [class*='title'], [class*='nom']")
+            if not title_el:
+                continue
+            title = title_el.get_text(strip=True)
+            date_str = None
+            for date_el in card.select("time[datetime], [class*='date'], [class*='Date'], .field-date"):
+                date_str = date_el.get("datetime") or parse_french_date(date_el.get_text(strip=True))
+                if date_str:
+                    break
+            if not date_str:
+                continue
+            link_el = card.select_one("a[href]")
+            url = link_el.get("href", "") if link_el else site["url"]
+            if url and not url.startswith("http"):
+                url = base + url
+            img_el = card.select_one("img[src], img[data-src]")
+            img_url = (img_el.get("src") or img_el.get("data-src")) if img_el else None
+            if img_url and not img_url.startswith("http"):
+                img_url = base + img_url
+            ev = _make_event(title, date_str, {}, site, seen)
+            if ev:
+                ev["source_url"] = url or site["url"]
+                if img_url:
+                    ev["image_url"] = _normalize_image_url(img_url)
+                events.append(ev)
+        if events:
+            print(f"  → INFOLOCALE: {len(events)} events")
+        return events
 
     # Generic: look for <article> or <li> with a <time datetime="..."> and a heading
     if not events:
