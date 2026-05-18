@@ -500,6 +500,55 @@ async def scrape_site(page: Page, site: dict) -> list:
                 print(f"  → CAGNES JetEngine HTML: {len(events)} events")
                 return events
 
+        elif source == "INFOLOCALE":
+            # Algolia response: API[2] = {'results': [{'hits': [...]}]}
+            # Each hit: titre, photo.url, texte (contains French date), lieu, date_debut
+            for resp in captured:
+                if not isinstance(resp, dict):
+                    continue
+                results = resp.get("results")
+                if not isinstance(results, list) or not results:
+                    continue
+                hits = results[0].get("hits", []) if isinstance(results[0], dict) else []
+                if not hits:
+                    continue
+                base = "https://www.infolocale.fr"
+                for hit in hits:
+                    title = hit.get("titre") or hit.get("title") or hit.get("nom")
+                    if not title:
+                        continue
+                    # Try explicit date fields first
+                    date_str = (hit.get("date_debut") or hit.get("dateDebut")
+                                or hit.get("date") or hit.get("startDate"))
+                    # Fall back to parsing from texte/description
+                    if not date_str:
+                        texte = hit.get("texte") or hit.get("description") or ""
+                        date_str = parse_french_date(texte)
+                    if not date_str:
+                        continue
+                    slug = hit.get("slug") or hit.get("id") or ""
+                    url = f"{base}/annonce/{slug}" if slug else site["url"]
+                    photo = hit.get("photo") or {}
+                    img_url = photo.get("url") if isinstance(photo, dict) else None
+                    lieu = hit.get("lieu") or {}
+                    place = (lieu.get("nom") or lieu.get("libelle") or "Nice") if isinstance(lieu, dict) else "Nice"
+                    ev = _make_event(title, date_str, {}, site, seen)
+                    if ev:
+                        ev["source_url"] = url
+                        ev["place"] = place
+                        if img_url:
+                            ev["image_url"] = _normalize_image_url(img_url)
+                        events.append(ev)
+                if events:
+                    print(f"  → INFOLOCALE Algolia: {len(events)} events")
+                    return events
+
+        elif source in ("LE109", "COTEDAZUR"):
+            # Diagnostic: dump first 3000 chars of body HTML to find selectors
+            body = soup.find("body")
+            body_snippet = str(body)[:3000] if body else str(soup)[:3000]
+            print(f"  [{source}] HTML body snippet:\n{body_snippet}")
+
     # Strategy 2: Network-intercepted API responses
     for resp in captured:
         events.extend(walk(resp, site, seen))
