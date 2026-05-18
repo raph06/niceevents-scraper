@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-18T12:28:05Z",
-  "count": 66,
+  "scraped_at": "2026-05-18T15:25:29Z",
+  "count": 62,
   "events": [
     {
       "title": "Conférence autour de l'exposition \"C'est ainsi qu'Antibes est aussi ma ville\"",
@@ -138,18 +138,33 @@
       "category": "AUTRE"
     },
     {
-      "title": "PLATURNE",
+      "title": "Grand loto de l'APEB",
       "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1779472800000,
-      "ends_at": 1779480000000,
-      "has_time": true,
+      "place": "Antibes",
+      "city": "Antibes",
+      "starts_at": 1779400800000,
+      "ends_at": 1779408000000,
+      "has_time": false,
       "price": "—",
       "price_val": 0,
-      "source": "LE109",
-      "source_url": "https://le109.nice.fr/programmation/platurne",
-      "image_url": null,
+      "source": "ANTIBES",
+      "source_url": "https://www.antibes-juanlespins.com/information/agenda/evenements-ponctuels/grand-loto-de-lapeb",
+      "image_url": "https://www.antibes-juanlespins.com/typo3conf/ext/stratis_site/Resources/Public/Images/logos/logo.png",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Fête de la nature",
+      "description": "",
+      "place": "Antibes",
+      "city": "Antibes",
+      "starts_at": 1779487200000,
+      "ends_at": 1779494400000,
+      "has_time": false,
+      "price": "—",
+      "price_val": 0,
+      "source": "ANTIBES",
+      "source_url": "https://www.antibes-juanlespins.com/information/agenda/evenements-ponctuels/fete-de-la-nature",
+      "image_url": "https://www.antibes-juanlespins.com/typo3conf/ext/stratis_site/Resources/Public/Images/logos/logo.png",
       "category": "AUTRE"
     },
     {
@@ -183,21 +198,6 @@
       "category": "AUTRE"
     },
     {
-      "title": "Apéro DésAstres #30 : Chat Pe...",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1779557400000,
-      "ends_at": 1779564600000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "LE109",
-      "source_url": "https://le109.nice.fr/programmation/apero-desastres-30-chat-perche-doppelgaenger",
-      "image_url": null,
-      "category": "AUTRE"
-    },
-    {
       "title": "TRIAL INDOOR INTERNATIONAL",
       "description": "",
       "place": "Nice",
@@ -210,21 +210,6 @@
       "source": "NIKAIA",
       "source_url": "https://www.nikaia.fr/programmation/trial-indoor-international-2026",
       "image_url": "https://www.nikaia.fr/files/nikaia-share-default.png",
-      "category": "AUTRE"
-    },
-    {
-      "title": "RIFF & BLOOD #2",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1779559200000,
-      "ends_at": 1779566400000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "LE109",
-      "source_url": "https://le109.nice.fr/programmation/riff-blood-2",
-      "image_url": null,
       "category": "AUTRE"
     },
     {
@@ -375,21 +360,6 @@
       "source": "MONACO",
       "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/la-note-bleue-summer-festival-2026",
       "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/4/4/0/1/2071044-1-fre-FR/6c8d6b870a60-98Ljqs_I37atQHym.png.webp",
-      "category": "AUTRE"
-    },
-    {
-      "title": "CROSSOVER FESTIVAL",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1780074000000,
-      "ends_at": 1780081200000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "LE109",
-      "source_url": "https://le109.nice.fr/programmation/crossover-festival-1",
-      "image_url": null,
       "category": "AUTRE"
     },
     {
@@ -600,21 +570,6 @@
       "source": "OPERA_NICE",
       "source_url": "https://www.opera-nice.org/fr/evenement/1289/plancon-bruch-brahms?origin=menu",
       "image_url": "https://www.opera-nice.org/uploads/evenement/photos/plancon-bruch-brahms_1289.jpg",
-      "category": "AUTRE"
-    },
-    {
-      "title": "QUANTIC",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1781384400000,
-      "ends_at": 1781391600000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "LE109",
-      "source_url": "https://le109.nice.fr/programmation/quantic",
-      "image_url": null,
       "category": "AUTRE"
     },
     {
@@ -975,21 +930,6 @@
       "source": "MONACO",
       "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/65e-festival-de-television-de-monte-carlo",
       "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/2/8/8/2/1852882-5-fre-FR/bea390b27a70-AFFICHE_FTV26.jpg.webp",
-      "category": "AUTRE"
-    },
-    {
-      "title": "MARCUS GAD",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1795287600000,
-      "ends_at": 1795294800000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "LE109",
-      "source_url": "https://le109.nice.fr/programmation/marcus-gad",
-      "image_url": null,
       "category": "AUTRE"
     }
   ]
