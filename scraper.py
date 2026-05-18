@@ -605,6 +605,18 @@ def scrape_html(soup: BeautifulSoup, site: dict, seen: set) -> list:
     events = []
     source = site["source"]
 
+    # explorenicecotedazur.com — IRIS/wp-etourisme-v3 SSR WordPress
+    if source == "OT_NICE":
+        iris_els = soup.select("[class*='iris'],[class*='etourisme'],[class*='wp-etourisme']")
+        if iris_els:
+            print(f"  OT_NICE iris elements: {len(iris_els)}")
+            for el in iris_els[:3]:
+                print(f"    {el.name} class={el.get('class')} text={el.get_text(separator=' ', strip=True)[:80]!r}")
+        else:
+            # Show all article/div with href to guess card structure
+            for el in soup.select("article a[href*='/evenement'], article a[href*='/event'], .card a, [class*='card'] a")[:3]:
+                print(f"  OT_NICE card candidate: {el.get('href')} | {el.get_text(separator=' ', strip=True)[:60]!r}")
+
     # nice.fr — municipal agenda with French date text in cards
     if source == "VILLE_NICE":
         base = "https://www.nice.fr"
