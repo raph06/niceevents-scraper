@@ -613,17 +613,12 @@ def scrape_html(soup: BeautifulSoup, site: dict, seen: set) -> list:
         print(f"  OT_NICE: {len(title_els)} h2 title elements")
         if title_els:
             h2 = title_els[0]
-            # Walk up to iris-card__wrapper
-            wrapper = h2.parent
-            for _ in range(4):
-                if "iris-card__wrapper" in " ".join(wrapper.get("class",[])):
-                    break
-                wrapper = wrapper.parent
-            # Dump all direct children and their classes/text
-            for child in wrapper.children:
+            content_div = h2.parent  # iris-card__content
+            print(f"  content_div: {content_div.name}.{' '.join(content_div.get('class',[]))}")
+            for child in content_div.children:
                 if hasattr(child, "name") and child.name:
-                    cls = " ".join(child.get("class",[]))[:40]
-                    txt = child.get_text(separator=" ", strip=True)[:50]
+                    cls = " ".join(child.get("class",[]))[:50]
+                    txt = child.get_text(separator=" ", strip=True)[:60]
                     print(f"    child: {child.name}.{cls} → {txt!r}")
 
     # nice.fr — municipal agenda with French date text in cards
