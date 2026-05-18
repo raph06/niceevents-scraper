@@ -607,18 +607,12 @@ def scrape_html(soup: BeautifulSoup, site: dict, seen: set) -> list:
 
     # explorenicecotedazur.com — IRIS/wp-etourisme-v3 SSR WordPress
     if source == "OT_NICE":
-        wpet_els = soup.select("[class*='wpet']")
-        print(f"  OT_NICE wpet elements: {len(wpet_els)}")
-        # Find wpet elements that look like event cards (have a link with title/date)
-        for el in wpet_els[:6]:
-            classes = " ".join(el.get("class", []))
-            inner_a = el.select_one("a[href]")
-            inner_h = el.select_one("h2,h3,h4,.title,[class*='title']")
-            inner_d = el.select_one("time,[class*='date'],[class*='Date']")
-            href = inner_a.get("href","")[:60] if inner_a else ""
-            title = inner_h.get_text(strip=True)[:40] if inner_h else ""
-            date_t = (inner_d.get("datetime") or inner_d.get_text(strip=True)[:30]) if inner_d else ""
-            print(f"    {el.name}.{classes[:50]} | href={href} | title={title!r} | date={date_t!r}")
+        block = soup.select_one("div.wpet-block-list")
+        event_links = block.select("a[href*='/evenement/']") if block else []
+        print(f"  OT_NICE event cards: {len(event_links)}")
+        if event_links:
+            first = event_links[0]
+            print(f"  OT_NICE first card HTML: {str(first)[:600]}")
 
     # nice.fr — municipal agenda with French date text in cards
     if source == "VILLE_NICE":
