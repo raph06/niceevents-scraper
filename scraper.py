@@ -613,11 +613,13 @@ def scrape_html(soup: BeautifulSoup, site: dict, seen: set) -> list:
         print(f"  OT_NICE: {len(title_els)} h2 title elements")
         if title_els:
             h2 = title_els[0]
-            content_div = h2.parent  # iris-card__content
+            # h2.parent = wp-block-wpet-card-template-content-row
+            # h2.parent.parent = iris-card__content
+            content_div = h2.parent.parent
             print(f"  content_div: {content_div.name}.{' '.join(content_div.get('class',[]))}")
             for child in content_div.children:
                 if hasattr(child, "name") and child.name:
-                    cls = " ".join(child.get("class",[]))[:50]
+                    cls = " ".join(child.get("class",[]))[:60]
                     txt = child.get_text(separator=" ", strip=True)[:60]
                     print(f"    child: {child.name}.{cls} → {txt!r}")
 
