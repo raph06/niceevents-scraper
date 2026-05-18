@@ -607,12 +607,18 @@ def scrape_html(soup: BeautifulSoup, site: dict, seen: set) -> list:
 
     # explorenicecotedazur.com — IRIS/wp-etourisme-v3 SSR WordPress
     if source == "OT_NICE":
+        base = "https://www.explorenicecotedazur.com"
         block = soup.select_one("div.wpet-block-list")
-        event_links = block.select("a[href*='/evenement/']") if block else []
-        print(f"  OT_NICE event cards: {len(event_links)}")
-        if event_links:
-            first = event_links[0]
-            print(f"  OT_NICE first card HTML: {str(first)[:600]}")
+        cards = block.select("a[href*='/evenement/']") if block else []
+        print(f"  OT_NICE: {len(cards)} event cards")
+        for card in cards[:2]:
+            title_el = card.select_one("h2,h3,h4,[class*='title'],[class*='Title'],[class*='name']")
+            date_el  = card.select_one("[class*='DatesDuAu'],[class*='date'],[class*='Date'],time")
+            img_el   = card.select_one("img")
+            title_t  = title_el.get_text(strip=True)[:50] if title_el else "—"
+            date_t   = (date_el.get_text(strip=True) or date_el.get("datetime",""))[:40] if date_el else "—"
+            img_src  = (img_el.get("data-src") or img_el.get("src",""))[:60] if img_el else "—"
+            print(f"    title={title_t!r} date={date_t!r} img={img_src!r}")
 
     # nice.fr — municipal agenda with French date text in cards
     if source == "VILLE_NICE":
