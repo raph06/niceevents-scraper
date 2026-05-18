@@ -735,19 +735,32 @@ def scrape_html(soup: BeautifulSoup, site: dict, seen: set) -> list:
                 title = lines[0]  # fallback: take first line
             if not title or len(title) < 2:
                 continue
-            # Date + time: scan all lines
+            # Date + time: scan all lines in one pass
+            # Time ("20h30") and date ("Le vendredi 22 mai 2026") may be on separate lines
             date_str = None
+            _time_only_re = re.compile(r'^(\d{1,2})[h:](\d{0,2})\s*$')
+            time_suffix = None
             for line in lines:
-                parsed = parse_french_date(line)
-                if parsed:
-                    date_str = parsed
-                    break
+                if date_str is None:
+                    parsed = parse_french_date(line)
+                    if parsed:
+                        date_str = parsed
+                if time_suffix is None:
+                    tm = _time_only_re.match(line.strip())
+                    if tm:
+                        h, m = int(tm.group(1)), int(tm.group(2)) if tm.group(2) else 0
+                        if 0 <= h <= 23 and 0 <= m <= 59:
+                            time_suffix = f"T{h:02d}:{m:02d}:00"
             if not date_str:
                 continue
-            # Venue/description: last meaningful non-date, non-price, non-title line
+            if time_suffix and "T" not in date_str:
+                date_str += time_suffix
+            # Venue/description: first non-date, non-price, non-title, non-time line
             description = ""
             for line in lines:
-                if line == title or _date_hint.search(line) or re.match(r"^\d+\s*€?$", line):
+                if (line == title or _date_hint.search(line)
+                        or re.match(r"^\d+\s*€?$", line)
+                        or _time_only_re.match(line.strip())):
                     continue
                 if len(line) >= 2:
                     description = line
