@@ -1,22 +1,7 @@
 {
-  "scraped_at": "2026-05-17T21:51:09Z",
-  "count": 67,
+  "scraped_at": "2026-05-18T02:38:15Z",
+  "count": 66,
   "events": [
-    {
-      "title": "Exposition \"La Calypso à Antibes – 1951, le chantier fondateur\"",
-      "description": "",
-      "place": "Antibes",
-      "city": "Antibes",
-      "starts_at": 1779055200000,
-      "ends_at": 1779062400000,
-      "has_time": false,
-      "price": "—",
-      "price_val": 0,
-      "source": "ANTIBES",
-      "source_url": "https://www.antibes-juanlespins.com/information/agenda/evenements-ponctuels/exposition-la-calypso-a-antibes-1951-le-chantier-fondateur",
-      "image_url": "https://www.antibes-juanlespins.com/typo3conf/ext/stratis_site/Resources/Public/Images/logos/logo.png",
-      "category": "CONCERT"
-    },
     {
       "title": "Conférence autour de l'exposition \"C'est ainsi qu'Antibes est aussi ma ville\"",
       "description": "",
