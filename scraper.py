@@ -599,7 +599,18 @@ def scrape_html(soup: BeautifulSoup, site: dict, seen: set) -> list:
         base = "https://www.nice.fr"
         all_cards = soup.select("article.event--block, article[class*='event-date']")
         if all_cards:
-            print(f"  VILLE_NICE: {len(all_cards)} cards — first card snippet: {str(all_cards[0])[:500]}")
+            first = all_cards[0]
+            # Deep diagnostics: show all candidate date elements in the first card
+            diag_itemprop = first.select("[itemprop='startDate']")
+            diag_abbr = first.select("abbr.tribe-event-date-start, abbr[class*='date-start']")
+            diag_time = first.select("time[datetime]")
+            diag_meta = first.select("meta[itemprop='startDate']")
+            print(f"  VILLE_NICE: {len(all_cards)} cards")
+            print(f"  VILLE_NICE diag card[0]: itemprop_startDate={[(e.name, dict(e.attrs)) for e in diag_itemprop[:2]]}")
+            print(f"  VILLE_NICE diag card[0]: meta_startDate={[(e.name, dict(e.attrs)) for e in diag_meta[:2]]}")
+            print(f"  VILLE_NICE diag card[0]: abbr_tribe={[(e.name, dict(e.attrs), e.get_text(strip=True)[:40]) for e in diag_abbr[:2]]}")
+            print(f"  VILLE_NICE diag card[0]: time_el={[(e.name, dict(e.attrs)) for e in diag_time[:2]]}")
+            print(f"  VILLE_NICE diag card[0]: raw_html={str(first)[:800]}")
         for card in all_cards:
             title_el = card.select_one("h2, h3, .tribe-event-name a, a[class*='title']")
             if not title_el:
@@ -608,12 +619,12 @@ def scrape_html(soup: BeautifulSoup, site: dict, seen: set) -> list:
             if not title:
                 continue
             date_str = None
-            # Tribe Events / Schema.org: prefer itemprop="startDate" (has full ISO datetime incl. time)
-            # then abbr.tribe-event-date-start[title] (also has full datetime)
-            # then time[datetime] (may be date-only)
+            # Tribe Events: <meta itemprop="startDate" content="2026-05-19T21:00:00+02:00"> is inside
+            # the article but is a <meta> tag (invisible) — select_one("[itemprop]") finds it
             date_el = card.select_one(
-                "[itemprop='startDate'], abbr.tribe-event-date-start, "
-                "time[datetime], [class*='tribe-event-date'], abbr[class*='date-start']"
+                "meta[itemprop='startDate'], [itemprop='startDate'], "
+                "abbr.tribe-event-date-start, time[datetime], "
+                "[class*='tribe-event-date'], abbr[class*='date-start']"
             )
             if date_el:
                 dt_attr = (date_el.get("content") or date_el.get("title")
