@@ -108,6 +108,7 @@ _FRENCH_MONTHS = {
 
 def parse_french_date(text: str) -> Optional[str]:
     """'Ven. 23 mai 2026', 'Du 5 au 8 juin 2026', 'mardi 12 mai' → ISO date string."""
+    text = re.sub(r"\b(lundi|mardi|mercredi|jeudi|vendredi|samedi|dimanche)\b", "", text.strip(), flags=re.IGNORECASE)
     text = re.sub(r"\b(lun|mar|mer|jeu|ven|sam|dim)\.?\s*", "", text.strip(), flags=re.IGNORECASE)
     text = text.lower().strip()
     # With explicit year: "23 mai 2026"
@@ -439,10 +440,19 @@ async def scrape_site(page: Page, site: dict) -> list:
                         continue
                     title = title_el.get_text(strip=True)
                     date_str = None
-                    for date_el in article.select("time[datetime], .date-display-single, [class*='date-field'], [class*='field-date']"):
+                    date_el = article.select_one(
+                        "time[datetime], [class*='field-name-field-date'], [class*='date-display'], "
+                        "[class*='field--name-field-date'], .date-display-single, [class*='tribe-event-date'], "
+                        "[class*='date']"
+                    )
+                    if date_el:
                         date_str = date_el.get("datetime") or parse_french_date(date_el.get_text(strip=True))
-                        if date_str:
-                            break
+                    # Fallback: try any <p> or <span> text
+                    if not date_str:
+                        for el in article.select("p, span"):
+                            date_str = parse_french_date(el.get_text(strip=True))
+                            if date_str:
+                                break
                     if not date_str:
                         continue
                     url = article.get("about", "")
@@ -545,6 +555,8 @@ async def scrape_site(page: Page, site: dict) -> list:
 
     # Strategy 2: Network-intercepted API responses
     for resp in captured:
+        if isinstance(resp, dict) and set(resp.keys()) & {"GLOBAL", "SECTIONS", "TOOLTIPS", "NOTIFICATIONS"}:
+            continue
         events.extend(walk(resp, site, seen))
     if events:
         print(f"  → API intercept: {len(events)} events")
@@ -577,35 +589,49 @@ def scrape_html(soup: BeautifulSoup, site: dict, seen: set) -> list:
 
     # nice.fr — municipal agenda with French date text in cards
     if source == "VILLE_NICE":
-        selectors = (
-            ".agenda-list__item, .event-card, .card--event, "
-            "[class*='agenda-item'], [class*='event-item'], article[class*='event']"
-        )
-        all_cards = soup.select(selectors)
+        base = "https://www.nice.fr"
+        all_cards = soup.select("article.event--block, article[class*='event-date']")
         if all_cards:
             print(f"  VILLE_NICE: {len(all_cards)} cards — first card snippet: {str(all_cards[0])[:500]}")
         for card in all_cards:
-            title_el = card.select_one("h2, h3, h4, .card-title, .event-title, [class*='title']")
+            title_el = card.select_one("h2, h3, .tribe-event-name a, a[class*='title']")
             if not title_el:
                 continue
             title = title_el.get_text(strip=True)
+            if not title:
+                continue
             date_str = None
-            # Prefer French text date over time[datetime] (which tends to be shared page-level)
-            for el in card.select("[class*='date'], .event-date, .agenda-date"):
-                parsed = parse_french_date(el.get_text(strip=True))
-                if parsed:
-                    date_str = parsed
-                    break
-            # No <time> element fallback — would pick up page-level shared timestamp
-            link_el = card.select_one("a[href]")
-            url = link_el.get("href") if link_el else site["url"]
-            if url and not url.startswith("http"):
-                url = "https://www.nice.fr" + url
-            if title and date_str:
-                ev = _make_event(title, date_str, {}, site, seen)
-                if ev:
-                    ev["source_url"] = url
-                    events.append(ev)
+            date_el = card.select_one(
+                "time[datetime], [class*='tribe-event-date'], [class*='date-start'], abbr[class*='dtstart']"
+            )
+            if date_el:
+                dt_attr = date_el.get("datetime")
+                if dt_attr:
+                    date_str = dt_attr
+                else:
+                    date_str = parse_french_date(date_el.get_text(strip=True))
+            if not date_str:
+                continue
+            link_el = card.select_one("a[href*='/agenda/']")
+            if link_el:
+                href = link_el.get("href", "")
+                url = href if href.startswith("http") else base + href
+            else:
+                url = site["url"]
+            img_el = card.select_one("img[src]")
+            img_url = None
+            if img_el:
+                src = img_el.get("src", "")
+                if src.startswith("http"):
+                    img_url = _normalize_image_url(src)
+                elif src.startswith("/"):
+                    img_url = _normalize_image_url(base + src)
+            ev = _make_event(title, date_str, {}, site, seen)
+            if ev:
+                ev["source_url"] = url
+                if img_url:
+                    ev["image_url"] = img_url
+                events.append(ev)
         return events
 
     # tnn.fr — date is a text sibling of the <a>, title may be link text directly
@@ -657,6 +683,9 @@ def scrape_html(soup: BeautifulSoup, site: dict, seen: set) -> list:
     # le109.nice.fr — structure: <a href="/programmation/[slug]"><img><h2><p date><p venue></a>
     if source == "LE109":
         base = "https://le109.nice.fr"
+        all_links = soup.select("a[href*='/programmation/']")
+        event_links = [l for l in all_links if not re.match(r"^/programmation/?$", l.get("href", ""))]
+        print(f"  LE109 debug: {len(all_links)} total links, {len(event_links)} event links")
         for link in soup.select("a[href*='/programmation/']"):
             href = link.get("href", "")
             # Skip the listing page itself
@@ -738,6 +767,43 @@ def scrape_html(soup: BeautifulSoup, site: dict, seen: set) -> list:
             print(f"  → COTEDAZUR: {len(events)} events")
         return events
 
+    # menton-riviera-merveilles.fr — same CMS as COTEDAZUR (/offres/ links, Cloudly CDN images)
+    if source == "MENTON":
+        base = "https://www.menton-riviera-merveilles.fr"
+        for link in soup.select("a[href*='/offres/']"):
+            href = link.get("href", "")
+            title_el = link.select_one("h3, h2, h4")
+            if not title_el:
+                continue
+            title = title_el.get_text(strip=True)
+            date_str = None
+            for el in link.select("span, p, time"):
+                text = el.get_text(strip=True)
+                parsed = parse_french_date(text)
+                if parsed:
+                    date_str = parsed
+                    break
+            if not date_str:
+                continue
+            url = href if href.startswith("http") else base + href
+            img_el = link.select_one("img[src]")
+            img_url = None
+            if img_el:
+                src = img_el.get("src", "")
+                if src.startswith("http"):
+                    img_url = _normalize_image_url(src)
+                elif src.startswith("/"):
+                    img_url = _normalize_image_url(base + src)
+            ev = _make_event(title, date_str, {}, site, seen)
+            if ev:
+                ev["source_url"] = url
+                if img_url:
+                    ev["image_url"] = img_url
+                events.append(ev)
+        if events:
+            print(f"  → MENTON: {len(events)} events")
+        return events
+
     # infolocale.fr — local events aggregator, commune=06088 (Nice)
     if source == "INFOLOCALE":
         base = "https://www.infolocale.fr"
@@ -773,6 +839,124 @@ def scrape_html(soup: BeautifulSoup, site: dict, seen: set) -> list:
                 events.append(ev)
         if events:
             print(f"  → INFOLOCALE: {len(events)} events")
+        return events
+
+    # antibes-juanlespins.com — 60 events, /information/agenda/ links with headings
+    if source == "ANTIBES":
+        base = "https://www.antibes-juanlespins.com"
+        for link in soup.select("a[href*='/information/agenda/'], a[href*='/agenda/']"):
+            href = link.get("href", "")
+            if not href or href.endswith("/agenda") or href.endswith("/agenda/"):
+                continue
+            title_el = link.select_one("h2, h3, h4")
+            if not title_el:
+                continue
+            title = title_el.get_text(strip=True)
+            date_str = None
+            for el in link.select("time, [class*='date'], p, span"):
+                date_str = parse_french_date(el.get_text())
+                if date_str:
+                    break
+            if not date_str:
+                continue
+            url = href if href.startswith("http") else base + href
+            img_el = link.select_one("img[src]")
+            img_url = None
+            if img_el:
+                src = img_el.get("src", "")
+                if src.startswith("http"):
+                    img_url = _normalize_image_url(src)
+                elif src.startswith("/"):
+                    img_url = _normalize_image_url(base + src)
+            ev = _make_event(title, date_str, {}, site, seen)
+            if ev:
+                ev["source_url"] = url
+                if img_url:
+                    ev["image_url"] = img_url
+                events.append(ev)
+        if events:
+            print(f"  → ANTIBES: {len(events)} events")
+        return events
+
+    # cannes.com — 280 events in static HTML, links like /agenda/annee-...
+    if source == "CANNES":
+        base = "https://www.cannes.com"
+        for link in soup.select("a[href*='/agenda/annee-']"):
+            href = link.get("href", "")
+            if not href:
+                continue
+            # Title: last non-empty line of anchor text (skip category prefix)
+            lines = [l.strip() for l in link.get_text().splitlines() if l.strip()]
+            title = lines[-1] if lines else None
+            if not title:
+                continue
+            # Date: try strong tags first, then full text
+            date_str = None
+            for el in link.select("strong, [class*='date'], time"):
+                date_str = parse_french_date(el.get_text())
+                if date_str:
+                    break
+            if not date_str:
+                date_str = parse_french_date(link.get_text())
+            if not date_str:
+                continue
+            url = href if href.startswith("http") else base + href
+            img_el = link.select_one("img[src]")
+            img_url = None
+            if img_el:
+                src = img_el.get("src", "")
+                if src.startswith("http"):
+                    img_url = _normalize_image_url(src)
+                elif src.startswith("/"):
+                    img_url = _normalize_image_url(base + src)
+            ev = _make_event(title, date_str, {}, site, seen)
+            if ev:
+                ev["source_url"] = url
+                if img_url:
+                    ev["image_url"] = img_url
+                events.append(ev)
+        if events:
+            print(f"  → CANNES: {len(events)} events")
+        return events
+
+    # musee-matisse-nice.org — event links with h3 title and p date text
+    if source == "MATISSE":
+        base = "https://www.musee-matisse-nice.org"
+        for card in soup.select("a[href*='/fr/evenement/']"):
+            href = card.get("href", "")
+            if not href:
+                continue
+            title_el = card.select_one("h3, h2, h4")
+            if not title_el:
+                continue
+            title = title_el.get_text(strip=True)
+            if not title:
+                continue
+            date_str = None
+            for el in card.select("p, [class*='date'], time"):
+                parsed = parse_french_date(el.get_text(strip=True))
+                if parsed:
+                    date_str = parsed
+                    break
+            if not date_str:
+                continue
+            url = href if href.startswith("http") else base + href
+            img_el = card.select_one("img[src]")
+            img_url = None
+            if img_el:
+                src = img_el.get("src", "")
+                if src.startswith("http"):
+                    img_url = _normalize_image_url(src)
+                elif src.startswith("/"):
+                    img_url = _normalize_image_url(base + src)
+            ev = _make_event(title, date_str, {}, site, seen)
+            if ev:
+                ev["source_url"] = url
+                if img_url:
+                    ev["image_url"] = img_url
+                events.append(ev)
+        if events:
+            print(f"  → MATISSE: {len(events)} events")
         return events
 
     # Generic: look for <article> or <li> with a <time datetime="..."> and a heading
