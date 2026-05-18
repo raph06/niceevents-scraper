@@ -321,8 +321,6 @@ async def scrape_site(page: Page, site: dict) -> list:
     async def on_response(resp):
         try:
             ct = resp.headers.get("content-type", "")
-            if site["source"] == "OT_NICE" and resp.status == 200 and len(resp.url) < 120:
-                print(f"  OT_NICE net: {ct[:25]} {resp.url}")
             if resp.status == 200 and "json" in ct:
                 body = await resp.body()
                 if len(body) > 200:
@@ -610,18 +608,47 @@ def scrape_html(soup: BeautifulSoup, site: dict, seen: set) -> list:
         base = "https://www.explorenicecotedazur.com"
         block = soup.select_one("div.wpet-block-list")
         title_els = block.select("h2.iris-card__content__title") if block else []
-        print(f"  OT_NICE: {len(title_els)} h2 title elements")
-        if title_els:
-            h2 = title_els[0]
-            # h2.parent = wp-block-wpet-card-template-content-row
-            # h2.parent.parent = iris-card__content
-            content_div = h2.parent.parent
-            print(f"  content_div: {content_div.name}.{' '.join(content_div.get('class',[]))}")
-            for child in content_div.children:
-                if hasattr(child, "name") and child.name:
-                    cls = " ".join(child.get("class",[]))[:60]
-                    txt = child.get_text(separator=" ", strip=True)[:60]
-                    print(f"    child: {child.name}.{cls} → {txt!r}")
+        print(f"  OT_NICE: {len(title_els)} event cards")
+        for h2 in title_els:
+            link_el = h2.select_one("a[href*='/evenement/']")
+            if not link_el:
+                continue
+            href = link_el.get("href", "")
+            url = href if href.startswith("http") else base + href
+            title = h2.get_text(strip=True)
+            if not title or len(title) < 2:
+                continue
+            content = h2.parent.parent  # iris-card__content
+            content_rows = content.select("div.wp-block-wpet-card-template-content-row")
+            date_text = content_rows[0].get_text(separator=" ", strip=True) if content_rows else ""
+            # Date range "23 sept 2025 30 juin 2026" — iterate all matches, keep last (end date = future)
+            date_str = None
+            for m in re.finditer(r'\d{1,2}\s+\w+\.?\s+20\d{2}', date_text):
+                parsed = parse_french_date(m.group(0))
+                if parsed:
+                    date_str = parsed
+            if not date_str:
+                date_str = parse_french_date(date_text)
+            if not date_str:
+                continue
+            place = content_rows[2].get_text(strip=True) if len(content_rows) > 2 else site["city"]
+            wrapper = content.parent  # iris-card__wrapper
+            img_el = wrapper.select_one("div.iris-card__media img, img")
+            img_url = None
+            if img_el:
+                src = img_el.get("data-src") or img_el.get("src", "")
+                if src and not src.startswith("data:"):
+                    img_url = _normalize_image_url(src if src.startswith("http") else base + src)
+            ev = _make_event(title, date_str, {}, site, seen)
+            if ev:
+                ev["source_url"] = url
+                ev["place"] = place or site["city"]
+                if img_url:
+                    ev["image_url"] = img_url
+                events.append(ev)
+        if events:
+            print(f"  → OT_NICE: {len(events)} events")
+        return events
 
     # nice.fr — municipal agenda with French date text in cards
     if source == "VILLE_NICE":
