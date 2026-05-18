@@ -1,22 +1,7 @@
 {
-  "scraped_at": "2026-05-18T15:54:05Z",
-  "count": 65,
+  "scraped_at": "2026-05-18T16:53:04Z",
+  "count": 67,
   "events": [
-    {
-      "title": "Conférence autour de l'exposition \"C'est ainsi qu'Antibes est aussi ma ville\"",
-      "description": "",
-      "place": "Antibes",
-      "city": "Antibes",
-      "starts_at": 1779141600000,
-      "ends_at": 1779148800000,
-      "has_time": false,
-      "price": "—",
-      "price_val": 0,
-      "source": "ANTIBES",
-      "source_url": "https://www.antibes-juanlespins.com/information/agenda/evenements-ponctuels/conference-autour-de-lexposition-cest-ainsi-quantibes-est-aussi-ma-ville",
-      "image_url": "https://www.antibes-juanlespins.com/typo3conf/ext/stratis_site/Resources/Public/Images/logos/logo.png",
-      "category": "EXPO"
-    },
     {
       "title": "Délivre nous du malin",
       "description": "",
@@ -93,21 +78,6 @@
       "category": "CONCERT"
     },
     {
-      "title": "\"Pourquoi je ne suis toujours pas en haut de l'affiche\" - Théâtre du Tribunal",
-      "description": "",
-      "place": "Antibes",
-      "city": "Antibes",
-      "starts_at": 1779314400000,
-      "ends_at": 1779321600000,
-      "has_time": false,
-      "price": "—",
-      "price_val": 0,
-      "source": "ANTIBES",
-      "source_url": "https://www.antibes-juanlespins.com/information/agenda/evenements-ponctuels/pourquoi-je-ne-suis-toujours-pas-en-haut-de-laffiche-theatre-du-tribunal",
-      "image_url": "https://www.antibes-juanlespins.com/typo3conf/ext/stratis_site/Resources/Public/Images/logos/logo.png",
-      "category": "THEATRE"
-    },
-    {
       "title": "Projection en plein air - rencontre avec Helga Fanderl",
       "description": "",
       "place": "Monaco",
@@ -138,19 +108,19 @@
       "category": "AUTRE"
     },
     {
-      "title": "Grand loto de l'APEB",
+      "title": "Démontage d'exposition - Fermeture partielle des salles (mai 2026)",
       "description": "",
-      "place": "Antibes",
-      "city": "Antibes",
+      "place": "Nice",
+      "city": "Nice",
       "starts_at": 1779400800000,
       "ends_at": 1779408000000,
       "has_time": false,
       "price": "—",
       "price_val": 0,
-      "source": "ANTIBES",
-      "source_url": "https://www.antibes-juanlespins.com/information/agenda/evenements-ponctuels/grand-loto-de-lapeb",
-      "image_url": "https://www.antibes-juanlespins.com/typo3conf/ext/stratis_site/Resources/Public/Images/logos/logo.png",
-      "category": "AUTRE"
+      "source": "CHAGALL",
+      "source_url": "https://musees-nationaux-alpesmaritimes.fr/chagall/agenda/evenement/demontage-dexposition-fermeture-partielle-des-salles-mai-2026",
+      "image_url": "https://musees-nationaux-alpesmaritimes.fr/chagall/sites/chagall/files/styles/thumbnail_w880/public/2026-05/Visuel%20de%20d%C3%A9montage.jpg?itok=_-L4P85k",
+      "category": "EXPO"
     },
     {
       "title": "Ciné-Club 2026 de GrecDoc à Nice en partenariat avec la CGDAM",
@@ -166,21 +136,6 @@
       "source_url": "https://www.infolocale.fr/evenements?age%5B0%5D=Tout%20Public&age%5B1%5D=Adulte&age%5B2%5D=Adolescent&age%5B3%5D=Enfant&age%5B4%5D=Bebe&commune=06088",
       "image_url": "https://photos.infolocale.fr/infolocale/annonce/2026/0512/8882727/_1.jpg?rnd=20260512115340",
       "category": "CINEMA"
-    },
-    {
-      "title": "Fête de la nature",
-      "description": "",
-      "place": "Antibes",
-      "city": "Antibes",
-      "starts_at": 1779487200000,
-      "ends_at": 1779494400000,
-      "has_time": false,
-      "price": "—",
-      "price_val": 0,
-      "source": "ANTIBES",
-      "source_url": "https://www.antibes-juanlespins.com/information/agenda/evenements-ponctuels/fete-de-la-nature",
-      "image_url": "https://www.antibes-juanlespins.com/typo3conf/ext/stratis_site/Resources/Public/Images/logos/logo.png",
-      "category": "AUTRE"
     },
     {
       "title": "Nuit européenne des musées 2026",
@@ -678,6 +633,21 @@
       "category": "THEATRE"
     },
     {
+      "title": "Pas croisés - Ballets de Monte-Carlo",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1781820000000,
+      "ends_at": 1781827200000,
+      "has_time": false,
+      "price": "—",
+      "price_val": 0,
+      "source": "CHAGALL",
+      "source_url": "https://musees-nationaux-alpesmaritimes.fr/chagall/agenda/evenement/pas-croises-ballets-de-monte-carlo-5",
+      "image_url": "https://musees-nationaux-alpesmaritimes.fr/chagall/sites/chagall/files/styles/crop_vignette/public/2025-10/Design%20sans%20titre%20%288%29.png?itok=AhNDzs1R",
+      "category": "AUTRE"
+    },
+    {
       "title": "Gala de l'Académie",
       "description": "",
       "place": "Monaco",
@@ -858,6 +828,21 @@
       "category": "AUTRE"
     },
     {
+      "title": "Carte blanche aux élèves du Conservatoire de Nice ! #5",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1782511200000,
+      "ends_at": 1782518400000,
+      "has_time": false,
+      "price": "—",
+      "price_val": 0,
+      "source": "CHAGALL",
+      "source_url": "https://musees-nationaux-alpesmaritimes.fr/chagall/agenda/evenement/carte-blanche-aux-eleves-du-conservatoire-de-nice-5-3",
+      "image_url": "https://musees-nationaux-alpesmaritimes.fr/chagall/sites/chagall/files/styles/thumbnail_w880/public/2023-09/salle_concert_vitraux_clavecin_1920x960px.jpg?itok=_TiddMhc",
+      "category": "AUTRE"
+    },
+    {
       "title": "STAR ACADEMY 2026",
       "description": "",
       "place": "Nice",
@@ -903,6 +888,21 @@
       "category": "EXPO"
     },
     {
+      "title": "Concert de musique de chambre - 8 juin 2026",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1785967200000,
+      "ends_at": 1785974400000,
+      "has_time": false,
+      "price": "—",
+      "price_val": 0,
+      "source": "CHAGALL",
+      "source_url": "https://musees-nationaux-alpesmaritimes.fr/chagall/agenda/evenement/concert-de-musique-de-chambre-8-juin-2026",
+      "image_url": "https://musees-nationaux-alpesmaritimes.fr/chagall/sites/chagall/files/styles/thumbnail_w880/public/2024-04/Concert_opera_musique_chambre_1920x960px.jpg?itok=UFqS7MPS",
+      "category": "CONCERT"
+    },
+    {
       "title": "Concert au Palais Princier",
       "description": "",
       "place": "Monaco",
@@ -916,6 +916,21 @@
       "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/concert-au-palais-princier",
       "image_url": null,
       "category": "CONCERT"
+    },
+    {
+      "title": "Chagall à l'oeuvre. Un prêt d'exception au musée /  Derniers jours du premier volet s'achevant le 17 mai 2026",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1789941600000,
+      "ends_at": 1789948800000,
+      "has_time": false,
+      "price": "—",
+      "price_val": 0,
+      "source": "CHAGALL",
+      "source_url": "https://musees-nationaux-alpesmaritimes.fr/chagall/agenda/evenement/chagall-loeuvre-un-pret-dexception-au-musee-derniers-jours-du-premier-volet",
+      "image_url": "https://musees-nationaux-alpesmaritimes.fr/chagall/sites/chagall/files/styles/thumbnail_w880/public/2025-12/Bandeau%20Maquette%20pour%20le%20rideau%20de%20sc%C3%A8ne%20du%201er%20acte%20de%20%E2%80%9CL%E2%80%99Oiseau%20de%20feu%E2%80%9D%20de%20Stravinsky%20%20La%20for%C3%AAt%20enchant%C3%A9e%2C%201945.jpg?itok=U4w7xmqO",
+      "category": "EXPO"
     },
     {
       "title": "LA LÉGENDE DE MONTE-CRISTO, L...",
@@ -976,6 +991,21 @@
       "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/65e-festival-de-television-de-monte-carlo",
       "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/2/8/8/2/1852882-5-fre-FR/bea390b27a70-AFFICHE_FTV26.jpg.webp",
       "category": "AUTRE"
+    },
+    {
+      "title": "Projection du FILM « HENRI Matisse »",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1810159200000,
+      "ends_at": 1810166400000,
+      "has_time": false,
+      "price": "—",
+      "price_val": 0,
+      "source": "MATISSE",
+      "source_url": "https://www.musee-matisse-nice.org/fr/evenement/projection-du-film-henri-matisse/",
+      "image_url": "https://www.musee-matisse-nice.org/wp-content/uploads/2021/02/Musee-Matisse-Nice-Partage.png",
+      "category": "CINEMA"
     }
   ]
 }
