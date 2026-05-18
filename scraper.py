@@ -609,16 +609,18 @@ def scrape_html(soup: BeautifulSoup, site: dict, seen: set) -> list:
     if source == "OT_NICE":
         base = "https://www.explorenicecotedazur.com"
         block = soup.select_one("div.wpet-block-list")
-        cards = block.select("a[href*='/evenement/']") if block else []
+        cards = block.select("a.stretched-link[href*='/evenement/']") if block else []
         print(f"  OT_NICE: {len(cards)} event cards")
-        for card in cards[:2]:
-            title_el = card.select_one("h2,h3,h4,[class*='title'],[class*='Title'],[class*='name']")
-            date_el  = card.select_one("[class*='DatesDuAu'],[class*='date'],[class*='Date'],time")
-            img_el   = card.select_one("img")
+        for card_link in cards[:2]:
+            container = card_link.parent  # actual card element containing title/date/img
+            title_el = container.select_one("h2,h3,h4,[class*='title'],[class*='Title'],[class*='name']")
+            date_el  = container.select_one("[class*='DatesDuAu'],[class*='date'],[class*='Date'],time")
+            img_el   = container.select_one("img")
             title_t  = title_el.get_text(strip=True)[:50] if title_el else "—"
             date_t   = (date_el.get_text(strip=True) or date_el.get("datetime",""))[:40] if date_el else "—"
             img_src  = (img_el.get("data-src") or img_el.get("src",""))[:60] if img_el else "—"
-            print(f"    title={title_t!r} date={date_t!r} img={img_src!r}")
+            cont_cls = " ".join(container.get("class", []))[:50]
+            print(f"    container={container.name}.{cont_cls} title={title_t!r} date={date_t!r} img={img_src!r}")
 
     # nice.fr — municipal agenda with French date text in cards
     if source == "VILLE_NICE":
