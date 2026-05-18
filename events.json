@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-18T15:25:29Z",
-  "count": 62,
+  "scraped_at": "2026-05-18T15:54:05Z",
+  "count": 65,
   "events": [
     {
       "title": "Conférence autour de l'exposition \"C'est ainsi qu'Antibes est aussi ma ville\"",
@@ -153,6 +153,21 @@
       "category": "AUTRE"
     },
     {
+      "title": "Ciné-Club 2026 de GrecDoc à Nice en partenariat avec la CGDAM",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1779400800000,
+      "ends_at": 1779408000000,
+      "has_time": false,
+      "price": "—",
+      "price_val": 0,
+      "source": "INFOLOCALE",
+      "source_url": "https://www.infolocale.fr/evenements?age%5B0%5D=Tout%20Public&age%5B1%5D=Adulte&age%5B2%5D=Adolescent&age%5B3%5D=Enfant&age%5B4%5D=Bebe&commune=06088",
+      "image_url": "https://photos.infolocale.fr/infolocale/annonce/2026/0512/8882727/_1.jpg?rnd=20260512115340",
+      "category": "CINEMA"
+    },
+    {
       "title": "Fête de la nature",
       "description": "",
       "place": "Antibes",
@@ -211,6 +226,21 @@
       "source_url": "https://www.nikaia.fr/programmation/trial-indoor-international-2026",
       "image_url": "https://www.nikaia.fr/files/nikaia-share-default.png",
       "category": "AUTRE"
+    },
+    {
+      "title": "Salon de l'Automobile Électrique de Nice",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1779573600000,
+      "ends_at": 1779580800000,
+      "has_time": false,
+      "price": "—",
+      "price_val": 0,
+      "source": "INFOLOCALE",
+      "source_url": "https://www.infolocale.fr/evenements?age%5B0%5D=Tout%20Public&age%5B1%5D=Adulte&age%5B2%5D=Adolescent&age%5B3%5D=Enfant&age%5B4%5D=Bebe&commune=06088",
+      "image_url": "https://photos.infolocale.fr/infolocale/annonce/2026/0401/8845661/_1.jpg?rnd=20260402100827",
+      "category": "MARCHE"
     },
     {
       "title": "Concert symphonique - E. Grandy – J.-Y. Thibaudet",
@@ -480,6 +510,21 @@
       "source": "OPERA_NICE",
       "source_url": "https://www.opera-nice.org/fr/evenement/1302/gouter-sur-scene?origin=menu",
       "image_url": "https://www.opera-nice.org/uploads/evenement/photos/gouter-sur-scene_1302.png",
+      "category": "AUTRE"
+    },
+    {
+      "title": "RENDEZ-VOUS AUX JARDINS \" LA VUE\"",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1780696800000,
+      "ends_at": 1780704000000,
+      "has_time": false,
+      "price": "—",
+      "price_val": 0,
+      "source": "INFOLOCALE",
+      "source_url": "https://www.infolocale.fr/evenements?age%5B0%5D=Tout%20Public&age%5B1%5D=Adulte&age%5B2%5D=Adolescent&age%5B3%5D=Enfant&age%5B4%5D=Bebe&commune=06088",
+      "image_url": "https://photos.infolocale.fr/infolocale/openagenda/2026/06/06/9355819/_1.jpg?rnd=20260507063644",
       "category": "AUTRE"
     },
     {
