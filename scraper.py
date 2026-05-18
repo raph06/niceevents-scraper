@@ -107,17 +107,24 @@ _FRENCH_MONTHS = {
 }
 
 def parse_french_date(text: str) -> Optional[str]:
-    """'Ven. 23 mai 2026', 'Du 5 au 8 juin 2026', 'mardi 12 mai' → ISO date string."""
+    """'Ven. 23 mai 2026 14h30', 'Du 5 au 8 juin 2026', 'mardi 12 mai' → ISO datetime/date string."""
     text = re.sub(r"\b(lundi|mardi|mercredi|jeudi|vendredi|samedi|dimanche)\b", "", text.strip(), flags=re.IGNORECASE)
     text = re.sub(r"\b(lun|mar|mer|jeu|ven|sam|dim)\.?\s*", "", text.strip(), flags=re.IGNORECASE)
     text = text.lower().strip()
+    # Extract time component if present: "14h30", "14h", "14:30"
+    time_suffix = ""
+    tm = re.search(r'(?:^|[\s\-àa])(\d{1,2})[h:](\d{0,2})(?!\d)', text)
+    if tm:
+        h_val, m_val = int(tm.group(1)), int(tm.group(2)) if tm.group(2) else 0
+        if 0 <= h_val <= 23 and 0 <= m_val <= 59:
+            time_suffix = f"T{h_val:02d}:{m_val:02d}:00"
     # With explicit year: "23 mai 2026"
     m = re.search(r"(\d{1,2})\s+(\w+)\s+(20\d{2})", text)
     if m:
         day, month_str, year = m.group(1), m.group(2), m.group(3)
         month = _FRENCH_MONTHS.get(month_str)
         if month:
-            return f"{year}-{month:02d}-{int(day):02d}"
+            return f"{year}-{month:02d}-{int(day):02d}{time_suffix}"
     # Without year: "12 mai" — infer current or next year
     m = re.search(r"(\d{1,2})\s+(\w+)", text)
     if m:
@@ -130,7 +137,7 @@ def parse_french_date(text: str) -> Optional[str]:
                 candidate = datetime(year, month, int(day), tzinfo=timezone.utc)
                 if candidate < now - timedelta(days=1):
                     year += 1
-                return f"{year}-{month:02d}-{int(day):02d}"
+                return f"{year}-{month:02d}-{int(day):02d}{time_suffix}"
             except ValueError:
                 return None
     return None
@@ -691,10 +698,19 @@ def scrape_html(soup: BeautifulSoup, site: dict, seen: set) -> list:
             # Skip the listing page itself
             if re.match(r"^/programmation/?$", href) or href == site["url"]:
                 continue
-            title_el = link.select_one("h2, h3, h4")
+            # Title: try inside link first, then parent container
+            title_el = link.select_one("h2, h3, h4, [class*='title'], [class*='titre']")
             if not title_el:
+                parent = link.parent
+                title_el = parent.select_one("h2, h3, h4, [class*='title'], [class*='titre']") if parent else None
+            if not title_el:
+                # Last resort: use link text directly
+                raw = link.get_text(strip=True)
+                title = raw.split("\n")[0].strip() if raw else None
+            else:
+                title = title_el.get_text(strip=True)
+            if not title:
                 continue
-            title = title_el.get_text(strip=True)
             date_str = None
             for p in link.select("p, span, time"):
                 text = p.get_text(strip=True)
