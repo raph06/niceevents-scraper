@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-18T17:52:29Z",
-  "count": 100,
+  "scraped_at": "2026-05-18T18:06:21Z",
+  "count": 99,
   "events": [
     {
       "title": "Tour Bellanda – Le Bellandarium",
@@ -363,8 +363,8 @@
       "category": "AUTRE"
     },
     {
-      "title": "PLATURNELevendredi 22 mai 2026Frigo 16",
-      "description": "",
+      "title": "PLATURNE",
+      "description": "Le",
       "place": "Nice",
       "city": "Nice",
       "starts_at": 1779400800000,
@@ -408,8 +408,8 @@
       "category": "CINEMA"
     },
     {
-      "title": "Apéro DésAstres #30 : Chat Pe...Lesamedi 23 mai 2026L’Entre-Pont",
-      "description": "",
+      "title": "Apéro DésAstres #30 : Chat Pe...",
+      "description": "Le",
       "place": "Nice",
       "city": "Nice",
       "starts_at": 1779487200000,
@@ -423,8 +423,8 @@
       "category": "AUTRE"
     },
     {
-      "title": "RIFF & BLOOD #2Lesamedi 23 mai 2026Frigo 16",
-      "description": "",
+      "title": "RIFF & BLOOD #2",
+      "description": "Le",
       "place": "Nice",
       "city": "Nice",
       "starts_at": 1779487200000,
@@ -723,6 +723,21 @@
       "category": "AUTRE"
     },
     {
+      "title": "CROSSOVER FESTIVAL",
+      "description": "Du",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1780005600000,
+      "ends_at": 1780012800000,
+      "has_time": false,
+      "price": "—",
+      "price_val": 0,
+      "source": "LE109",
+      "source_url": "https://le109.nice.fr/programmation/crossover-festival-1",
+      "image_url": "https://le109.nice.fr/thumbs/100x100c/2026-03/capture-d-e-cran-2026-03-30-a-09.18.09.png",
+      "category": "AUTRE"
+    },
+    {
       "title": "La Note Bleue Summer Festival 2026",
       "description": "",
       "place": "Monaco",
@@ -735,21 +750,6 @@
       "source": "MONACO",
       "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/la-note-bleue-summer-festival-2026",
       "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/4/4/0/1/2071044-1-fre-FR/6c8d6b870a60-98Ljqs_I37atQHym.png.webp",
-      "category": "AUTRE"
-    },
-    {
-      "title": "CROSSOVER FESTIVALDu29 maiau30 mai 2026Frigo 16, Parvis Turin, Place intérieure",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1780092000000,
-      "ends_at": 1780099200000,
-      "has_time": false,
-      "price": "—",
-      "price_val": 0,
-      "source": "LE109",
-      "source_url": "https://le109.nice.fr/programmation/crossover-festival-1",
-      "image_url": "https://le109.nice.fr/thumbs/100x100c/2026-03/capture-d-e-cran-2026-03-30-a-09.18.09.png",
       "category": "AUTRE"
     },
     {
@@ -978,8 +978,8 @@
       "category": "AUTRE"
     },
     {
-      "title": "QUANTICLesamedi 13 juin 2026Frigo 16",
-      "description": "",
+      "title": "QUANTIC",
+      "description": "Le",
       "place": "Nice",
       "city": "Nice",
       "starts_at": 1781301600000,
@@ -1263,21 +1263,6 @@
       "category": "AUTRE"
     },
     {
-      "title": "Festival l'Autre Émoi 2026Du5 juinau7 juin 2026L’Entre-Pont",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1783288800000,
-      "ends_at": 1783296000000,
-      "has_time": false,
-      "price": "—",
-      "price_val": 0,
-      "source": "LE109",
-      "source_url": "https://le109.nice.fr/programmation/festival-l-autre-emoi",
-      "image_url": "https://le109.nice.fr/thumbs/100x100c/2026-05/affiche-autre-emoi-2026.jpg",
-      "category": "AUTRE"
-    },
-    {
       "title": "STAR ACADEMY 2026",
       "description": "",
       "place": "Nice",
@@ -1383,8 +1368,8 @@
       "category": "AUTRE"
     },
     {
-      "title": "Ladies Football ClubLejeudi 11 juin 2026L’Entre-Pont",
-      "description": "",
+      "title": "Ladies Football Club",
+      "description": "Le",
       "place": "Nice",
       "city": "Nice",
       "starts_at": 1793919600000,
@@ -1443,8 +1428,8 @@
       "category": "AUTRE"
     },
     {
-      "title": "Le labyrinthe de l'oieLevendredi 12 juin 2026L’Entre-Pont",
-      "description": "",
+      "title": "Le labyrinthe de l'oie",
+      "description": "Le",
       "place": "Nice",
       "city": "Nice",
       "starts_at": 1796511600000,
@@ -1458,8 +1443,8 @@
       "category": "AUTRE"
     },
     {
-      "title": "Service à tous les étagesLevendredi 12 juin 2026L’Entre-Pont",
-      "description": "",
+      "title": "Service à tous les étages",
+      "description": "Le",
       "place": "Nice",
       "city": "Nice",
       "starts_at": 1796511600000,
@@ -1473,8 +1458,8 @@
       "category": "AUTRE"
     },
     {
-      "title": "Atmosphérique, filmer l'archi...Du29 avrilau30 oct. 2026Forum d’Urbanisme et d’Architecture",
-      "description": "",
+      "title": "Atmosphérique, filmer l'archi...",
+      "description": "Du",
       "place": "Nice",
       "city": "Nice",
       "starts_at": 1808949600000,
