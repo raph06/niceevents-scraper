@@ -1076,11 +1076,13 @@ def scrape_html(soup: BeautifulSoup, site: dict, seen: set) -> list:
             print(f"  → MATISSE: {len(events)} events")
         return events
 
-    # nikaia.fr — <article class="bloc-event"> with <meta itemprop="image" content="...">
+    # nikaia.fr — <article class="bloc-event"> with <h1 itemprop="name"> title,
+    # <time itemprop="startDate"> date, and <meta itemprop="image"> for per-event image.
     if source == "NIKAIA":
         base = "https://www.nikaia.fr"
         for article in soup.select("article.bloc-event, article[class*='bloc-event'], article[class*='event']"):
-            title_el = article.select_one("h2, h3, h4, .event-title, [class*='title']")
+            # Title lives in h1[itemprop="name"] on nikaia.fr (not h2/h3)
+            title_el = article.select_one("h1[itemprop='name'], h1, h2, h3, h4, .event-title, [class*='title']")
             if not title_el:
                 continue
             title = title_el.get_text(strip=True)
@@ -1102,22 +1104,24 @@ def scrape_html(soup: BeautifulSoup, site: dict, seen: set) -> list:
             if link_el:
                 href = link_el.get("href", "")
                 url = href if href.startswith("http") else base + href
-            # Per-event image: prefer itemprop="image" meta tag inside the article
+            # Per-event image: prefer itemprop="image" meta tag inside the article (absolute URL)
             image_url = None
             itemprop_img = article.select_one('meta[itemprop="image"]')
             if itemprop_img:
                 img_content = itemprop_img.get("content", "")
                 if img_content and "nikaia-share-default" not in img_content:
                     image_url = _normalize_image_url(img_content)
-            # Fallback to <img> tag inside the article
-            if not image_url:
-                img_el = article.select_one("img[src]")
+            # Fallback: per-event thumbnail <img> inside .imageholder (relative URL)
+            if image_url is None:
+                img_el = article.select_one(".imageholder img, img[src]")
                 if img_el:
                     src = img_el.get("src", "")
-                    if src.startswith("http"):
-                        image_url = _normalize_image_url(src)
-                    elif src.startswith("/"):
-                        image_url = _normalize_image_url(base + src)
+                    if src and "nikaia-share-default" not in src:
+                        if src.startswith("http"):
+                            image_url = _normalize_image_url(src)
+                        elif src.startswith("/"):
+                            image_url = _normalize_image_url(base + src)
+            # If both paths returned the default placeholder, image_url stays None
             ev = _make_event(title, date_str, {}, site, seen)
             if ev:
                 ev["source_url"] = url
