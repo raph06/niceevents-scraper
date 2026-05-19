@@ -1076,6 +1076,58 @@ def scrape_html(soup: BeautifulSoup, site: dict, seen: set) -> list:
             print(f"  → MATISSE: {len(events)} events")
         return events
 
+    # nikaia.fr — <article class="bloc-event"> with <meta itemprop="image" content="...">
+    if source == "NIKAIA":
+        base = "https://www.nikaia.fr"
+        for article in soup.select("article.bloc-event, article[class*='bloc-event'], article[class*='event']"):
+            title_el = article.select_one("h2, h3, h4, .event-title, [class*='title']")
+            if not title_el:
+                continue
+            title = title_el.get_text(strip=True)
+            if not title or len(title) < 2:
+                continue
+            date_str = None
+            date_el = article.select_one("time[datetime], [itemprop='startDate'], [class*='date']")
+            if date_el:
+                date_str = date_el.get("datetime") or date_el.get("content") or parse_french_date(date_el.get_text(strip=True))
+            if not date_str:
+                for el in article.select("p, span, div"):
+                    date_str = parse_french_date(el.get_text(strip=True))
+                    if date_str:
+                        break
+            if not date_str:
+                continue
+            link_el = article.select_one("a[href]")
+            url = site["url"]
+            if link_el:
+                href = link_el.get("href", "")
+                url = href if href.startswith("http") else base + href
+            # Per-event image: prefer itemprop="image" meta tag inside the article
+            image_url = None
+            itemprop_img = article.select_one('meta[itemprop="image"]')
+            if itemprop_img:
+                img_content = itemprop_img.get("content", "")
+                if img_content and "nikaia-share-default" not in img_content:
+                    image_url = _normalize_image_url(img_content)
+            # Fallback to <img> tag inside the article
+            if not image_url:
+                img_el = article.select_one("img[src]")
+                if img_el:
+                    src = img_el.get("src", "")
+                    if src.startswith("http"):
+                        image_url = _normalize_image_url(src)
+                    elif src.startswith("/"):
+                        image_url = _normalize_image_url(base + src)
+            ev = _make_event(title, date_str, {}, site, seen)
+            if ev:
+                ev["source_url"] = url
+                if image_url:
+                    ev["image_url"] = image_url
+                events.append(ev)
+        if events:
+            print(f"  → NIKAIA: {len(events)} events")
+        return events
+
     # Generic: look for <article> or <li> with a <time datetime="..."> and a heading
     if not events:
         for card in soup.select("article, li.event, li.evenement, .event-card, .agenda-item"):
