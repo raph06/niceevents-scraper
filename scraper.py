@@ -583,6 +583,27 @@ async def scrape_site(page: Page, site: dict) -> list:
     if events:
         print(f"  → HTML selectors: {len(events)} events")
 
+    # LE109: enrich with detail-page time (itemprop startDate) and full-resolution image
+    if site["source"] == "LE109" and events:
+        _le109_ua = ("Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
+                     "(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36")
+        async with aiohttp.ClientSession(
+            connector=aiohttp.TCPConnector(limit=5),
+            headers={"User-Agent": _le109_ua},
+        ) as _session:
+            _details = await asyncio.gather(
+                *[_le109_detail(ev["source_url"], _session) for ev in events]
+            )
+        for ev, (dt_str, img) in zip(events, _details):
+            if dt_str:
+                ts = parse_ms(dt_str)
+                if ts:
+                    ev["starts_at"] = ts
+                    ev["ends_at"] = ts + 7_200_000
+                    ev["has_time"] = True
+            if img:
+                ev["image_url"] = img
+
     # Apply og:image as fallback for events without a per-event image
     og_tag = soup.find("meta", property="og:image")
     page_image = _normalize_image_url(og_tag.get("content") if og_tag else None)
@@ -821,8 +842,8 @@ def scrape_html(soup: BeautifulSoup, site: dict, seen: set) -> list:
                         or line.lower() in _LE109_STOP
                         or len(line) < 3):
                     continue
-                    description = line
-                    break
+                description = line
+                break
             # Image: prefer data-src (lazy loading), fallback to src
             img_url = None
             img_el = link.select_one("img[data-src], img[src]")
@@ -1106,6 +1127,25 @@ def scrape_html(soup: BeautifulSoup, site: dict, seen: set) -> list:
     return events
 
 # ─── Main ──────────────────────────────────────────────────────────────────────
+
+async def _le109_detail(url: str, session: aiohttp.ClientSession) -> tuple:
+    """Returns (datetime_str | None, img_url | None) from a Le 109 event detail page."""
+    try:
+        async with session.get(url, timeout=aiohttp.ClientTimeout(total=8)) as r:
+            if r.status != 200:
+                return None, None
+            text = await r.text(errors="ignore")
+        soup = BeautifulSoup(text, "lxml")
+        time_el = soup.select_one("time[itemprop='startDate'][datetime]")
+        dt_str = time_el.get("datetime") if time_el else None
+        img_el = soup.select_one("#zone-contenu article div:nth-child(1) figure img")
+        img_src = img_el.get("src") if img_el else None
+        if img_src and not img_src.startswith("http"):
+            img_src = "https://le109.nice.fr" + img_src
+        return dt_str, _normalize_image_url(img_src)
+    except Exception:
+        return None, None
+
 
 async def _og_image(url: str, session: aiohttp.ClientSession) -> Optional[str]:
     """Fetch the og:image from an event detail page."""
