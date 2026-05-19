@@ -172,19 +172,28 @@ def _str(obj: dict, *keys) -> Optional[str]:
             return v.strip()
     return None
 
+_SSL_BROKEN_HOSTS = {"le109.nice.fr"}
+
 def _normalize_image_url(value: Optional[str]) -> Optional[str]:
     if not isinstance(value, str):
         return None
     url = value.strip()
     if not url:
         return None
-    if url.startswith("https://"):
-        return url
     if url.startswith("http://"):
-        return "https://" + url[len("http://"):]
-    if url.startswith("//"):
-        return "https:" + url
-    return None
+        url = "https://" + url[len("http://"):]
+    elif url.startswith("//"):
+        url = "https:" + url
+    elif not url.startswith("https://"):
+        return None
+    # Proxy images from hosts whose TLS cert Android doesn't trust
+    try:
+        host = url.split("/")[2]
+        if host in _SSL_BROKEN_HOSTS:
+            url = "https://wsrv.nl/?url=" + url[len("https://"):]
+    except IndexError:
+        pass
+    return url
 
 def _img(obj: dict) -> Optional[str]:
     for k in ["image", "imageUrl", "thumbnail", "photo", "cover", "picture",
