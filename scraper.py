@@ -45,7 +45,6 @@ SITES = [
     {"source": "ANTIBES",          "city": "Antibes",        "url": "https://www.antibes-juanlespins.com/information/agenda/evenements-ponctuels"},
     {"source": "MENTON",           "city": "Menton",         "url": "https://www.menton-riviera-merveilles.fr/sorganiser/agenda/tout-lagenda/"},
     {"source": "CAGNES",           "city": "Cagnes-sur-Mer", "url": "https://ville.cagnes.fr/les-evenements/"},
-    {"source": "TNN",              "city": "Nice",           "url": "https://www.tnn.fr/fr/calendrier"},
     {"source": "OPERA_NICE",       "city": "Nice",           "url": "https://www.opera-nice.org/fr/calendrier"},
     {"source": "NIKAIA",           "city": "Nice",           "url": "https://www.nikaia.fr/programmation"},
     {"source": "LE109",            "city": "Nice",           "url": "https://le109.nice.fr/programmation"},
@@ -756,52 +755,6 @@ def scrape_html(soup: BeautifulSoup, site: dict, seen: set) -> list:
                 events.append(ev)
         return events
 
-    # tnn.fr — date is a text sibling of the <a>, title may be link text directly
-    if source == "TNN":
-        # Diagnostics: show first spectacle/evenement links found
-        sample = soup.select("a[href*='/spectacles/'], a[href*='/evenements/']")
-        print(f"  TNN links found: {len(sample)} — first 3: {[a.get('href','')[:80] for a in sample[:3]]}")
-        base = "https://www.tnn.fr"
-        # Exclude season overview page — only match event-specific slugs (contain at least 2 slashes after /fr/)
-        for link in soup.select("a[href*='/spectacles/'], a[href*='/evenements/']"):
-            href = link.get("href", "")
-            if not href:
-                continue
-            # Skip nav-level links like /fr/spectacles/saison-2025-2026 (no event slug after)
-            if re.search(r"/(spectacles|evenements)/?$", href):
-                continue
-            if re.search(r"/spectacles/saison-\d{4}-\d{4}/?$", href):
-                continue
-            # Title: prefer heading inside link, fall back to link text
-            title_el = link.select_one("h3, h2, h4, [class*='event-title'], [class*='title']")
-            title = title_el.get_text(strip=True) if title_el else link.get_text(strip=True)
-            if not title or len(title) < 3:
-                continue
-            date_str = None
-            # Date is a day-group header (e.g. <strong>mardi 12 mai</strong>) sitting
-            # several DOM levels above the link — find_all_previous() traverses backward
-            # through the whole document regardless of nesting depth.
-            for prev in link.find_all_previous(["strong", "h2", "h3", "time"], limit=15):
-                if prev.name == "time" and prev.get("datetime"):
-                    date_str = prev.get("datetime")
-                    break
-                parsed = parse_french_date(prev.get_text(strip=True))
-                if parsed:
-                    date_str = parsed
-                    break
-            if not date_str:
-                continue
-            url = href if href.startswith("http") else base + href
-            img_el = link.select_one("img[src]")
-            img_url = img_el.get("src") if img_el else None
-            ev = _make_event(title, date_str, {}, site, seen)
-            if ev:
-                ev["source_url"] = url
-                if img_url:
-                    ev["image_url"] = _normalize_image_url(img_url if img_url.startswith("http") else base + img_url)
-                events.append(ev)
-        return events
-
     # le109.nice.fr — cards: <a href="/programmation/[slug]"><img><h2>Title<span>date</span><span>venue</span></a>
     # get_text(strip=True) concatenates all without separators → use separator="\n" to split cleanly
     if source == "LE109":
@@ -1238,9 +1191,235 @@ async def enrich_images(events: list) -> None:
             print(f"  → Unsplash disabled (no key) — {still_missing} events still without image")
 
 
+_TNN_MONTHS_URL = [
+    "janvier", "fevrier", "mars", "avril", "mai", "juin",
+    "juillet", "aout", "septembre", "octobre", "novembre", "decembre",
+]
+
+_TNN_CAT_MAP = {
+    "théâtre": "THEATRE", "theatre": "THEATRE",
+    "danse": "AUTRE", "musique": "CONCERT", "concert": "CONCERT",
+    "jeune public": "FAMILLE", "famille": "FAMILLE",
+    "lecture": "THEATRE", "exposition": "EXPO",
+}
+
+def _tnn_category(breadcrumb: str, title: str) -> str:
+    lo = breadcrumb.lower()
+    for key, val in _TNN_CAT_MAP.items():
+        if key in lo:
+            return val
+    return infer_category(title)
+
+async def scrape_tnn() -> list:
+    """
+    TNN (Théâtre National de Nice) — server-side rendered, no JS needed.
+    Phase 1: collect unique event URLs from monthly calendar pages.
+    Phase 2: fetch each detail page, emit one event per performance date.
+    """
+    BASE = "https://www.tnn.fr"
+    UA = ("Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
+          "(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36")
+    _WEEKDAY_RE = re.compile(
+        r"\b(lundi|mardi|mercredi|jeudi|vendredi|samedi|dimanche)\b", re.IGNORECASE
+    )
+    _DATE_LINE_RE = re.compile(r"\d{1,2}\s+\w+\s+20\d{2}", re.IGNORECASE)
+    _TIME_RE = re.compile(r"\b(\d{1,2})h(\d{2})?\b")
+
+    now = datetime.now(timezone.utc)
+    calendar_urls = []
+    for delta in range(13):
+        target = now + timedelta(days=31 * delta)
+        m_name = _TNN_MONTHS_URL[target.month - 1]
+        calendar_urls.append((f"{BASE}/fr/calendrier/{m_name}/{target.year}", target.year))
+
+    connector = aiohttp.TCPConnector(limit=5, ssl=False)
+    headers = {"User-Agent": UA, "Accept-Language": "fr-FR,fr;q=0.9"}
+    unique_event_urls: dict = {}
+    all_events: list = []
+    seen_keys: set = set()
+
+    async with aiohttp.ClientSession(connector=connector, headers=headers) as session:
+        # Phase 1: collect unique event URLs from monthly listings
+        for cal_url, _ in calendar_urls:
+            try:
+                async with session.get(cal_url, timeout=aiohttp.ClientTimeout(total=15)) as r:
+                    if r.status != 200:
+                        continue
+                    html = await r.text(errors="ignore")
+            except Exception as e:
+                print(f"  TNN listing error {cal_url}: {e}")
+                continue
+            if "Aucun spectacle" in html or "aucun spectacle" in html:
+                continue
+            soup = BeautifulSoup(html, "lxml")
+            for link in soup.select("a[href*='/spectacles/'], a[href*='/evenements/']"):
+                href = link.get("href", "")
+                if not href:
+                    continue
+                if re.search(r"/(spectacles|evenements)/?$", href):
+                    continue
+                if re.search(r"/spectacles/saison-\d{4}-\d{4}/?$", href):
+                    continue
+                url = href if href.startswith("http") else BASE + href
+                if url in unique_event_urls:
+                    continue
+                title_el = link.select_one("h3, h2, h4")
+                title = title_el.get_text(strip=True) if title_el else link.get_text(strip=True)
+                title = title.strip()
+                if not title or len(title) < 3:
+                    continue
+                img_el = link.select_one("img[src]")
+                img_raw = img_el.get("src", "") if img_el else ""
+                img_url = _normalize_image_url(
+                    img_raw if img_raw.startswith("http") else (BASE + img_raw if img_raw.startswith("/") else None)
+                )
+                unique_event_urls[url] = (title, img_url)
+
+        print(f"  TNN Phase 1: {len(unique_event_urls)} unique event URLs")
+        if not unique_event_urls:
+            return []
+
+        # Phase 2: fetch detail pages, emit one event per performance date
+        for event_url, (listing_title, listing_img) in unique_event_urls.items():
+            try:
+                async with session.get(event_url, timeout=aiohttp.ClientTimeout(total=15)) as r:
+                    if r.status != 200:
+                        continue
+                    html = await r.text(errors="ignore")
+            except Exception as e:
+                print(f"  TNN detail error {event_url}: {e}")
+                continue
+            soup = BeautifulSoup(html, "lxml")
+
+            h1 = soup.select_one("h1")
+            title = h1.get_text(strip=True) if h1 else listing_title
+
+            cat_raw = ""
+            for sel in [".breadcrumb", "[class*='breadcrumb']", "[class*='categori']", "nav"]:
+                el = soup.select_one(sel)
+                if el:
+                    cat_raw = el.get_text(separator=" ", strip=True)
+                    if cat_raw:
+                        break
+            category = _tnn_category(cat_raw, title)
+
+            desc = ""
+            for sel in ["[class*='description']", "[class*='synopsis']", "[class*='texte']", "article p"]:
+                el = soup.select_one(sel)
+                if el:
+                    desc = el.get_text(strip=True)[:400]
+                    if desc:
+                        break
+
+            img_url = listing_img
+            slider_el = soup.select_one("img[src*='-slider'], img[src*='slider']")
+            if slider_el:
+                src = slider_el.get("src", "")
+                img_url = _normalize_image_url(
+                    src if src.startswith("http") else (BASE + src if src.startswith("/") else None)
+                ) or img_url
+            if not img_url:
+                og = soup.find("meta", property="og:image")
+                if og:
+                    img_url = _normalize_image_url(og.get("content"))
+
+            place = "Théâtre National de Nice"
+            for sel in ["[class*='lieu']", "[class*='salle']", "[class*='venue']"]:
+                el = soup.select_one(sel)
+                if el:
+                    t = el.get_text(strip=True)
+                    if t and len(t) < 80:
+                        place = t
+                        break
+
+            price_raw = ""
+            for sel in ["[class*='tarif']", "[class*='prix']", "[class*='price']"]:
+                el = soup.select_one(sel)
+                if el:
+                    price_raw = el.get_text(separator=" ", strip=True)
+                    if price_raw:
+                        break
+            if not price_raw:
+                for tag in soup.find_all(["p", "li", "span"], limit=100):
+                    t = tag.get_text(strip=True)
+                    if re.search(r"€|\blibre\b|\bgratuit\b|\btarif\b", t, re.IGNORECASE) and len(t) < 200:
+                        price_raw = t
+                        break
+            price, price_val = parse_price(price_raw)
+
+            # Extract all (date, optional time) pairs from the detail page
+            all_text_blocks = []
+            for el in soup.find_all(["p", "li", "span", "div", "strong", "time"]):
+                t = el.get_text(strip=True)
+                if t and len(t) < 150:
+                    all_text_blocks.append(t)
+
+            performance_dates: list = []
+            i = 0
+            while i < len(all_text_blocks):
+                block = all_text_blocks[i]
+                date_match = _DATE_LINE_RE.search(block)
+                if date_match:
+                    date_only = _WEEKDAY_RE.sub("", date_match.group(0)).strip()
+                    date_iso = parse_french_date(date_only)
+                    if date_iso:
+                        time_iso = None
+                        for j in range(i, min(i + 3, len(all_text_blocks))):
+                            tm = _TIME_RE.search(all_text_blocks[j])
+                            if tm:
+                                h = int(tm.group(1))
+                                m = int(tm.group(2)) if tm.group(2) else 0
+                                if 0 <= h <= 23:
+                                    time_iso = f"T{h:02d}:{m:02d}:00"
+                                    break
+                        full_dt = date_iso + (time_iso or "")
+                        performance_dates.append(full_dt)
+                i += 1
+
+            performance_dates = list(dict.fromkeys(performance_dates))
+            if not performance_dates:
+                print(f"  TNN: no dates found for {event_url}")
+                continue
+
+            for date_str in performance_dates:
+                dedup_key = f"{event_url}#{date_str}"
+                if dedup_key in seen_keys:
+                    continue
+                seen_keys.add(dedup_key)
+                starts_at = parse_ms(date_str)
+                if not starts_at or starts_at < _NOW_MS - 3_600_000:
+                    continue
+                has_time = "T" in date_str
+                all_events.append({
+                    "title": title,
+                    "description": desc,
+                    "place": place,
+                    "city": "Nice",
+                    "starts_at": starts_at,
+                    "ends_at": starts_at + 7_200_000,
+                    "has_time": has_time,
+                    "price": price,
+                    "price_val": price_val,
+                    "source": "TNN",
+                    "source_url": event_url,
+                    "image_url": img_url,
+                    "category": category,
+                })
+
+    print(f"  TNN: {len(all_events)} events from {len(unique_event_urls)} productions")
+    return all_events
+
+
 async def main():
     print(f"Scrape started {datetime.now(timezone.utc).isoformat()}Z")
     all_events: list = []
+
+    # TNN: server-side rendered — runs with plain aiohttp, no browser needed
+    try:
+        tnn_events = await scrape_tnn()
+        all_events.extend(tnn_events)
+    except Exception as e:
+        print(f"  ERROR TNN: {e}")
 
     async with async_playwright() as p:
         browser = await p.chromium.launch(args=["--no-sandbox", "--disable-dev-shm-usage"])
