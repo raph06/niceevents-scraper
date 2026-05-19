@@ -17,6 +17,7 @@ import aiohttp
 import dateutil.parser
 from bs4 import BeautifulSoup
 from dateutil.tz import gettz
+from dateutil.relativedelta import relativedelta
 from playwright.async_api import async_playwright, Page
 
 # ─── Unsplash config ───────────────────────────────────────────────────────────
@@ -1228,11 +1229,11 @@ async def scrape_tnn() -> list:
     now = datetime.now(timezone.utc)
     calendar_urls = []
     for delta in range(13):
-        target = now + timedelta(days=31 * delta)
+        target = now + relativedelta(months=delta)
         m_name = _TNN_MONTHS_URL[target.month - 1]
         calendar_urls.append((f"{BASE}/fr/calendrier/{m_name}/{target.year}", target.year))
 
-    connector = aiohttp.TCPConnector(limit=5, ssl=False)
+    connector = aiohttp.TCPConnector(limit=5)
     headers = {"User-Agent": UA, "Accept-Language": "fr-FR,fr;q=0.9"}
     unique_event_urls: dict = {}
     all_events: list = []
@@ -1467,7 +1468,7 @@ async def main():
     seen_keys: set = set()
     deduped = []
     for ev in future:
-        key = f"{ev['title'].lower()[:40]}_{ev['starts_at'] // 86_400_000}"
+        key = f"{ev['title'].lower()[:40]}_{ev['starts_at'] // 3_600_000}"
         if key not in seen_keys:
             seen_keys.add(key)
             deduped.append(ev)
