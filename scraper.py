@@ -599,15 +599,14 @@ async def scrape_site(page: Page, site: dict) -> list:
                         ev["ends_at"] = ts + 7_200_000
                         ev["has_time"] = True
                         time_ok += 1
-                meta_img = detail.select_one("meta[itemprop='image'][content]")
-                if meta_img:
-                    img = _normalize_image_url(meta_img.get("content"))
-                else:
-                    img_el = detail.select_one("figure img[src]")
-                    src = img_el.get("src") if img_el else None
-                    img = _normalize_image_url(
-                        "https://le109.nice.fr" + src if src and src.startswith("/") else src
-                    )
+                img_el = detail.select_one("figure img[src]")
+                src = img_el.get("src") if img_el else None
+                img = _normalize_image_url(
+                    "https://le109.nice.fr" + src if src and src.startswith("/") else src
+                )
+                if not img:
+                    meta_img = detail.select_one("meta[itemprop='image'][content]")
+                    img = _normalize_image_url(meta_img.get("content")) if meta_img else None
                 if img:
                     ev["image_url"] = img
                     img_ok += 1
