@@ -1,22 +1,7 @@
 {
-  "scraped_at": "2026-05-18T22:05:02Z",
-  "count": 118,
+  "scraped_at": "2026-05-19T02:38:16Z",
+  "count": 119,
   "events": [
-    {
-      "title": "Clic-clac Côte d’Azur !",
-      "description": "",
-      "place": "ExpositionHistorique",
-      "city": "Nice",
-      "starts_at": 1779141600000,
-      "ends_at": 1779148800000,
-      "has_time": false,
-      "price": "—",
-      "price_val": 0,
-      "source": "OT_NICE",
-      "source_url": "https://www.explorenicecotedazur.com/evenement/clic-clac-cote-dazur/",
-      "image_url": "https://cdn.iris-etourism.io/uploads/nice/sizes/9b2/49-11-40831793-335x335.webp",
-      "category": "AUTRE"
-    },
     {
       "title": "Tour Bellanda – Le Bellandarium",
       "description": "",
@@ -164,7 +149,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/lecture/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/09/bib-mobile-2.jpg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
@@ -179,7 +164,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/atelier/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/08/aquarelle-mai-mde.jpg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
@@ -210,6 +195,36 @@
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/rencontre/",
       "image_url": "https://www.nice.fr/wp-content/uploads/2026/04/bp-597447-tradition-250x250.jpg",
+      "category": "AUTRE"
+    },
+    {
+      "title": "De l’image à la lettre: quand l’alphabet naît du regard",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1779195600000,
+      "ends_at": 1779202800000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/rencontre/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/03/conference.jpg",
+      "category": "AUTRE"
+    },
+    {
+      "title": "La Bib’Mobile – Saint-Isidore",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1779197400000,
+      "ends_at": 1779204600000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/lecture/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/09/bib-mobile-2.jpg",
       "category": "AUTRE"
     },
     {
