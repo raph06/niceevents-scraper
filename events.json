@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-05-19T07:03:02Z",
+  "scraped_at": "2026-05-19T07:34:47Z",
   "count": 118,
   "events": [
     {
@@ -149,7 +149,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/lecture/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/09/bib-mobile-2.jpg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
@@ -359,7 +359,7 @@
       "price_val": 0,
       "source": "LE109",
       "source_url": "https://le109.nice.fr/programmation/platurne",
-      "image_url": "https://le109.nice.fr/files/2026-04/capture-d-e-cran-2026-04-27-a-11.10.43.png",
+      "image_url": "https://le109.nice.fr/thumbs/1024x562r/2026-04/capture-d-e-cran-2026-04-27-a-11.10.43.png",
       "category": "AUTRE"
     },
     {
@@ -509,7 +509,7 @@
       "price_val": 0,
       "source": "LE109",
       "source_url": "https://le109.nice.fr/programmation/apero-desastres-30-chat-perche-doppelgaenger",
-      "image_url": "https://le109.nice.fr/files/2026-04/bandeau-fb-site-apero-mai-low.jpg",
+      "image_url": "https://le109.nice.fr/thumbs/1024x562r/2026-04/bandeau-fb-site-apero-mai-low.jpg",
       "category": "AUTRE"
     },
     {
@@ -539,7 +539,7 @@
       "price_val": 0,
       "source": "LE109",
       "source_url": "https://le109.nice.fr/programmation/riff-blood-2",
-      "image_url": "https://le109.nice.fr/files/2026-04/capture-d-e-cran-2026-04-27-a-11.13.09.png",
+      "image_url": "https://le109.nice.fr/thumbs/1024x562r/2026-04/capture-d-e-cran-2026-04-27-a-11.13.09.png",
       "category": "AUTRE"
     },
     {
@@ -749,7 +749,7 @@
       "price_val": 0,
       "source": "LE109",
       "source_url": "https://le109.nice.fr/programmation/crossover-festival-1",
-      "image_url": "https://le109.nice.fr/files/2026-03/capture-d-e-cran-2026-03-30-a-09.18.09.png",
+      "image_url": "https://le109.nice.fr/thumbs/1024x562r/2026-03/capture-d-e-cran-2026-03-30-a-09.18.09.png",
       "category": "AUTRE"
     },
     {
@@ -1034,7 +1034,7 @@
       "price_val": 0,
       "source": "LE109",
       "source_url": "https://le109.nice.fr/programmation/quantic",
-      "image_url": "https://le109.nice.fr/files/2026-03/capture-d-e-cran-2026-03-02-a-11.04.01.png",
+      "image_url": "https://le109.nice.fr/thumbs/1024x562r/2026-03/capture-d-e-cran-2026-03-02-a-11.04.01.png",
       "category": "AUTRE"
     },
     {
@@ -1619,7 +1619,7 @@
       "price_val": 0,
       "source": "LE109",
       "source_url": "https://le109.nice.fr/programmation/ladies-football-club",
-      "image_url": "https://le109.nice.fr/files/2026-05/dossier-ladies-football-club.jpg",
+      "image_url": "https://le109.nice.fr/thumbs/1024x562r/2026-05/dossier-ladies-football-club.jpg",
       "category": "NUIT"
     },
     {
@@ -1664,7 +1664,7 @@
       "price_val": 0,
       "source": "LE109",
       "source_url": "https://le109.nice.fr/programmation/marcus-gad",
-      "image_url": "https://le109.nice.fr/files/2026-04/capture-d-e-cran-2026-04-27-a-11.17.34.png",
+      "image_url": "https://le109.nice.fr/thumbs/1024x562r/2026-04/capture-d-e-cran-2026-04-27-a-11.17.34.png",
       "category": "AUTRE"
     },
     {
@@ -1709,7 +1709,7 @@
       "price_val": 0,
       "source": "LE109",
       "source_url": "https://le109.nice.fr/programmation/le-labyrinthe-de-l-oie",
-      "image_url": "https://le109.nice.fr/files/2026-05/labyrinthedeloie.jpg",
+      "image_url": "https://le109.nice.fr/thumbs/1024x562r/2026-05/labyrinthedeloie.jpg",
       "category": "AUTRE"
     },
     {
@@ -1724,7 +1724,7 @@
       "price_val": 0,
       "source": "LE109",
       "source_url": "https://le109.nice.fr/programmation/service-a-tous-les-etages",
-      "image_url": "https://le109.nice.fr/files/2026-05/cie-lezards-bleus-antoine-le-menestrel-service-a-tous-les-etages-paris-11-bougecfrederic-de-faverny-e1646074073830.jpg",
+      "image_url": "https://le109.nice.fr/thumbs/1024x562r/2026-05/cie-lezards-bleus-antoine-le-menestrel-service-a-tous-les-etages-paris-11-bougecfrederic-de-faverny-e1646074073830.jpg",
       "category": "AUTRE"
     },
     {
