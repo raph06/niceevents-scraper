@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-19T22:14:22Z",
-  "count": 188,
+  "scraped_at": "2026-05-20T02:38:27Z",
+  "count": 194,
   "events": [
     {
       "title": "Comptage des oiseaux des jardins",
@@ -29,7 +29,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/rencontre/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/03/panoramique.jpg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
@@ -44,7 +44,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/04/611891-tour-bellanda-250x250.jpg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
@@ -104,7 +104,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/04/affiche-africa-pop-250x250.jpg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
@@ -119,7 +119,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/lecture/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/01/heure-histoire-caucade.jpg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
@@ -149,7 +149,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/animation/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/04/curieux-nature.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
@@ -164,8 +164,53 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/animation/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/01/jouons.jpg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
+    },
+    {
+      "title": "Visite guidée de l’exposition « Trésors, charafi et quoi encore ? »",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1779264000000,
+      "ends_at": 1779271200000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "category": "EXPO"
+    },
+    {
+      "title": "Visite-jeu de la Villa les Palmiers",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1779267600000,
+      "ends_at": 1779274800000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/05/visite-enfants-villa-palmier-archives-mnca-250x250.jpg",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Projection du FILM « HENRI Matisse »",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1779267600000,
+      "ends_at": 1779274800000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/projection/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "category": "CINEMA"
     },
     {
       "title": "AtelierS de pratiques artistiques (6-11 ans) / LES MERCREDIS",
@@ -181,6 +226,36 @@
       "source_url": "https://www.musee-matisse-nice.org/fr/evenement/atelier-de-pratiques-artistiques-6-11-ans-2/",
       "image_url": "https://www.musee-matisse-nice.org/wp-content/uploads/2021/02/Musee-Matisse-Nice-Partage.png",
       "category": "AUTRE"
+    },
+    {
+      "title": "Back Home",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1779278400000,
+      "ends_at": 1779285600000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/projection/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/04/back-home-©-dr-jakobihre-motlys.jpg",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Visite guidée de l’exposition « le changement climatique : ici et ailleurs »",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1779278400000,
+      "ends_at": 1779285600000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/03/expo-environnement-250x250.jpg",
+      "category": "EXPO"
     },
     {
       "title": "Concert Jeune Public - Les Fables de La Fontaine",
@@ -2521,6 +2596,21 @@
       "source_url": "https://www.tnn.fr/fr/spectacles/saison-2025-2026/nelken-spectacle-partenaire",
       "image_url": "https://www.tnn.fr/img/spectacles/saison-2025-2026/2025-11-751-nelken-spectacle-partenaire-slider.jpg",
       "category": "THEATRE"
+    },
+    {
+      "title": "Trésors, charafi et quoi encore ?",
+      "description": "",
+      "place": "ExpositionHistorique",
+      "city": "Nice",
+      "starts_at": 1793314800000,
+      "ends_at": 1793322000000,
+      "has_time": false,
+      "price": "—",
+      "price_val": 0,
+      "source": "OT_NICE",
+      "source_url": "https://www.explorenicecotedazur.com/evenement/tresors-charafi-et-quoi-encore/",
+      "image_url": "https://cdn.iris-etourism.io/uploads/nice/sizes/67b/207-3-40829903-335x335.webp",
+      "category": "AUTRE"
     },
     {
       "title": "Les Procès des grands personnages",
