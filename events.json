@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-05-20T02:38:27Z",
+  "scraped_at": "2026-05-20T06:50:12Z",
   "count": 194,
   "events": [
     {
@@ -29,7 +29,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/rencontre/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/03/panoramique.jpg",
       "category": "AUTRE"
     },
     {
@@ -44,7 +44,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/04/611891-tour-bellanda-250x250.jpg",
       "category": "AUTRE"
     },
     {
@@ -104,7 +104,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/04/affiche-africa-pop-250x250.jpg",
       "category": "AUTRE"
     },
     {
@@ -119,7 +119,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/lecture/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/01/heure-histoire-caucade.jpg",
       "category": "AUTRE"
     },
     {
@@ -149,7 +149,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/animation/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/04/curieux-nature.png",
       "category": "AUTRE"
     },
     {
@@ -164,7 +164,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/animation/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/01/jouons.jpg",
       "category": "AUTRE"
     },
     {
@@ -989,7 +989,7 @@
       "price_val": 0,
       "source": "MONACO",
       "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/nino-arial-pas-comme-eux",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/1/1/9/5/1915911-73-fre-FR/ca5eb2fc49ed-105401_img_0ySfNlJ.jpeg.webp",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/1/1/9/5/1915911-75-fre-FR/bc4762c4fc94-105401_img_06uvxRw.jpeg.webp",
       "category": "AUTRE"
     },
     {
@@ -1484,7 +1484,7 @@
       "price_val": 0,
       "source": "MONACO",
       "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/thursday-live-sessions-bande-a-part",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/6/7/3/6/1986376-29-fre-FR/3d18cd9bf96a-105728_img_0UcfCmU.jpg.webp",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/6/7/3/6/1986376-30-fre-FR/b2111489709f-105728_img_0IYMT8O.jpg.webp",
       "category": "AUTRE"
     },
     {
@@ -1545,6 +1545,21 @@
       "source": "CHAGALL",
       "source_url": "https://musees-nationaux-alpesmaritimes.fr/chagall/agenda/evenement/pas-croises-ballets-de-monte-carlo-5",
       "image_url": "https://musees-nationaux-alpesmaritimes.fr/chagall/sites/chagall/files/styles/crop_vignette/public/2025-10/Design%20sans%20titre%20%288%29.png?itok=AhNDzs1R",
+      "category": "AUTRE"
+    },
+    {
+      "title": "The Crossing 2026",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1781820000000,
+      "ends_at": 1781906400000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/the-crossing-2026",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/4/1/2/1/2091214-1-fre-FR/9d0581e013df-3AZHFf4ztWftRIu3.png.webp",
       "category": "AUTRE"
     },
     {
@@ -1724,7 +1739,7 @@
       "price_val": 0,
       "source": "MONACO",
       "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/la-la-land-en-cine-concert",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/2/9/1/7/1267192-66-fre-FR/5578211afe25-104945_img_0glxJAF.png.webp",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/2/9/1/7/1267192-67-fre-FR/9e6d219c73ae-104945_img_0PBWyK3.png.webp",
       "category": "CONCERT"
     },
     {
@@ -2565,21 +2580,6 @@
       "source": "MONACO",
       "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/herculis-meeting-international-d-athletisme-ebs",
       "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/8/0/9/8/2038908-1-fre-FR/ae1e5b72996a-bJpFZkeAODGnyUdk.png.webp",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Waku Doki",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1791394200000,
-      "ends_at": 1791399600000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/waku-doki2",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/1/0/4/8/1888401-2-fre-FR/ba80ee1c0bfe-105062_img_0BPyvRG.jpg.webp",
       "category": "AUTRE"
     },
     {
