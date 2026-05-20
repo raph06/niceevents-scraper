@@ -1,52 +1,7 @@
 {
-  "scraped_at": "2026-05-20T17:56:39Z",
-  "count": 189,
+  "scraped_at": "2026-05-20T20:09:30Z",
+  "count": 185,
   "events": [
-    {
-      "title": "Afterwork : Bruno se fait des films",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1779296400000,
-      "ends_at": 1779303600000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/concert/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
-      "category": "CINEMA"
-    },
-    {
-      "title": "Afterwork / Foyer de l'Opéra / Bruno se fait des films",
-      "description": "",
-      "place": "Opéra de Nice",
-      "city": "Nice",
-      "starts_at": 1779296400000,
-      "ends_at": 1779300000000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "OPERA_NICE",
-      "source_url": "https://www.opera-nice.org/fr/evenement/1322/afterwork-foyer-de-l-opera-bruno-se-fait-des-films?origin=menu",
-      "image_url": "https://www.opera-nice.org/uploads/evenement/photos/afterwork-foyer-de-l-opera-bruno-se-fait-des-films_1322.jpg",
-      "category": "CONCERT"
-    },
-    {
-      "title": "Leaving Las Vegas",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1779300000000,
-      "ends_at": 1779307200000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/projection/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
-      "category": "FOOD"
-    },
     {
       "title": "La Distance",
       "description": "En 2077, les Terriens vivent en proie à la précarité et au réchauffement climatique. Dans ce monde en désarroi, Tiago Rodrigues interroge la possibilité de communiquer entre un père et sa fille, partie vivre sur Mars.L'INTENTIONDepuis notre rencontre, l’une des discussions récurrentes avec Adama porte sur la formation théâtrale. Nous partageons la même préoccupation concernant les chemins emprunté",
@@ -61,21 +16,6 @@
       "source_url": "https://www.tnn.fr/fr/spectacles/saison-2025-2026/la-distance-theatre-de-grasse",
       "image_url": "https://www.tnn.fr/img/spectacles/saison-2025-2026/2025-10-734-la-distance-theatre-de-grasse-slider.jpg",
       "category": "THEATRE"
-    },
-    {
-      "title": "Tour Bellanda – Le Bellandarium",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1779346800000,
-      "ends_at": 1779354000000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
-      "category": "AUTRE"
     },
     {
       "title": "Éveil corporel",
