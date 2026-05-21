@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-05-21T02:38:56Z",
+  "scraped_at": "2026-05-21T06:50:55Z",
   "count": 198,
   "events": [
     {
@@ -29,7 +29,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/atelier/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/11/eveil-corporel.jpg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
@@ -134,7 +134,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/11/668960-artistique-facade.jpg",
       "category": "AUTRE"
     },
     {
