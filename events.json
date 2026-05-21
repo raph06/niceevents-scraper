@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-21T19:52:30Z",
-  "count": 181,
+  "scraped_at": "2026-05-21T22:20:15Z",
+  "count": 182,
   "events": [
     {
       "title": "Démontage d'exposition - Fermeture partielle des salles (mai 2026)",
@@ -59,7 +59,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/lecture/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/moulin-a-livres.jpg",
       "category": "AUTRE"
     },
     {
@@ -1545,6 +1545,21 @@
       "source": "OPERA_NICE",
       "source_url": "https://www.opera-nice.org/fr/evenement/1347/festival-de-musique-sacree-2026?origin=menu",
       "image_url": "https://www.opera-nice.org/uploads/evenement/photos/festival-de-musique-sacree-2026_1347.jpg",
+      "category": "CONCERT"
+    },
+    {
+      "title": "La La Land en ciné-concert",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1782046800000,
+      "ends_at": 1782056700000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/la-la-land-en-cine-concert",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/2/9/1/7/1267192-67-fre-FR/9e6d219c73ae-104945_img_0PBWyK3.png.webp",
       "category": "CONCERT"
     },
     {
