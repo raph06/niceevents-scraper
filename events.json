@@ -1,82 +1,7 @@
 {
-  "scraped_at": "2026-05-22T14:26:36Z",
-  "count": 189,
+  "scraped_at": "2026-05-22T17:09:23Z",
+  "count": 185,
   "events": [
-    {
-      "title": "Rachi de Troyes, le premier français écrit en lettres hébraïques",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1779458400000,
-      "ends_at": 1779465600000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/conference/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/03/conference.jpg",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Petite et grande histoire des abécédaires",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1779458400000,
-      "ends_at": 1779465600000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/rencontre/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/04/abecedaires.jpeg",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Arsenic et vieilles dentelles",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1779460200000,
-      "ends_at": 1779467400000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/lecture/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/arsenic.jpeg",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Back Home",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1779465600000,
-      "ends_at": 1779472800000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/projection/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/04/back-home-©-dr-jakobihre-motlys.jpg",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Fan zone de la finale de la Coupe de France",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1779465600000,
-      "ends_at": 1779472800000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/competition-sportive/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/05/fan-zone-nice-coupe-france--nice.fr--250x250.jpg",
-      "category": "AUTRE"
-    },
     {
       "title": "Furcy, né libre",
       "description": "",
@@ -134,7 +59,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/theatre/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/03/campaneria.jpeg",
       "category": "AUTRE"
     },
     {
@@ -149,7 +74,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/projection/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/04/we-need-to-talk-about-kevin-©-dr-bbc-film-uk-film-council-footprint-investment-fund.jpg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "FOOD"
     },
     {
@@ -224,7 +149,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/atelier/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/03/potager-mai-mde.jpg",
       "category": "FAMILLE"
     },
     {
@@ -1636,6 +1561,21 @@
       "source_url": "https://www.tnn.fr/fr/evenements/en-attendant-le-futur-tragedie-26",
       "image_url": "https://www.tnn.fr/img/spectacles/saison-2025-2026/2026-04-777-en-attendant-le-futur-tragedie-26-slider.jpg",
       "category": "THEATRE"
+    },
+    {
+      "title": "Activités spéciales jeune public",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1781992800000,
+      "ends_at": 1782000000000,
+      "has_time": false,
+      "price": "—",
+      "price_val": 0,
+      "source": "CHAGALL",
+      "source_url": "https://musees-nationaux-alpesmaritimes.fr/chagall/agenda/evenement/activites-speciales-jeune-public",
+      "image_url": "https://musees-nationaux-alpesmaritimes.fr/chagall/sites/chagall/files/styles/crop_vignette/public/2026-03/visuel%20visite%20cr%C3%A9ative%20-%20personnage%20fantastique.jpg?itok=FozKkrg0",
+      "category": "AUTRE"
     },
     {
       "title": "Festival de musique sacrée 2026",
