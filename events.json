@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-05-22T02:40:38Z",
+  "scraped_at": "2026-05-22T06:49:55Z",
   "count": 191,
   "events": [
     {
@@ -89,7 +89,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/atelier/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/11/ordinateur.jpg",
       "category": "AUTRE"
     },
     {
@@ -104,7 +104,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/04/archives-nca-fabron-250x250.jpg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
@@ -134,7 +134,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/atelier/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/11/laine-tricot.jpg",
       "category": "AUTRE"
     },
     {
@@ -179,7 +179,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/atelier/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/01/alors-j-ecris.jpg",
       "category": "AUTRE"
     },
     {
@@ -194,7 +194,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/conference/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/03/conference.jpg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
@@ -899,7 +899,7 @@
       "price_val": 0,
       "source": "MONACO",
       "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/nino-arial-pas-comme-eux",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/1/1/9/5/1915911-75-fre-FR/bc4762c4fc94-105401_img_06uvxRw.jpeg.webp",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/1/1/9/5/1915911-77-fre-FR/ab22104ce59b-105401_img_06Sipv4.jpeg.webp",
       "category": "AUTRE"
     },
     {
@@ -1424,7 +1424,7 @@
       "price_val": 0,
       "source": "MONACO",
       "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/thursday-live-sessions-bande-a-part",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/6/7/3/6/1986376-30-fre-FR/b2111489709f-105728_img_0IYMT8O.jpg.webp",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/6/7/3/6/1986376-31-fre-FR/e967662c660b-105728_img_0tnckfE.jpg.webp",
       "category": "AUTRE"
     },
     {
@@ -1709,7 +1709,7 @@
       "price_val": 0,
       "source": "MONACO",
       "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/la-la-land-en-cine-concert",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/2/9/1/7/1267192-67-fre-FR/9e6d219c73ae-104945_img_0PBWyK3.png.webp",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/2/9/1/7/1267192-68-fre-FR/ae646e1ed0dc-104945_img_0s4X0C2.png.webp",
       "category": "CONCERT"
     },
     {
