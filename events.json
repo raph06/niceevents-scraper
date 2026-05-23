@@ -1,22 +1,7 @@
 {
-  "scraped_at": "2026-05-23T19:03:47Z",
+  "scraped_at": "2026-05-23T21:51:22Z",
   "count": 160,
   "events": [
-    {
-      "title": "By Heart",
-      "description": "Depuis dix ans, Tiago Rodrigues fait voyagerBy Heart, un spectacle bouleversant né d’une demande de sa grand-mère.À travers un sonnet de William Shakespeare et la pensée de George Steiner, Boris Pasternak ou Ray Bradbury, l’artiste portugais propose un véritable manifeste théâtral pour dire la puissance de la poésie et créer une communauté inattendue. En explorant les relations entre la politique ",
-      "place": "Les FranciscainsLa Cuisine",
-      "city": "Nice",
-      "starts_at": 1779561000000,
-      "ends_at": 1779568200000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "TNN",
-      "source_url": "https://www.tnn.fr/fr/spectacles/saison-2025-2026/by-heart-scene-55",
-      "image_url": "https://www.tnn.fr/img/spectacles/saison-2025-2026/2025-05-733-by-heart-scene-55-slider.jpg",
-      "category": "THEATRE"
-    },
     {
       "title": "Exposition « Franta, la condition humaine »",
       "description": "",
@@ -1230,6 +1215,21 @@
       "source": "OPERA_NICE",
       "source_url": "https://www.opera-nice.org/fr/evenement/1347/festival-de-musique-sacree-2026?origin=menu",
       "image_url": "https://www.opera-nice.org/uploads/evenement/photos/festival-de-musique-sacree-2026_1347.jpg",
+      "category": "CONCERT"
+    },
+    {
+      "title": "La La Land en ciné-concert",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1782046800000,
+      "ends_at": 1782056700000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/la-la-land-en-cine-concert",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/2/9/1/7/1267192-68-fre-FR/ae646e1ed0dc-104945_img_0s4X0C2.png.webp",
       "category": "CONCERT"
     },
     {
