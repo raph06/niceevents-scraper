@@ -1,37 +1,7 @@
 {
-  "scraped_at": "2026-05-24T10:33:10Z",
+  "scraped_at": "2026-05-24T13:09:23Z",
   "count": 168,
   "events": [
-    {
-      "title": "Leaving Las Vegas",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1779624000000,
-      "ends_at": 1779631200000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/projection/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/04/leaving-las-vegas-©-dr-studiocanal.jpg",
-      "category": "FOOD"
-    },
-    {
-      "title": "Visite guidée de la Crypte",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1779624000000,
-      "ends_at": 1779631200000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/05/evenement-crypte-250x250.jpg",
-      "category": "AUTRE"
-    },
     {
       "title": "Campanerìa (Histoires de cloches)",
       "description": "",
@@ -45,6 +15,21 @@
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/theatre/",
       "image_url": "https://www.nice.fr/wp-content/uploads/2026/03/campaneria.jpeg",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Visite guidée de la Crypte",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1779627600000,
+      "ends_at": 1779634800000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/05/evenement-crypte-250x250.jpg",
       "category": "AUTRE"
     },
     {
@@ -210,6 +195,21 @@
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/seance-de-plein-air/",
       "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "category": "AUTRE"
+    },
+    {
+      "title": "De l’image à la lettre: quand l’alphabet naît du regard",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1779782400000,
+      "ends_at": 1779789600000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/rencontre/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/03/conference.jpg",
       "category": "AUTRE"
     },
     {
