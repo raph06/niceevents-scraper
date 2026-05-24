@@ -1,52 +1,7 @@
 {
-  "scraped_at": "2026-05-24T06:36:07Z",
-  "count": 171,
+  "scraped_at": "2026-05-24T10:33:10Z",
+  "count": 168,
   "events": [
-    {
-      "title": "Jardin de glace",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1779606000000,
-      "ends_at": 1779613200000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/animation/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/10/jardin-glace.png",
-      "category": "AUTRE"
-    },
-    {
-      "title": "La marche des animaux",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1779609600000,
-      "ends_at": 1779616800000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/animation/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
-      "category": "MARCHE"
-    },
-    {
-      "title": "Fête des mai – 24 mai",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1779613200000,
-      "ends_at": 1779620400000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/animation/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
-      "category": "AUTRE"
-    },
     {
       "title": "Leaving Las Vegas",
       "description": "",
@@ -59,7 +14,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/projection/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/04/leaving-las-vegas-©-dr-studiocanal.jpg",
       "category": "FOOD"
     },
     {
@@ -119,7 +74,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/projection/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/04/gran-torino-©-dr-warner.jpg",
       "category": "AUTRE"
     },
     {
