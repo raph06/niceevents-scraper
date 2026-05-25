@@ -1,22 +1,7 @@
 {
-  "scraped_at": "2026-05-25T19:22:55Z",
+  "scraped_at": "2026-05-25T22:09:25Z",
   "count": 178,
   "events": [
-    {
-      "title": "Basket Betclic ELITE - Quart de finale : Monaco - Bourg-en-Bresse",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1779735600000,
-      "ends_at": 1779742800000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/basket-betclic-elite-quart-de-finale-monaco-bourg-en-bresse",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/7/4/7/2/2102747-1-fre-FR/58b39267a82f-7yA5Fxf1DBEqR3WH.png.webp",
-      "category": "AUTRE"
-    },
     {
       "title": "Présentation de la saison 2026/27",
       "description": "Le Théâtre National de Nice vous invite à la présentation de saison 2026/27. Vous seront dévoilés les spectacles et grands événements de la saison à venir, puis la soirée se poursuivra autour d'un verre sur le Parvis de La Cuisine.Une joyeuse soirée pour lancer ensemble cettesaison plurielle!OUVERTURE des abonnements et de la billetterie à l'unitépour la saison 2026/27 dès lemercredi 27 mai à 10h,",
@@ -1546,6 +1531,21 @@
       "source_url": "https://www.explorenicecotedazur.com/evenement/ateliers-creatifs-les-veilleuses-feeriques/",
       "image_url": "https://cdn.iris-etourism.io/uploads/nice/sizes/861/22-59-38681366-335x335.webp",
       "category": "AUTRE"
+    },
+    {
+      "title": "Matinale au marché : Envie, Désir, Besoin",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1782288000000,
+      "ends_at": 1782293400000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/matinale-au-marche-envie-desir-besoin",
+      "image_url": null,
+      "category": "MARCHE"
     },
     {
       "title": "carte blanche aux élèves du Conservatoire de Nice",
