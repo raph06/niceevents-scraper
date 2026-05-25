@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-25T12:26:17Z",
-  "count": 175,
+  "scraped_at": "2026-05-25T17:06:55Z",
+  "count": 178,
   "events": [
     {
       "title": "Basket Betclic ELITE - Quart de finale : Monaco - Bourg-en-Bresse",
@@ -134,7 +134,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/lecture/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/fil-pages.jpg",
       "category": "AUTRE"
     },
     {
@@ -164,7 +164,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/lecture/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/09/bib-mobile-2.jpg",
       "category": "AUTRE"
     },
     {
@@ -194,7 +194,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/atelier/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/11/ordinateur.jpg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
@@ -1353,6 +1353,21 @@
       "category": "AUTRE"
     },
     {
+      "title": "UPAINT Monaco 2026: Street Art Festival",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1782028800000,
+      "ends_at": 1782410400000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/upaint-monaco-2026-street-art-festival",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/6/2/0/4/2094026-1-fre-FR/32d2c3bc5cef-BPYJ3S2-cdsaUsc1.png.webp",
+      "category": "AUTRE"
+    },
+    {
       "title": "Festival de musique sacrée 2026",
       "description": "",
       "place": "Opéra de Nice",
@@ -1425,6 +1440,21 @@
       "source": "MONACO",
       "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/fund-forum",
       "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/3/0/6/0/2030603-1-fre-FR/e8bace9c77fb-403a0486GIref4.JPG.webp",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Stages pratiques amateur - Dessin déambulation dessinée",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1782115200000,
+      "ends_at": 1782226800000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/stages-pratiques-amateur-dessin-deambulation-dessinee",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/2/4/2/0/2090242-1-fre-FR/af60ce8b363c-105997_img_0yHtS5l.jpg.webp",
       "category": "AUTRE"
     },
     {
@@ -2535,6 +2565,21 @@
       "source": "LE109",
       "source_url": "https://le109.nice.fr/programmation/le-labyrinthe-de-l-oie",
       "image_url": "https://wsrv.nl/?url=le109.nice.fr/thumbs/1024x562r/2026-05/labyrinthedeloie.jpg",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Witch You Were Here #4",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1796583600000,
+      "ends_at": 1796590800000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "INFOLOCALE",
+      "source_url": "https://www.infolocale.fr/evenements?age%5B0%5D=Tout%20Public&age%5B1%5D=Adulte&age%5B2%5D=Adolescent&age%5B3%5D=Enfant&age%5B4%5D=Bebe&commune=06088",
+      "image_url": "https://photos.infolocale.fr/infolocale/annonce/2026/0525/8897170/_1.jpg?rnd=20260525162620",
       "category": "AUTRE"
     },
     {
