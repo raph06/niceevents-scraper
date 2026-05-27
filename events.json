@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-05-27T02:43:50Z",
+  "scraped_at": "2026-05-27T07:03:17Z",
   "count": 117,
   "events": [
     {
@@ -134,7 +134,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/05/evenement-crypte-250x250.jpg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
@@ -164,7 +164,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/02/leonard-de-vinci-1200x675-1-26-nice.fr--250x250.jpg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
@@ -419,7 +419,7 @@
       "price_val": 0,
       "source": "MONACO",
       "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/nino-arial-pas-comme-eux",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/1/1/9/5/1915911-77-fre-FR/ab22104ce59b-105401_img_06Sipv4.jpeg.webp",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/1/1/9/5/1915911-79-fre-FR/76a4614ceb00-105401_img_08XjF6W.jpeg.webp",
       "category": "AUTRE"
     },
     {
@@ -779,7 +779,7 @@
       "price_val": 0,
       "source": "MONACO",
       "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/thursday-live-sessions-bande-a-part",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/6/7/3/6/1986376-31-fre-FR/e967662c660b-105728_img_0tnckfE.jpg.webp",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/6/7/3/6/1986376-32-fre-FR/e6fed3da49ac-105728_img_0MwAGl6.jpg.webp",
       "category": "AUTRE"
     },
     {
@@ -1003,8 +1003,8 @@
       "price": "—",
       "price_val": 0,
       "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/la-la-land-en-cine-concert",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/2/9/1/7/1267192-68-fre-FR/ae646e1ed0dc-104945_img_0s4X0C2.png.webp",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/la-la-land-en-cine-concert2",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/6/4/4/7/1957446-1-fre-FR/edd3666481a2-104945_img_0yLlN8B.png.webp",
       "category": "CONCERT"
     },
     {
