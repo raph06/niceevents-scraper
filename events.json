@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-26T22:21:31Z",
-  "count": 111,
+  "scraped_at": "2026-05-27T02:43:50Z",
+  "count": 117,
   "events": [
     {
       "title": "Tour Bellanda – Le Bellandarium",
@@ -44,7 +44,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/lecture/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/11/belles-histoires.jpg",
       "category": "AUTRE"
     },
     {
@@ -59,7 +59,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/atelier/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/04/ateliermmaubert-web-2026-2.jpg",
       "category": "AUTRE"
     },
     {
@@ -136,6 +136,96 @@
       "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
       "image_url": "https://www.nice.fr/wp-content/uploads/2025/05/evenement-crypte-250x250.jpg",
       "category": "AUTRE"
+    },
+    {
+      "title": "Les incontournables",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1779886800000,
+      "ends_at": 1779894000000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/atelier/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Sur les traces de Léonard",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1779886800000,
+      "ends_at": 1779894000000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/02/leonard-de-vinci-1200x675-1-26-nice.fr--250x250.jpg",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Le Condottiere et l’Artiste : Federico de Montefeltro et Piero Della Francesca (1415-1492), histoire d’une collaboration",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1779890400000,
+      "ends_at": 1779897600000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/conference/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "category": "AUTRE"
+    },
+    {
+      "title": "The Lost City of Z",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1779890400000,
+      "ends_at": 1779897600000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/projection/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/05/the-lost-city-of-z-©-dr-keep-your-head-mica-entertainment-madriver-pictures-250x250.jpg",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Le secret de Brokeback Mountain",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1779901200000,
+      "ends_at": 1779908400000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/projection/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/05/le-secret-de-brokeback-mountain-©-dr-universal.jpg",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Stockfish Comedy Club",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1779902100000,
+      "ends_at": 1779909300000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/humour/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/stockfish-comedy-club.jpg",
+      "category": "NUIT"
     },
     {
       "title": "La Traviata",
