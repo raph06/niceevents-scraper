@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-05-27T20:09:20Z",
+  "scraped_at": "2026-05-27T22:32:54Z",
   "count": 273,
   "events": [
     {
@@ -89,7 +89,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/05/riviera-visite.jpg",
       "category": "AUTRE"
     },
     {
