@@ -1,37 +1,7 @@
 {
-  "scraped_at": "2026-05-28T18:04:29Z",
-  "count": 275,
+  "scraped_at": "2026-05-28T20:28:20Z",
+  "count": 273,
   "events": [
-    {
-      "title": "Oslo, 31 août",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1779991200000,
-      "ends_at": 1779998400000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/projection/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
-      "category": "AUTRE"
-    },
-    {
-      "title": "MARIUS",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1779991200000,
-      "ends_at": 1780246800000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/marius",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/5/0/5/4/2054505-1-fre-FR/4542f44194cc-105946_img_08dmbQ3.png.webp",
-      "category": "AUTRE"
-    },
     {
       "title": "La Traviata",
       "description": "",
