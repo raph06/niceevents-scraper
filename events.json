@@ -1,82 +1,7 @@
 {
-  "scraped_at": "2026-05-30T16:05:49Z",
-  "count": 260,
+  "scraped_at": "2026-05-30T19:07:22Z",
+  "count": 259,
   "events": [
-    {
-      "title": "Hommage à la Diva Maria Malibran",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1780160400000,
-      "ends_at": 1780167600000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/hommage-a-la-diva-maria-malibran",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/0/3/9/5/1815930-5-fre-FR/7a0cd4d15bf1-105261_img_0U45Ow8.png.webp",
-      "category": "AUTRE"
-    },
-    {
-      "title": "David & Bruno font leur cinéma !",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1780160400000,
-      "ends_at": 1780165800000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/david-bruno-font-leur-cinema",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/5/0/1/8/2068105-1-fre-FR/575af4f4b3c1-PJZUOI_StGnH98Fw.png.webp",
-      "category": "CINEMA"
-    },
-    {
-      "title": "Concert spirituel \"Salve Regina à travers les siècles\"",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1780162200000,
-      "ends_at": 1780165800000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/concert-spirituel-salve-regina-a-travers-les-siecles",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/3/0/8/0/2100803-1-fre-FR/b71ac371c602-106033_img_0bWdPl1.jpeg.webp",
-      "category": "CONCERT"
-    },
-    {
-      "title": "BLACK LEGENDS",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1780164000000,
-      "ends_at": 1780171200000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "NIKAIA",
-      "source_url": "https://www.nikaia.fr/programmation/black-legends",
-      "image_url": "https://www.nikaia.fr/files/2024-11/bl-fnac-1000x1000.jpg",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Nino Arial - Pas comme eux",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1780164000000,
-      "ends_at": 1780173000000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/nino-arial-pas-comme-eux",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/1/1/9/5/1915911-79-fre-FR/76a4614ceb00-105401_img_08XjF6W.jpeg.webp",
-      "category": "AUTRE"
-    },
     {
       "title": "Magnanrama",
       "description": "",
@@ -798,6 +723,21 @@
       "category": "CONCERT"
     },
     {
+      "title": "Gala de l'Académie",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1781976600000,
+      "ends_at": 1781985600000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/gala-de-l-academie2",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/8/9/9/3/1863998-1-fre-FR/287f1b753046-105289_img_0G0OXO6.jpg.webp",
+      "category": "AUTRE"
+    },
+    {
       "title": "En attendant le futur",
       "description": "En attendant le futurrestitue les dépositions des 270 victimes de l’attentat du 14 juillet 2016. Il dévoile au public l’intimité de la salle d’audience et nous apprend la résilience de l’humanité face aux pires épreuves.L'INTENTIONCe texte a été écrit à partir des notes d’audience d’un avocat de victimes lors du procès de l’attentat du 14 juillet 2016, où le terroriste au volant d’un camion-bélier",
       "place": "Les FranciscainsLa Cuisine",
@@ -1053,6 +993,21 @@
       "category": "MARCHE"
     },
     {
+      "title": "Semaine PhiloMonaco 2026",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1782288000000,
+      "ends_at": 1782644400000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/semaine-philomonaco-2026",
+      "image_url": null,
+      "category": "AUTRE"
+    },
+    {
       "title": "Déjeuner-philo : L’enfant qui inquiète, de Alain Ehrenberg",
       "description": "",
       "place": "Monaco",
@@ -1128,6 +1083,21 @@
       "category": "THEATRE"
     },
     {
+      "title": "Naissance du Désir",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1782320400000,
+      "ends_at": 1782327600000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/naissance-du-desir",
+      "image_url": null,
+      "category": "AUTRE"
+    },
+    {
       "title": "Les Suppliantes",
       "description": "Dans sa nouvelle création, Charles Tordjman fait entendre la parole du poète antique Eschyle. Écrite en 465 avant notre ère, la tragédie des Suppliantes raconte la fuite des cinquante filles de Danaos, destinées à être mariées de force à leurs cousins. Pour échapper à ces unions incestueuses, elles traversent la mer et débarquent à Argos afin de demander l’asile au roi Pélasgos. Face à elles, un d",
       "place": "Les FranciscainsLa Cuisine",
@@ -1170,6 +1140,21 @@
       "source": "OT_NICE",
       "source_url": "https://www.explorenicecotedazur.com/evenement/ateliers-de-decoration-pour-adultes/",
       "image_url": "https://cdn.iris-etourism.io/uploads/nice/sizes/ecc/234-46-37301994-335x335.webp",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Matinale : Le désir d’être ensemble",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1782374400000,
+      "ends_at": 1782379800000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/matinale-le-desir-d-etre-ensemble",
+      "image_url": null,
       "category": "AUTRE"
     },
     {
