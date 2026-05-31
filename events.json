@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-31T02:45:24Z",
-  "count": 255,
+  "scraped_at": "2026-05-31T06:58:38Z",
+  "count": 252,
   "events": [
     {
       "title": "La Fête du Vœu",
@@ -104,7 +104,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/rencontre/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/05/remond-lacroix.jpg",
       "category": "AUTRE"
     },
     {
@@ -119,7 +119,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/animation/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/03/fete-des-mai-2026-declinaisons-digitales-et-rs-05-1200-x-675-ok-250x250.png",
       "category": "AUTRE"
     },
     {
@@ -149,7 +149,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/rencontre/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/05/fdl-mace.png",
       "category": "AUTRE"
     },
     {
@@ -179,7 +179,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/rencontre/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/05/troussier.jpg",
       "category": "AUTRE"
     },
     {
@@ -224,7 +224,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/05/fennech.jpg",
       "category": "AUTRE"
     },
     {
@@ -239,7 +239,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/05/evenement-crypte-250x250.jpg",
       "category": "AUTRE"
     },
     {
@@ -254,7 +254,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/rencontre/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/05/meril.jpg",
       "category": "AUTRE"
     },
     {
@@ -674,7 +674,7 @@
       "price_val": 0,
       "source": "MONACO",
       "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/thursday-live-sessions-bande-a-part",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/6/7/3/6/1986376-32-fre-FR/e6fed3da49ac-105728_img_0MwAGl6.jpg.webp",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/6/7/3/6/1986376-33-fre-FR/116d5df5d18b-105728_img_0Wl8vB3.jpg.webp",
       "category": "AUTRE"
     },
     {
@@ -749,7 +749,7 @@
       "price_val": 0,
       "source": "MONACO",
       "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/spectacle-de-magie",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/8/1/9/9/2089918-1-fre-FR/921f23b2a35d-105995_img_0unfvtQ.jpg.webp",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/8/1/9/9/2089918-2-fre-FR/f537d8f65b97-105995_img_0NdsHhr.jpg.webp",
       "category": "THEATRE"
     },
     {
@@ -903,21 +903,6 @@
       "category": "CONCERT"
     },
     {
-      "title": "Gala de l'Académie",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1781976600000,
-      "ends_at": 1781985600000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/gala-de-l-academie2",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/8/9/9/3/1863998-1-fre-FR/287f1b753046-105289_img_0G0OXO6.jpg.webp",
-      "category": "AUTRE"
-    },
-    {
       "title": "En attendant le futur",
       "description": "En attendant le futurrestitue les dépositions des 270 victimes de l’attentat du 14 juillet 2016. Il dévoile au public l’intimité de la salle d’audience et nous apprend la résilience de l’humanité face aux pires épreuves.L'INTENTIONCe texte a été écrit à partir des notes d’audience d’un avocat de victimes lors du procès de l’attentat du 14 juillet 2016, où le terroriste au volant d’un camion-bélier",
       "place": "Les FranciscainsLa Cuisine",
@@ -989,7 +974,7 @@
       "price_val": 0,
       "source": "MONACO",
       "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/la-la-land-en-cine-concert",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/2/9/1/7/1267192-69-fre-FR/88e35e43dbf7-104945_img_08YTHBv.png.webp",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/2/9/1/7/1267192-70-fre-FR/84714ddc15fc-104945_img_0utRRQW.png.webp",
       "category": "CONCERT"
     },
     {
@@ -1320,36 +1305,6 @@
       "source": "OT_NICE",
       "source_url": "https://www.explorenicecotedazur.com/evenement/ateliers-de-decoration-pour-adultes/",
       "image_url": "https://cdn.iris-etourism.io/uploads/nice/sizes/ecc/234-46-37301994-335x335.webp",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Matinale : Le désir d’être ensemble",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1782374400000,
-      "ends_at": 1782379800000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/matinale-le-desir-d-etre-ensemble",
-      "image_url": null,
-      "category": "AUTRE"
-    },
-    {
-      "title": "Déjeuner-philo : L’envie contre la démocratie ?",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1782383400000,
-      "ends_at": 1782387000000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/dejeuner-philo-l-envie-contre-la-democratie",
-      "image_url": null,
       "category": "AUTRE"
     },
     {
@@ -2564,7 +2519,7 @@
       "price_val": 0,
       "source": "MONACO",
       "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/arigato-mission-japon",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/6/5/7/9/2089756-1-fre-FR/6c80ccfa3895-105994_img_0wdRZYo.jpg.webp",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/6/5/7/9/2089756-2-fre-FR/1145b53fbfc2-105994_img_0KJWhPW.jpg.webp",
       "category": "AUTRE"
     },
     {
