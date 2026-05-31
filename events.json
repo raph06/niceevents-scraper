@@ -1,22 +1,7 @@
 {
-  "scraped_at": "2026-05-31T16:06:28Z",
-  "count": 234,
+  "scraped_at": "2026-05-31T19:11:06Z",
+  "count": 235,
   "events": [
-    {
-      "title": "Concert symphonique - K. Yamada – T. Mørk",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1780243200000,
-      "ends_at": 1780249500000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/concert-symphonique-k.-yamada-t.-moerk",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/6/7/9/6/1266976-4-fre-FR/d502095e2336-104941_img_0sey4zZ.png.webp",
-      "category": "CONCERT"
-    },
     {
       "title": "Nelken",
       "description": "Dans le cadre de son Festival d’été 2026, laScène Nationale de Châteauvallon-Libertéaccueille les seules dates\r\nfrançaises de la tournée deNelkende Pina Bausch. Dans l’écrin de l’Amphithéâtre de Châteauvallon, métamorphosé\r\nen un immense parterre de 8 700 œillets roses, résonnera la création immortelle de l’immense chorégraphe où danse,\r\nchant et théâtre se conjuguent dans une fresque d’une puissa",
@@ -1034,6 +1019,36 @@
       "price_val": 0,
       "source": "MONACO",
       "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/matinale-le-desir-d-etre-ensemble",
+      "image_url": null,
+      "category": "AUTRE"
+    },
+    {
+      "title": "Déjeuner-philo : L’envie contre la démocratie ?",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1782383400000,
+      "ends_at": 1782387000000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/dejeuner-philo-l-envie-contre-la-democratie",
+      "image_url": null,
+      "category": "AUTRE"
+    },
+    {
+      "title": "Géopolitique du désir",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1782390600000,
+      "ends_at": 1782396000000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/geopolitique-du-desir",
       "image_url": null,
       "category": "AUTRE"
     },
