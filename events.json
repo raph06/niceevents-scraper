@@ -1,67 +1,7 @@
 {
-  "scraped_at": "2026-05-31T13:25:54Z",
-  "count": 236,
+  "scraped_at": "2026-05-31T16:06:28Z",
+  "count": 234,
   "events": [
-    {
-      "title": "Rencontre avec Eleonora Galasso",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1780230600000,
-      "ends_at": 1780237800000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/rencontre/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Rencontre avec Gilles Kepel",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1780230600000,
-      "ends_at": 1780237800000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/rencontre/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/05/kepel.jpg",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Rencontre avec Kerwin Spire",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1780232400000,
-      "ends_at": 1780239600000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/rencontre/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/05/spire.jpg",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Rencontre avec Jean Birnbaum",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1780232400000,
-      "ends_at": 1780239600000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/rencontre/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/05/birnbaum.jpg",
-      "category": "AUTRE"
-    },
     {
       "title": "Concert symphonique - K. Yamada – T. Mørk",
       "description": "",
@@ -663,6 +603,21 @@
       "category": "CONCERT"
     },
     {
+      "title": "Gala de l'Académie",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1781976600000,
+      "ends_at": 1781985600000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/gala-de-l-academie2",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/8/9/9/3/1863998-1-fre-FR/287f1b753046-105289_img_0G0OXO6.jpg.webp",
+      "category": "AUTRE"
+    },
+    {
       "title": "En attendant le futur",
       "description": "En attendant le futurrestitue les dépositions des 270 victimes de l’attentat du 14 juillet 2016. Il dévoile au public l’intimité de la salle d’audience et nous apprend la résilience de l’humanité face aux pires épreuves.L'INTENTIONCe texte a été écrit à partir des notes d’audience d’un avocat de victimes lors du procès de l’attentat du 14 juillet 2016, où le terroriste au volant d’un camion-bélier",
       "place": "Les FranciscainsLa Cuisine",
@@ -1065,6 +1020,21 @@
       "source": "OT_NICE",
       "source_url": "https://www.explorenicecotedazur.com/evenement/ateliers-de-decoration-pour-adultes/",
       "image_url": "https://cdn.iris-etourism.io/uploads/nice/sizes/ecc/234-46-37301994-335x335.webp",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Matinale : Le désir d’être ensemble",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1782374400000,
+      "ends_at": 1782379800000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/matinale-le-desir-d-etre-ensemble",
+      "image_url": null,
       "category": "AUTRE"
     },
     {
