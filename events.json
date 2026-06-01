@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-01T08:34:00Z",
-  "count": 248,
+  "scraped_at": "2026-06-01T14:58:36Z",
+  "count": 236,
   "events": [
     {
       "title": "Nelken",
@@ -31,36 +31,6 @@
       "source_url": "https://www.tnn.fr/fr/spectacles/saison-2025-2026/mythique-festival-tragedies",
       "image_url": "https://www.tnn.fr/img/spectacles/saison-2025-2026/2026-04-773-mythique-festival-tragedies-slider.jpg",
       "category": "THEATRE"
-    },
-    {
-      "title": "Café Jazz",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1780696800000,
-      "ends_at": 1780704000000,
-      "has_time": false,
-      "price": "—",
-      "price_val": 0,
-      "source": "OPERA_NICE",
-      "source_url": "https://www.opera-nice.org/lieux/foyer-montserrat-caballe-de-lopera/",
-      "image_url": "https://www.opera-nice.org/wp-content/uploads/2026/05/share-opera-nice-cote-dazur.jpg",
-      "category": "CONCERT"
-    },
-    {
-      "title": "Goûter sur scène",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1780696800000,
-      "ends_at": 1780704000000,
-      "has_time": false,
-      "price": "—",
-      "price_val": 0,
-      "source": "OPERA_NICE",
-      "source_url": "https://www.opera-nice.org/lieux/opera-nice-cote-dazur/",
-      "image_url": "https://www.opera-nice.org/wp-content/uploads/2026/05/share-opera-nice-cote-dazur.jpg",
-      "category": "AUTRE"
     },
     {
       "title": "M.I.I.M « Fragments d’Arman II » au programme des Déantibulations",
@@ -348,21 +318,6 @@
       "category": "CONCERT"
     },
     {
-      "title": "Afterwork Comédies musicales américaines",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1781733600000,
-      "ends_at": 1781740800000,
-      "has_time": false,
-      "price": "—",
-      "price_val": 0,
-      "source": "OPERA_NICE",
-      "source_url": "https://www.opera-nice.org/lieux/lobservatoire/",
-      "image_url": "https://www.opera-nice.org/wp-content/uploads/2026/05/share-opera-nice-cote-dazur.jpg",
-      "category": "THEATRE"
-    },
-    {
       "title": "Thursday Live Sessions - Bande à part",
       "description": "",
       "place": "Monaco",
@@ -528,21 +483,6 @@
       "category": "AUTRE"
     },
     {
-      "title": "Un Monde Ensemble",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1781906400000,
-      "ends_at": 1781913600000,
-      "has_time": false,
-      "price": "—",
-      "price_val": 0,
-      "source": "OPERA_NICE",
-      "source_url": "https://www.opera-nice.org/lieux/opera-nice-cote-dazur/",
-      "image_url": "https://www.opera-nice.org/wp-content/uploads/2026/05/share-opera-nice-cote-dazur.jpg",
-      "category": "AUTRE"
-    },
-    {
       "title": "Les Procès des grands personnages tragiques",
       "description": "Thésée[dePhèdre- Racine],PandoreetClytemnestresont tour à tour sur le banc des accusés. Coupables ou victimes d’un destin qui les dépasse ? À vous de les juger !PROGRAMME• Samedi 20/6 :Le Procès de Thésée- Laurent Prévot - Maître Benjamin Charlier - Amélie Kierszenbaum• Samedi 27/6 :Le Procès de Pandore- Carla Ventre - Maître Olivia Chalus Penochet - Armand Pitot• Samedi 4/7 :Le Procès de Clytemne",
       "place": "Les FranciscainsLa Cuisine",
@@ -631,21 +571,6 @@
       "source_url": "https://www.tnn.fr/fr/evenements/en-attendant-le-futur-tragedie-26",
       "image_url": "https://www.tnn.fr/img/spectacles/saison-2025-2026/2026-04-777-en-attendant-le-futur-tragedie-26-slider.jpg",
       "category": "THEATRE"
-    },
-    {
-      "title": "Festival de musique sacrée",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1781992800000,
-      "ends_at": 1782000000000,
-      "has_time": false,
-      "price": "—",
-      "price_val": 0,
-      "source": "OPERA_NICE",
-      "source_url": "https://www.opera-nice.org/lieux/cathedrale-sainte-reparate/",
-      "image_url": "https://www.opera-nice.org/wp-content/uploads/2026/05/share-opera-nice-cote-dazur.jpg",
-      "category": "CONCERT"
     },
     {
       "title": "Activités spéciales jeune public",
@@ -841,21 +766,6 @@
       "source_url": "https://www.explorenicecotedazur.com/evenement/ateliers-creatifs-les-veilleuses-feeriques/",
       "image_url": "https://cdn.iris-etourism.io/uploads/nice/sizes/861/22-59-38681366-335x335.webp",
       "category": "AUTRE"
-    },
-    {
-      "title": "Afterwork Artistes du Chœur",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1782252000000,
-      "ends_at": 1782259200000,
-      "has_time": false,
-      "price": "—",
-      "price_val": 0,
-      "source": "OPERA_NICE",
-      "source_url": "https://www.opera-nice.org/lieux/centre-universitaire-mediterraneen/",
-      "image_url": "https://www.opera-nice.org/wp-content/uploads/2026/05/share-opera-nice-cote-dazur.jpg",
-      "category": "NUIT"
     },
     {
       "title": "Matinale au marché : Envie, Désir, Besoin",
@@ -1308,21 +1218,6 @@
       "category": "AUTRE"
     },
     {
-      "title": "Escape Game",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1783288800000,
-      "ends_at": 1783296000000,
-      "has_time": false,
-      "price": "—",
-      "price_val": 0,
-      "source": "OPERA_NICE",
-      "source_url": "https://www.opera-nice.org/lieux/opera-nice-cote-dazur/",
-      "image_url": "https://www.opera-nice.org/wp-content/uploads/2026/05/share-opera-nice-cote-dazur.jpg",
-      "category": "AUTRE"
-    },
-    {
       "title": "STAR ACADEMY 2026",
       "description": "",
       "place": "Nice",
@@ -1411,21 +1306,6 @@
       "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/exposition-patrimoine-en-danger",
       "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/8/5/1/0/2050158-2-fre-FR/d947f6783c1b-2026-03_Expo-Photos-2026_32x48cm_01-sans-traits.jpg.webp.webp",
       "category": "EXPO"
-    },
-    {
-      "title": "Musique de chambre au Musée Chagall",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1785967200000,
-      "ends_at": 1785974400000,
-      "has_time": false,
-      "price": "—",
-      "price_val": 0,
-      "source": "OPERA_NICE",
-      "source_url": "https://www.opera-nice.org/lieux/musee-marc-chagall/",
-      "image_url": "https://www.opera-nice.org/wp-content/uploads/2026/05/share-opera-nice-cote-dazur.jpg",
-      "category": "CONCERT"
     },
     {
       "title": "Concert de musique de chambre - 8 juin 2026",
@@ -1623,21 +1503,6 @@
       "category": "THEATRE"
     },
     {
-      "title": "Chopin",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1789682400000,
-      "ends_at": 1789689600000,
-      "has_time": false,
-      "price": "—",
-      "price_val": 0,
-      "source": "OPERA_NICE",
-      "source_url": "https://www.opera-nice.org/lieux/foyer-montserrat-caballe-de-lopera/",
-      "image_url": "https://www.opera-nice.org/wp-content/uploads/2026/05/share-opera-nice-cote-dazur.jpg",
-      "category": "AUTRE"
-    },
-    {
       "title": "Chagall à l’oeuvre – Un prêt d’exception au musée",
       "description": "",
       "place": "ExpositionPeinture",
@@ -1696,21 +1561,6 @@
       "source_url": "https://www.nikaia.fr/programmation/la-legende-de-monte-cristo-le-musical",
       "image_url": "https://www.nikaia.fr/files/2026-03/1773757627_vignette-site.jpg",
       "category": "AUTRE"
-    },
-    {
-      "title": "Afterwork Violon électrique",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1791237600000,
-      "ends_at": 1791244800000,
-      "has_time": false,
-      "price": "—",
-      "price_val": 0,
-      "source": "OPERA_NICE",
-      "source_url": "https://www.opera-nice.org/lieux/opera-plage/",
-      "image_url": "https://www.opera-nice.org/wp-content/uploads/2026/05/share-opera-nice-cote-dazur.jpg",
-      "category": "NUIT"
     },
     {
       "title": "Happy Hour Musical",
@@ -1983,21 +1833,6 @@
       "category": "THEATRE"
     },
     {
-      "title": "Brahms / Chostakovitch",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1794178800000,
-      "ends_at": 1794186000000,
-      "has_time": false,
-      "price": "—",
-      "price_val": 0,
-      "source": "OPERA_NICE",
-      "source_url": "https://www.opera-nice.org/lieux/opera-nice-cote-dazur/",
-      "image_url": "https://www.opera-nice.org/wp-content/uploads/2026/05/share-opera-nice-cote-dazur.jpg",
-      "category": "AUTRE"
-    },
-    {
       "title": "Résurrection",
       "description": "DansRésurrection, il est question d’un jeune homme de bonne famille qui mène une vie de plaisirs dans une grande ville et se retrouve juré au procès d’une femme accusée de meurtre. Il reconnaît son amour de jeunesse, autrefois au service de sa famille. Il a abusé d’elle et l’a mise enceinte avant de l’abandonner. Elle est devenue une prostituée. Désireux de racheter sa faute, il tente de l’innocen",
       "place": "Les FranciscainsLa Cuisine",
@@ -2250,21 +2085,6 @@
       "source": "OT_NICE",
       "source_url": "https://www.explorenicecotedazur.com/evenement/le-changement-climatique-ici-et-ailleurs/",
       "image_url": "https://cdn.iris-etourism.io/uploads/nice/sizes/97e/140-10-40831628-335x335.webp",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Plançon – Bruch – Brahms",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1796511600000,
-      "ends_at": 1796518800000,
-      "has_time": false,
-      "price": "—",
-      "price_val": 0,
-      "source": "OPERA_NICE",
-      "source_url": "https://www.opera-nice.org/lieux/opera-nice-cote-dazur/",
-      "image_url": "https://www.opera-nice.org/wp-content/uploads/2026/05/share-opera-nice-cote-dazur.jpg",
       "category": "AUTRE"
     },
     {
