@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-01T02:54:55Z",
+  "scraped_at": "2026-06-01T08:34:00Z",
   "count": 248,
   "events": [
     {
@@ -903,6 +903,21 @@
       "category": "FAMILLE"
     },
     {
+      "title": "Street Art Challenge Junior",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1782302400000,
+      "ends_at": 1782316800000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/street-art-challenge-junior2",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/5/1/7/0/2110715-1-fre-FR/e13283b7728d-Y8dMm38f7R3ICX4U681zhuKnUR021xRnU7G3WdXv5Z60Pc.jpg.webp",
+      "category": "AUTRE"
+    },
+    {
       "title": "Plus envie d’apprendre ?",
       "description": "",
       "place": "Monaco",
@@ -1049,21 +1064,6 @@
       "price_val": 0,
       "source": "MONACO",
       "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/dejeuner-philo-l-envie-contre-la-democratie",
-      "image_url": null,
-      "category": "AUTRE"
-    },
-    {
-      "title": "Géopolitique du désir",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1782390600000,
-      "ends_at": 1782396000000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/geopolitique-du-desir",
       "image_url": null,
       "category": "AUTRE"
     },
