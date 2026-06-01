@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-01T19:59:46Z",
+  "scraped_at": "2026-06-01T23:03:26Z",
   "count": 249,
   "events": [
     {
@@ -603,21 +603,6 @@
       "category": "CONCERT"
     },
     {
-      "title": "Gala de l'Académie",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1781976600000,
-      "ends_at": 1781985600000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/gala-de-l-academie2",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/8/9/9/3/1863998-1-fre-FR/287f1b753046-105289_img_0G0OXO6.jpg.webp",
-      "category": "AUTRE"
-    },
-    {
       "title": "En attendant le futur",
       "description": "En attendant le futurrestitue les dépositions des 270 victimes de l’attentat du 14 juillet 2016. Il dévoile au public l’intimité de la salle d’audience et nous apprend la résilience de l’humanité face aux pires épreuves.L'INTENTIONCe texte a été écrit à partir des notes d’audience d’un avocat de victimes lors du procès de l’attentat du 14 juillet 2016, où le terroriste au volant d’un camion-bélier",
       "place": "Les FranciscainsLa Cuisine",
@@ -1064,6 +1049,21 @@
       "price_val": 0,
       "source": "MONACO",
       "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/dejeuner-philo-l-envie-contre-la-democratie",
+      "image_url": null,
+      "category": "AUTRE"
+    },
+    {
+      "title": "Géopolitique du désir",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1782390600000,
+      "ends_at": 1782396000000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/geopolitique-du-desir",
       "image_url": null,
       "category": "AUTRE"
     },
