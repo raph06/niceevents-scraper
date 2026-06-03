@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-03T18:46:45Z",
-  "count": 251,
+  "scraped_at": "2026-06-03T23:05:50Z",
+  "count": 253,
   "events": [
     {
       "title": "Mythique !",
@@ -1096,6 +1096,36 @@
       "source_url": "https://www.tnn.fr/fr/evenements/conference-ralph-schor-tragedie-26",
       "image_url": "https://www.tnn.fr/img/spectacles/saison-2025-2026/2026-04-781-conference-ralph-schor-tragedie-26-slider.jpg",
       "category": "THEATRE"
+    },
+    {
+      "title": "Soirée de Remise des Prix : 10 ans du Prix Philo",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1782406800000,
+      "ends_at": 1782414000000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/soiree-de-remise-des-prix-10-ans-du-prix-philo",
+      "image_url": null,
+      "category": "NUIT"
+    },
+    {
+      "title": "Concert des Petits Chanteurs de Monaco",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1782408600000,
+      "ends_at": 1782412200000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/concert-des-petits-chanteurs-de-monaco",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/5/6/9/0/2100965-2-fre-FR/22efc73337ee-106034_img_0D1UOMM.jpeg.webp",
+      "category": "CONCERT"
     },
     {
       "title": "Bérénice",
