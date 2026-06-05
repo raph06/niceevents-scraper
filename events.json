@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-05T07:08:34Z",
+  "scraped_at": "2026-06-05T12:05:28Z",
   "count": 253,
   "events": [
     {
@@ -419,7 +419,7 @@
       "price_val": 0,
       "source": "CHAGALL",
       "source_url": "https://musees-nationaux-alpesmaritimes.fr/chagall/agenda/evenement/pas-croises-burn-bloom-ballets-de-monte-carlo",
-      "image_url": "https://musees-nationaux-alpesmaritimes.fr/chagall/sites/chagall/files/styles/crop_vignette/public/2025-10/Design%20sans%20titre%20%288%29.png?itok=AhNDzs1R",
+      "image_url": "https://musees-nationaux-alpesmaritimes.fr/chagall/sites/chagall/files/styles/crop_vignette/public/2026-06/ChatGPT%20Image%203%20juin%202026%2C%2011_30_55.png?itok=6OHex6hR",
       "category": "AUTRE"
     },
     {
@@ -1473,7 +1473,7 @@
       "category": "CONCERT"
     },
     {
-      "title": "Concert de musique de chambre - 8 juin 2026",
+      "title": "Chamber music concert - June 8, 2026",
       "description": "",
       "place": "Nice",
       "city": "Nice",
@@ -1483,7 +1483,7 @@
       "price": "—",
       "price_val": 0,
       "source": "CHAGALL",
-      "source_url": "https://musees-nationaux-alpesmaritimes.fr/chagall/agenda/evenement/concert-de-musique-de-chambre-8-juin-2026",
+      "source_url": "https://musees-nationaux-alpesmaritimes.fr/chagall/agenda/evenement/chamber-music-concert-june-8-2026",
       "image_url": "https://musees-nationaux-alpesmaritimes.fr/chagall/sites/chagall/files/styles/thumbnail_w880/public/2024-04/Concert_opera_musique_chambre_1920x960px.jpg?itok=UFqS7MPS",
       "category": "CONCERT"
     },
