@@ -1,22 +1,7 @@
 {
-  "scraped_at": "2026-06-06T19:14:43Z",
-  "count": 249,
+  "scraped_at": "2026-06-06T22:06:18Z",
+  "count": 251,
   "events": [
-    {
-      "title": "LE CHOEUR DU SUD avec MARC LA...",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1780770600000,
-      "ends_at": 1780777800000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "NIKAIA",
-      "source_url": "https://www.nikaia.fr/programmation/le-choeur-du-sud-avec-marc-lavoine-1",
-      "image_url": "https://www.nikaia.fr/files/2026-02/carre-1080x1080.jpg",
-      "category": "AUTRE"
-    },
     {
       "title": "7e rencontre des sites historiques Grimaldi de Monaco",
       "description": "",
@@ -1066,6 +1051,36 @@
       "source_url": "https://www.tnn.fr/fr/spectacles/saison-2025-2026/berenice-festival-tragedies",
       "image_url": "https://www.tnn.fr/img/spectacles/saison-2025-2026/2026-04-772-berenice-festival-tragedies-slider.jpg",
       "category": "THEATRE"
+    },
+    {
+      "title": "Matinale : Désir et déception",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1782460800000,
+      "ends_at": 1782466200000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/matinale-desir-et-deception",
+      "image_url": null,
+      "category": "AUTRE"
+    },
+    {
+      "title": "Déjeuner-philo : Désirs de justice",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1782469800000,
+      "ends_at": 1782475200000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/dejeuner-philo-desirs-de-justice",
+      "image_url": null,
+      "category": "AUTRE"
     },
     {
       "title": "Bérénice",
@@ -3331,6 +3346,21 @@
       "source_url": "https://www.tnn.fr/fr/spectacles/saison-2026-2027/la-terre",
       "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-05-816-la-terre-slider.jpg",
       "category": "THEATRE"
+    },
+    {
+      "title": "Exposition Maxime «Corrosions intimes»",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1810224000000,
+      "ends_at": 1810231200000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "INFOLOCALE",
+      "source_url": "https://www.infolocale.fr/evenements?age%5B0%5D=Tout%20Public&age%5B1%5D=Adulte&age%5B2%5D=Adolescent&age%5B3%5D=Enfant&age%5B4%5D=Bebe&commune=06088",
+      "image_url": "https://photos.infolocale.fr/infolocale/annonce/2026/0424/8866458/_1.jpg?rnd=20260424184109",
+      "category": "EXPO"
     },
     {
       "title": "La Terre",
