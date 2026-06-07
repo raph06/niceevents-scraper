@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-07T11:10:39Z",
+  "scraped_at": "2026-06-07T13:30:59Z",
   "count": 266,
   "events": [
     {
@@ -1308,21 +1308,6 @@
       "category": "AUTRE"
     },
     {
-      "title": "Jardin de glace",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1783321200000,
-      "ends_at": 1783328400000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/animation/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/10/jardin-glace.png",
-      "category": "AUTRE"
-    },
-    {
       "title": "Nice Fête le Tour",
       "description": "",
       "place": "Nice",
@@ -1379,7 +1364,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/projection/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/05/trois-mille-ans-a-tattendre-©-dr-kennedy-miller-mitchell.jpg",
       "category": "AUTRE"
     },
     {
@@ -1424,7 +1409,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/05/evenement-crypte-250x250.jpg",
       "category": "AUTRE"
     },
     {
@@ -1469,7 +1454,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/projection/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/05/forrest-gump-©-dr-paramount.jpg",
       "category": "AUTRE"
     },
     {
@@ -1621,6 +1606,21 @@
       "source_url": "https://musees-nationaux-alpesmaritimes.fr/chagall/agenda/evenement/chamber-music-concert-june-8-2026",
       "image_url": "https://musees-nationaux-alpesmaritimes.fr/chagall/sites/chagall/files/styles/thumbnail_w880/public/2024-04/Concert_opera_musique_chambre_1920x960px.jpg?itok=UFqS7MPS",
       "category": "CONCERT"
+    },
+    {
+      "title": "Séances d’activité physique adaptée – endométriose",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1786001400000,
+      "ends_at": 1786008600000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/atelier/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "category": "AUTRE"
     },
     {
       "title": "Stage pratiques amateurs - Reliure papier marbré",
