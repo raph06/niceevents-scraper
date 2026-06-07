@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-07T16:15:37Z",
-  "count": 266,
+  "scraped_at": "2026-06-07T19:14:26Z",
+  "count": 267,
   "events": [
     {
       "title": "7e rencontre des sites historiques Grimaldi de Monaco",
@@ -495,6 +495,21 @@
       "source": "NIKAIA",
       "source_url": "https://www.nikaia.fr/programmation/le-roi-soleil",
       "image_url": "https://www.nikaia.fr/files/2024-11/le-roi-soleil-2025-26-visuelweb-post-1080x1080-tournee.jpg",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Gronde",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1781971200000,
+      "ends_at": 1781978400000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "INFOLOCALE",
+      "source_url": "https://www.infolocale.fr/evenements?age%5B0%5D=Tout%20Public&age%5B1%5D=Adulte&age%5B2%5D=Adolescent&age%5B3%5D=Enfant&age%5B4%5D=Bebe&commune=06088",
+      "image_url": "https://photos.infolocale.fr/infolocale/annonce/2026/0603/8907316/_1.jpg?rnd=20260603190531",
       "category": "AUTRE"
     },
     {
@@ -1424,7 +1439,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/animation/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/escape-game-2025-2026-1301-250x250.jpg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
