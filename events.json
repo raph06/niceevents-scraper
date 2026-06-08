@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-08T13:06:42Z",
+  "scraped_at": "2026-06-08T17:51:20Z",
   "count": 271,
   "events": [
     {
@@ -1473,21 +1473,6 @@
       "category": "AUTRE"
     },
     {
-      "title": "Danse dans les jardins – Cours de danse en ligne",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1786017600000,
-      "ends_at": 1786024800000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/seance-de-plein-air/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
-      "category": "AUTRE"
-    },
-    {
       "title": "Visite guidée de l’Opéra de Nice",
       "description": "",
       "place": "Nice",
@@ -1499,7 +1484,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/05/evenement-opera-250x250.jpg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "CONCERT"
     },
     {
@@ -1514,7 +1499,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/concert/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/04/261498-musee-marc-chagall-250x250.jpg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "CONCERT"
     },
     {
@@ -1529,7 +1514,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/humour/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/03/sacree-soiree.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "NUIT"
     },
     {
@@ -1694,7 +1679,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/animation/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/09/cours-botanique-7-avril.jpg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
@@ -1755,6 +1740,21 @@
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/atelier/",
       "image_url": "https://www.nice.fr/wp-content/uploads/2025/08/aquarelle-mai-mde.jpg",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Réunion d’information : « AGIRC-ARRCO »",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1788697800000,
+      "ends_at": 1788705000000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/reunion-dinformation/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
