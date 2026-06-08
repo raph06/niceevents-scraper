@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-08T02:52:32Z",
+  "scraped_at": "2026-06-08T07:33:03Z",
   "count": 270,
   "events": [
     {
@@ -1559,7 +1559,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/concert/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/04/261498-musee-marc-chagall-250x250.jpg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "CONCERT"
     },
     {
@@ -1664,7 +1664,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/04/611891-tour-bellanda-250x250.jpg",
       "category": "AUTRE"
     },
     {
