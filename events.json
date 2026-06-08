@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-08T20:09:21Z",
-  "count": 271,
+  "scraped_at": "2026-06-08T22:27:51Z",
+  "count": 270,
   "events": [
     {
       "title": "7e rencontre des sites historiques Grimaldi de Monaco",
@@ -1428,21 +1428,6 @@
       "category": "CONCERT"
     },
     {
-      "title": "Concert de musique de chambre",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1785967200000,
-      "ends_at": 1785974400000,
-      "has_time": false,
-      "price": "—",
-      "price_val": 0,
-      "source": "CHAGALL",
-      "source_url": "https://musees-nationaux-alpesmaritimes.fr/chagall/agenda/evenement/concert-de-musique-de-chambre-26",
-      "image_url": "https://musees-nationaux-alpesmaritimes.fr/chagall/sites/chagall/files/styles/thumbnail_w880/public/2024-04/Concert_opera_musique_chambre_1920x960px.jpg?itok=UFqS7MPS",
-      "category": "CONCERT"
-    },
-    {
       "title": "Se préparer à l’entrée à l’école de mon enfant",
       "description": "",
       "place": "Nice",
@@ -1514,7 +1499,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/humour/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/03/sacree-soiree.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "NUIT"
     },
     {
@@ -1604,7 +1589,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/04/611891-tour-bellanda-250x250.jpg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
@@ -1679,7 +1664,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/animation/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/09/cours-botanique-7-avril.jpg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
@@ -1694,7 +1679,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/atelier/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/11/eveil-corporel.jpg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
