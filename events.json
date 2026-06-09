@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-08T22:27:51Z",
+  "scraped_at": "2026-06-09T02:20:12Z",
   "count": 270,
   "events": [
     {
@@ -1413,36 +1413,6 @@
       "category": "EXPO"
     },
     {
-      "title": "Musique de chambre au Musée Chagall",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1785967200000,
-      "ends_at": 1785974400000,
-      "has_time": false,
-      "price": "—",
-      "price_val": 0,
-      "source": "OPERA_NICE",
-      "source_url": "https://www.opera-nice.org/lieux/musee-marc-chagall/",
-      "image_url": "https://www.opera-nice.org/wp-content/uploads/2026/05/share-opera-nice-cote-dazur.jpg",
-      "category": "CONCERT"
-    },
-    {
-      "title": "Se préparer à l’entrée à l’école de mon enfant",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1786003200000,
-      "ends_at": 1786010400000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/atelier/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/11/as-877452885-entree-maternelle.jpg",
-      "category": "FAMILLE"
-    },
-    {
       "title": "Stage pratiques amateurs - Reliure papier marbré",
       "description": "",
       "place": "Monaco",
@@ -1456,51 +1426,6 @@
       "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/stage-pratiques-amateurs-reliure-papier-marbre",
       "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/4/9/5/9/2089594-1-fre-FR/0558f49603b3-105993_img_02SAWI8.jpg.webp",
       "category": "AUTRE"
-    },
-    {
-      "title": "Visite guidée de l’Opéra de Nice",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1786019400000,
-      "ends_at": 1786026600000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/05/evenement-opera-250x250.jpg",
-      "category": "CONCERT"
-    },
-    {
-      "title": "Musique de chambre au Musée Chagall",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1786035600000,
-      "ends_at": 1786042800000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/concert/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/04/261498-musee-marc-chagall-250x250.jpg",
-      "category": "CONCERT"
-    },
-    {
-      "title": "Sacrée Soirée",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1786041000000,
-      "ends_at": 1786048200000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/humour/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
-      "category": "NUIT"
     },
     {
       "title": "Saigon",
@@ -1589,7 +1514,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/04/611891-tour-bellanda-250x250.jpg",
       "category": "AUTRE"
     },
     {
@@ -1664,7 +1589,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/animation/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/09/cours-botanique-7-avril.jpg",
       "category": "AUTRE"
     },
     {
@@ -1679,7 +1604,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/atelier/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/11/eveil-corporel.jpg",
       "category": "AUTRE"
     },
     {
@@ -1694,7 +1619,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/lecture/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/09/bib-mobile-2.jpg",
       "category": "AUTRE"
     },
     {
@@ -1740,6 +1665,66 @@
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/reunion-dinformation/",
       "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Ateliers numériques",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1788697800000,
+      "ends_at": 1788705000000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/atelier/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Visite guidée du Vieux-Nice",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1788697800000,
+      "ends_at": 1788705000000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/05/vieux-nice-250x250.jpg",
+      "category": "AUTRE"
+    },
+    {
+      "title": "La mue du patrimoine",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1788699600000,
+      "ends_at": 1788706800000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/rencontre/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/04/patrimoine-paradisio-250x250.jpg",
+      "category": "AUTRE"
+    },
+    {
+      "title": "La Bib’Mobile – Saint-Isidore",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1788701400000,
+      "ends_at": 1788708600000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/lecture/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/09/bib-mobile-2.jpg",
       "category": "AUTRE"
     },
     {
@@ -2309,6 +2294,21 @@
       "price_val": 0,
       "source": "OPERA_NICE",
       "source_url": "https://www.opera-nice.org/lieux/opera-nice-cote-dazur/",
+      "image_url": "https://www.opera-nice.org/wp-content/uploads/2026/05/share-opera-nice-cote-dazur.jpg",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Viens avec ton doudou",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1794265200000,
+      "ends_at": 1794272400000,
+      "has_time": false,
+      "price": "—",
+      "price_val": 0,
+      "source": "OPERA_NICE",
+      "source_url": "https://www.opera-nice.org/lieux/foyer-montserrat-caballe-de-lopera/",
       "image_url": "https://www.opera-nice.org/wp-content/uploads/2026/05/share-opera-nice-cote-dazur.jpg",
       "category": "AUTRE"
     },
