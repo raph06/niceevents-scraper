@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-09T12:00:38Z",
-  "count": 271,
+  "scraped_at": "2026-06-09T14:35:58Z",
+  "count": 272,
   "events": [
     {
       "title": "7e rencontre des sites historiques Grimaldi de Monaco",
@@ -469,21 +469,6 @@
     },
     {
       "title": "Un Monde Ensemble",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1781906400000,
-      "ends_at": 1781913600000,
-      "has_time": false,
-      "price": "—",
-      "price_val": 0,
-      "source": "OPERA_NICE",
-      "source_url": "https://www.opera-nice.org/lieux/opera-nice-cote-dazur/",
-      "image_url": "https://www.opera-nice.org/wp-content/uploads/2026/05/share-opera-nice-cote-dazur.jpg",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Escape Game",
       "description": "",
       "place": "Nice",
       "city": "Nice",
@@ -1518,21 +1503,6 @@
       "category": "AUTRE"
     },
     {
-      "title": "La Bib’Mobile – L’Arénas",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1788690600000,
-      "ends_at": 1788697800000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/lecture/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/09/bib-mobile-2.jpg",
-      "category": "AUTRE"
-    },
-    {
       "title": "La bataille de Gaulle : l’âge de fer",
       "description": "",
       "place": "Nice",
@@ -1559,52 +1529,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/atelier/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Réunion d’information : « AGIRC-ARRCO »",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1788697800000,
-      "ends_at": 1788705000000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/reunion-dinformation/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Ateliers numériques",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1788697800000,
-      "ends_at": 1788705000000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/atelier/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Visite guidée du Vieux-Nice",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1788697800000,
-      "ends_at": 1788705000000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/08/aquarelle-mai-mde.jpg",
       "category": "AUTRE"
     },
     {
@@ -1619,7 +1544,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/rencontre/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/04/patrimoine-paradisio-250x250.jpg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
@@ -1649,7 +1574,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/projection/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/05/julie-en-12-chapitres-©-dr-oslo-pictures-mk2-productions-film-i-vast.jpg",
       "category": "AUTRE"
     },
     {
@@ -1664,7 +1589,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/conference/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/05/juno.jpg",
       "category": "AUTRE"
     },
     {
@@ -1694,7 +1619,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/projection/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/06/vers-sa-destinee-©-dr-warner.jpg",
       "category": "AUTRE"
     },
     {
@@ -1786,6 +1711,21 @@
       "source_url": "https://www.tnn.fr/fr/spectacles/saison-2026-2027/enoch-arden",
       "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-05-785-enoch-arden-slider.jpg",
       "category": "THEATRE"
+    },
+    {
+      "title": "Escape Game",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1789250400000,
+      "ends_at": 1789257600000,
+      "has_time": false,
+      "price": "—",
+      "price_val": 0,
+      "source": "OPERA_NICE",
+      "source_url": "https://www.opera-nice.org/lieux/opera-nice-cote-dazur/",
+      "image_url": "https://www.opera-nice.org/wp-content/uploads/2026/05/share-opera-nice-cote-dazur.jpg",
+      "category": "AUTRE"
     },
     {
       "title": "Chopin",
@@ -1918,7 +1858,7 @@
       "price": "—",
       "price_val": 0,
       "source": "OPERA_NICE",
-      "source_url": "https://www.opera-nice.org/lieux/opera-plage/",
+      "source_url": "https://www.opera-nice.org/lieux/cave-bianchi-1860/",
       "image_url": "https://www.opera-nice.org/wp-content/uploads/2026/05/share-opera-nice-cote-dazur.jpg",
       "category": "NUIT"
     },
@@ -1934,7 +1874,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/atelier/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/06/composteurs.jpg",
       "category": "AUTRE"
     },
     {
@@ -1964,7 +1904,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/atelier/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/11/eveil-corporel.jpg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
@@ -1981,6 +1921,66 @@
       "source_url": "https://www.nice.fr/agenda/type/lecture/",
       "image_url": "https://www.nice.fr/wp-content/uploads/2025/09/bib-mobile-2.jpg",
       "category": "AUTRE"
+    },
+    {
+      "title": "Visite intimiste – Africa Pop",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1791273600000,
+      "ends_at": 1791280800000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/04/affiche-africa-pop-250x250.jpg",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Journée internationale du jeu",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1791273600000,
+      "ends_at": 1791280800000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/atelier/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/04/journee-du-jeu.jpeg",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Jouons !",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1791273600000,
+      "ends_at": 1791280800000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/animation/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/01/jouons.jpg",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Visite guidée de l’exposition « Trésors, charafi et quoi encore ? »",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1791273600000,
+      "ends_at": 1791280800000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/04/centre-du-patrimoine-charafi-250x250-1.jpg",
+      "category": "EXPO"
     },
     {
       "title": "Happy Hour Musical",
@@ -2309,6 +2309,21 @@
       "price_val": 0,
       "source": "OPERA_NICE",
       "source_url": "https://www.opera-nice.org/lieux/opera-nice-cote-dazur/",
+      "image_url": "https://www.opera-nice.org/wp-content/uploads/2026/05/share-opera-nice-cote-dazur.jpg",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Viens avec ton doudou",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1794265200000,
+      "ends_at": 1794272400000,
+      "has_time": false,
+      "price": "—",
+      "price_val": 0,
+      "source": "OPERA_NICE",
+      "source_url": "https://www.opera-nice.org/lieux/foyer-montserrat-caballe-de-lopera/",
       "image_url": "https://www.opera-nice.org/wp-content/uploads/2026/05/share-opera-nice-cote-dazur.jpg",
       "category": "AUTRE"
     },
