@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-09T22:24:46Z",
-  "count": 274,
+  "scraped_at": "2026-06-10T02:45:05Z",
+  "count": 271,
   "events": [
     {
       "title": "7e rencontre des sites historiques Grimaldi de Monaco",
@@ -1533,111 +1533,6 @@
       "category": "AUTRE"
     },
     {
-      "title": "Tour Bellanda – Le Bellandarium",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1788678000000,
-      "ends_at": 1788685200000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/04/611891-tour-bellanda-250x250.jpg",
-      "category": "AUTRE"
-    },
-    {
-      "title": "La bataille de Gaulle : l’âge de fer",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1788694200000,
-      "ends_at": 1788701400000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/projection/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
-      "category": "AUTRE"
-    },
-    {
-      "title": "La mue du patrimoine",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1788699600000,
-      "ends_at": 1788706800000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/rencontre/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/04/patrimoine-paradisio-250x250.jpg",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Julie (en 12 chapitres)",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1788706800000,
-      "ends_at": 1788714000000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/projection/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/05/julie-en-12-chapitres-©-dr-oslo-pictures-mk2-productions-film-i-vast.jpg",
-      "category": "AUTRE"
-    },
-    {
-      "title": "10 ans d’observations de Jupiter par la mission Juno",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1788710400000,
-      "ends_at": 1788717600000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/conference/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/05/juno.jpg",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Une histoire de Pinocchio",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1788712200000,
-      "ends_at": 1788719400000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/opera/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Vers sa destinée",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1788715800000,
-      "ends_at": 1788723000000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/projection/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/06/vers-sa-destinee-©-dr-warner.jpg",
-      "category": "AUTRE"
-    },
-    {
       "title": "Nelken",
       "description": "Dans le cadre de son Festival d’été 2026, laScène Nationale de Châteauvallon-Libertéaccueille les seules dates\r\nfrançaises de la tournée deNelkende Pina Bausch. Dans l’écrin de l’Amphithéâtre de Châteauvallon, métamorphosé\r\nen un immense parterre de 8 700 œillets roses, résonnera la création immortelle de l’immense chorégraphe où danse,\r\nchant et théâtre se conjuguent dans une fresque d’une puissa",
       "place": "Les FranciscainsLa Cuisine",
@@ -1889,7 +1784,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/atelier/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/06/composteurs.jpg",
       "category": "AUTRE"
     },
     {
@@ -1905,6 +1800,21 @@
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/rencontre/",
       "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Tour Bellanda – Le Bellandarium",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1791270000000,
+      "ends_at": 1791277200000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/04/611891-tour-bellanda-250x250.jpg",
       "category": "AUTRE"
     },
     {
@@ -1949,7 +1859,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/04/affiche-africa-pop-250x250.jpg",
       "category": "AUTRE"
     },
     {
@@ -1964,7 +1874,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/atelier/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/04/journee-du-jeu.jpeg",
       "category": "AUTRE"
     },
     {
@@ -1994,7 +1904,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/04/centre-du-patrimoine-charafi-250x250-1.jpg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "EXPO"
     },
     {
@@ -2010,6 +1920,51 @@
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/atelier/",
       "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Potager en famille",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1791288000000,
+      "ends_at": 1791295200000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/atelier/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/03/potager-mai-mde.jpg",
+      "category": "FAMILLE"
+    },
+    {
+      "title": "Visite guidée de la Crypte",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1791288000000,
+      "ends_at": 1791295200000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/05/evenement-crypte-250x250.jpg",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Macbeth",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1791291600000,
+      "ends_at": 1791298800000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/theatre/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/05/macbeth.jpg",
       "category": "AUTRE"
     },
     {
