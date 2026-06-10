@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-10T07:09:23Z",
-  "count": 271,
+  "scraped_at": "2026-06-10T12:21:21Z",
+  "count": 276,
   "events": [
     {
       "title": "7e rencontre des sites historiques Grimaldi de Monaco",
@@ -903,6 +903,21 @@
       "category": "FAMILLE"
     },
     {
+      "title": "AtelierS de pratiques artistiques (6-11 ans) / LES MERCREDIS",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1782300600000,
+      "ends_at": 1782307800000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MATISSE",
+      "source_url": "https://www.musee-matisse-nice.org/fr/evenement/ateliers-de-pratiques-artistiques-6-11-ans-les-mercredis/",
+      "image_url": "https://www.musee-matisse-nice.org/wp-content/uploads/2021/02/Musee-Matisse-Nice-Partage.png",
+      "category": "AUTRE"
+    },
+    {
       "title": "Street Art Challenge Junior",
       "description": "",
       "place": "Monaco",
@@ -1383,6 +1398,21 @@
       "category": "EXPO"
     },
     {
+      "title": "ATELIERS de pratiques artistiques (6-11 ans) / VACANCES SCOLAIRES",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1784239200000,
+      "ends_at": 1784246400000,
+      "has_time": false,
+      "price": "—",
+      "price_val": 0,
+      "source": "MATISSE",
+      "source_url": "https://www.musee-matisse-nice.org/fr/evenement/stage-de-pratiques-artistiques-6-11-ans-vacances-scolaires-5/",
+      "image_url": "https://www.musee-matisse-nice.org/wp-content/uploads/2021/02/Musee-Matisse-Nice-Partage.png",
+      "category": "AUTRE"
+    },
+    {
       "title": "Exposition : Angie F",
       "description": "",
       "place": "ExpositionPeinture",
@@ -1546,6 +1576,21 @@
       "source_url": "https://www.tnn.fr/fr/spectacles/saison-2025-2026/nelken-spectacle-partenaire",
       "image_url": "https://www.tnn.fr/img/spectacles/saison-2025-2026/2025-11-751-nelken-spectacle-partenaire-slider.jpg",
       "category": "THEATRE"
+    },
+    {
+      "title": "Atelier de pratiques artistiques (à partir de 4 ans)",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1788769800000,
+      "ends_at": 1788777000000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MATISSE",
+      "source_url": "https://www.musee-matisse-nice.org/fr/evenement/atelier-de-pratiques-artistiques-a-partir-de-4-ans-3/",
+      "image_url": "https://www.musee-matisse-nice.org/wp-content/uploads/2021/02/Musee-Matisse-Nice-Partage.png",
+      "category": "AUTRE"
     },
     {
       "title": "Nelken",
@@ -1773,21 +1818,6 @@
       "category": "NUIT"
     },
     {
-      "title": "Atelier compostage",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1791266400000,
-      "ends_at": 1791273600000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/atelier/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/06/composteurs.jpg",
-      "category": "AUTRE"
-    },
-    {
       "title": "Journée portes ouvertes – Travailler en EHPAD",
       "description": "",
       "place": "Nice",
@@ -1818,36 +1848,6 @@
       "category": "AUTRE"
     },
     {
-      "title": "Éveil corporel",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1791271800000,
-      "ends_at": 1791279000000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/atelier/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/11/eveil-corporel.jpg",
-      "category": "AUTRE"
-    },
-    {
-      "title": "La Bib’Mobile – St Antoine de Ginestière",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1791271800000,
-      "ends_at": 1791279000000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/lecture/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/09/bib-mobile-2.jpg",
-      "category": "AUTRE"
-    },
-    {
       "title": "Visite intimiste – Africa Pop",
       "description": "",
       "place": "Nice",
@@ -1860,21 +1860,6 @@
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
       "image_url": "https://www.nice.fr/wp-content/uploads/2026/04/affiche-africa-pop-250x250.jpg",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Journée internationale du jeu",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1791273600000,
-      "ends_at": 1791280800000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/atelier/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/04/journee-du-jeu.jpeg",
       "category": "AUTRE"
     },
     {
@@ -1908,18 +1893,33 @@
       "category": "EXPO"
     },
     {
-      "title": "Atelier jardinage",
+      "title": "La Bib’Mobile – St Antoine de Ginestière",
       "description": "",
       "place": "Nice",
       "city": "Nice",
-      "starts_at": 1791275400000,
-      "ends_at": 1791282600000,
+      "starts_at": 1791286200000,
+      "ends_at": 1791293400000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/lecture/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/09/bib-mobile-2.jpg",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Journée internationale du jeu",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1791288000000,
+      "ends_at": 1791295200000,
       "has_time": true,
       "price": "—",
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/atelier/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/04/journee-du-jeu.jpeg",
       "category": "AUTRE"
     },
     {
@@ -1968,6 +1968,51 @@
       "category": "AUTRE"
     },
     {
+      "title": "La pause Manga",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1791293400000,
+      "ends_at": 1791300600000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/lecture/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "category": "AUTRE"
+    },
+    {
+      "title": "De A à Z, inventons un monde avec les mots",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1791293400000,
+      "ends_at": 1791300600000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/atelier/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Les anges, mythe et réalités",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1791295200000,
+      "ends_at": 1791302400000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/conference/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "category": "AUTRE"
+    },
+    {
       "title": "Happy Hour Musical",
       "description": "",
       "place": "Monaco",
@@ -1980,6 +2025,36 @@
       "source": "MONACO",
       "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/happy-hour-musical",
       "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/0/3/0/7/1267030-4-fre-FR/8e87970da58f-104942_img_0GRsmtK.jpg.webp",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Afterwork : Violon électrique",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1791306000000,
+      "ends_at": 1791313200000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/concert/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "category": "NUIT"
+    },
+    {
+      "title": "Pays bonheur",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1791309600000,
+      "ends_at": 1791316800000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/theatre/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/06/d06a447a5bdb2a8a87beb1eec087a79d0f2ddce6.jpeg",
       "category": "AUTRE"
     },
     {
