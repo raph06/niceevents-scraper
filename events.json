@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-11T02:53:28Z",
+  "scraped_at": "2026-06-11T07:29:58Z",
   "count": 276,
   "events": [
     {
@@ -2054,7 +2054,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/03/expo-environnement-250x250.jpg",
       "category": "EXPO"
     },
     {
@@ -2099,7 +2099,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/05/riviera-visite.jpg",
       "category": "AUTRE"
     },
     {
@@ -2114,7 +2114,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/lecture/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/09/bib-mobile-2.jpg",
       "category": "AUTRE"
     },
     {
