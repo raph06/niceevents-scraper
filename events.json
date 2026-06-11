@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-11T12:44:30Z",
-  "count": 283,
+  "scraped_at": "2026-06-11T18:13:58Z",
+  "count": 281,
   "events": [
     {
       "title": "7e rencontre des sites historiques Grimaldi de Monaco",
@@ -2103,36 +2103,6 @@
       "category": "AUTRE"
     },
     {
-      "title": "Réunion d’information « UNIA »",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1793970000000,
-      "ends_at": 1793977200000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/reunion-dinformation/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Parent’aise",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1793970000000,
-      "ends_at": 1793977200000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/rencontre/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
-      "category": "AUTRE"
-    },
-    {
       "title": "Après-midi portes ouvertes de la Maison Sport Santé",
       "description": "",
       "place": "Nice",
@@ -2146,66 +2116,6 @@
       "source_url": "https://www.nice.fr/agenda/type/reunion-dinformation/",
       "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "SPORT"
-    },
-    {
-      "title": "L’encre des rêves",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1793971800000,
-      "ends_at": 1793979000000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/atelier/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
-      "category": "AUTRE"
-    },
-    {
-      "title": "À vos jeux !",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1793971800000,
-      "ends_at": 1793979000000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/atelier/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Bal à Cimiez",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1793971800000,
-      "ends_at": 1793979000000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/animation/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
-      "category": "AUTRE"
-    },
-    {
-      "title": "La colline du château",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1793971800000,
-      "ends_at": 1793979000000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/03/colline-chateau.jpg",
-      "category": "AUTRE"
     },
     {
       "title": "La Vésubie, une vallée, une histoire, une église remarquable – Saint-Michel de Gast",
@@ -2234,7 +2144,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/conference/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/04/conference-massena.jpg",
       "category": "AUTRE"
     },
     {
@@ -2429,7 +2339,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/spectacle/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/06/niki-de-saint-phalle-latifa-lekhdar-1-1110x740-1.jpg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "THEATRE"
     },
     {
@@ -2445,6 +2355,51 @@
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/concert/",
       "image_url": "https://www.nice.fr/wp-content/uploads/2026/06/musicame.jpeg",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Le Grand Orchestre de Poche (G.O.P)",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1793993400000,
+      "ends_at": 1794000600000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/spectacle/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "category": "CONCERT"
+    },
+    {
+      "title": "Projections sur les fenêtres des ateliers plasticiens",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1793995200000,
+      "ends_at": 1794002400000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/performance/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "category": "CINEMA"
+    },
+    {
+      "title": "Sainte-Marie aux mines",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1793997900000,
+      "ends_at": 1794005100000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/projection/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
@@ -2790,6 +2745,21 @@
       "source": "MONACO",
       "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/apidays-2026",
       "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/4/8/7/8/2088784-1-fre-FR/f672de83bd61-105989_img_08wm5Lm.png.webp",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Atelier mémoire",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1796545800000,
+      "ends_at": 1796553000000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/animation/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
