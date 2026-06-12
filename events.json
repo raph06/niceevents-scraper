@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-12T12:18:57Z",
-  "count": 279,
+  "scraped_at": "2026-06-12T17:41:11Z",
+  "count": 282,
   "events": [
     {
       "title": "7e rencontre des sites historiques Grimaldi de Monaco",
@@ -1188,6 +1188,21 @@
       "category": "AUTRE"
     },
     {
+      "title": "Déjeuner-philo : Désirs de justice",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1782469800000,
+      "ends_at": 1782475200000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/dejeuner-philo-desirs-de-justice",
+      "image_url": null,
+      "category": "AUTRE"
+    },
+    {
       "title": "Bérénice",
       "description": "Choisir entre l’amour et le pouvoir, c’est le dilemme de Titus qui vient d’accéder au pouvoir et ne peut épouser Bérénice, reine étrangère, car la loi l’en empêche. Amoureux éconduit, Antiochus est le confident impuissant de Bérénice. Cette pièce de Racine est moins un drame du pouvoir, qu’un drame de l’amour : c’est une longue lettre d’adieu qui ne parvient pas à s’écrire, et qui laissera trois ê",
       "place": "Les FranciscainsLa Cuisine",
@@ -1938,6 +1953,21 @@
       "category": "THEATRE"
     },
     {
+      "title": "Afterwork – Brahms",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1791928800000,
+      "ends_at": 1791936000000,
+      "has_time": false,
+      "price": "—",
+      "price_val": 0,
+      "source": "OPERA_NICE",
+      "source_url": "https://www.opera-nice.org/lieux/lobservatoire/",
+      "image_url": "https://www.opera-nice.org/wp-content/uploads/2026/05/share-opera-nice-cote-dazur.jpg",
+      "category": "NUIT"
+    },
+    {
       "title": "Ivanov",
       "description": "Ivanovnous confronte au destin contrarié d’un homme cultivé et sensible mais profondément épuisé par la vie : un propriétaire terrien ruiné, dont l’épouse tombe gravement malade. Enlisé dans une existence étouffée par les ragots, l’hypocrisie et les préjugés, le lucide Ivanov tombe amoureux de Sacha, la fille d’une de ses connaissances. Tiraillé entre la mort imminente de son épouse et l’exaltatio",
       "place": "Les FranciscainsLa Cuisine",
@@ -1951,6 +1981,21 @@
       "source_url": "https://www.tnn.fr/fr/spectacles/saison-2026-2027/ivanov",
       "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-05-786-ivanov-slider.jpg",
       "category": "THEATRE"
+    },
+    {
+      "title": "60 minutes de découvertes #1",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1792015200000,
+      "ends_at": 1792022400000,
+      "has_time": false,
+      "price": "—",
+      "price_val": 0,
+      "source": "OPERA_NICE",
+      "source_url": "https://www.opera-nice.org/lieux/musee-marc-chagall/",
+      "image_url": "https://www.opera-nice.org/wp-content/uploads/2026/05/share-opera-nice-cote-dazur.jpg",
+      "category": "AUTRE"
     },
     {
       "title": "Ivanov",
@@ -1981,6 +2026,21 @@
       "source_url": "https://www.tnn.fr/fr/spectacles/saison-2026-2027/ivanov",
       "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-05-786-ivanov-slider.jpg",
       "category": "THEATRE"
+    },
+    {
+      "title": "Jean-Christophe Maillot & Ioannis Mandafounis",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1792188000000,
+      "ends_at": 1792195200000,
+      "has_time": false,
+      "price": "—",
+      "price_val": 0,
+      "source": "OPERA_NICE",
+      "source_url": "https://www.opera-nice.org/lieux/opera-nice-cote-dazur/",
+      "image_url": "https://www.opera-nice.org/wp-content/uploads/2026/05/share-opera-nice-cote-dazur.jpg",
+      "category": "AUTRE"
     },
     {
       "title": "Africa Pop",
@@ -2489,7 +2549,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/04/archives-nca-fabron-250x250.jpg",
       "category": "AUTRE"
     },
     {
@@ -2519,7 +2579,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/atelier/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/01/alors-j-ecris.jpg",
       "category": "AUTRE"
     },
     {
@@ -2550,21 +2610,6 @@
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/lecture/",
       "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Arigato Mission Japon",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1796572800000,
-      "ends_at": 1796576400000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/arigato-mission-japon",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/6/5/7/9/2089756-2-fre-FR/1145b53fbfc2-105994_img_0KJWhPW.jpg.webp",
       "category": "AUTRE"
     },
     {
