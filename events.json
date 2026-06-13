@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-13T02:42:22Z",
-  "count": 275,
+  "scraped_at": "2026-06-13T06:57:55Z",
+  "count": 274,
   "events": [
     {
       "title": "La gestion de l’eau au jardin",
@@ -89,7 +89,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/rencontre/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/12/conversation-langue-francaise.jpeg",
       "category": "AUTRE"
     },
     {
@@ -224,7 +224,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/05/evenement-crypte-250x250.jpg",
       "category": "AUTRE"
     },
     {
@@ -630,6 +630,21 @@
       "source": "LE109",
       "source_url": "https://le109.nice.fr/programmation/le-cycle-du-temps-elastique",
       "image_url": "https://wsrv.nl/?url=le109.nice.fr/thumbs/1024x562r/2026-06/fly-19-06-26.jpg",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Basket Betclic ELITE - Finale - Match 3 : Monaco - Paris",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1781895300000,
+      "ends_at": 1781902500000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/basket-betclic-elite-finale-match-3-monaco-paris",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/2/3/2/4/2144232-1-fre-FR/6d6f4b1bbdcc-_TGLotWLgdxvGqa.png.webp",
       "category": "AUTRE"
     },
     {
@@ -1409,21 +1424,6 @@
       "price_val": 0,
       "source": "MONACO",
       "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/matinale-desir-et-deception",
-      "image_url": null,
-      "category": "AUTRE"
-    },
-    {
-      "title": "Déjeuner-philo : Désirs de justice",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1782469800000,
-      "ends_at": 1782475200000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/dejeuner-philo-desirs-de-justice",
       "image_url": null,
       "category": "AUTRE"
     },
@@ -2686,21 +2686,6 @@
       "source_url": "https://www.explorenicecotedazur.com/evenement/concerts-a-la-trinquette-jazz-club/",
       "image_url": "https://cdn.iris-etourism.io/uploads/nice/sizes/cd5/89-213-41604441-335x335.webp",
       "category": "CONCERT"
-    },
-    {
-      "title": "M.I.I.M « Niki de Saint Phalle. Action-spectacle » au Festival Uzine à Gag",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1796511600000,
-      "ends_at": 1796518800000,
-      "has_time": false,
-      "price": "—",
-      "price_val": 0,
-      "source": "MAMAC",
-      "source_url": "https://www.mamac-nice.org/evenement/m-i-i-m-niki-de-saint-phalle-action-spectacle-au-festival-uzine-a-gag/",
-      "image_url": "https://www.mamac-nice.org/wp-content/uploads/2021/05/site-mamac.jpg",
-      "category": "THEATRE"
     },
     {
       "title": "APIdays 2026",
