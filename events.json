@@ -1,22 +1,7 @@
 {
-  "scraped_at": "2026-06-13T19:16:33Z",
-  "count": 258,
+  "scraped_at": "2026-06-13T22:03:22Z",
+  "count": 260,
   "events": [
-    {
-      "title": "Cent détours",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1781375400000,
-      "ends_at": 1781382600000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/spectacle/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/05/cent-detours.jpg",
-      "category": "AUTRE"
-    },
     {
       "title": "Signature Gestuelle – Dominique Jaussein",
       "description": "",
@@ -226,6 +211,21 @@
       "source_url": "https://www.opera-nice.org/lieux/lobservatoire/",
       "image_url": "https://www.opera-nice.org/wp-content/uploads/2026/05/share-opera-nice-cote-dazur.jpg",
       "category": "THEATRE"
+    },
+    {
+      "title": "Exposition Claudio Rotta Loria - ANAPHORES LUMINEUSES",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1781791200000,
+      "ends_at": 1781798400000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "INFOLOCALE",
+      "source_url": "https://www.infolocale.fr/evenements?age%5B0%5D=Tout%20Public&age%5B1%5D=Adulte&age%5B2%5D=Adolescent&age%5B3%5D=Enfant&age%5B4%5D=Bebe&commune=06088",
+      "image_url": "https://photos.infolocale.fr/infolocale/annonce/2026/0602/8906014/_1.jpg?rnd=20260602175614",
+      "category": "EXPO"
     },
     {
       "title": "Thursday Live Sessions - Bande à part",
@@ -1203,6 +1203,51 @@
       "category": "FAMILLE"
     },
     {
+      "title": "Boom des enfants",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1782489600000,
+      "ends_at": 1782496800000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/boom-des-enfants",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/8/2/7/0/2090728-1-fre-FR/425636771437-vy1gCpufJWgIgqGiw1kfL1fLvAYAhw7tdSeEQ2qDCSGEBi.jpg.webp",
+      "category": "FAMILLE"
+    },
+    {
+      "title": "Ne pas céder sur son désir",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1782493200000,
+      "ends_at": 1782500400000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/ne-pas-ceder-sur-son-desir",
+      "image_url": null,
+      "category": "AUTRE"
+    },
+    {
+      "title": "Sirba Octet",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1782496800000,
+      "ends_at": 1782502200000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/sirba-octet",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/6/4/2/7/1267246-4-fre-FR/d26a219598e9-104946_img_0I7RlkP.png.webp",
+      "category": "AUTRE"
+    },
+    {
       "title": "Bérénice",
       "description": "Choisir entre l’amour et le pouvoir, c’est le dilemme de Titus qui vient d’accéder au pouvoir et ne peut épouser Bérénice, reine étrangère, car la loi l’en empêche. Amoureux éconduit, Antiochus est le confident impuissant de Bérénice. Cette pièce de Racine est moins un drame du pouvoir, qu’un drame de l’amour : c’est une longue lettre d’adieu qui ne parvient pas à s’écrire, et qui laissera trois ê",
       "place": "Les FranciscainsLa Cuisine",
@@ -2130,21 +2175,6 @@
       "source": "NIKAIA",
       "source_url": "https://www.nikaia.fr/programmation/patrick-bruel-5",
       "image_url": "https://www.nikaia.fr/files/2026-02/site-pb.jpg",
-      "category": "AUTRE"
-    },
-    {
-      "title": "The Unique Show: Luxury Monte-Carlo 2026",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1793973600000,
-      "ends_at": 1781380800000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/the-unique-show-luxury-monte-carlo-2026",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/0/6/2/8/2048260-1-fre-FR/84ba0694c758-105929_img_0Te0Uqp.png.webp",
       "category": "AUTRE"
     },
     {
