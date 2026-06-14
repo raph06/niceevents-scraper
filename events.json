@@ -1,67 +1,7 @@
 {
-  "scraped_at": "2026-06-14T07:25:41Z",
-  "count": 271,
+  "scraped_at": "2026-06-14T11:31:52Z",
+  "count": 267,
   "events": [
-    {
-      "title": "Jardin de glace",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1781420400000,
-      "ends_at": 1781427600000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/animation/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Festival Hors-Champ",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1781424000000,
-      "ends_at": 1781431200000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/projection/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Bharat Innovates 2026",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1781424000000,
-      "ends_at": 1781431200000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/conference/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/05/pexels-khaas-photographer-3700378-5538643-scaled-1.jpg",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Archéo-balade à Cimiez",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1781425800000,
-      "ends_at": 1781433000000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/05/cemenelum-musee-archeologie-nice-cimiez-vue-du-ciel-250x250.jpg",
-      "category": "AUTRE"
-    },
     {
       "title": "Cemenelum côté musée",
       "description": "",
@@ -119,7 +59,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/spectacle/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/05/cavaliere-di-pietra.png",
       "category": "AUTRE"
     },
     {
