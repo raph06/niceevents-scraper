@@ -1,82 +1,7 @@
 {
-  "scraped_at": "2026-06-14T13:48:02Z",
-  "count": 269,
+  "scraped_at": "2026-06-14T16:22:50Z",
+  "count": 266,
   "events": [
-    {
-      "title": "Il cavaliere di pietra d’après Carlo Gozzi",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1781442000000,
-      "ends_at": 1781449200000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/spectacle/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/05/cavaliere-di-pietra.png",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Visite guidée de la Crypte",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1781442000000,
-      "ends_at": 1781449200000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/05/evenement-crypte-250x250.jpg",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Goûter sur scène",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1781445600000,
-      "ends_at": 1781452800000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/spectacle/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/08/gouter-sur-scene.png",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Orchestre d’Harmonie de la ville de Nice",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1781449200000,
-      "ends_at": 1781456400000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/concert/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/05/bp-499950-orchestre-harmonie-250x250.jpg",
-      "category": "CONCERT"
-    },
-    {
-      "title": "La crypte archéologique",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1781449200000,
-      "ends_at": 1781456400000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
-      "category": "AUTRE"
-    },
     {
       "title": "Mistero Buffo – La fame",
       "description": "",
@@ -164,7 +89,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/lecture/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/chapitre-06100.jpg",
       "category": "AUTRE"
     },
     {
@@ -1818,6 +1743,21 @@
       "category": "THEATRE"
     },
     {
+      "title": "Divin.e Fripon.ne",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1788019200000,
+      "ends_at": 1788026400000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "INFOLOCALE",
+      "source_url": "https://www.infolocale.fr/evenements?age%5B0%5D=Tout%20Public&age%5B1%5D=Adulte&age%5B2%5D=Adolescent&age%5B3%5D=Enfant&age%5B4%5D=Bebe&commune=06088",
+      "image_url": "https://photos.infolocale.fr/infolocale/annonce/2026/0525/8897175/_1.jpg?rnd=20260525163216",
+      "category": "FOOD"
+    },
+    {
       "title": "Vikings : L’Odyssée jusqu’aux confins du monde – Cités Immersives",
       "description": "",
       "place": "ExpositionHistorique",
@@ -1846,6 +1786,21 @@
       "source_url": "https://www.explorenicecotedazur.com/evenement/exposition-ramiro-arrue/",
       "image_url": "https://cdn.iris-etourism.io/uploads/nice/sizes/9a0/165-89-41703845-335x335.webp",
       "category": "EXPO"
+    },
+    {
+      "title": "Happening Live Painting par Guillaume Cavalier à Cap 3000 - 30 juin 2026",
+      "description": "",
+      "place": "Saint-Laurent-du-Var",
+      "city": "Nice",
+      "starts_at": 1788127200000,
+      "ends_at": 1788134400000,
+      "has_time": false,
+      "price": "—",
+      "price_val": 0,
+      "source": "INFOLOCALE",
+      "source_url": "https://www.infolocale.fr/evenements?age%5B0%5D=Tout%20Public&age%5B1%5D=Adulte&age%5B2%5D=Adolescent&age%5B3%5D=Enfant&age%5B4%5D=Bebe&commune=06088",
+      "image_url": "https://photos.infolocale.fr/infolocale/annonce/2026/0521/8894605/_1.jpg?rnd=20260521144741",
+      "category": "AUTRE"
     },
     {
       "title": "Nelken",
