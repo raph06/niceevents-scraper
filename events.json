@@ -1,52 +1,7 @@
 {
-  "scraped_at": "2026-06-14T11:31:52Z",
-  "count": 267,
+  "scraped_at": "2026-06-14T13:48:02Z",
+  "count": 269,
   "events": [
-    {
-      "title": "Cemenelum côté musée",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1781438400000,
-      "ends_at": 1781445600000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/05/fragment-sarcophage-cemenelum-musee-archeologie-nice-250x250.jpg",
-      "category": "EXPO"
-    },
-    {
-      "title": "La crypte archéologique",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1781438400000,
-      "ends_at": 1781445600000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Visite guidée de la Crypte",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1781438400000,
-      "ends_at": 1781445600000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/05/evenement-crypte-250x250.jpg",
-      "category": "AUTRE"
-    },
     {
       "title": "Il cavaliere di pietra d’après Carlo Gozzi",
       "description": "",
@@ -63,6 +18,21 @@
       "category": "AUTRE"
     },
     {
+      "title": "Visite guidée de la Crypte",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1781442000000,
+      "ends_at": 1781449200000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/05/evenement-crypte-250x250.jpg",
+      "category": "AUTRE"
+    },
+    {
       "title": "Goûter sur scène",
       "description": "",
       "place": "Nice",
@@ -74,7 +44,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/spectacle/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/08/gouter-sur-scene.png",
       "category": "AUTRE"
     },
     {
@@ -89,8 +59,23 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/concert/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/05/bp-499950-orchestre-harmonie-250x250.jpg",
       "category": "CONCERT"
+    },
+    {
+      "title": "La crypte archéologique",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1781449200000,
+      "ends_at": 1781456400000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "category": "AUTRE"
     },
     {
       "title": "Mistero Buffo – La fame",
@@ -104,7 +89,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/spectacle/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/05/mistero-buffo.jpg",
       "category": "AUTRE"
     },
     {
@@ -179,7 +164,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/lecture/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/chapitre-06100.jpg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
@@ -196,6 +181,51 @@
       "source_url": "https://www.nice.fr/agenda/type/rencontre/",
       "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
+    },
+    {
+      "title": "Danse dans les jardins – Cours de disco",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1781512200000,
+      "ends_at": 1781519400000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/seance-de-plein-air/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Réunion d’information « Les bancs de la Fac »",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1781524800000,
+      "ends_at": 1781532000000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/reunion-dinformation/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Visite guidée de l’Opéra de Nice",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1781526600000,
+      "ends_at": 1781533800000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/05/evenement-opera-250x250.jpg",
+      "category": "CONCERT"
     },
     {
       "title": "LES INDISPENSABLES DU CATECHISTE: Animation et positionnement en Pastorale",
