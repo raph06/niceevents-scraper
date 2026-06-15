@@ -1,22 +1,7 @@
 {
-  "scraped_at": "2026-06-15T19:09:00Z",
+  "scraped_at": "2026-06-15T23:03:46Z",
   "count": 271,
   "events": [
-    {
-      "title": "Bord de mer",
-      "description": "En ouverture de la troisième édition du Festival de Tragédies, Muriel Mayette-Holtz choisit de porter au plateau un chef-d’œuvre de Véronique Olmi : la voix fragile mais puissante d’une tragédie contemporaine, celle d’une mère seule, en grande précarité sociale et psychique, qui emmène ses deux jeunes fils voir la mer. Quelques jours de vacances arrachés à la misère, l’immensité de la mer comme se",
-      "place": "Les FranciscainsLa Cuisine",
-      "city": "Nice",
-      "starts_at": 1781560800000,
-      "ends_at": 1781568000000,
-      "has_time": false,
-      "price": "—",
-      "price_val": 0,
-      "source": "TNN",
-      "source_url": "https://www.tnn.fr/fr/spectacles/saison-2025-2026/bord-de-mer-festival-tragedies",
-      "image_url": "https://www.tnn.fr/img/spectacles/saison-2025-2026/2026-04-770-bord-de-mer-festival-tragedies-slider.jpg",
-      "category": "THEATRE"
-    },
     {
       "title": "Tour Bellanda – Le Bellandarium",
       "description": "",
@@ -44,7 +29,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/lecture/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/fil-pages.jpg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
@@ -119,7 +104,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/lecture/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/09/bib-mobile-2.jpg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
@@ -134,7 +119,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/05/vieux-nice-250x250.jpg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
@@ -149,7 +134,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/lecture/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/09/bib-mobile-2.jpg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
@@ -164,7 +149,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/11/672022-expo-gilly-artistique.jpg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "EXPO"
     },
     {
@@ -331,6 +316,21 @@
       "source_url": "https://www.explorenicecotedazur.com/evenement/exposition-vinyles-2-0/",
       "image_url": "https://cdn.iris-etourism.io/uploads/nice/sizes/18a/146-171-41003922-335x335.webp",
       "category": "CONCERT"
+    },
+    {
+      "title": "86e anniversaire de l’Appel historique du 18 juin 1940 du Général de Gaulle",
+      "description": "",
+      "place": "Cannes",
+      "city": "Cannes",
+      "starts_at": 1781733600000,
+      "ends_at": 1781740800000,
+      "has_time": false,
+      "price": "—",
+      "price_val": 0,
+      "source": "CANNES",
+      "source_url": "https://www.cannes.com/fr/agenda/annee-2026/juin/e-anniversaire-de-l-appel-historique-du-18-juin-1940-du-general-de-gaulle.html",
+      "image_url": "https://www.cannes.com/_object/ametys-internal%253Asites/www/ametys-internal%253Acontents/e-anniversaire-du-genocide-des-armeniens-24-avril-1915-evenement-3-3-2-2-2-2/_attribute/illustration/image/memorial-general-de-gaulle.jpg?objectId=defaultWebContent://979d2528-e2fe-4aba-a1ce-a6193486cae8",
+      "category": "AUTRE"
     },
     {
       "title": "Afterwork Comédies musicales américaines",
