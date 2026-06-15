@@ -1,22 +1,7 @@
 {
-  "scraped_at": "2026-06-15T15:04:38Z",
+  "scraped_at": "2026-06-15T19:09:00Z",
   "count": 271,
   "events": [
-    {
-      "title": "LES INDISPENSABLES DU CATECHISTE: Animation et positionnement en Pastorale",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1781539200000,
-      "ends_at": 1781544600000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/les-indispensables-du-catechiste-animation-et-positionnement-en-pastorale",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/8/9/2/8/2088298-1-fre-FR/b0e070580eb0-105987_img_0nFgcnP.jpeg.webp",
-      "category": "AUTRE"
-    },
     {
       "title": "Bord de mer",
       "description": "En ouverture de la troisième édition du Festival de Tragédies, Muriel Mayette-Holtz choisit de porter au plateau un chef-d’œuvre de Véronique Olmi : la voix fragile mais puissante d’une tragédie contemporaine, celle d’une mère seule, en grande précarité sociale et psychique, qui emmène ses deux jeunes fils voir la mer. Quelques jours de vacances arrachés à la misère, l’immensité de la mer comme se",
@@ -59,7 +44,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/lecture/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/fil-pages.jpg",
       "category": "AUTRE"
     },
     {
@@ -134,7 +119,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/lecture/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/09/bib-mobile-2.jpg",
       "category": "AUTRE"
     },
     {
@@ -149,7 +134,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/05/vieux-nice-250x250.jpg",
       "category": "AUTRE"
     },
     {
@@ -164,7 +149,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/lecture/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/09/bib-mobile-2.jpg",
       "category": "AUTRE"
     },
     {
@@ -179,7 +164,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/11/672022-expo-gilly-artistique.jpg",
       "category": "EXPO"
     },
     {
@@ -1425,6 +1410,21 @@
       "source": "MONACO",
       "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/ne-pas-ceder-sur-son-desir",
       "image_url": null,
+      "category": "AUTRE"
+    },
+    {
+      "title": "Sirba Octet",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1782496800000,
+      "ends_at": 1782502200000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/sirba-octet",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/6/4/2/7/1267246-4-fre-FR/d26a219598e9-104946_img_0I7RlkP.png.webp",
       "category": "AUTRE"
     },
     {
