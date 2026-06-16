@@ -1,112 +1,7 @@
 {
-  "scraped_at": "2026-06-16T13:30:01Z",
-  "count": 277,
+  "scraped_at": "2026-06-16T18:59:02Z",
+  "count": 271,
   "events": [
-    {
-      "title": "Visite guidée du Vieux-Nice",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1781613000000,
-      "ends_at": 1781620200000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/05/vieux-nice-250x250.jpg",
-      "category": "AUTRE"
-    },
-    {
-      "title": "La Bib’Mobile – Saint-Isidore",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1781616600000,
-      "ends_at": 1781623800000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/lecture/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/09/bib-mobile-2.jpg",
-      "category": "AUTRE"
-    },
-    {
-      "title": "L’Artistique, visite des expositions",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1781616600000,
-      "ends_at": 1781623800000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/11/672022-expo-gilly-artistique.jpg",
-      "category": "EXPO"
-    },
-    {
-      "title": "39/45 : les années noires de la Roya",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1781618400000,
-      "ends_at": 1781625600000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/conference/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Autour du Tango",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1781627400000,
-      "ends_at": 1781634600000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/concert/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Première entrée à l’école, une étape pour les enfants et les parents!",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1781627400000,
-      "ends_at": 1781634600000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/conference/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
-      "category": "FAMILLE"
-    },
-    {
-      "title": "Se préparer à l’entrée à l’école de mon enfant",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1781627400000,
-      "ends_at": 1781634600000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/atelier/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
-      "category": "FAMILLE"
-    },
     {
       "title": "Bord de mer",
       "description": "En ouverture de la troisième édition du Festival de Tragédies, Muriel Mayette-Holtz choisit de porter au plateau un chef-d’œuvre de Véronique Olmi : la voix fragile mais puissante d’une tragédie contemporaine, celle d’une mère seule, en grande précarité sociale et psychique, qui emmène ses deux jeunes fils voir la mer. Quelques jours de vacances arrachés à la misère, l’immensité de la mer comme se",
@@ -194,7 +89,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/04/611891-tour-bellanda-250x250.jpg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
@@ -209,7 +104,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/lecture/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/09/bib-mobile-2.jpg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
@@ -224,7 +119,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/05/visite-enfants-villa-palmier-archives-mnca-250x250.jpg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
@@ -255,6 +150,21 @@
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/atelier/",
       "image_url": "https://www.nice.fr/wp-content/uploads/2025/10/atelier-creatif.jpg",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Voir l’art autrement",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1781683200000,
+      "ends_at": 1781690400000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/atelier/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
