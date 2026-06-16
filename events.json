@@ -1,22 +1,7 @@
 {
-  "scraped_at": "2026-06-16T18:59:02Z",
-  "count": 271,
+  "scraped_at": "2026-06-16T22:57:15Z",
+  "count": 270,
   "events": [
-    {
-      "title": "Bord de mer",
-      "description": "En ouverture de la troisième édition du Festival de Tragédies, Muriel Mayette-Holtz choisit de porter au plateau un chef-d’œuvre de Véronique Olmi : la voix fragile mais puissante d’une tragédie contemporaine, celle d’une mère seule, en grande précarité sociale et psychique, qui emmène ses deux jeunes fils voir la mer. Quelques jours de vacances arrachés à la misère, l’immensité de la mer comme se",
-      "place": "Les FranciscainsLa Cuisine",
-      "city": "Nice",
-      "starts_at": 1781636400000,
-      "ends_at": 1781643600000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "TNN",
-      "source_url": "https://www.tnn.fr/fr/spectacles/saison-2025-2026/bord-de-mer-festival-tragedies",
-      "image_url": "https://www.tnn.fr/img/spectacles/saison-2025-2026/2026-06-770-bord-de-mer-festival-tragedies-slider.jpg",
-      "category": "THEATRE"
-    },
     {
       "title": "L'Écriture tragique contemporaine",
       "description": "Au cours d'une rencontre-conférence, l'auteure Véronique Olmi, née à Nice, explore les formes et les enjeux de l’écriture tragique contemporaine, entre héritage et réinvention des émotions.ET AUSSI• Le romanBord de merde Véronique Olmi est mis en scène par Muriel Mayette-Holtz dans les Arènes de Cimiez, du 16 au 18 juin 2026 à 21h, en ouverture du Festival de Tragédies.EN SAVOIR PLUS• Muriel Mayet",
@@ -89,7 +74,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/04/611891-tour-bellanda-250x250.jpg",
       "category": "AUTRE"
     },
     {
@@ -104,7 +89,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/lecture/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/09/bib-mobile-2.jpg",
       "category": "AUTRE"
     },
     {
@@ -119,7 +104,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/05/visite-enfants-villa-palmier-archives-mnca-250x250.jpg",
       "category": "AUTRE"
     },
     {
@@ -1458,6 +1443,21 @@
       "category": "AUTRE"
     },
     {
+      "title": "Matinale : Désir et infini",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1782547200000,
+      "ends_at": 1782552600000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/matinale-desir-et-infini",
+      "image_url": null,
+      "category": "AUTRE"
+    },
+    {
       "title": "Les Procès des grands personnages tragiques",
       "description": "Thésée[dePhèdre- Racine],PandoreetClytemnestresont tour à tour sur le banc des accusés. Coupables ou victimes d’un destin qui les dépasse ? À vous de les juger !PROGRAMME• Samedi 20/6 :Le Procès de Thésée- Laurent Prévot - Maître Benjamin Charlier - Amélie Kierszenbaum• Samedi 27/6 :Le Procès de Pandore- Carla Ventre - Maître Olivia Chalus Penochet - Armand Pitot• Samedi 4/7 :Le Procès de Clytemne",
       "place": "Les FranciscainsLa Cuisine",
@@ -2686,21 +2686,6 @@
       "source_url": "https://www.explorenicecotedazur.com/evenement/concerts-a-la-trinquette-jazz-club/",
       "image_url": "https://cdn.iris-etourism.io/uploads/nice/sizes/cd5/89-213-41604441-335x335.webp",
       "category": "CONCERT"
-    },
-    {
-      "title": "Festival de télévision de Monte-Carlo",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1796574600000,
-      "ends_at": 1781640000000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/festival-de-television-de-monte-carlo",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/2/8/8/2/1852882-5-fre-FR/bea390b27a70-AFFICHE_FTV26.jpg.webp",
-      "category": "AUTRE"
     },
     {
       "title": "Divin.e Fripon.ne",
