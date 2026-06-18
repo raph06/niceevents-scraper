@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-18T20:20:43Z",
-  "count": 257,
+  "scraped_at": "2026-06-18T22:59:10Z",
+  "count": 258,
   "events": [
     {
       "title": "Pas croisés \"Burn to bloom\" - Ballets de Monte-Carlo",
@@ -391,21 +391,6 @@
       "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/fete-de-la-musique-le-feu-et-la-passion",
       "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/4/5/2/6/1816254-5-fre-FR/36133080cac1-105262_img_0G0JMg1.png.webp",
       "category": "CONCERT"
-    },
-    {
-      "title": "Gala de l'Académie",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1781976600000,
-      "ends_at": 1781985600000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/gala-de-l-academie2",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/8/9/9/3/1863998-1-fre-FR/287f1b753046-105289_img_0G0OXO6.jpg.webp",
-      "category": "AUTRE"
     },
     {
       "title": "En attendant le futur",
@@ -1323,6 +1308,21 @@
       "category": "THEATRE"
     },
     {
+      "title": "Le désir d’aventure",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1782637200000,
+      "ends_at": 1782642600000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/le-desir-d-aventure",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/2/5/7/7/2097752-2-fre-FR/1d908b6f1804-106028_img_0tl7Mtc.jpeg.webp",
+      "category": "AUTRE"
+    },
+    {
       "title": "Le Feuilleton d'Artémis",
       "description": "Artémis, déesse de la nature et de la chasse, préfère vivre loin de l’Olympe et de ses intrigues. Autour de cette femme libre gravitent de formidables personnages, à quiHervé Van der Meulenva donner vie.Un résumé des épisodes précédents [lus dans le cadre du Festival de Tragédies 2025] sera donné en amont de chaque lecture par lesApprentis-comédiens de l'ERACM.",
       "place": "Les FranciscainsLa Cuisine",
@@ -1381,6 +1381,21 @@
       "source_url": "https://www.explorenicecotedazur.com/evenement/exposition-les-100-ans-de-lhotel-provencal/",
       "image_url": "https://cdn.iris-etourism.io/uploads/nice/sizes/139/144-24-39917712-335x335.webp",
       "category": "EXPO"
+    },
+    {
+      "title": "Dissonances Jeanne d'Arc",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1782847800000,
+      "ends_at": 1782853800000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/dissonances-jeanne-d-arc",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/0/4/6/1/2141640-1-fre-FR/950e486ee510-106070_img_0HFW42B.jpg.webp",
+      "category": "AUTRE"
     },
     {
       "title": "Anne et Patrick Poirier. Mémoires des ruines",
