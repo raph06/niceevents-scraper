@@ -1,82 +1,7 @@
 {
-  "scraped_at": "2026-06-19T17:20:44Z",
-  "count": 258,
+  "scraped_at": "2026-06-19T19:33:52Z",
+  "count": 257,
   "events": [
-    {
-      "title": "Concert de chant lyrique « La Belle Époque »",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1781888400000,
-      "ends_at": 1781895600000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/concert/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/06/concert-lyrique.jpg",
-      "category": "CONCERT"
-    },
-    {
-      "title": "À vous les planches",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1781888400000,
-      "ends_at": 1781895600000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/theatre/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/05/a-vous-les-planches-250x250.jpg",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Gala de l'Académie",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1781890200000,
-      "ends_at": 1781899200000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/gala-de-l-academie",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/6/3/8/3/1863836-2-fre-FR/20249675dd61-105288_img_0SnOF6C.jpg.webp",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Wonka",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1781892000000,
-      "ends_at": 1781899200000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/projection/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Orchestres d’Harmonie des Conservatoires de Nice et d’Antibes",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1781892000000,
-      "ends_at": 1781899200000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/concert/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
-      "category": "CONCERT"
-    },
     {
       "title": "Basket Betclic ELITE - Finale - Match 3 : Monaco - Paris",
       "description": "",
@@ -406,6 +331,21 @@
       "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/fete-de-la-musique-le-feu-et-la-passion",
       "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/4/5/2/6/1816254-5-fre-FR/36133080cac1-105262_img_0G0JMg1.png.webp",
       "category": "CONCERT"
+    },
+    {
+      "title": "Gala de l'Académie",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1781976600000,
+      "ends_at": 1781985600000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/gala-de-l-academie2",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/8/9/9/3/1863998-1-fre-FR/287f1b753046-105289_img_0G0OXO6.jpg.webp",
+      "category": "AUTRE"
     },
     {
       "title": "En attendant le futur",
@@ -1203,6 +1143,21 @@
       "category": "EXPO"
     },
     {
+      "title": "Carte blanche aux élèves du Conservatoire de Nice ! #5",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1782511200000,
+      "ends_at": 1782518400000,
+      "has_time": false,
+      "price": "—",
+      "price_val": 0,
+      "source": "CHAGALL",
+      "source_url": "https://musees-nationaux-alpesmaritimes.fr/chagall/agenda/evenement/carte-blanche-aux-eleves-du-conservatoire-de-nice-5-3",
+      "image_url": "https://musees-nationaux-alpesmaritimes.fr/chagall/sites/chagall/files/styles/thumbnail_w880/public/2023-09/salle_concert_vitraux_clavecin_1920x960px.jpg?itok=_TiddMhc",
+      "category": "AUTRE"
+    },
+    {
       "title": "Mythique !",
       "description": "Dans les jardins du Musée d’Archéologie de Nice-Cimiez, la Compagnie B.A.L. invite petits et grands à plonger dans l’univers fabuleux des dieux et des héros grecs. Imaginé pour les familles,Mythique !nous ouvre les portes des grandes légendes de la mythologie avec malice, humour et pédagogie.Ici, les dieux s’amusent, inventent et se trompent, donnent naissance à des héros hauts en couleur, pleins ",
       "place": "Les FranciscainsLa Cuisine",
@@ -1425,6 +1380,21 @@
       "source": "MAMAC",
       "source_url": "https://www.mamac-nice.org/exposition/anne-et-patrick-poirier-memoires-des-ruines/",
       "image_url": "https://www.mamac-nice.org/wp-content/uploads/2021/05/site-mamac.jpg",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Activités spéciales jeune public",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1783893600000,
+      "ends_at": 1783900800000,
+      "has_time": false,
+      "price": "—",
+      "price_val": 0,
+      "source": "CHAGALL",
+      "source_url": "https://musees-nationaux-alpesmaritimes.fr/chagall/agenda/evenement/activites-speciales-jeune-public",
+      "image_url": "https://musees-nationaux-alpesmaritimes.fr/chagall/sites/chagall/files/styles/crop_vignette/public/2026-03/visuel%20visite%20cr%C3%A9ative%20-%20personnage%20fantastique.jpg?itok=FozKkrg0",
       "category": "AUTRE"
     },
     {
@@ -1875,6 +1845,21 @@
       "source": "OT_NICE",
       "source_url": "https://www.explorenicecotedazur.com/evenement/chagall-a-loeuvre-un-pret-dexception-au-musee/",
       "image_url": "https://cdn.iris-etourism.io/uploads/nice/sizes/cbb/62-171-37268286-335x335.webp",
+      "category": "EXPO"
+    },
+    {
+      "title": "Chagall à l'oeuvre. Un prêt d'exception au musée",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1789941600000,
+      "ends_at": 1789948800000,
+      "has_time": false,
+      "price": "—",
+      "price_val": 0,
+      "source": "CHAGALL",
+      "source_url": "https://musees-nationaux-alpesmaritimes.fr/chagall/agenda/evenement/chagall-loeuvre-un-pret-dexception-au-musee",
+      "image_url": "https://musees-nationaux-alpesmaritimes.fr/chagall/sites/chagall/files/styles/thumbnail_w880/public/2025-12/Bandeau%20Maquette%20pour%20le%20rideau%20de%20sc%C3%A8ne%20du%201er%20acte%20de%20%E2%80%9CL%E2%80%99Oiseau%20de%20feu%E2%80%9D%20de%20Stravinsky%20%20La%20for%C3%AAt%20enchant%C3%A9e%2C%201945.jpg?itok=U4w7xmqO",
       "category": "EXPO"
     },
     {
