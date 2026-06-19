@@ -1,37 +1,7 @@
 {
-  "scraped_at": "2026-06-19T10:20:14Z",
-  "count": 265,
+  "scraped_at": "2026-06-19T14:51:22Z",
+  "count": 264,
   "events": [
-    {
-      "title": "Rêvarium",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1781865000000,
-      "ends_at": 1781872200000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/animation/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/02/revarium.jpg",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Tour Bellanda – Le Bellandarium",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1781870400000,
-      "ends_at": 1781877600000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/04/611891-tour-bellanda-250x250.jpg",
-      "category": "AUTRE"
-    },
     {
       "title": "Jouons avec les mots !",
       "description": "",
@@ -104,7 +74,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/theatre/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/05/a-vous-les-planches-250x250.jpg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
@@ -258,6 +228,21 @@
       "category": "AUTRE"
     },
     {
+      "title": "Tour Bellanda – Le Bellandarium",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1781938800000,
+      "ends_at": 1781946000000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/04/611891-tour-bellanda-250x250.jpg",
+      "category": "AUTRE"
+    },
+    {
       "title": "La Bib’Mobile – Ventabrun",
       "description": "",
       "place": "Nice",
@@ -269,7 +254,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/lecture/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/09/bib-mobile-2.jpg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
@@ -299,7 +284,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/conference/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/03/conference.jpg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
@@ -359,7 +344,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/projection/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/09/cine-biblio.jpg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "CINEMA"
     },
     {
@@ -374,7 +359,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/05/evenement-crypte-250x250.jpg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
@@ -393,7 +378,7 @@
       "category": "AUTRE"
     },
     {
-      "title": "LE ROI SOLEIL",
+      "title": "Le Roi Soleil",
       "description": "",
       "place": "Nice",
       "city": "Nice",
@@ -402,9 +387,9 @@
       "has_time": true,
       "price": "—",
       "price_val": 0,
-      "source": "NIKAIA",
-      "source_url": "https://www.nikaia.fr/programmation/le-roi-soleil",
-      "image_url": "https://www.nikaia.fr/files/2024-11/le-roi-soleil-2025-26-visuelweb-post-1080x1080-tournee.jpg",
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/concert/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
