@@ -1,97 +1,7 @@
 {
-  "scraped_at": "2026-06-19T03:36:28Z",
-  "count": 266,
+  "scraped_at": "2026-06-19T10:20:14Z",
+  "count": 265,
   "events": [
-    {
-      "title": "Tour Bellanda – Le Bellandarium",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1781852400000,
-      "ends_at": 1781859600000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/04/611891-tour-bellanda-250x250.jpg",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Atelier mémoire",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1781854200000,
-      "ends_at": 1781861400000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/animation/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Le moulin à livres",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1781854200000,
-      "ends_at": 1781861400000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/lecture/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/moulin-a-livres.jpg",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Séances d’activité physique adaptée – endométriose",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1781854200000,
-      "ends_at": 1781861400000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/atelier/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Visite guidée du Vieux-Nice",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1781854200000,
-      "ends_at": 1781861400000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/05/vieux-nice-250x250.jpg",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Cours de dessin/aquarelle (en extérieur)",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1781857800000,
-      "ends_at": 1781865000000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/atelier/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
-      "category": "AUTRE"
-    },
     {
       "title": "Rêvarium",
       "description": "",
@@ -105,6 +15,21 @@
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/animation/",
       "image_url": "https://www.nice.fr/wp-content/uploads/2026/02/revarium.jpg",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Tour Bellanda – Le Bellandarium",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1781870400000,
+      "ends_at": 1781877600000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/04/611891-tour-bellanda-250x250.jpg",
       "category": "AUTRE"
     },
     {
@@ -164,7 +89,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/concert/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/06/concert-lyrique.jpg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "CONCERT"
     },
     {
@@ -209,7 +134,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/projection/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/09/wonka.jpg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
@@ -224,7 +149,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/concert/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/03/conservatoire-nice-antibes.jpg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "CONCERT"
     },
     {
@@ -348,6 +273,36 @@
       "category": "AUTRE"
     },
     {
+      "title": "Les samedis de la recherche : outils et ressources numériques",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1781942400000,
+      "ends_at": 1781949600000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/atelier/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Quelques joyeusetés de la langue française",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1781942400000,
+      "ends_at": 1781949600000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/conference/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/03/conference.jpg",
+      "category": "AUTRE"
+    },
+    {
       "title": "Atelier de pratiques artistiques (à partir de 16 ans)",
       "description": "",
       "place": "Nice",
@@ -391,6 +346,36 @@
       "source_url": "https://www.musee-matisse-nice.org/fr/evenement/visite-commentee-des-collections-et-de-lexposition-dautomne-henri-matisse-chemin-de-croix-%e2%80%92-dessiner-la-passion/",
       "image_url": "https://www.musee-matisse-nice.org/wp-content/uploads/2021/02/Musee-Matisse-Nice-Partage.png",
       "category": "EXPO"
+    },
+    {
+      "title": "Ciné-biblio",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1781953200000,
+      "ends_at": 1781960400000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/projection/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/09/cine-biblio.jpg",
+      "category": "CINEMA"
+    },
+    {
+      "title": "Visite guidée de la Crypte",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1781956800000,
+      "ends_at": 1781964000000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/05/evenement-crypte-250x250.jpg",
+      "category": "AUTRE"
     },
     {
       "title": "Munegu Repair Café",
@@ -483,6 +468,21 @@
       "category": "CONCERT"
     },
     {
+      "title": "Gala de l'Académie",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1781976600000,
+      "ends_at": 1781985600000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/gala-de-l-academie2",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/8/9/9/3/1863998-1-fre-FR/287f1b753046-105289_img_0G0OXO6.jpg.webp",
+      "category": "AUTRE"
+    },
+    {
       "title": "En attendant le futur",
       "description": "En attendant le futurrestitue les dépositions des 270 victimes de l’attentat du 14 juillet 2016. Il dévoile au public l’intimité de la salle d’audience et nous apprend la résilience de l’humanité face aux pires épreuves.L'INTENTIONCe texte a été écrit à partir des notes d’audience d’un avocat de victimes lors du procès de l’attentat du 14 juillet 2016, où le terroriste au volant d’un camion-bélier",
       "place": "Les FranciscainsLa Cuisine",
@@ -525,6 +525,21 @@
       "source": "OPERA_NICE",
       "source_url": "https://www.opera-nice.org/lieux/cathedrale-sainte-reparate/",
       "image_url": "https://www.opera-nice.org/wp-content/uploads/2026/05/share-opera-nice-cote-dazur.jpg",
+      "category": "CONCERT"
+    },
+    {
+      "title": "Fête de la musique 2026 - Concerts en ville",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1781992800000,
+      "ends_at": 1782000000000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/fete-de-la-musique-2026-concerts-en-ville",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/6/0/7/2/2162706-1-fre-FR/454fc5ac7435-s5i2npaMLW4KOYE5zCvCClrNjL0L1t3as1tqoQ2Mer0sTf.jpg.webp",
       "category": "CONCERT"
     },
     {
@@ -676,6 +691,21 @@
       "source_url": "https://www.explorenicecotedazur.com/evenement/expo-solaires/",
       "image_url": "https://cdn.iris-etourism.io/uploads/nice/sizes/3b6/7-254-41614855-335x335.webp",
       "category": "EXPO"
+    },
+    {
+      "title": "Fête de la Saint-Jean : \"Batafoegu\" et danses",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1782235800000,
+      "ends_at": 1782252000000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/fete-de-la-saint-jean-batafoegu-et-danses",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/0/7/3/2/2162370-1-fre-FR/c17d0a06790c-XwpUK12i0jMmq7xl.png.webp",
+      "category": "AUTRE"
     },
     {
       "title": "ZUCCHERO",
@@ -1383,21 +1413,6 @@
       "category": "THEATRE"
     },
     {
-      "title": "Entre désirs et addictions",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1782579600000,
-      "ends_at": 1782586800000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/entre-desirs-et-addictions",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/6/6/2/7/2097266-2-fre-FR/d848c8d066a4-106025_img_0krVHap.jpeg.webp",
-      "category": "AUTRE"
-    },
-    {
       "title": "Bérénice",
       "description": "Choisir entre l’amour et le pouvoir, c’est le dilemme de Titus qui vient d’accéder au pouvoir et ne peut épouser Bérénice, reine étrangère, car la loi l’en empêche. Amoureux éconduit, Antiochus est le confident impuissant de Bérénice. Cette pièce de Racine est moins un drame du pouvoir, qu’un drame de l’amour : c’est une longue lettre d’adieu qui ne parvient pas à s’écrire, et qui laissera trois ê",
       "place": "Les FranciscainsLa Cuisine",
@@ -1411,21 +1426,6 @@
       "source_url": "https://www.tnn.fr/fr/spectacles/saison-2025-2026/berenice-festival-tragedies",
       "image_url": "https://www.tnn.fr/img/spectacles/saison-2025-2026/2026-04-772-berenice-festival-tragedies-slider.jpg",
       "category": "THEATRE"
-    },
-    {
-      "title": "Le désir d’aventure",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1782637200000,
-      "ends_at": 1782642600000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/le-desir-d-aventure",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/2/5/7/7/2097752-2-fre-FR/1d908b6f1804-106028_img_0tl7Mtc.jpeg.webp",
-      "category": "AUTRE"
     },
     {
       "title": "Le Feuilleton d'Artémis",
@@ -1486,21 +1486,6 @@
       "source_url": "https://www.explorenicecotedazur.com/evenement/exposition-les-100-ans-de-lhotel-provencal/",
       "image_url": "https://cdn.iris-etourism.io/uploads/nice/sizes/139/144-24-39917712-335x335.webp",
       "category": "EXPO"
-    },
-    {
-      "title": "Dissonances Jeanne d'Arc",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1782847800000,
-      "ends_at": 1782853800000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/dissonances-jeanne-d-arc",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/0/4/6/1/2141640-1-fre-FR/950e486ee510-106070_img_0HFW42B.jpg.webp",
-      "category": "AUTRE"
     },
     {
       "title": "Anne et Patrick Poirier. Mémoires des ruines",
