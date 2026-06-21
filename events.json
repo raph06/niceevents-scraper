@@ -1,37 +1,7 @@
 {
-  "scraped_at": "2026-06-21T11:45:20Z",
-  "count": 251,
+  "scraped_at": "2026-06-21T13:56:32Z",
+  "count": 250,
   "events": [
-    {
-      "title": "Projections fête de la musique",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1782043200000,
-      "ends_at": 1782050400000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/projection/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/06/projection.jpeg",
-      "category": "CONCERT"
-    },
-    {
-      "title": "Visite guidée de la Crypte",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1782043200000,
-      "ends_at": 1782050400000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/05/evenement-crypte-250x250.jpg",
-      "category": "AUTRE"
-    },
     {
       "title": "Un Monde Ensemble",
       "description": "",
@@ -45,6 +15,21 @@
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/opera/",
       "image_url": "https://www.nice.fr/wp-content/uploads/2025/08/un-monde-ensemble-1280-250x250.jpg",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Visite guidée de la Crypte",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1782046800000,
+      "ends_at": 1782054000000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/05/evenement-crypte-250x250.jpg",
       "category": "AUTRE"
     },
     {
