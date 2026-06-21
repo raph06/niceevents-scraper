@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-21T02:57:18Z",
+  "scraped_at": "2026-06-21T07:33:21Z",
   "count": 253,
   "events": [
     {
@@ -149,7 +149,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/05/nice-classic-live-ouverture-fete-musique.png",
       "category": "CONCERT"
     },
     {
@@ -179,7 +179,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/concert/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/05/bp-499950-orchestre-harmonie-250x250.jpg",
       "category": "CONCERT"
     },
     {
@@ -194,7 +194,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/animation/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/05/bp-594068-nice-chante-europe-250x250.png",
       "category": "CONCERT"
     },
     {
@@ -284,7 +284,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/atelier/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/11/eveil-corporel.jpg",
       "category": "AUTRE"
     },
     {
@@ -329,7 +329,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/05/evenement-opera-250x250.jpg",
       "category": "CONCERT"
     },
     {
@@ -618,21 +618,6 @@
       "category": "THEATRE"
     },
     {
-      "title": "Gala de musique de l'Académie Rainier III",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1782320400000,
-      "ends_at": 1782329400000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/gala-de-musique-de-l-academie-rainier-iii",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/6/1/3/1/2141316-1-fre-FR/b7fea348d3a5-106068_img_0XsTJAg.jpg.webp",
-      "category": "CONCERT"
-    },
-    {
       "title": "Naissance du Désir",
       "description": "",
       "place": "Monaco",
@@ -646,6 +631,21 @@
       "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/naissance-du-desir",
       "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/6/3/8/4/2094836-2-fre-FR/8cea6ec57298-106010_img_0SKrtTg.jpeg.webp",
       "category": "AUTRE"
+    },
+    {
+      "title": "Gala de musique de l'Académie Rainier III",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1782320400000,
+      "ends_at": 1782329400000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/gala-de-musique-de-l-academie-rainier-iii",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/6/1/3/1/2141316-1-fre-FR/b7fea348d3a5-106068_img_0XsTJAg.jpg.webp",
+      "category": "CONCERT"
     },
     {
       "title": "Les Suppliantes",
