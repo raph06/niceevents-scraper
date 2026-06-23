@@ -1,52 +1,7 @@
 {
-  "scraped_at": "2026-06-22T22:49:02Z",
-  "count": 242,
+  "scraped_at": "2026-06-23T02:34:08Z",
+  "count": 240,
   "events": [
-    {
-      "title": "Les Suppliantes",
-      "description": "Dans sa nouvelle création, Charles Tordjman fait entendre la parole du poète antique Eschyle. Écrite en 465 avant notre ère, la tragédie des Suppliantes raconte la fuite des cinquante filles de Danaos, destinées à être mariées de force à leurs cousins. Pour échapper à ces unions incestueuses, elles traversent la mer et débarquent à Argos afin de demander l’asile au roi Pélasgos. Face à elles, un d",
-      "place": "Les FranciscainsLa Cuisine",
-      "city": "Nice",
-      "starts_at": 1782165600000,
-      "ends_at": 1782172800000,
-      "has_time": false,
-      "price": "—",
-      "price_val": 0,
-      "source": "TNN",
-      "source_url": "https://www.tnn.fr/fr/spectacles/saison-2025-2026/les-suppliantes-festival-tragedies",
-      "image_url": "https://www.tnn.fr/img/spectacles/saison-2025-2026/2026-05-771-les-suppliantes-festival-tragedies-slider.jpg",
-      "category": "THEATRE"
-    },
-    {
-      "title": "Expo’ SOLAIRES",
-      "description": "",
-      "place": "Exposition",
-      "city": "Nice",
-      "starts_at": 1782165600000,
-      "ends_at": 1782172800000,
-      "has_time": false,
-      "price": "—",
-      "price_val": 0,
-      "source": "OT_NICE",
-      "source_url": "https://www.explorenicecotedazur.com/evenement/expo-solaires/",
-      "image_url": "https://cdn.iris-etourism.io/uploads/nice/sizes/3b6/7-254-41614855-335x335.webp",
-      "category": "EXPO"
-    },
-    {
-      "title": "Festival de musique sacrée",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1782165600000,
-      "ends_at": 1782172800000,
-      "has_time": false,
-      "price": "—",
-      "price_val": 0,
-      "source": "OPERA_NICE",
-      "source_url": "https://www.opera-nice.org/lieux/cathedrale-sainte-reparate/",
-      "image_url": "https://www.opera-nice.org/wp-content/uploads/2026/05/share-opera-nice-cote-dazur.jpg",
-      "category": "CONCERT"
-    },
     {
       "title": "Tour Bellanda – Le Bellandarium",
       "description": "",
@@ -134,7 +89,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/atelier/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/11/ordinateur.jpg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
@@ -224,7 +179,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/concert/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/02/260623-zucchero.jpg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
@@ -240,6 +195,21 @@
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/theatre/",
       "image_url": "https://www.nice.fr/wp-content/uploads/2025/04/486153-theatre-francis-gag-250x250.jpg",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Le Big Band du Conservatoire de Nice",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1782237600000,
+      "ends_at": 1782244800000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/concert/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/06/big-band-conservatoire.jpg",
       "category": "AUTRE"
     },
     {
