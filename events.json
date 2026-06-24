@@ -1,82 +1,7 @@
 {
-  "scraped_at": "2026-06-24T17:06:49Z",
-  "count": 229,
+  "scraped_at": "2026-06-24T19:33:25Z",
+  "count": 226,
   "events": [
-    {
-      "title": "Le Chemin des Danaïdes",
-      "description": "Après avoir participé à des ateliers pour appréhender les mouvements symboliques, le rythme partagé et former une procession, des “amatrices” vous guideront pour une marche collective vers un passage sacré, du Musée d’Archéologie à l’amphithéâtre des Arènes de Cimiez, en ouverture du spectacleLes Suppliantes.Appel à participationGratuit sur inscription • Places limitées • Dès 15 ansLe TNN propose ",
-      "place": "Les FranciscainsLa Cuisine",
-      "city": "Nice",
-      "starts_at": 1782320400000,
-      "ends_at": 1782327600000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "TNN",
-      "source_url": "https://www.tnn.fr/fr/evenements/procession-pretresses-tragedie-26",
-      "image_url": "https://www.tnn.fr/img/spectacles/saison-2025-2026/2026-04-780-procession-pretresses-tragedie-26-slider.jpg",
-      "category": "THEATRE"
-    },
-    {
-      "title": "Afterwork : Artistes du Chœur",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1782320400000,
-      "ends_at": 1782327600000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/concert/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
-      "category": "NUIT"
-    },
-    {
-      "title": "Gala de musique de l'Académie Rainier III",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1782320400000,
-      "ends_at": 1782329400000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/gala-de-musique-de-l-academie-rainier-iii",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/6/1/3/1/2141316-1-fre-FR/b7fea348d3a5-106068_img_0XsTJAg.jpg.webp",
-      "category": "CONCERT"
-    },
-    {
-      "title": "Naissance du Désir",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1782320400000,
-      "ends_at": 1782327600000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/naissance-du-desir",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/6/3/8/4/2094836-2-fre-FR/8cea6ec57298-106010_img_0SKrtTg.jpeg.webp",
-      "category": "AUTRE"
-    },
-    {
-      "title": "L’Avare de Molière (revisité)",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1782324000000,
-      "ends_at": 1782331200000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/theatre/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/04/486153-theatre-francis-gag-250x250.jpg",
-      "category": "AUTRE"
-    },
     {
       "title": "Les Suppliantes",
       "description": "Dans sa nouvelle création, Charles Tordjman fait entendre la parole du poète antique Eschyle. Écrite en 465 avant notre ère, la tragédie des Suppliantes raconte la fuite des cinquante filles de Danaos, destinées à être mariées de force à leurs cousins. Pour échapper à ces unions incestueuses, elles traversent la mer et débarquent à Argos afin de demander l’asile au roi Pélasgos. Face à elles, un d",
@@ -134,7 +59,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/conference/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/06/120626-ocean-satellite-phoenix.jpg",
       "category": "AUTRE"
     },
     {
@@ -843,6 +768,21 @@
       "category": "AUTRE"
     },
     {
+      "title": "Dominique Fils-Aimé",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1783452600000,
+      "ends_at": 1783458000000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/dominique-fils-aime",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/4/7/7/2/2142774-1-fre-FR/db71d9727f0b-106076_img_0val0jM.jpg.webp",
+      "category": "AUTRE"
+    },
+    {
       "title": "Anne et Patrick Poirier. Mémoires des ruines",
       "description": "",
       "place": "Nice",
@@ -1020,6 +960,21 @@
       "source": "MATISSE",
       "source_url": "https://www.musee-matisse-nice.org/fr/evenement/stage-de-pratiques-artistiques-6-11-ans-vacances-scolaires-4/",
       "image_url": "https://www.musee-matisse-nice.org/wp-content/uploads/2021/02/Musee-Matisse-Nice-Partage.png",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Au Coeur de Monaco, Visite guidée du Rocher - VISITE EN ANGLAIS",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1786111200000,
+      "ends_at": 1786118400000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/au-coeur-de-monaco-visite-guidee-du-rocher-visite-en-anglais",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/2/4/0/3/2163042-2-fre-FR/5689a28e26c9-106130_img_09yDWjy.jpg.webp",
       "category": "AUTRE"
     },
     {
