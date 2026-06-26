@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-26T02:39:55Z",
-  "count": 232,
+  "scraped_at": "2026-06-26T06:51:04Z",
+  "count": 231,
   "events": [
     {
       "title": "Upcycling textile",
@@ -179,7 +179,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/rencontre/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/03/club-cinema-coups-de-coeur.jpg",
       "category": "AUTRE"
     },
     {
@@ -194,7 +194,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/lecture/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/05/the-livre.jpeg",
       "category": "AUTRE"
     },
     {
@@ -1455,21 +1455,6 @@
       "source": "MONACO",
       "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/waku-doki2",
       "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/1/0/4/8/1888401-2-fre-FR/ba80ee1c0bfe-105062_img_0BPyvRG.jpg.webp",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Les Talents du Fort - Pour les jeunes de la Principauté",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1791401400000,
-      "ends_at": 1791406800000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/les-talents-du-fort-pour-les-jeunes-de-la-principaute",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/6/3/9/2/2142936-1-fre-FR/db149d8851da-106077_img_0QiOgfC.jpg.webp",
       "category": "AUTRE"
     },
     {
