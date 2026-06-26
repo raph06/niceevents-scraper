@@ -1,37 +1,7 @@
 {
-  "scraped_at": "2026-06-26T19:35:11Z",
-  "count": 221,
+  "scraped_at": "2026-06-26T22:10:17Z",
+  "count": 219,
   "events": [
-    {
-      "title": "Bérénice",
-      "description": "Choisir entre l’amour et le pouvoir, c’est le dilemme de Titus qui vient d’accéder au pouvoir et ne peut épouser Bérénice, reine étrangère, car la loi l’en empêche. Amoureux éconduit, Antiochus est le confident impuissant de Bérénice. Cette pièce de Racine est moins un drame du pouvoir, qu’un drame de l’amour : c’est une longue lettre d’adieu qui ne parvient pas à s’écrire, et qui laissera trois ê",
-      "place": "Les FranciscainsLa Cuisine",
-      "city": "Nice",
-      "starts_at": 1782500400000,
-      "ends_at": 1782507600000,
-      "has_time": true,
-      "price": "€20–26",
-      "price_val": 20,
-      "source": "TNN",
-      "source_url": "https://www.tnn.fr/fr/spectacles/saison-2025-2026/berenice-festival-tragedies",
-      "image_url": "https://www.tnn.fr/img/spectacles/saison-2025-2026/2026-04-772-berenice-festival-tragedies-slider.jpg",
-      "category": "THEATRE"
-    },
-    {
-      "title": "Anzu, chat-fantôme",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1782502200000,
-      "ends_at": 1782509400000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/projection/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
-      "category": "AUTRE"
-    },
     {
       "title": "Mythique !",
       "description": "Dans les jardins du Musée d’Archéologie de Nice-Cimiez, la Compagnie B.A.L. invite petits et grands à plonger dans l’univers fabuleux des dieux et des héros grecs. Imaginé pour les familles,Mythique !nous ouvre les portes des grandes légendes de la mythologie avec malice, humour et pédagogie.Ici, les dieux s’amusent, inventent et se trompent, donnent naissance à des héros hauts en couleur, pleins ",
@@ -104,7 +74,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/atelier/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/03/atelier-potager-8juil-mde-250x250.png",
       "category": "FAMILLE"
     },
     {
@@ -119,7 +89,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/atelier/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/repair-cafe-mai-mde.jpg",
       "category": "AUTRE"
     },
     {
@@ -164,7 +134,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/atelier/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/06/calligraphie-sakura.jpg",
       "category": "AUTRE"
     },
     {
