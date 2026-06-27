@@ -1,22 +1,7 @@
 {
-  "scraped_at": "2026-06-27T19:11:50Z",
-  "count": 206,
+  "scraped_at": "2026-06-27T22:01:58Z",
+  "count": 205,
   "events": [
-    {
-      "title": "Bérénice",
-      "description": "Choisir entre l’amour et le pouvoir, c’est le dilemme de Titus qui vient d’accéder au pouvoir et ne peut épouser Bérénice, reine étrangère, car la loi l’en empêche. Amoureux éconduit, Antiochus est le confident impuissant de Bérénice. Cette pièce de Racine est moins un drame du pouvoir, qu’un drame de l’amour : c’est une longue lettre d’adieu qui ne parvient pas à s’écrire, et qui laissera trois ê",
-      "place": "Les FranciscainsLa Cuisine",
-      "city": "Nice",
-      "starts_at": 1782586800000,
-      "ends_at": 1782594000000,
-      "has_time": true,
-      "price": "€20–26",
-      "price_val": 20,
-      "source": "TNN",
-      "source_url": "https://www.tnn.fr/fr/spectacles/saison-2025-2026/berenice-festival-tragedies",
-      "image_url": "https://www.tnn.fr/img/spectacles/saison-2025-2026/2026-04-772-berenice-festival-tragedies-slider.jpg",
-      "category": "THEATRE"
-    },
     {
       "title": "Exposition « Histoire vivante du patrimoine de San Juan »",
       "description": "",
