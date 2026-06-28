@@ -1,37 +1,7 @@
 {
-  "scraped_at": "2026-06-28T16:09:33Z",
-  "count": 208,
+  "scraped_at": "2026-06-28T19:11:10Z",
+  "count": 206,
   "events": [
-    {
-      "title": "Le Feuilleton d'Artémis",
-      "description": "Artémis, déesse de la nature et de la chasse, préfère vivre loin de l’Olympe et de ses intrigues. Autour de cette femme libre gravitent de formidables personnages, à quiHervé Van der Meulenva donner vie.Un résumé des épisodes précédents [lus dans le cadre du Festival de Tragédies 2025] sera donné en amont de chaque lecture par lesApprentis-comédiens de l'ERACM.",
-      "place": "Les FranciscainsLa Cuisine",
-      "city": "Nice",
-      "starts_at": 1782666000000,
-      "ends_at": 1782673200000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "TNN",
-      "source_url": "https://www.tnn.fr/fr/evenements/feuilleton-artemis-tragedie-26",
-      "image_url": "https://www.tnn.fr/img/spectacles/saison-2025-2026/2026-04-778-feuilleton-artemis-tragedie-26-slider.jpg",
-      "category": "THEATRE"
-    },
-    {
-      "title": "Le feuilleton d’Artémis",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1782666000000,
-      "ends_at": 1782673200000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/05/artemis-tnn-tragedie.jpg",
-      "category": "AUTRE"
-    },
     {
       "title": "Soirée jeux de société de plateaux et de stratégie",
       "description": "",
