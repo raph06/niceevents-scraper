@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-29T19:50:37Z",
+  "scraped_at": "2026-06-29T22:10:43Z",
   "count": 218,
   "events": [
     {
@@ -149,7 +149,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/05/vieux-nice-250x250.jpg",
       "category": "AUTRE"
     },
     {
@@ -164,7 +164,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/rencontre/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/06/bp-664515-plage-adaptee-handiplage.png",
       "category": "AUTRE"
     },
     {
