@@ -1,52 +1,7 @@
 {
-  "scraped_at": "2026-06-29T07:28:54Z",
-  "count": 225,
+  "scraped_at": "2026-06-29T13:05:30Z",
+  "count": 220,
   "events": [
-    {
-      "title": "Séances d’activité physique adaptée – endométriose",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1782718200000,
-      "ends_at": 1782725400000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/atelier/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Jeux d’eau",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1782720000000,
-      "ends_at": 1782727200000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/atelier/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Danse dans les jardins – Cours de disco",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1782721800000,
-      "ends_at": 1782729000000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/seance-de-plein-air/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
-      "category": "AUTRE"
-    },
     {
       "title": "Visite guidée de l’Opéra de Nice",
       "description": "",
@@ -198,21 +153,6 @@
       "category": "AUTRE"
     },
     {
-      "title": "Visite privée et guidée de l’exposition « Nice ma ville, mes jardins »",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1782810000000,
-      "ends_at": 1782817200000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
-      "category": "EXPO"
-    },
-    {
       "title": "La Bib’Mobile – L’Arénas",
       "description": "",
       "place": "Nice",
@@ -254,7 +194,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/05/vieux-nice-250x250.jpg",
       "category": "AUTRE"
     },
     {
@@ -269,7 +209,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/rencontre/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/06/bp-664515-plage-adaptee-handiplage.png",
       "category": "AUTRE"
     },
     {
@@ -299,7 +239,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/lecture/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/09/bib-mobile-2.jpg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
@@ -314,8 +254,23 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/11/672022-expo-gilly-artistique.jpg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "EXPO"
+    },
+    {
+      "title": "L’Orchestre Lycette Darsonval, le Grand Ensemble de Cuivres et l’Ensemble de cuivres Junior",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1782837000000,
+      "ends_at": 1782844200000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/concert/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "category": "CONCERT"
     },
     {
       "title": "Dissonances Jeanne d'Arc",
@@ -453,6 +408,21 @@
       "category": "EXPO"
     },
     {
+      "title": "Ateliers Môm’Art de l’été",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1784066400000,
+      "ends_at": 1784073600000,
+      "has_time": false,
+      "price": "—",
+      "price_val": 0,
+      "source": "MAMAC",
+      "source_url": "https://www.mamac-nice.org/evenement/ateliers-momart-de-lete/",
+      "image_url": "https://www.mamac-nice.org/wp-content/uploads/2021/05/site-mamac.jpg",
+      "category": "AUTRE"
+    },
+    {
       "title": "Atelier jeune public - Voyage surréaliste",
       "description": "",
       "place": "Monaco",
@@ -513,36 +483,6 @@
       "category": "AUTRE"
     },
     {
-      "title": "Ciné d'été - \"Life Of Chuck\" de Mike Flanagan (2025)",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1784206800000,
-      "ends_at": 1784214000000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/cine-d-ete-life-of-chuck-de-mike-flanagan-2025",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/4/6/3/9/2149364-2-fre-FR/13b8dc0509c6-106094_img_0mer4xH.png.webp",
-      "category": "CINEMA"
-    },
-    {
-      "title": "Concert Jeunesse - STYLETO",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1784230200000,
-      "ends_at": 1784235600000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/concert-jeunesse-styleto",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/3/5/5/0/2110553-2-fre-FR/13da0a859745-106049_img_0k6tDiz.jpg.webp",
-      "category": "CONCERT"
-    },
-    {
       "title": "STAGES de pratiques artistiques (6-11 ans) / VACANCES SCOLAIRES",
       "description": "",
       "place": "Nice",
@@ -555,36 +495,6 @@
       "source": "MATISSE",
       "source_url": "https://www.musee-matisse-nice.org/fr/evenement/stage-de-pratiques-artistiques-6-11-ans-vacances-scolaires-5/",
       "image_url": "https://www.musee-matisse-nice.org/wp-content/uploads/2021/02/Musee-Matisse-Nice-Partage.png",
-      "category": "AUTRE"
-    },
-    {
-      "title": "E1 Monaco 2026",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1784282400000,
-      "ends_at": 1784390400000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/e1-monaco-2026",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/9/1/6/2/2112619-1-fre-FR/1cbe4d426a68-mOwkD3kyNjP6RrPx.png.webp",
-      "category": "AUTRE"
-    },
-    {
-      "title": "La Dame aux Camélias",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1784309400000,
-      "ends_at": 1784320200000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/la-dame-aux-camelias3",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/3/6/5/8/1888563-2-fre-FR/518c1eac05c0-105063_img_0ikeAv6.jpg.webp",
       "category": "AUTRE"
     },
     {
@@ -735,6 +645,21 @@
       "source": "MONACO",
       "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/au-coeur-de-monaco-visite-guidee-du-rocher-visite-en-anglais",
       "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/2/4/0/3/2163042-2-fre-FR/5689a28e26c9-106130_img_09yDWjy.jpg.webp",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Animation Jeux",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1786111200000,
+      "ends_at": 1786118400000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/animation-jeux3",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/1/2/8/6/2186821-1-fre-FR/622e3f5f026a-106178_img_0LkRYVz.jpg.webp",
       "category": "AUTRE"
     },
     {
