@@ -1,22 +1,7 @@
 {
-  "scraped_at": "2026-06-30T17:10:45Z",
+  "scraped_at": "2026-06-30T19:50:15Z",
   "count": 203,
   "events": [
-    {
-      "title": "L’Orchestre Lycette Darsonval, le Grand Ensemble de Cuivres et l’Ensemble de cuivres Junior",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1782837000000,
-      "ends_at": 1782844200000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/concert/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
-      "category": "CONCERT"
-    },
     {
       "title": "Dissonances Jeanne d'Arc",
       "description": "",
@@ -226,6 +211,21 @@
       "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/reouverture-et-portes-ouvertes-de-l-espace-lamartine",
       "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/1/3/2/3/2183231-1-fre-FR/a301292074cb-106174_img_0yxSRC7.jpg.webp",
       "category": "AUTRE"
+    },
+    {
+      "title": "Ciné d'été - \"Life Of Chuck\" de Mike Flanagan (2025)",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1784206800000,
+      "ends_at": 1784214000000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/cine-d-ete-life-of-chuck-de-mike-flanagan-2025",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/4/6/3/9/2149364-2-fre-FR/13b8dc0509c6-106094_img_0mer4xH.png.webp",
+      "category": "CINEMA"
     },
     {
       "title": "STAGES de pratiques artistiques (6-11 ans) / VACANCES SCOLAIRES",
