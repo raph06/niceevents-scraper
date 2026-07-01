@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-30T22:16:27Z",
-  "count": 202,
+  "scraped_at": "2026-07-01T02:46:30Z",
+  "count": 205,
   "events": [
     {
       "title": "Sieste Musicale - Instant détente pendant la pause déjeuner",
@@ -1008,6 +1008,21 @@
       "category": "AUTRE"
     },
     {
+      "title": "Face à face – La Veuve joyeuse",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1791669600000,
+      "ends_at": 1791676800000,
+      "has_time": false,
+      "price": "—",
+      "price_val": 0,
+      "source": "OPERA_NICE",
+      "source_url": "https://www.opera-nice.org/lieux/foyer-montserrat-caballe-de-lopera/",
+      "image_url": "https://www.opera-nice.org/wp-content/uploads/2026/05/share-opera-nice-cote-dazur.jpg",
+      "category": "AUTRE"
+    },
+    {
       "title": "Ivanov",
       "description": "Ivanovnous confronte au destin contrarié d’un homme cultivé et sensible mais profondément épuisé par la vie : un propriétaire terrien ruiné, dont l’épouse tombe gravement malade. Enlisé dans une existence étouffée par les ragots, l’hypocrisie et les préjugés, le lucide Ivanov tombe amoureux de Sacha, la fille d’une de ses connaissances. Tiraillé entre la mort imminente de son épouse et l’exaltatio",
       "place": "Les FranciscainsLa Cuisine",
@@ -1306,6 +1321,21 @@
       "source_url": "https://www.tnn.fr/fr/spectacles/saison-2025-2026/nelken-spectacle-partenaire",
       "image_url": "https://www.tnn.fr/img/spectacles/saison-2025-2026/2025-11-751-nelken-spectacle-partenaire-slider.jpg",
       "category": "THEATRE"
+    },
+    {
+      "title": "Étoiles grandeur nature",
+      "description": "",
+      "place": "DémonstrationAstronomie",
+      "city": "Nice",
+      "starts_at": 1794178800000,
+      "ends_at": 1794186000000,
+      "has_time": false,
+      "price": "—",
+      "price_val": 0,
+      "source": "OT_NICE",
+      "source_url": "https://www.explorenicecotedazur.com/evenement/etoiles-grandeur-nature/",
+      "image_url": "https://cdn.iris-etourism.io/uploads/nice/sizes/c4c/193-99-41182145-335x335.webp",
+      "category": "AUTRE"
     },
     {
       "title": "Brahms / Chostakovitch",
@@ -2506,6 +2536,21 @@
       "source_url": "https://www.tnn.fr/fr/spectacles/saison-2026-2027/instabile",
       "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-05-800-instabile-slider.jpg",
       "category": "THEATRE"
+    },
+    {
+      "title": "De la scène à la toile. Artistes et mondaines de la Belle Époque",
+      "description": "",
+      "place": "ExpositionPeinture",
+      "city": "Nice",
+      "starts_at": 1806789600000,
+      "ends_at": 1806796800000,
+      "has_time": false,
+      "price": "—",
+      "price_val": 0,
+      "source": "OT_NICE",
+      "source_url": "https://www.explorenicecotedazur.com/evenement/de-la-scene-a-la-toile-artistes-et-mondaines-de-la-belle-epoque/",
+      "image_url": "https://cdn.iris-etourism.io/uploads/nice/sizes/4d1/149-80-41635989-335x335.webp",
+      "category": "AUTRE"
     },
     {
       "title": "L'Amante anglaise",
