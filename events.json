@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-01T02:46:30Z",
+  "scraped_at": "2026-07-01T07:11:23Z",
   "count": 205,
   "events": [
     {
@@ -198,7 +198,7 @@
       "category": "CINEMA"
     },
     {
-      "title": "Concert Jeunesse - STYLETO",
+      "title": "Styleto",
       "description": "",
       "place": "Monaco",
       "city": "Monaco",
@@ -208,9 +208,9 @@
       "price": "—",
       "price_val": 0,
       "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/concert-jeunesse-styleto",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/3/5/5/0/2110553-2-fre-FR/13da0a859745-106049_img_0k6tDiz.jpg.webp",
-      "category": "CONCERT"
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/styleto",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/3/5/5/0/2110553-4-fre-FR/1e2a0c27512f-106049_img_0uGpmaG.jpg.webp",
+      "category": "AUTRE"
     },
     {
       "title": "STAGES de pratiques artistiques (6-11 ans) / VACANCES SCOLAIRES",
