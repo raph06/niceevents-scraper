@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-02T11:35:56Z",
-  "count": 230,
+  "scraped_at": "2026-07-02T13:46:29Z",
+  "count": 232,
   "events": [
     {
       "title": "Sieste Musicale - Instant détente pendant la pause déjeuner",
@@ -75,6 +75,21 @@
       "source": "MAMAC",
       "source_url": "https://www.mamac-nice.org/exposition/anne-et-patrick-poirier-memoires-des-ruines/",
       "image_url": "https://www.mamac-nice.org/wp-content/uploads/2021/05/site-mamac.jpg",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Activités spéciales jeune public",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1783893600000,
+      "ends_at": 1783900800000,
+      "has_time": false,
+      "price": "—",
+      "price_val": 0,
+      "source": "CHAGALL",
+      "source_url": "https://musees-nationaux-alpesmaritimes.fr/chagall/agenda/evenement/activites-speciales-jeune-public",
+      "image_url": "https://musees-nationaux-alpesmaritimes.fr/chagall/sites/chagall/files/styles/crop_vignette/public/2026-03/visuel%20visite%20cr%C3%A9ative%20-%20personnage%20fantastique.jpg?itok=FozKkrg0",
       "category": "AUTRE"
     },
     {
@@ -1155,6 +1170,21 @@
       "source": "OT_NICE",
       "source_url": "https://www.explorenicecotedazur.com/evenement/chagall-a-loeuvre-un-pret-dexception-au-musee/",
       "image_url": "https://cdn.iris-etourism.io/uploads/nice/sizes/cbb/62-171-37268286-335x335.webp",
+      "category": "EXPO"
+    },
+    {
+      "title": "Chagall à l'oeuvre. Un prêt d'exception au musée",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1789941600000,
+      "ends_at": 1789948800000,
+      "has_time": false,
+      "price": "—",
+      "price_val": 0,
+      "source": "CHAGALL",
+      "source_url": "https://musees-nationaux-alpesmaritimes.fr/chagall/agenda/evenement/chagall-loeuvre-un-pret-dexception-au-musee",
+      "image_url": "https://musees-nationaux-alpesmaritimes.fr/chagall/sites/chagall/files/styles/thumbnail_w880/public/2025-12/Bandeau%20Maquette%20pour%20le%20rideau%20de%20sc%C3%A8ne%20du%201er%20acte%20de%20%E2%80%9CL%E2%80%99Oiseau%20de%20feu%E2%80%9D%20de%20Stravinsky%20%20La%20for%C3%AAt%20enchant%C3%A9e%2C%201945.jpg?itok=U4w7xmqO",
       "category": "EXPO"
     },
     {
