@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-02T19:16:51Z",
-  "count": 234,
+  "scraped_at": "2026-07-02T22:11:26Z",
+  "count": 212,
   "events": [
     {
       "title": "Sieste Musicale - Instant détente pendant la pause déjeuner",
@@ -45,21 +45,6 @@
       "source": "MONACO",
       "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/dominique-fils-aime",
       "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/4/7/7/2/2142774-1-fre-FR/db71d9727f0b-106076_img_0val0jM.jpg.webp",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Depuis quand la culture est-elle de gauche ?",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1783720800000,
-      "ends_at": 1783728000000,
-      "has_time": false,
-      "price": "—",
-      "price_val": 0,
-      "source": "OPERA_NICE",
-      "source_url": "https://www.opera-nice.org/lieux/foyer-montserrat-caballe-de-lopera/",
-      "image_url": "https://www.opera-nice.org/wp-content/uploads/2026/05/share-opera-nice-cote-dazur.jpg",
       "category": "AUTRE"
     },
     {
@@ -376,6 +361,21 @@
       "source_url": "https://www.explorenicecotedazur.com/evenement/exposition-angie-f/",
       "image_url": "https://cdn.iris-etourism.io/uploads/nice/sizes/8dc/138-131-39158666-335x335.webp",
       "category": "EXPO"
+    },
+    {
+      "title": "VI MONACO INTERNATIONAL MEETING FIAT 500 HISTORIQUES",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1784358000000,
+      "ends_at": 1784469600000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/vi-monaco-international-meeting-fiat-500-historiques",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/5/5/5/2/2192555-1-fre-FR/222e099c3665-106181_img_0EXNPFj.png.webp",
+      "category": "AUTRE"
     },
     {
       "title": "Concours du meilleur Pan Bagnat",
@@ -1098,21 +1098,6 @@
       "category": "THEATRE"
     },
     {
-      "title": "Escape Game",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1789250400000,
-      "ends_at": 1789257600000,
-      "has_time": false,
-      "price": "—",
-      "price_val": 0,
-      "source": "OPERA_NICE",
-      "source_url": "https://www.opera-nice.org/lieux/opera-nice-cote-dazur/",
-      "image_url": "https://www.opera-nice.org/wp-content/uploads/2026/05/share-opera-nice-cote-dazur.jpg",
-      "category": "AUTRE"
-    },
-    {
       "title": "AtelierS de pratiques artistiques (6-11 ans) / LES MERCREDIS",
       "description": "",
       "place": "Nice",
@@ -1125,21 +1110,6 @@
       "source": "MATISSE",
       "source_url": "https://www.musee-matisse-nice.org/fr/evenement/ateliers-de-pratiques-artistiques-6-11-ans-les-mercredis/",
       "image_url": "https://www.musee-matisse-nice.org/wp-content/uploads/2021/02/Musee-Matisse-Nice-Partage.png",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Chopin",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1789682400000,
-      "ends_at": 1789689600000,
-      "has_time": false,
-      "price": "—",
-      "price_val": 0,
-      "source": "OPERA_NICE",
-      "source_url": "https://www.opera-nice.org/lieux/foyer-montserrat-caballe-de-lopera/",
-      "image_url": "https://www.opera-nice.org/wp-content/uploads/2026/05/share-opera-nice-cote-dazur.jpg",
       "category": "AUTRE"
     },
     {
@@ -1218,36 +1188,6 @@
       "category": "AUTRE"
     },
     {
-      "title": "LA LÉGENDE DE MONTE-CRISTO, L...",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1790359200000,
-      "ends_at": 1790366400000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "NIKAIA",
-      "source_url": "https://www.nikaia.fr/programmation/la-legende-de-monte-cristo-le-musical",
-      "image_url": "https://www.nikaia.fr/files/2026-03/1773757627_vignette-site.jpg",
-      "category": "AUTRE"
-    },
-    {
-      "title": "De l’opérette à la comédie musicale, quel chemin ?",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1790373600000,
-      "ends_at": 1790380800000,
-      "has_time": false,
-      "price": "—",
-      "price_val": 0,
-      "source": "OPERA_NICE",
-      "source_url": "https://www.opera-nice.org/lieux/foyer-montserrat-caballe-de-lopera/",
-      "image_url": "https://www.opera-nice.org/wp-content/uploads/2026/05/share-opera-nice-cote-dazur.jpg",
-      "category": "THEATRE"
-    },
-    {
       "title": "Exposition Mathieu Forget",
       "description": "",
       "place": "ExpositionPhotographie",
@@ -1275,36 +1215,6 @@
       "source": "OT_NICE",
       "source_url": "https://www.explorenicecotedazur.com/evenement/henri-matisse-yves-saint-laurent-le-beau-la-mode-et-le-bonheur/",
       "image_url": "https://www.explorenicecotedazur.com/app/uploads/2026/04/affiche-matisse-ysl-335x335.webp",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Face à face – Orlando",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1790632800000,
-      "ends_at": 1790640000000,
-      "has_time": false,
-      "price": "—",
-      "price_val": 0,
-      "source": "OPERA_NICE",
-      "source_url": "https://www.opera-nice.org/lieux/foyer-montserrat-caballe-de-lopera/",
-      "image_url": "https://www.opera-nice.org/wp-content/uploads/2026/05/share-opera-nice-cote-dazur.jpg",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Orlando",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1790719200000,
-      "ends_at": 1790726400000,
-      "has_time": false,
-      "price": "—",
-      "price_val": 0,
-      "source": "OPERA_NICE",
-      "source_url": "https://www.opera-nice.org/lieux/opera-nice-cote-dazur/",
-      "image_url": "https://www.opera-nice.org/wp-content/uploads/2026/05/share-opera-nice-cote-dazur.jpg",
       "category": "AUTRE"
     },
     {
@@ -1383,51 +1293,6 @@
       "category": "THEATRE"
     },
     {
-      "title": "Politique et spectacle des jumeaux dans l’histoire",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1791583200000,
-      "ends_at": 1791590400000,
-      "has_time": false,
-      "price": "—",
-      "price_val": 0,
-      "source": "OPERA_NICE",
-      "source_url": "https://www.opera-nice.org/lieux/foyer-montserrat-caballe-de-lopera/",
-      "image_url": "https://www.opera-nice.org/wp-content/uploads/2026/05/share-opera-nice-cote-dazur.jpg",
-      "category": "THEATRE"
-    },
-    {
-      "title": "LA DAME DE PIERRE",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1791657900000,
-      "ends_at": 1791665100000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "NIKAIA",
-      "source_url": "https://www.nikaia.fr/programmation/la-dame-de-pierre-1",
-      "image_url": "https://www.nikaia.fr/files/2025-10/1080x1080.jpeg",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Face à face – La Veuve joyeuse",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1791669600000,
-      "ends_at": 1791676800000,
-      "has_time": false,
-      "price": "—",
-      "price_val": 0,
-      "source": "OPERA_NICE",
-      "source_url": "https://www.opera-nice.org/lieux/foyer-montserrat-caballe-de-lopera/",
-      "image_url": "https://www.opera-nice.org/wp-content/uploads/2026/05/share-opera-nice-cote-dazur.jpg",
-      "category": "AUTRE"
-    },
-    {
       "title": "Ivanov",
       "description": "Ivanovnous confronte au destin contrarié d’un homme cultivé et sensible mais profondément épuisé par la vie : un propriétaire terrien ruiné, dont l’épouse tombe gravement malade. Enlisé dans une existence étouffée par les ragots, l’hypocrisie et les préjugés, le lucide Ivanov tombe amoureux de Sacha, la fille d’une de ses connaissances. Tiraillé entre la mort imminente de son épouse et l’exaltatio",
       "place": "Les FranciscainsLa Cuisine",
@@ -1441,21 +1306,6 @@
       "source_url": "https://www.tnn.fr/fr/spectacles/saison-2026-2027/ivanov",
       "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-05-786-ivanov-slider.jpg",
       "category": "THEATRE"
-    },
-    {
-      "title": "Afterwork – Brahms",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1791928800000,
-      "ends_at": 1791936000000,
-      "has_time": false,
-      "price": "—",
-      "price_val": 0,
-      "source": "OPERA_NICE",
-      "source_url": "https://www.opera-nice.org/lieux/lobservatoire/",
-      "image_url": "https://www.opera-nice.org/wp-content/uploads/2026/05/share-opera-nice-cote-dazur.jpg",
-      "category": "NUIT"
     },
     {
       "title": "Ivanov",
@@ -1471,21 +1321,6 @@
       "source_url": "https://www.tnn.fr/fr/spectacles/saison-2026-2027/ivanov",
       "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-05-786-ivanov-slider.jpg",
       "category": "THEATRE"
-    },
-    {
-      "title": "60 minutes de découvertes #1",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1792015200000,
-      "ends_at": 1792022400000,
-      "has_time": false,
-      "price": "—",
-      "price_val": 0,
-      "source": "OPERA_NICE",
-      "source_url": "https://www.opera-nice.org/lieux/musee-marc-chagall/",
-      "image_url": "https://www.opera-nice.org/wp-content/uploads/2026/05/share-opera-nice-cote-dazur.jpg",
-      "category": "AUTRE"
     },
     {
       "title": "FLODOR",
@@ -1533,21 +1368,6 @@
       "category": "THEATRE"
     },
     {
-      "title": "Jean-Christophe Maillot & Ioannis Mandafounis",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1792188000000,
-      "ends_at": 1792195200000,
-      "has_time": false,
-      "price": "—",
-      "price_val": 0,
-      "source": "OPERA_NICE",
-      "source_url": "https://www.opera-nice.org/lieux/opera-nice-cote-dazur/",
-      "image_url": "https://www.opera-nice.org/wp-content/uploads/2026/05/share-opera-nice-cote-dazur.jpg",
-      "category": "AUTRE"
-    },
-    {
       "title": "Africa Pop",
       "description": "",
       "place": "ExpositionArt moderne / contemporain",
@@ -1563,36 +1383,6 @@
       "category": "AUTRE"
     },
     {
-      "title": "TERRAVINI",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1792879200000,
-      "ends_at": 1792886400000,
-      "has_time": false,
-      "price": "—",
-      "price_val": 0,
-      "source": "NIKAIA",
-      "source_url": "https://www.nikaia.fr/programmation/terravini-1",
-      "image_url": "https://www.nikaia.fr/files/2026-04/visuel-terravini-2026-carre.jpg",
-      "category": "FOOD"
-    },
-    {
-      "title": "LEGEND TOUR BY TRADE REPUBLIC",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1793127600000,
-      "ends_at": 1793134800000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "NIKAIA",
-      "source_url": "https://www.nikaia.fr/programmation/legend-tour",
-      "image_url": "https://www.nikaia.fr/files/2025-12/legendtour-webge-ne-rique-1080x1080.png",
-      "category": "AUTRE"
-    },
-    {
       "title": "Trésors, charafi et quoi encore ?",
       "description": "",
       "place": "ExpositionHistorique",
@@ -1605,66 +1395,6 @@
       "source": "OT_NICE",
       "source_url": "https://www.explorenicecotedazur.com/evenement/tresors-charafi-et-quoi-encore/",
       "image_url": "https://cdn.iris-etourism.io/uploads/nice/sizes/67b/207-3-40829903-335x335.webp",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Strauss / Brahms",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1793314800000,
-      "ends_at": 1793322000000,
-      "has_time": false,
-      "price": "—",
-      "price_val": 0,
-      "source": "OPERA_NICE",
-      "source_url": "https://www.opera-nice.org/lieux/opera-nice-cote-dazur/",
-      "image_url": "https://www.opera-nice.org/wp-content/uploads/2026/05/share-opera-nice-cote-dazur.jpg",
-      "category": "AUTRE"
-    },
-    {
-      "title": "LAURA PAUSINI",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1793386800000,
-      "ends_at": 1793394000000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "NIKAIA",
-      "source_url": "https://www.nikaia.fr/programmation/laura-pausini",
-      "image_url": "https://www.nikaia.fr/files/2025-09/laura-pausini-iocanto-visuelweb-post-1080x1080-nice.jpg",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Goûter sur scène",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1793401200000,
-      "ends_at": 1793408400000,
-      "has_time": false,
-      "price": "—",
-      "price_val": 0,
-      "source": "OPERA_NICE",
-      "source_url": "https://www.opera-nice.org/lieux/opera-nice-cote-dazur/",
-      "image_url": "https://www.opera-nice.org/wp-content/uploads/2026/05/share-opera-nice-cote-dazur.jpg",
-      "category": "AUTRE"
-    },
-    {
-      "title": "PATRICK BRUEL",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1793473200000,
-      "ends_at": 1793480400000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "NIKAIA",
-      "source_url": "https://www.nikaia.fr/programmation/patrick-bruel-5",
-      "image_url": "https://www.nikaia.fr/files/2026-02/site-pb.jpg",
       "category": "AUTRE"
     },
     {
@@ -1696,6 +1426,21 @@
       "source_url": "https://www.musee-matisse-nice.org/fr/evenement/visite-commentee-des-collections-et-de-lexposition-dautomne-henri-matisse-chemin-de-croix-%e2%80%92-dessiner-la-passion/",
       "image_url": "https://www.musee-matisse-nice.org/wp-content/uploads/2021/02/Musee-Matisse-Nice-Partage.png",
       "category": "EXPO"
+    },
+    {
+      "title": "Waku Doki",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1794072600000,
+      "ends_at": 1794078000000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/waku-doki",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/2/0/0/9/1779002-2-fre-FR/eac554978a61-105171_img_0ijN30P.jpg.webp",
+      "category": "AUTRE"
     },
     {
       "title": "Les Contes d'apéro",
@@ -1743,21 +1488,6 @@
       "category": "AUTRE"
     },
     {
-      "title": "Brahms / Chostakovitch",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1794178800000,
-      "ends_at": 1794186000000,
-      "has_time": false,
-      "price": "—",
-      "price_val": 0,
-      "source": "OPERA_NICE",
-      "source_url": "https://www.opera-nice.org/lieux/opera-nice-cote-dazur/",
-      "image_url": "https://www.opera-nice.org/wp-content/uploads/2026/05/share-opera-nice-cote-dazur.jpg",
-      "category": "AUTRE"
-    },
-    {
       "title": "« Cerises aux cœurs » : exposition de sculptures en plein air de Jean-Louis Landraud",
       "description": "",
       "place": "ExpositionSculpture",
@@ -1773,21 +1503,6 @@
       "category": "EXPO"
     },
     {
-      "title": "Viens avec ton doudou",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1794265200000,
-      "ends_at": 1794272400000,
-      "has_time": false,
-      "price": "—",
-      "price_val": 0,
-      "source": "OPERA_NICE",
-      "source_url": "https://www.opera-nice.org/lieux/foyer-montserrat-caballe-de-lopera/",
-      "image_url": "https://www.opera-nice.org/wp-content/uploads/2026/05/share-opera-nice-cote-dazur.jpg",
-      "category": "AUTRE"
-    },
-    {
       "title": "Résurrection",
       "description": "DansRésurrection, il est question d’un jeune homme de bonne famille qui mène une vie de plaisirs dans une grande ville et se retrouve juré au procès d’une femme accusée de meurtre. Il reconnaît son amour de jeunesse, autrefois au service de sa famille. Il a abusé d’elle et l’a mise enceinte avant de l’abandonner. Elle est devenue une prostituée. Désireux de racheter sa faute, il tente de l’innocen",
       "place": "Les FranciscainsLa Cuisine",
@@ -1801,21 +1516,6 @@
       "source_url": "https://www.tnn.fr/fr/spectacles/saison-2026-2027/resurrection",
       "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-05-787-resurrection-slider.jpg",
       "category": "THEATRE"
-    },
-    {
-      "title": "VANESSA PARADIS",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1794596400000,
-      "ends_at": 1794603600000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "NIKAIA",
-      "source_url": "https://www.nikaia.fr/programmation/vanessa-paradis",
-      "image_url": "https://www.nikaia.fr/files/2025-10/1080x1080-vp-hd.jpg",
-      "category": "AUTRE"
     },
     {
       "title": "Résurrection",
@@ -1846,21 +1546,6 @@
       "source_url": "https://www.tnn.fr/fr/spectacles/saison-2026-2027/le-petit-chaperon-rouge",
       "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-05-788-le-petit-chaperon-rouge-slider.jpg",
       "category": "THEATRE"
-    },
-    {
-      "title": "LEGENDARY ROCK VOICES",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1795028400000,
-      "ends_at": 1795035600000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "NIKAIA",
-      "source_url": "https://www.nikaia.fr/programmation/legendary-rock-voices",
-      "image_url": "https://www.nikaia.fr/files/2026-03/lrv-nice-arwork03-1080x1080.png",
-      "category": "CONCERT"
     },
     {
       "title": "Le Petit Chaperon rouge",
@@ -2161,21 +1846,6 @@
       "source_url": "https://www.tnn.fr/fr/spectacles/saison-2026-2027/resurrection",
       "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-05-787-resurrection-slider.jpg",
       "category": "THEATRE"
-    },
-    {
-      "title": "VERONIQUE SANSON",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1797017400000,
-      "ends_at": 1797024600000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "NIKAIA",
-      "source_url": "https://www.nikaia.fr/programmation/veronique-sanson-2027",
-      "image_url": "https://www.nikaia.fr/files/2026-04/600x600-sanson.jpg",
-      "category": "AUTRE"
     },
     {
       "title": "Ateliers de Yoga – Camping St Dalmas Valdeblore",
