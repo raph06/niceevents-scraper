@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-04T19:03:50Z",
-  "count": 239,
+  "scraped_at": "2026-07-04T21:55:43Z",
+  "count": 240,
   "events": [
     {
       "title": "Sieste Musicale - Instant détente pendant la pause déjeuner",
@@ -601,6 +601,21 @@
       "source_url": "https://www.tnn.fr/fr/evenements/contes-dapero-2026",
       "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-06-819-contes-dapero-2026-slider.jpg",
       "category": "THEATRE"
+    },
+    {
+      "title": "8 soirs par semaine",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1784835000000,
+      "ends_at": 1784839500000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/8-soirs-par-semaine",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/2/2/4/3/2143422-1-fre-FR/78cbb47b227c-106080_img_0NT8LDh.jpg.webp",
+      "category": "AUTRE"
     },
     {
       "title": "Visites guidées (à partir de 7 ans)",
