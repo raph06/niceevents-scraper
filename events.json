@@ -1,7 +1,37 @@
 {
-  "scraped_at": "2026-07-06T12:43:51Z",
-  "count": 241,
+  "scraped_at": "2026-07-06T17:41:59Z",
+  "count": 243,
   "events": [
+    {
+      "title": "Randonnée Boréon, boucle de Peïrastrèche",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1783403100000,
+      "ends_at": 1783410300000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/seance-de-plein-air/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Gymnastique aquatique en piscine",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1783404000000,
+      "ends_at": 1783411200000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/animation/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "category": "AUTRE"
+    },
     {
       "title": "Sieste Musicale - Instant détente pendant la pause déjeuner",
       "description": "",
