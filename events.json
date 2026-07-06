@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-06T07:09:54Z",
+  "scraped_at": "2026-07-06T12:43:51Z",
   "count": 241,
   "events": [
     {
@@ -19,7 +19,7 @@
     },
     {
       "title": "Les Contes d'apéro",
-      "description": "Durant la période estivale,Les Contes d’apéroaniment le Kiosque du TNN sur la Coulée verte,tous les soirs à 19h!DU 6 AU 10 JUILLET 2026L'HÉRITIER DE VILLAGE,NOUVEL ÉPISODE DE LA SAGA MARIVAUXMarivauxMise en scèneLaurent Prévot• Dès 11 ans • Durée estimée 1h05 • théâtreAvecÉlise Clary, Gérard Holtz, Muriel Mayette-Holtz, Armand Pitot, Laurent Prévot, Hervé Van der Meulen, Carla VentreCette comédie ",
+      "description": "Durant la période estivale,Les Contes d’apéroaniment le Kiosque du TNN sur la Coulée verte,tous les soirs à 19h!DU 6 AU 10 JUILLET 2026L'HÉRITIER DE VILLAGE,NOUVEL ÉPISODE DE LA SAGA MARIVAUXMarivauxMise en scèneLaurent Prévot• Dès 11 ans • Durée estimée 1h05 • théâtreAvecÉlise Clary, Gérard Holtz, Muriel Mayette-Holtz, Armand Pitot, Laurent Prévot, Hervé Van der Meulen, Carla VentreBlaise, frustr",
       "place": "Les FranciscainsLa Cuisine",
       "city": "Nice",
       "starts_at": 1783443600000,
@@ -94,7 +94,7 @@
     },
     {
       "title": "Les Contes d'apéro",
-      "description": "Durant la période estivale,Les Contes d’apéroaniment le Kiosque du TNN sur la Coulée verte,tous les soirs à 19h!DU 6 AU 10 JUILLET 2026L'HÉRITIER DE VILLAGE,NOUVEL ÉPISODE DE LA SAGA MARIVAUXMarivauxMise en scèneLaurent Prévot• Dès 11 ans • Durée estimée 1h05 • théâtreAvecÉlise Clary, Gérard Holtz, Muriel Mayette-Holtz, Armand Pitot, Laurent Prévot, Hervé Van der Meulen, Carla VentreCette comédie ",
+      "description": "Durant la période estivale,Les Contes d’apéroaniment le Kiosque du TNN sur la Coulée verte,tous les soirs à 19h!DU 6 AU 10 JUILLET 2026L'HÉRITIER DE VILLAGE,NOUVEL ÉPISODE DE LA SAGA MARIVAUXMarivauxMise en scèneLaurent Prévot• Dès 11 ans • Durée estimée 1h05 • théâtreAvecÉlise Clary, Gérard Holtz, Muriel Mayette-Holtz, Armand Pitot, Laurent Prévot, Hervé Van der Meulen, Carla VentreBlaise, frustr",
       "place": "Les FranciscainsLa Cuisine",
       "city": "Nice",
       "starts_at": 1783962000000,
@@ -106,6 +106,21 @@
       "source_url": "https://www.tnn.fr/fr/evenements/contes-dapero-2026",
       "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-06-819-contes-dapero-2026-slider.jpg",
       "category": "THEATRE"
+    },
+    {
+      "title": "Fête Nationale française - Soirée DJ au Marché de la Condamine",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1783963800000,
+      "ends_at": 1783974600000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/fete-nationale-francaise-soiree-dj-au-marche-de-la-condamine",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/3/2/9/6/2196923-1-fre-FR/995742b25faa-106188_img_0qIgsY2.jpg.webp",
+      "category": "CONCERT"
     },
     {
       "title": "L'Heure espagnole",
@@ -124,7 +139,7 @@
     },
     {
       "title": "Les Contes d'apéro",
-      "description": "Durant la période estivale,Les Contes d’apéroaniment le Kiosque du TNN sur la Coulée verte,tous les soirs à 19h!DU 6 AU 10 JUILLET 2026L'HÉRITIER DE VILLAGE,NOUVEL ÉPISODE DE LA SAGA MARIVAUXMarivauxMise en scèneLaurent Prévot• Dès 11 ans • Durée estimée 1h05 • théâtreAvecÉlise Clary, Gérard Holtz, Muriel Mayette-Holtz, Armand Pitot, Laurent Prévot, Hervé Van der Meulen, Carla VentreCette comédie ",
+      "description": "Durant la période estivale,Les Contes d’apéroaniment le Kiosque du TNN sur la Coulée verte,tous les soirs à 19h!DU 6 AU 10 JUILLET 2026L'HÉRITIER DE VILLAGE,NOUVEL ÉPISODE DE LA SAGA MARIVAUXMarivauxMise en scèneLaurent Prévot• Dès 11 ans • Durée estimée 1h05 • théâtreAvecÉlise Clary, Gérard Holtz, Muriel Mayette-Holtz, Armand Pitot, Laurent Prévot, Hervé Van der Meulen, Carla VentreBlaise, frustr",
       "place": "Les FranciscainsLa Cuisine",
       "city": "Nice",
       "starts_at": 1784048400000,
@@ -214,7 +229,7 @@
     },
     {
       "title": "Les Contes d'apéro",
-      "description": "Durant la période estivale,Les Contes d’apéroaniment le Kiosque du TNN sur la Coulée verte,tous les soirs à 19h!DU 6 AU 10 JUILLET 2026L'HÉRITIER DE VILLAGE,NOUVEL ÉPISODE DE LA SAGA MARIVAUXMarivauxMise en scèneLaurent Prévot• Dès 11 ans • Durée estimée 1h05 • théâtreAvecÉlise Clary, Gérard Holtz, Muriel Mayette-Holtz, Armand Pitot, Laurent Prévot, Hervé Van der Meulen, Carla VentreCette comédie ",
+      "description": "Durant la période estivale,Les Contes d’apéroaniment le Kiosque du TNN sur la Coulée verte,tous les soirs à 19h!DU 6 AU 10 JUILLET 2026L'HÉRITIER DE VILLAGE,NOUVEL ÉPISODE DE LA SAGA MARIVAUXMarivauxMise en scèneLaurent Prévot• Dès 11 ans • Durée estimée 1h05 • théâtreAvecÉlise Clary, Gérard Holtz, Muriel Mayette-Holtz, Armand Pitot, Laurent Prévot, Hervé Van der Meulen, Carla VentreBlaise, frustr",
       "place": "Les FranciscainsLa Cuisine",
       "city": "Nice",
       "starts_at": 1784134800000,
@@ -274,7 +289,7 @@
     },
     {
       "title": "Les Contes d'apéro",
-      "description": "Durant la période estivale,Les Contes d’apéroaniment le Kiosque du TNN sur la Coulée verte,tous les soirs à 19h!DU 6 AU 10 JUILLET 2026L'HÉRITIER DE VILLAGE,NOUVEL ÉPISODE DE LA SAGA MARIVAUXMarivauxMise en scèneLaurent Prévot• Dès 11 ans • Durée estimée 1h05 • théâtreAvecÉlise Clary, Gérard Holtz, Muriel Mayette-Holtz, Armand Pitot, Laurent Prévot, Hervé Van der Meulen, Carla VentreCette comédie ",
+      "description": "Durant la période estivale,Les Contes d’apéroaniment le Kiosque du TNN sur la Coulée verte,tous les soirs à 19h!DU 6 AU 10 JUILLET 2026L'HÉRITIER DE VILLAGE,NOUVEL ÉPISODE DE LA SAGA MARIVAUXMarivauxMise en scèneLaurent Prévot• Dès 11 ans • Durée estimée 1h05 • théâtreAvecÉlise Clary, Gérard Holtz, Muriel Mayette-Holtz, Armand Pitot, Laurent Prévot, Hervé Van der Meulen, Carla VentreBlaise, frustr",
       "place": "Les FranciscainsLa Cuisine",
       "city": "Nice",
       "starts_at": 1784221200000,
@@ -334,7 +349,7 @@
     },
     {
       "title": "Les Contes d'apéro",
-      "description": "Durant la période estivale,Les Contes d’apéroaniment le Kiosque du TNN sur la Coulée verte,tous les soirs à 19h!DU 6 AU 10 JUILLET 2026L'HÉRITIER DE VILLAGE,NOUVEL ÉPISODE DE LA SAGA MARIVAUXMarivauxMise en scèneLaurent Prévot• Dès 11 ans • Durée estimée 1h05 • théâtreAvecÉlise Clary, Gérard Holtz, Muriel Mayette-Holtz, Armand Pitot, Laurent Prévot, Hervé Van der Meulen, Carla VentreCette comédie ",
+      "description": "Durant la période estivale,Les Contes d’apéroaniment le Kiosque du TNN sur la Coulée verte,tous les soirs à 19h!DU 6 AU 10 JUILLET 2026L'HÉRITIER DE VILLAGE,NOUVEL ÉPISODE DE LA SAGA MARIVAUXMarivauxMise en scèneLaurent Prévot• Dès 11 ans • Durée estimée 1h05 • théâtreAvecÉlise Clary, Gérard Holtz, Muriel Mayette-Holtz, Armand Pitot, Laurent Prévot, Hervé Van der Meulen, Carla VentreBlaise, frustr",
       "place": "Les FranciscainsLa Cuisine",
       "city": "Nice",
       "starts_at": 1784307600000,
@@ -409,7 +424,7 @@
     },
     {
       "title": "Les Contes d'apéro",
-      "description": "Durant la période estivale,Les Contes d’apéroaniment le Kiosque du TNN sur la Coulée verte,tous les soirs à 19h!DU 6 AU 10 JUILLET 2026L'HÉRITIER DE VILLAGE,NOUVEL ÉPISODE DE LA SAGA MARIVAUXMarivauxMise en scèneLaurent Prévot• Dès 11 ans • Durée estimée 1h05 • théâtreAvecÉlise Clary, Gérard Holtz, Muriel Mayette-Holtz, Armand Pitot, Laurent Prévot, Hervé Van der Meulen, Carla VentreCette comédie ",
+      "description": "Durant la période estivale,Les Contes d’apéroaniment le Kiosque du TNN sur la Coulée verte,tous les soirs à 19h!DU 6 AU 10 JUILLET 2026L'HÉRITIER DE VILLAGE,NOUVEL ÉPISODE DE LA SAGA MARIVAUXMarivauxMise en scèneLaurent Prévot• Dès 11 ans • Durée estimée 1h05 • théâtreAvecÉlise Clary, Gérard Holtz, Muriel Mayette-Holtz, Armand Pitot, Laurent Prévot, Hervé Van der Meulen, Carla VentreBlaise, frustr",
       "place": "Les FranciscainsLa Cuisine",
       "city": "Nice",
       "starts_at": 1784394000000,
@@ -424,7 +439,7 @@
     },
     {
       "title": "Les Contes d'apéro",
-      "description": "Durant la période estivale,Les Contes d’apéroaniment le Kiosque du TNN sur la Coulée verte,tous les soirs à 19h!DU 6 AU 10 JUILLET 2026L'HÉRITIER DE VILLAGE,NOUVEL ÉPISODE DE LA SAGA MARIVAUXMarivauxMise en scèneLaurent Prévot• Dès 11 ans • Durée estimée 1h05 • théâtreAvecÉlise Clary, Gérard Holtz, Muriel Mayette-Holtz, Armand Pitot, Laurent Prévot, Hervé Van der Meulen, Carla VentreCette comédie ",
+      "description": "Durant la période estivale,Les Contes d’apéroaniment le Kiosque du TNN sur la Coulée verte,tous les soirs à 19h!DU 6 AU 10 JUILLET 2026L'HÉRITIER DE VILLAGE,NOUVEL ÉPISODE DE LA SAGA MARIVAUXMarivauxMise en scèneLaurent Prévot• Dès 11 ans • Durée estimée 1h05 • théâtreAvecÉlise Clary, Gérard Holtz, Muriel Mayette-Holtz, Armand Pitot, Laurent Prévot, Hervé Van der Meulen, Carla VentreBlaise, frustr",
       "place": "Les FranciscainsLa Cuisine",
       "city": "Nice",
       "starts_at": 1784480400000,
@@ -454,7 +469,7 @@
     },
     {
       "title": "Les Contes d'apéro",
-      "description": "Durant la période estivale,Les Contes d’apéroaniment le Kiosque du TNN sur la Coulée verte,tous les soirs à 19h!DU 6 AU 10 JUILLET 2026L'HÉRITIER DE VILLAGE,NOUVEL ÉPISODE DE LA SAGA MARIVAUXMarivauxMise en scèneLaurent Prévot• Dès 11 ans • Durée estimée 1h05 • théâtreAvecÉlise Clary, Gérard Holtz, Muriel Mayette-Holtz, Armand Pitot, Laurent Prévot, Hervé Van der Meulen, Carla VentreCette comédie ",
+      "description": "Durant la période estivale,Les Contes d’apéroaniment le Kiosque du TNN sur la Coulée verte,tous les soirs à 19h!DU 6 AU 10 JUILLET 2026L'HÉRITIER DE VILLAGE,NOUVEL ÉPISODE DE LA SAGA MARIVAUXMarivauxMise en scèneLaurent Prévot• Dès 11 ans • Durée estimée 1h05 • théâtreAvecÉlise Clary, Gérard Holtz, Muriel Mayette-Holtz, Armand Pitot, Laurent Prévot, Hervé Van der Meulen, Carla VentreBlaise, frustr",
       "place": "Les FranciscainsLa Cuisine",
       "city": "Nice",
       "starts_at": 1784566800000,
@@ -484,7 +499,7 @@
     },
     {
       "title": "Les Contes d'apéro",
-      "description": "Durant la période estivale,Les Contes d’apéroaniment le Kiosque du TNN sur la Coulée verte,tous les soirs à 19h!DU 6 AU 10 JUILLET 2026L'HÉRITIER DE VILLAGE,NOUVEL ÉPISODE DE LA SAGA MARIVAUXMarivauxMise en scèneLaurent Prévot• Dès 11 ans • Durée estimée 1h05 • théâtreAvecÉlise Clary, Gérard Holtz, Muriel Mayette-Holtz, Armand Pitot, Laurent Prévot, Hervé Van der Meulen, Carla VentreCette comédie ",
+      "description": "Durant la période estivale,Les Contes d’apéroaniment le Kiosque du TNN sur la Coulée verte,tous les soirs à 19h!DU 6 AU 10 JUILLET 2026L'HÉRITIER DE VILLAGE,NOUVEL ÉPISODE DE LA SAGA MARIVAUXMarivauxMise en scèneLaurent Prévot• Dès 11 ans • Durée estimée 1h05 • théâtreAvecÉlise Clary, Gérard Holtz, Muriel Mayette-Holtz, Armand Pitot, Laurent Prévot, Hervé Van der Meulen, Carla VentreBlaise, frustr",
       "place": "Les FranciscainsLa Cuisine",
       "city": "Nice",
       "starts_at": 1784653200000,
@@ -529,7 +544,7 @@
     },
     {
       "title": "Les Contes d'apéro",
-      "description": "Durant la période estivale,Les Contes d’apéroaniment le Kiosque du TNN sur la Coulée verte,tous les soirs à 19h!DU 6 AU 10 JUILLET 2026L'HÉRITIER DE VILLAGE,NOUVEL ÉPISODE DE LA SAGA MARIVAUXMarivauxMise en scèneLaurent Prévot• Dès 11 ans • Durée estimée 1h05 • théâtreAvecÉlise Clary, Gérard Holtz, Muriel Mayette-Holtz, Armand Pitot, Laurent Prévot, Hervé Van der Meulen, Carla VentreCette comédie ",
+      "description": "Durant la période estivale,Les Contes d’apéroaniment le Kiosque du TNN sur la Coulée verte,tous les soirs à 19h!DU 6 AU 10 JUILLET 2026L'HÉRITIER DE VILLAGE,NOUVEL ÉPISODE DE LA SAGA MARIVAUXMarivauxMise en scèneLaurent Prévot• Dès 11 ans • Durée estimée 1h05 • théâtreAvecÉlise Clary, Gérard Holtz, Muriel Mayette-Holtz, Armand Pitot, Laurent Prévot, Hervé Van der Meulen, Carla VentreBlaise, frustr",
       "place": "Les FranciscainsLa Cuisine",
       "city": "Nice",
       "starts_at": 1784739600000,
@@ -589,7 +604,7 @@
     },
     {
       "title": "Les Contes d'apéro",
-      "description": "Durant la période estivale,Les Contes d’apéroaniment le Kiosque du TNN sur la Coulée verte,tous les soirs à 19h!DU 6 AU 10 JUILLET 2026L'HÉRITIER DE VILLAGE,NOUVEL ÉPISODE DE LA SAGA MARIVAUXMarivauxMise en scèneLaurent Prévot• Dès 11 ans • Durée estimée 1h05 • théâtreAvecÉlise Clary, Gérard Holtz, Muriel Mayette-Holtz, Armand Pitot, Laurent Prévot, Hervé Van der Meulen, Carla VentreCette comédie ",
+      "description": "Durant la période estivale,Les Contes d’apéroaniment le Kiosque du TNN sur la Coulée verte,tous les soirs à 19h!DU 6 AU 10 JUILLET 2026L'HÉRITIER DE VILLAGE,NOUVEL ÉPISODE DE LA SAGA MARIVAUXMarivauxMise en scèneLaurent Prévot• Dès 11 ans • Durée estimée 1h05 • théâtreAvecÉlise Clary, Gérard Holtz, Muriel Mayette-Holtz, Armand Pitot, Laurent Prévot, Hervé Van der Meulen, Carla VentreBlaise, frustr",
       "place": "Les FranciscainsLa Cuisine",
       "city": "Nice",
       "starts_at": 1784826000000,
@@ -601,21 +616,6 @@
       "source_url": "https://www.tnn.fr/fr/evenements/contes-dapero-2026",
       "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-06-819-contes-dapero-2026-slider.jpg",
       "category": "THEATRE"
-    },
-    {
-      "title": "8 soirs par semaine",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1784835000000,
-      "ends_at": 1784839500000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/8-soirs-par-semaine",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/2/2/4/3/2143422-1-fre-FR/78cbb47b227c-106080_img_0NT8LDh.jpg.webp",
-      "category": "AUTRE"
     },
     {
       "title": "Visites guidées (à partir de 7 ans)",
@@ -634,7 +634,7 @@
     },
     {
       "title": "Les Contes d'apéro",
-      "description": "Durant la période estivale,Les Contes d’apéroaniment le Kiosque du TNN sur la Coulée verte,tous les soirs à 19h!DU 6 AU 10 JUILLET 2026L'HÉRITIER DE VILLAGE,NOUVEL ÉPISODE DE LA SAGA MARIVAUXMarivauxMise en scèneLaurent Prévot• Dès 11 ans • Durée estimée 1h05 • théâtreAvecÉlise Clary, Gérard Holtz, Muriel Mayette-Holtz, Armand Pitot, Laurent Prévot, Hervé Van der Meulen, Carla VentreCette comédie ",
+      "description": "Durant la période estivale,Les Contes d’apéroaniment le Kiosque du TNN sur la Coulée verte,tous les soirs à 19h!DU 6 AU 10 JUILLET 2026L'HÉRITIER DE VILLAGE,NOUVEL ÉPISODE DE LA SAGA MARIVAUXMarivauxMise en scèneLaurent Prévot• Dès 11 ans • Durée estimée 1h05 • théâtreAvecÉlise Clary, Gérard Holtz, Muriel Mayette-Holtz, Armand Pitot, Laurent Prévot, Hervé Van der Meulen, Carla VentreBlaise, frustr",
       "place": "Les FranciscainsLa Cuisine",
       "city": "Nice",
       "starts_at": 1784912400000,
@@ -664,7 +664,7 @@
     },
     {
       "title": "Les Contes d'apéro",
-      "description": "Durant la période estivale,Les Contes d’apéroaniment le Kiosque du TNN sur la Coulée verte,tous les soirs à 19h!DU 6 AU 10 JUILLET 2026L'HÉRITIER DE VILLAGE,NOUVEL ÉPISODE DE LA SAGA MARIVAUXMarivauxMise en scèneLaurent Prévot• Dès 11 ans • Durée estimée 1h05 • théâtreAvecÉlise Clary, Gérard Holtz, Muriel Mayette-Holtz, Armand Pitot, Laurent Prévot, Hervé Van der Meulen, Carla VentreCette comédie ",
+      "description": "Durant la période estivale,Les Contes d’apéroaniment le Kiosque du TNN sur la Coulée verte,tous les soirs à 19h!DU 6 AU 10 JUILLET 2026L'HÉRITIER DE VILLAGE,NOUVEL ÉPISODE DE LA SAGA MARIVAUXMarivauxMise en scèneLaurent Prévot• Dès 11 ans • Durée estimée 1h05 • théâtreAvecÉlise Clary, Gérard Holtz, Muriel Mayette-Holtz, Armand Pitot, Laurent Prévot, Hervé Van der Meulen, Carla VentreBlaise, frustr",
       "place": "Les FranciscainsLa Cuisine",
       "city": "Nice",
       "starts_at": 1784998800000,
@@ -679,7 +679,7 @@
     },
     {
       "title": "Les Contes d'apéro",
-      "description": "Durant la période estivale,Les Contes d’apéroaniment le Kiosque du TNN sur la Coulée verte,tous les soirs à 19h!DU 6 AU 10 JUILLET 2026L'HÉRITIER DE VILLAGE,NOUVEL ÉPISODE DE LA SAGA MARIVAUXMarivauxMise en scèneLaurent Prévot• Dès 11 ans • Durée estimée 1h05 • théâtreAvecÉlise Clary, Gérard Holtz, Muriel Mayette-Holtz, Armand Pitot, Laurent Prévot, Hervé Van der Meulen, Carla VentreCette comédie ",
+      "description": "Durant la période estivale,Les Contes d’apéroaniment le Kiosque du TNN sur la Coulée verte,tous les soirs à 19h!DU 6 AU 10 JUILLET 2026L'HÉRITIER DE VILLAGE,NOUVEL ÉPISODE DE LA SAGA MARIVAUXMarivauxMise en scèneLaurent Prévot• Dès 11 ans • Durée estimée 1h05 • théâtreAvecÉlise Clary, Gérard Holtz, Muriel Mayette-Holtz, Armand Pitot, Laurent Prévot, Hervé Van der Meulen, Carla VentreBlaise, frustr",
       "place": "Les FranciscainsLa Cuisine",
       "city": "Nice",
       "starts_at": 1785085200000,
@@ -784,7 +784,7 @@
     },
     {
       "title": "Les Contes d'apéro",
-      "description": "Durant la période estivale,Les Contes d’apéroaniment le Kiosque du TNN sur la Coulée verte,tous les soirs à 19h!DU 6 AU 10 JUILLET 2026L'HÉRITIER DE VILLAGE,NOUVEL ÉPISODE DE LA SAGA MARIVAUXMarivauxMise en scèneLaurent Prévot• Dès 11 ans • Durée estimée 1h05 • théâtreAvecÉlise Clary, Gérard Holtz, Muriel Mayette-Holtz, Armand Pitot, Laurent Prévot, Hervé Van der Meulen, Carla VentreCette comédie ",
+      "description": "Durant la période estivale,Les Contes d’apéroaniment le Kiosque du TNN sur la Coulée verte,tous les soirs à 19h!DU 6 AU 10 JUILLET 2026L'HÉRITIER DE VILLAGE,NOUVEL ÉPISODE DE LA SAGA MARIVAUXMarivauxMise en scèneLaurent Prévot• Dès 11 ans • Durée estimée 1h05 • théâtreAvecÉlise Clary, Gérard Holtz, Muriel Mayette-Holtz, Armand Pitot, Laurent Prévot, Hervé Van der Meulen, Carla VentreBlaise, frustr",
       "place": "Les FranciscainsLa Cuisine",
       "city": "Nice",
       "starts_at": 1786122000000,
@@ -1084,7 +1084,7 @@
     },
     {
       "title": "Les Contes d'apéro",
-      "description": "Durant la période estivale,Les Contes d’apéroaniment le Kiosque du TNN sur la Coulée verte,tous les soirs à 19h!DU 6 AU 10 JUILLET 2026L'HÉRITIER DE VILLAGE,NOUVEL ÉPISODE DE LA SAGA MARIVAUXMarivauxMise en scèneLaurent Prévot• Dès 11 ans • Durée estimée 1h05 • théâtreAvecÉlise Clary, Gérard Holtz, Muriel Mayette-Holtz, Armand Pitot, Laurent Prévot, Hervé Van der Meulen, Carla VentreCette comédie ",
+      "description": "Durant la période estivale,Les Contes d’apéroaniment le Kiosque du TNN sur la Coulée verte,tous les soirs à 19h!DU 6 AU 10 JUILLET 2026L'HÉRITIER DE VILLAGE,NOUVEL ÉPISODE DE LA SAGA MARIVAUXMarivauxMise en scèneLaurent Prévot• Dès 11 ans • Durée estimée 1h05 • théâtreAvecÉlise Clary, Gérard Holtz, Muriel Mayette-Holtz, Armand Pitot, Laurent Prévot, Hervé Van der Meulen, Carla VentreBlaise, frustr",
       "place": "Les FranciscainsLa Cuisine",
       "city": "Nice",
       "starts_at": 1788800400000,
@@ -1414,7 +1414,7 @@
     },
     {
       "title": "Les Contes d'apéro",
-      "description": "Durant la période estivale,Les Contes d’apéroaniment le Kiosque du TNN sur la Coulée verte,tous les soirs à 19h!DU 6 AU 10 JUILLET 2026L'HÉRITIER DE VILLAGE,NOUVEL ÉPISODE DE LA SAGA MARIVAUXMarivauxMise en scèneLaurent Prévot• Dès 11 ans • Durée estimée 1h05 • théâtreAvecÉlise Clary, Gérard Holtz, Muriel Mayette-Holtz, Armand Pitot, Laurent Prévot, Hervé Van der Meulen, Carla VentreCette comédie ",
+      "description": "Durant la période estivale,Les Contes d’apéroaniment le Kiosque du TNN sur la Coulée verte,tous les soirs à 19h!DU 6 AU 10 JUILLET 2026L'HÉRITIER DE VILLAGE,NOUVEL ÉPISODE DE LA SAGA MARIVAUXMarivauxMise en scèneLaurent Prévot• Dès 11 ans • Durée estimée 1h05 • théâtreAvecÉlise Clary, Gérard Holtz, Muriel Mayette-Holtz, Armand Pitot, Laurent Prévot, Hervé Van der Meulen, Carla VentreBlaise, frustr",
       "place": "Les FranciscainsLa Cuisine",
       "city": "Nice",
       "starts_at": 1791392400000,
@@ -1804,7 +1804,7 @@
     },
     {
       "title": "Les Contes d'apéro",
-      "description": "Durant la période estivale,Les Contes d’apéroaniment le Kiosque du TNN sur la Coulée verte,tous les soirs à 19h!DU 6 AU 10 JUILLET 2026L'HÉRITIER DE VILLAGE,NOUVEL ÉPISODE DE LA SAGA MARIVAUXMarivauxMise en scèneLaurent Prévot• Dès 11 ans • Durée estimée 1h05 • théâtreAvecÉlise Clary, Gérard Holtz, Muriel Mayette-Holtz, Armand Pitot, Laurent Prévot, Hervé Van der Meulen, Carla VentreCette comédie ",
+      "description": "Durant la période estivale,Les Contes d’apéroaniment le Kiosque du TNN sur la Coulée verte,tous les soirs à 19h!DU 6 AU 10 JUILLET 2026L'HÉRITIER DE VILLAGE,NOUVEL ÉPISODE DE LA SAGA MARIVAUXMarivauxMise en scèneLaurent Prévot• Dès 11 ans • Durée estimée 1h05 • théâtreAvecÉlise Clary, Gérard Holtz, Muriel Mayette-Holtz, Armand Pitot, Laurent Prévot, Hervé Van der Meulen, Carla VentreBlaise, frustr",
       "place": "Les FranciscainsLa Cuisine",
       "city": "Nice",
       "starts_at": 1794074400000,
@@ -2194,7 +2194,7 @@
     },
     {
       "title": "Les Contes d'apéro",
-      "description": "Durant la période estivale,Les Contes d’apéroaniment le Kiosque du TNN sur la Coulée verte,tous les soirs à 19h!DU 6 AU 10 JUILLET 2026L'HÉRITIER DE VILLAGE,NOUVEL ÉPISODE DE LA SAGA MARIVAUXMarivauxMise en scèneLaurent Prévot• Dès 11 ans • Durée estimée 1h05 • théâtreAvecÉlise Clary, Gérard Holtz, Muriel Mayette-Holtz, Armand Pitot, Laurent Prévot, Hervé Van der Meulen, Carla VentreCette comédie ",
+      "description": "Durant la période estivale,Les Contes d’apéroaniment le Kiosque du TNN sur la Coulée verte,tous les soirs à 19h!DU 6 AU 10 JUILLET 2026L'HÉRITIER DE VILLAGE,NOUVEL ÉPISODE DE LA SAGA MARIVAUXMarivauxMise en scèneLaurent Prévot• Dès 11 ans • Durée estimée 1h05 • théâtreAvecÉlise Clary, Gérard Holtz, Muriel Mayette-Holtz, Armand Pitot, Laurent Prévot, Hervé Van der Meulen, Carla VentreBlaise, frustr",
       "place": "Les FranciscainsLa Cuisine",
       "city": "Nice",
       "starts_at": 1796666400000,
