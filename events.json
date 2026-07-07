@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-07T02:17:57Z",
+  "scraped_at": "2026-07-07T06:43:54Z",
   "count": 259,
   "events": [
     {
@@ -134,7 +134,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/animation/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/05/bibmobile-250x250.jpg",
       "category": "AUTRE"
     },
     {
@@ -1008,21 +1008,6 @@
       "category": "AUTRE"
     },
     {
-      "title": "Animation Jeux",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1786111200000,
-      "ends_at": 1786118400000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/animation-jeux3",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/1/2/8/6/2186821-1-fre-FR/622e3f5f026a-106178_img_0LkRYVz.jpg.webp",
-      "category": "AUTRE"
-    },
-    {
       "title": "Au Coeur de Monaco, Visite guidée du Rocher - VISITE EN ANGLAIS",
       "description": "",
       "place": "Monaco",
@@ -1035,6 +1020,21 @@
       "source": "MONACO",
       "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/au-coeur-de-monaco-visite-guidee-du-rocher-visite-en-anglais",
       "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/2/4/0/3/2163042-2-fre-FR/5689a28e26c9-106130_img_09yDWjy.jpg.webp",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Animation Jeux",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1786111200000,
+      "ends_at": 1786118400000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/animation-jeux3",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/1/2/8/6/2186821-1-fre-FR/622e3f5f026a-106178_img_0LkRYVz.jpg.webp",
       "category": "AUTRE"
     },
     {
