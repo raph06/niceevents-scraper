@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-08T08:16:22Z",
-  "count": 265,
+  "scraped_at": "2026-07-08T11:01:15Z",
+  "count": 266,
   "events": [
     {
       "title": "Depuis quand la culture est-elle de gauche ?",
@@ -723,21 +723,6 @@
       "category": "EXPO"
     },
     {
-      "title": "Pause fraîcheur – Caucade",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1786082400000,
-      "ends_at": 1786089600000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/animation/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/07/pause-fraicheur.png",
-      "category": "AUTRE"
-    },
-    {
       "title": "Tour Bellanda – Le Bellandarium",
       "description": "",
       "place": "Nice",
@@ -750,36 +735,6 @@
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
       "image_url": "https://www.nice.fr/wp-content/uploads/2025/04/611891-tour-bellanda-250x250.jpg",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Petite initiation à l’informatique",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1786086000000,
-      "ends_at": 1786093200000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/formation/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Pause fraîcheur – Notre Dame",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1786086000000,
-      "ends_at": 1786093200000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/animation/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/07/pause-fraicheur.png",
       "category": "AUTRE"
     },
     {
@@ -843,36 +798,6 @@
       "category": "AUTRE"
     },
     {
-      "title": "La Bib’Mobile – Maison de l’Environnement",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1786087800000,
-      "ends_at": 1786095000000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/atelier/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/09/bibmobile-mde.jpg",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Jeux d’eau",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1786089600000,
-      "ends_at": 1786096800000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/atelier/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
-      "category": "AUTRE"
-    },
-    {
       "title": "Visite guidée de l’exposition « Trésors, charafi et quoi encore ? »",
       "description": "",
       "place": "Nice",
@@ -884,7 +809,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/04/centre-du-patrimoine-charafi-250x250-1.jpg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "EXPO"
     },
     {
@@ -930,21 +855,6 @@
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
       "image_url": "https://www.nice.fr/wp-content/uploads/2025/05/visite-enfants-villa-palmier-archives-mnca-250x250.jpg",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Échanger sur les plages adaptées avec votre élu",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1786095000000,
-      "ends_at": 1786102200000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/rencontre/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/06/bp-664515-plage-adaptee-handiplage.png",
       "category": "AUTRE"
     },
     {
@@ -1005,6 +915,96 @@
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/animation/",
       "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Jeux de belote",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1786102200000,
+      "ends_at": 1786109400000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/animation/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Pause fraîcheur – Cimiez",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1786102200000,
+      "ends_at": 1786109400000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/animation/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Ateliers de pratiques artistiques",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1786104000000,
+      "ends_at": 1786111200000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/atelier/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/02/ateliers-6-11ans-matisse-250x250.jpg",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Potager en famille",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1786104000000,
+      "ends_at": 1786111200000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/atelier/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/03/atelier-potager-8juil-mde-250x250.png",
+      "category": "FAMILLE"
+    },
+    {
+      "title": "Sur les chemins du Monde",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1786104000000,
+      "ends_at": 1786111200000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/spectacle/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Esquisses et croquis",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1786104000000,
+      "ends_at": 1786111200000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/atelier/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/07/esquisses-et-croquis-250x250.jpeg",
       "category": "AUTRE"
     },
     {
@@ -1159,7 +1159,7 @@
     },
     {
       "title": "L'Héritier de village",
-      "description": "Créé en ouverture desContes d'apérodu 6 au 10 juillet 2026,L'Héritier de villageprend la route à la fin de l'été pour une tournée maralpine dans les communes suivantes :•La Bollène- Tennis de La Bollène-Vésubie • Le 19 août 20h30•Clans- Place Raymond Santucci • Le 20 août 20h30•Isola Village- Jardin d'enfants du clocher • Le 21 août 20h30•Levens- Complexe sportif du Rivet • Le 24 août 20h30•Tourre",
+      "description": "Créé en ouverture desContes d'apérodu 6 au 10 juillet 2026,L'Héritier de villageprend la route à la fin de l'été pour une tournée maralpine organisée par laMétropole Nice Côte d'Azurdans les communes suivantes :•La Bollène- Tennis de La Bollène-Vésubie • Le 19 août 20h30•Clans- Place Raymond Santucci • Le 20 août 20h30•Isola Village- Jardin d'enfants du clocher • Le 21 août 20h30•Levens- Complexe ",
       "place": "Les FranciscainsLa Cuisine",
       "city": "Nice",
       "starts_at": 1787164200000,
@@ -1174,7 +1174,7 @@
     },
     {
       "title": "L'Héritier de village",
-      "description": "Créé en ouverture desContes d'apérodu 6 au 10 juillet 2026,L'Héritier de villageprend la route à la fin de l'été pour une tournée maralpine dans les communes suivantes :•La Bollène- Tennis de La Bollène-Vésubie • Le 19 août 20h30•Clans- Place Raymond Santucci • Le 20 août 20h30•Isola Village- Jardin d'enfants du clocher • Le 21 août 20h30•Levens- Complexe sportif du Rivet • Le 24 août 20h30•Tourre",
+      "description": "Créé en ouverture desContes d'apérodu 6 au 10 juillet 2026,L'Héritier de villageprend la route à la fin de l'été pour une tournée maralpine organisée par laMétropole Nice Côte d'Azurdans les communes suivantes :•La Bollène- Tennis de La Bollène-Vésubie • Le 19 août 20h30•Clans- Place Raymond Santucci • Le 20 août 20h30•Isola Village- Jardin d'enfants du clocher • Le 21 août 20h30•Levens- Complexe ",
       "place": "Les FranciscainsLa Cuisine",
       "city": "Nice",
       "starts_at": 1787250600000,
@@ -1189,7 +1189,7 @@
     },
     {
       "title": "L'Héritier de village",
-      "description": "Créé en ouverture desContes d'apérodu 6 au 10 juillet 2026,L'Héritier de villageprend la route à la fin de l'été pour une tournée maralpine dans les communes suivantes :•La Bollène- Tennis de La Bollène-Vésubie • Le 19 août 20h30•Clans- Place Raymond Santucci • Le 20 août 20h30•Isola Village- Jardin d'enfants du clocher • Le 21 août 20h30•Levens- Complexe sportif du Rivet • Le 24 août 20h30•Tourre",
+      "description": "Créé en ouverture desContes d'apérodu 6 au 10 juillet 2026,L'Héritier de villageprend la route à la fin de l'été pour une tournée maralpine organisée par laMétropole Nice Côte d'Azurdans les communes suivantes :•La Bollène- Tennis de La Bollène-Vésubie • Le 19 août 20h30•Clans- Place Raymond Santucci • Le 20 août 20h30•Isola Village- Jardin d'enfants du clocher • Le 21 août 20h30•Levens- Complexe ",
       "place": "Les FranciscainsLa Cuisine",
       "city": "Nice",
       "starts_at": 1787337000000,
@@ -1204,7 +1204,22 @@
     },
     {
       "title": "L'Héritier de village",
-      "description": "Créé en ouverture desContes d'apérodu 6 au 10 juillet 2026,L'Héritier de villageprend la route à la fin de l'été pour une tournée maralpine dans les communes suivantes :•La Bollène- Tennis de La Bollène-Vésubie • Le 19 août 20h30•Clans- Place Raymond Santucci • Le 20 août 20h30•Isola Village- Jardin d'enfants du clocher • Le 21 août 20h30•Levens- Complexe sportif du Rivet • Le 24 août 20h30•Tourre",
+      "description": "Créé en ouverture desContes d'apérodu 6 au 10 juillet 2026,L'Héritier de villageprend la route à la fin de l'été pour une tournée maralpine organisée par laMétropole Nice Côte d'Azurdans les communes suivantes :•La Bollène- Tennis de La Bollène-Vésubie • Le 19 août 20h30•Clans- Place Raymond Santucci • Le 20 août 20h30•Isola Village- Jardin d'enfants du clocher • Le 21 août 20h30•Levens- Complexe ",
+      "place": "Les FranciscainsLa Cuisine",
+      "city": "Nice",
+      "starts_at": 1787596200000,
+      "ends_at": 1787603400000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "TNN",
+      "source_url": "https://www.tnn.fr/fr/evenements/l-heritier-de-village-marivaux-2026-tournee",
+      "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-07-823-l-heritier-de-village-marivaux-2026-tournee-slider.jpg",
+      "category": "THEATRE"
+    },
+    {
+      "title": "L'Héritier de village",
+      "description": "Créé en ouverture desContes d'apérodu 6 au 10 juillet 2026,L'Héritier de villageprend la route à la fin de l'été pour une tournée maralpine organisée par laMétropole Nice Côte d'Azurdans les communes suivantes :•La Bollène- Tennis de La Bollène-Vésubie • Le 19 août 20h30•Clans- Place Raymond Santucci • Le 20 août 20h30•Isola Village- Jardin d'enfants du clocher • Le 21 août 20h30•Levens- Complexe ",
       "place": "Les FranciscainsLa Cuisine",
       "city": "Nice",
       "starts_at": 1787769000000,
@@ -1219,7 +1234,7 @@
     },
     {
       "title": "L'Héritier de village",
-      "description": "Créé en ouverture desContes d'apérodu 6 au 10 juillet 2026,L'Héritier de villageprend la route à la fin de l'été pour une tournée maralpine dans les communes suivantes :•La Bollène- Tennis de La Bollène-Vésubie • Le 19 août 20h30•Clans- Place Raymond Santucci • Le 20 août 20h30•Isola Village- Jardin d'enfants du clocher • Le 21 août 20h30•Levens- Complexe sportif du Rivet • Le 24 août 20h30•Tourre",
+      "description": "Créé en ouverture desContes d'apérodu 6 au 10 juillet 2026,L'Héritier de villageprend la route à la fin de l'été pour une tournée maralpine organisée par laMétropole Nice Côte d'Azurdans les communes suivantes :•La Bollène- Tennis de La Bollène-Vésubie • Le 19 août 20h30•Clans- Place Raymond Santucci • Le 20 août 20h30•Isola Village- Jardin d'enfants du clocher • Le 21 août 20h30•Levens- Complexe ",
       "place": "Les FranciscainsLa Cuisine",
       "city": "Nice",
       "starts_at": 1787941800000,
@@ -1249,7 +1264,7 @@
     },
     {
       "title": "L'Héritier de village",
-      "description": "Créé en ouverture desContes d'apérodu 6 au 10 juillet 2026,L'Héritier de villageprend la route à la fin de l'été pour une tournée maralpine dans les communes suivantes :•La Bollène- Tennis de La Bollène-Vésubie • Le 19 août 20h30•Clans- Place Raymond Santucci • Le 20 août 20h30•Isola Village- Jardin d'enfants du clocher • Le 21 août 20h30•Levens- Complexe sportif du Rivet • Le 24 août 20h30•Tourre",
+      "description": "Créé en ouverture desContes d'apérodu 6 au 10 juillet 2026,L'Héritier de villageprend la route à la fin de l'été pour une tournée maralpine organisée par laMétropole Nice Côte d'Azurdans les communes suivantes :•La Bollène- Tennis de La Bollène-Vésubie • Le 19 août 20h30•Clans- Place Raymond Santucci • Le 20 août 20h30•Isola Village- Jardin d'enfants du clocher • Le 21 août 20h30•Levens- Complexe ",
       "place": "Les FranciscainsLa Cuisine",
       "city": "Nice",
       "starts_at": 1788028200000,
