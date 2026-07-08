@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-08T11:01:15Z",
+  "scraped_at": "2026-07-08T13:49:56Z",
   "count": 266,
   "events": [
     {
@@ -809,7 +809,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/04/centre-du-patrimoine-charafi-250x250-1.jpg",
       "category": "EXPO"
     },
     {
@@ -963,21 +963,6 @@
       "category": "AUTRE"
     },
     {
-      "title": "Potager en famille",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1786104000000,
-      "ends_at": 1786111200000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/atelier/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/03/atelier-potager-8juil-mde-250x250.png",
-      "category": "FAMILLE"
-    },
-    {
       "title": "Sur les chemins du Monde",
       "description": "",
       "place": "Nice",
@@ -1005,6 +990,21 @@
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/atelier/",
       "image_url": "https://www.nice.fr/wp-content/uploads/2026/07/esquisses-et-croquis-250x250.jpeg",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Visite guidée de la Crypte",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1786104000000,
+      "ends_at": 1786111200000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/05/evenement-crypte-250x250.jpg",
       "category": "AUTRE"
     },
     {
