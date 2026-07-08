@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-08T19:15:53Z",
+  "scraped_at": "2026-07-08T22:05:17Z",
   "count": 266,
   "events": [
     {
@@ -708,6 +708,21 @@
       "category": "CONCERT"
     },
     {
+      "title": "A Bocca Chiusa",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1785267000000,
+      "ends_at": 1785271500000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/a-bocca-chiusa",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/4/8/5/3/2143584-1-fre-FR/3570c59d3cb6-106081_img_02Hn40v.png.webp",
+      "category": "AUTRE"
+    },
+    {
       "title": "Nice Classic Festival ‒ Concert de midi",
       "description": "",
       "place": "Nice",
@@ -839,7 +854,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/04/centre-du-patrimoine-charafi-250x250-1.jpg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "EXPO"
     },
     {
@@ -869,7 +884,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/animation/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/10/20240416-104646.jpg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "FAMILLE"
     },
     {
@@ -884,7 +899,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/05/visite-enfants-villa-palmier-archives-mnca-250x250.jpg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
@@ -989,7 +1004,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/atelier/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/02/ateliers-6-11ans-matisse-250x250.jpg",
       "category": "AUTRE"
     },
     {
@@ -1066,21 +1081,6 @@
       "source_url": "https://www.tnn.fr/fr/evenements/contes-dapero-2026",
       "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-06-819-contes-dapero-2026-slider.jpg",
       "category": "THEATRE"
-    },
-    {
-      "title": "Soirées Musicales Estivales - Salut les souvenirs",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1786123800000,
-      "ends_at": 1786131000000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/soirees-musicales-estivales-salut-les-souvenirs",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/3/9/9/4/2124993-1-fre-FR/e96cabd64fc6-WgKhic9h0Kmav22sZSrw5kyLflI21yWpbcebWjuVkqaAC8.jpg.webp",
-      "category": "NUIT"
     },
     {
       "title": "Saigon",
