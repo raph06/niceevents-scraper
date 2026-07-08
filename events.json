@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-08T13:49:56Z",
+  "scraped_at": "2026-07-08T16:43:38Z",
   "count": 266,
   "events": [
     {
@@ -663,6 +663,21 @@
       "category": "THEATRE"
     },
     {
+      "title": "Feux d'artifice : Soirée du 25 juillet",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1785009600000,
+      "ends_at": 1785016740000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/feux-d-artifice-soiree-du-25-juillet",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/2/6/0/4/2154062-1-fre-FR/ab1113331032-0ahiz4ZxvFPf6Bhr3lSMspYG6CEEVBTsZ65EY3EcpJPlLe.jpg.webp",
+      "category": "NUIT"
+    },
+    {
       "title": "Les Contes d'apéro",
       "description": "Durant la période estivale,Les Contes d’apéroaniment le Kiosque du TNN sur la Coulée verte,tous les soirs à 19h!DU 6 AU 10 JUILLET 2026L'HÉRITIER DE VILLAGE,NOUVEL ÉPISODE DE LA SAGA MARIVAUXMarivauxMise en scèneLaurent Prévot• Dès 11 ans • Durée estimée 1h05 • théâtreAvecÉlise Clary, Gérard Holtz, Muriel Mayette-Holtz, Armand Pitot, Laurent Prévot, Hervé Van der Meulen, Carla VentreBlaise, frustr",
       "place": "Les FranciscainsLa Cuisine",
@@ -676,6 +691,21 @@
       "source_url": "https://www.tnn.fr/fr/evenements/contes-dapero-2026",
       "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-06-819-contes-dapero-2026-slider.jpg",
       "category": "THEATRE"
+    },
+    {
+      "title": "Concert au Palais Princier",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1785094200000,
+      "ends_at": 1785099600000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/concert-au-palais-princier3",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/4/8/8/4/2044884-2-fre-FR/a0ff7f99bee5-105922_img_0flvh63.jpg.webp",
+      "category": "CONCERT"
     },
     {
       "title": "Nice Classic Festival ‒ Concert de midi",
@@ -809,7 +839,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/04/centre-du-patrimoine-charafi-250x250-1.jpg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "EXPO"
     },
     {
@@ -839,7 +869,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/animation/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/10/20240416-104646.jpg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "FAMILLE"
     },
     {
@@ -854,7 +884,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/05/visite-enfants-villa-palmier-archives-mnca-250x250.jpg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
@@ -959,7 +989,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/atelier/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/02/ateliers-6-11ans-matisse-250x250.jpg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
@@ -989,7 +1019,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/atelier/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/07/esquisses-et-croquis-250x250.jpeg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
@@ -1020,36 +1050,6 @@
       "source": "MATISSE",
       "source_url": "https://www.musee-matisse-nice.org/fr/evenement/stage-de-pratiques-artistiques-6-11-ans-vacances-scolaires-4/",
       "image_url": "https://www.musee-matisse-nice.org/wp-content/uploads/2021/02/Musee-Matisse-Nice-Partage.png",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Au Coeur de Monaco, Visite guidée du Rocher - VISITE EN ANGLAIS",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1786111200000,
-      "ends_at": 1786118400000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/au-coeur-de-monaco-visite-guidee-du-rocher-visite-en-anglais",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/2/4/0/3/2163042-2-fre-FR/5689a28e26c9-106130_img_09yDWjy.jpg.webp",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Animation Jeux",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1786111200000,
-      "ends_at": 1786118400000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/animation-jeux3",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/1/2/8/6/2186821-1-fre-FR/622e3f5f026a-106178_img_0LkRYVz.jpg.webp",
       "category": "AUTRE"
     },
     {
@@ -1591,6 +1591,21 @@
       "source_url": "https://www.explorenicecotedazur.com/evenement/exposition-temporaire-a-la-villa-kerylos/",
       "image_url": "https://cdn.iris-etourism.io/uploads/nice/sizes/6e7/147-237-41807251-335x335.webp",
       "category": "EXPO"
+    },
+    {
+      "title": "LEC SUMMER FINALS 2026",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1789855200000,
+      "ends_at": 1789862400000,
+      "has_time": false,
+      "price": "—",
+      "price_val": 0,
+      "source": "NIKAIA",
+      "source_url": "https://www.nikaia.fr/programmation/lec-summer-finals-2026",
+      "image_url": "https://www.nikaia.fr/files/2026-07/1080x1080-lec.jpg",
+      "category": "AUTRE"
     },
     {
       "title": "Chagall à l’oeuvre – Un prêt d’exception au musée",
@@ -2296,21 +2311,6 @@
       "source_url": "https://www.tnn.fr/fr/spectacles/saison-2026-2027/le-petit-chaperon-rouge",
       "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-05-788-le-petit-chaperon-rouge-slider.jpg",
       "category": "THEATRE"
-    },
-    {
-      "title": "LEGENDARY ROCK VOICES",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1795028400000,
-      "ends_at": 1795035600000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "NIKAIA",
-      "source_url": "https://www.nikaia.fr/programmation/legendary-rock-voices",
-      "image_url": "https://www.nikaia.fr/files/2026-03/lrv-nice-arwork03-1080x1080.png",
-      "category": "CONCERT"
     },
     {
       "title": "Le Petit Chaperon rouge",
