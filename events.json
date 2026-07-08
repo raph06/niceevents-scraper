@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-08T16:43:38Z",
+  "scraped_at": "2026-07-08T19:15:53Z",
   "count": 266,
   "events": [
     {
@@ -839,7 +839,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/04/centre-du-patrimoine-charafi-250x250-1.jpg",
       "category": "EXPO"
     },
     {
@@ -869,7 +869,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/animation/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/10/20240416-104646.jpg",
       "category": "FAMILLE"
     },
     {
@@ -884,7 +884,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/05/visite-enfants-villa-palmier-archives-mnca-250x250.jpg",
       "category": "AUTRE"
     },
     {
