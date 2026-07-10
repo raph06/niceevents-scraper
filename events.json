@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-10T02:10:30Z",
+  "scraped_at": "2026-07-10T06:41:03Z",
   "count": 275,
   "events": [
     {
@@ -1649,7 +1649,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/atelier/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/05/bibmobile-250x250.jpg",
       "category": "AUTRE"
     },
     {
