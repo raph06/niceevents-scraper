@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-10T16:56:15Z",
-  "count": 274,
+  "scraped_at": "2026-07-10T19:23:25Z",
+  "count": 272,
   "events": [
     {
       "title": "Depuis quand la culture est-elle de gauche ?",
@@ -451,21 +451,6 @@
       "source_url": "https://www.tnn.fr/fr/evenements/contes-dapero-2026",
       "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-06-819-contes-dapero-2026-slider.jpg",
       "category": "THEATRE"
-    },
-    {
-      "title": "La Dame aux Camélias",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1784482200000,
-      "ends_at": 1784493000000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/la-dame-aux-camelias2",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/5/5/8/9/1789855-2-fre-FR/67dc4806a5f0-105173_img_0hQUyYW.jpg.webp",
-      "category": "AUTRE"
     },
     {
       "title": "Devenez web reporter !",
@@ -1649,7 +1634,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/06/lascaris-viiste-estival.jpg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
@@ -1724,7 +1709,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/rencontre/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/07/3a.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
@@ -1830,21 +1815,6 @@
       "source": "MONACO",
       "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/herculis-meeting-international-d-athletisme-ebs",
       "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/8/0/9/8/2038908-1-fre-FR/ae1e5b72996a-bJpFZkeAODGnyUdk.png.webp",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Waku Doki",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1791394200000,
-      "ends_at": 1791399600000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/waku-doki2",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/1/0/4/8/1888401-2-fre-FR/ba80ee1c0bfe-105062_img_0BPyvRG.jpg.webp",
       "category": "AUTRE"
     },
     {
