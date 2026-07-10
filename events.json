@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-10T19:23:25Z",
-  "count": 272,
+  "scraped_at": "2026-07-10T21:58:35Z",
+  "count": 270,
   "events": [
     {
       "title": "Depuis quand la culture est-elle de gauche ?",
@@ -1634,7 +1634,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/06/lascaris-viiste-estival.jpg",
       "category": "AUTRE"
     },
     {
@@ -1709,7 +1709,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/rencontre/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/07/3a.png",
       "category": "AUTRE"
     },
     {
@@ -1801,36 +1801,6 @@
       "source_url": "https://www.tnn.fr/fr/evenements/contes-dapero-2026",
       "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-06-819-contes-dapero-2026-slider.jpg",
       "category": "THEATRE"
-    },
-    {
-      "title": "Herculis Meeting International d'Athlétisme EBS",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1791392400000,
-      "ends_at": 1791403200000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/herculis-meeting-international-d-athletisme-ebs",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/8/0/9/8/2038908-1-fre-FR/ae1e5b72996a-bJpFZkeAODGnyUdk.png.webp",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Les Talents du Fort - Pour les jeunes de la Principauté",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1791401400000,
-      "ends_at": 1791406800000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/les-talents-du-fort-pour-les-jeunes-de-la-principaute",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/6/3/9/2/2142936-1-fre-FR/db149d8851da-106077_img_0QiOgfC.jpg.webp",
-      "category": "AUTRE"
     },
     {
       "title": "Nelken",
