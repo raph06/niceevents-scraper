@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-11T13:04:24Z",
+  "scraped_at": "2026-07-11T15:51:48Z",
   "count": 261,
   "events": [
     {
@@ -2039,7 +2039,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/projection/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/06/shrek4.jpg",
       "category": "AUTRE"
     },
     {
@@ -2459,7 +2459,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/concert/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/05/bp-499950-orchestre-harmonie-250x250.jpg",
       "category": "CONCERT"
     },
     {
