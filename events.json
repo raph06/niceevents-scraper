@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-11T10:15:49Z",
-  "count": 263,
+  "scraped_at": "2026-07-11T13:04:24Z",
+  "count": 261,
   "events": [
     {
       "title": "Activités spéciales jeune public",
@@ -1848,51 +1848,6 @@
       "category": "AUTRE"
     },
     {
-      "title": "Pause fraîcheur – Caucade",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1794034800000,
-      "ends_at": 1794042000000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/animation/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/07/pause-fraicheur.png",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Upcycling artistique",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1794038400000,
-      "ends_at": 1794045600000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/atelier/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/09/upcycling-18juil-mde.jpg",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Parlons climat !",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1794038400000,
-      "ends_at": 1794045600000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/rencontre/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/07/parlons-climat.jpeg",
-      "category": "AUTRE"
-    },
-    {
       "title": "Tour Bellanda – Le Bellandarium",
       "description": "",
       "place": "Nice",
@@ -1934,7 +1889,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/10/img-20250306-wa0004.jpg",
       "category": "AUTRE"
     },
     {
@@ -1950,21 +1905,6 @@
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
       "image_url": "https://www.nice.fr/wp-content/uploads/2026/04/ysl-matisse.jpg",
-      "category": "EXPO"
-    },
-    {
-      "title": "Visite de l’exposition temporaire : « De la scène à la toile. Artistes et mondaines de la Belle Époque »",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1794045600000,
-      "ends_at": 1794052800000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/06/mba-expo-2026.jpg",
       "category": "EXPO"
     },
     {
@@ -2043,6 +1983,21 @@
       "category": "AUTRE"
     },
     {
+      "title": "Pause fraîcheur – Caucade",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1794067200000,
+      "ends_at": 1794074400000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/animation/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/07/pause-fraicheur.png",
+      "category": "AUTRE"
+    },
+    {
       "title": "Waku Doki",
       "description": "",
       "place": "Monaco",
@@ -2084,7 +2039,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/projection/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/06/shrek4.jpg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
@@ -2491,6 +2446,21 @@
       "source_url": "https://www.nice.fr/agenda/type/commemoration/",
       "image_url": "https://www.nice.fr/wp-content/uploads/2026/06/bp-446224-kiosque-musique.png",
       "category": "MARCHE"
+    },
+    {
+      "title": "Orchestre d’Harmonie de la ville de Nice",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1796659200000,
+      "ends_at": 1796666400000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/concert/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "category": "CONCERT"
     },
     {
       "title": "Les Contes d'apéro",
