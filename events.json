@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-13T19:20:16Z",
-  "count": 258,
+  "scraped_at": "2026-07-13T21:52:08Z",
+  "count": 259,
   "events": [
     {
       "title": "L'Heure espagnole",
@@ -164,7 +164,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/commemoration/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/06/bp-662392-drone-spectacle.png",
       "category": "THEATRE"
     },
     {
@@ -1036,6 +1036,21 @@
       "source_url": "https://www.tnn.fr/fr/spectacles/saison-2026-2027/israel-et-mohamed",
       "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-05-784-israel-et-mohamed-slider.jpg",
       "category": "THEATRE"
+    },
+    {
+      "title": "Au Coeur de Monaco, Visite guidée de Monte-Carlo & Mareterra - VISITE EN ANGLAIS",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1787148000000,
+      "ends_at": 1787155200000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/au-coeur-de-monaco-visite-guidee-de-monte-carlo-mareterra-visite-en-anglais2",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/8/1/2/4/2164218-2-fre-FR/6e600e07e633-106137_img_0GNvaiU.jpg.webp",
+      "category": "AUTRE"
     },
     {
       "title": "L'Héritier de village",
