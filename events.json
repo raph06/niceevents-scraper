@@ -1,22 +1,7 @@
 {
-  "scraped_at": "2026-07-14T07:54:16Z",
-  "count": 265,
+  "scraped_at": "2026-07-14T10:36:13Z",
+  "count": 263,
   "events": [
-    {
-      "title": "Défilé militaire républicain",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1784012400000,
-      "ends_at": 1784019600000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/commemoration/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/07/bp-665809-defile-militaire.jpg",
-      "category": "AUTRE"
-    },
     {
       "title": "Jeux de cartes et de société",
       "description": "",
@@ -59,7 +44,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/commemoration/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/06/bp-627792-patrouille-france.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
@@ -104,7 +89,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/concert/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/06/bp-665936-philharmonique-tdv.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "CONCERT"
     },
     {
@@ -134,7 +119,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/commemoration/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/06/bp-662392-drone-spectacle.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "THEATRE"
     },
     {
@@ -3675,21 +3660,6 @@
       "source": "MATISSE",
       "source_url": "https://www.musee-matisse-nice.org/fr/evenement/visites-flash/",
       "image_url": "https://www.musee-matisse-nice.org/wp-content/uploads/2021/02/Musee-Matisse-Nice-Partage.png",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Un été à CAP",
-      "description": "",
-      "place": "Saint-Laurent-du-Var",
-      "city": "Nice",
-      "starts_at": 1814306400000,
-      "ends_at": 1814313600000,
-      "has_time": false,
-      "price": "—",
-      "price_val": 0,
-      "source": "INFOLOCALE",
-      "source_url": "https://www.infolocale.fr/evenements?age%5B0%5D=Tout%20Public&age%5B1%5D=Adulte&age%5B2%5D=Adolescent&age%5B3%5D=Enfant&age%5B4%5D=Bebe&commune=06088",
-      "image_url": "https://photos.infolocale.fr/infolocale/annonce/2026/0703/8931684/_1.jpg?rnd=20260703115920",
       "category": "AUTRE"
     },
     {
