@@ -1,22 +1,7 @@
 {
-  "scraped_at": "2026-07-14T05:28:41Z",
-  "count": 262,
+  "scraped_at": "2026-07-14T07:54:16Z",
+  "count": 265,
   "events": [
-    {
-      "title": "Gymnastique aquatique en piscine",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1784008800000,
-      "ends_at": 1784016000000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/animation/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
-      "category": "AUTRE"
-    },
     {
       "title": "Défilé militaire républicain",
       "description": "",
@@ -121,6 +106,21 @@
       "source_url": "https://www.nice.fr/agenda/type/concert/",
       "image_url": "https://www.nice.fr/wp-content/uploads/2026/06/bp-665936-philharmonique-tdv.png",
       "category": "CONCERT"
+    },
+    {
+      "title": "Marcel Pagnol - Variations d'amour",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1784057400000,
+      "ends_at": 1784061900000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/marcel-pagnol-variations-d-amour",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/8/9/0/3/2143098-1-fre-FR/76f2b09f54dd-106078_img_05SHjJT.jpg.webp",
+      "category": "AUTRE"
     },
     {
       "title": "Spectacle de drones",
@@ -363,6 +363,21 @@
       "category": "AUTRE"
     },
     {
+      "title": "Au Cœur de Monaco, Visite guidée de Monte-Carlo et Mareterra",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1784124000000,
+      "ends_at": 1784131200000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/au-caeur-de-monaco-visite-guidee-de-monte-carlo-et-mareterra",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/8/7/3/3/2163378-2-fre-FR/c8a95da85168-106132_img_0QPddwc.jpg.webp",
+      "category": "AUTRE"
+    },
+    {
       "title": "Les Contes d'apéro",
       "description": "Durant la période estivale,Les Contes d’apéroaniment le Kiosque du TNN sur la Coulée verte,tous les soirs à 19h!DU 6 AU 10 JUILLET 2026L'HÉRITIER DE VILLAGE,NOUVEL ÉPISODE DE LA SAGA MARIVAUXMarivauxMise en scèneLaurent Prévot• Dès 11 ans • Durée 1h05 • théâtreAvecÉlise Clary, Gérard Holtz, Muriel Mayette-Holtz, Armand Pitot, Laurent Prévot, Hervé Van der Meulen, Carla VentreBlaise, frustre et hon",
       "place": "Les FranciscainsLa Cuisine",
@@ -376,6 +391,21 @@
       "source_url": "https://www.tnn.fr/fr/evenements/contes-dapero-2026",
       "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-06-819-contes-dapero-2026-slider.jpg",
       "category": "THEATRE"
+    },
+    {
+      "title": "Soirées Musicales Estivales - Dedicate",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1784136600000,
+      "ends_at": 1784143800000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/soirees-musicales-estivales-dedicate",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/5/5/1/5/2125155-1-fre-FR/6333ed7d2be5-jGwKb9sQMTohB2zHS3tLbkxT2V2RpsMELCfRT7ejM0bruh.jpg.webp",
+      "category": "NUIT"
     },
     {
       "title": "Atelier de pratiques artistiques (à partir de 4 ans)",
@@ -991,6 +1021,21 @@
       "source_url": "https://www.explorenicecotedazur.com/evenement/andre-jean-et-les-autres/",
       "image_url": "https://cdn.iris-etourism.io/uploads/nice/sizes/f3d/153-175-38055833-335x335.webp",
       "category": "AUTRE"
+    },
+    {
+      "title": "Exposition - Patrimoine en danger",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1785826800000,
+      "ends_at": 1775840400000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/exposition-patrimoine-en-danger",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/8/5/1/0/2050158-2-fre-FR/d947f6783c1b-2026-03_Expo-Photos-2026_32x48cm_01-sans-traits.jpg.webp.webp",
+      "category": "EXPO"
     },
     {
       "title": "Les Contes d'apéro",
