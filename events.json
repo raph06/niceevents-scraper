@@ -1,22 +1,7 @@
 {
-  "scraped_at": "2026-07-14T10:36:13Z",
+  "scraped_at": "2026-07-14T13:17:44Z",
   "count": 263,
   "events": [
-    {
-      "title": "Jeux de cartes et de société",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1784028600000,
-      "ends_at": 1784035800000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/animation/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
-      "category": "AUTRE"
-    },
     {
       "title": "Belaprem – LA MESCLA",
       "description": "",
@@ -44,7 +29,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/commemoration/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/06/bp-627792-patrouille-france.png",
       "category": "AUTRE"
     },
     {
@@ -89,7 +74,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/concert/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/06/bp-665936-philharmonique-tdv.png",
       "category": "CONCERT"
     },
     {
@@ -119,7 +104,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/commemoration/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/06/bp-662392-drone-spectacle.png",
       "category": "THEATRE"
     },
     {
@@ -315,6 +300,21 @@
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/atelier/",
       "image_url": "https://www.nice.fr/wp-content/uploads/2025/09/bibmobile-mde.jpg",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Éveil corporel",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1784102400000,
+      "ends_at": 1784109600000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/atelier/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/11/eveil-corporel.jpg",
       "category": "AUTRE"
     },
     {
