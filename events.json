@@ -1,20 +1,20 @@
 {
-  "scraped_at": "2026-07-15T13:21:27Z",
-  "count": 242,
+  "scraped_at": "2026-07-15T16:20:20Z",
+  "count": 244,
   "events": [
     {
-      "title": "Au Cœur de Monaco, Visite guidée de Monte-Carlo et Mareterra",
+      "title": "Belaprem – La Platurne",
       "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1784124000000,
-      "ends_at": 1784131200000,
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1784129400000,
+      "ends_at": 1784136600000,
       "has_time": true,
       "price": "—",
       "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/au-caeur-de-monaco-visite-guidee-de-monte-carlo-et-mareterra",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/8/7/3/3/2163378-2-fre-FR/c8a95da85168-106132_img_0QPddwc.jpg.webp",
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/animation/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
@@ -46,6 +46,21 @@
       "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/soirees-musicales-estivales-dedicate",
       "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/5/5/1/5/2125155-1-fre-FR/6333ed7d2be5-jGwKb9sQMTohB2zHS3tLbkxT2V2RpsMELCfRT7ejM0bruh.jpg.webp",
       "category": "NUIT"
+    },
+    {
+      "title": "Gymnastique aquatique en piscine",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1784181600000,
+      "ends_at": 1784188800000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/animation/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "category": "AUTRE"
     },
     {
       "title": "Atelier de pratiques artistiques (à partir de 4 ans)",
@@ -826,6 +841,21 @@
       "source_url": "https://www.tnn.fr/fr/evenements/l-heritier-de-village-marivaux-2026-tournee",
       "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-07-823-l-heritier-de-village-marivaux-2026-tournee-slider.jpg",
       "category": "THEATRE"
+    },
+    {
+      "title": "Départ de la Vuelta 2026",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1787176800000,
+      "ends_at": 1787436000000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/depart-de-la-vuelta-2026",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/4/0/1/6/1866104-6-fre-FR/027cfa78852f-La-Vuelta-MC-2026.jpeg.webp",
+      "category": "AUTRE"
     },
     {
       "title": "L'Héritier de village",
