@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-15T19:06:05Z",
-  "count": 220,
+  "scraped_at": "2026-07-15T21:56:08Z",
+  "count": 243,
   "events": [
     {
       "title": "Gymnastique aquatique en piscine",
@@ -166,6 +166,21 @@
       "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/la-dame-aux-camelias3",
       "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/3/6/5/8/1888563-2-fre-FR/518c1eac05c0-105063_img_0ikeAv6.jpg.webp",
       "category": "AUTRE"
+    },
+    {
+      "title": "Exposition : Angie F",
+      "description": "",
+      "place": "ExpositionPeinture",
+      "city": "Nice",
+      "starts_at": 1784325600000,
+      "ends_at": 1784332800000,
+      "has_time": false,
+      "price": "—",
+      "price_val": 0,
+      "source": "OT_NICE",
+      "source_url": "https://www.explorenicecotedazur.com/evenement/exposition-angie-f/",
+      "image_url": "https://cdn.iris-etourism.io/uploads/nice/sizes/8dc/138-131-39158666-335x335.webp",
+      "category": "EXPO"
     },
     {
       "title": "VI MONACO INTERNATIONAL MEETING FIAT 500 HISTORIQUES",
@@ -618,6 +633,36 @@
       "category": "CINEMA"
     },
     {
+      "title": "Concert au Palais Princier",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1785439800000,
+      "ends_at": 1785445200000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/concert-au-palais-princier4",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/6/4/0/5/2045046-2-fre-FR/e4452952a267-105923_img_0MeGBzz.jpg.webp",
+      "category": "CONCERT"
+    },
+    {
+      "title": "André, Jean et les autres…",
+      "description": "",
+      "place": "Exposition",
+      "city": "Nice",
+      "starts_at": 1785448800000,
+      "ends_at": 1785456000000,
+      "has_time": false,
+      "price": "—",
+      "price_val": 0,
+      "source": "OT_NICE",
+      "source_url": "https://www.explorenicecotedazur.com/evenement/andre-jean-et-les-autres/",
+      "image_url": "https://cdn.iris-etourism.io/uploads/nice/sizes/f3d/153-175-38055833-335x335.webp",
+      "category": "AUTRE"
+    },
+    {
       "title": "Exposition - Patrimoine en danger",
       "description": "",
       "place": "Monaco",
@@ -783,6 +828,21 @@
       "category": "AUTRE"
     },
     {
+      "title": "Ciné d'été famille - \"Hola Frida\" de André Kadi et Karine Vézina (2025)",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1787230800000,
+      "ends_at": 1787238000000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/cine-d-ete-famille-hola-frida-de-andre-kadi-et-karine-vezina-2025",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/6/4/7/3/2143746-1-fre-FR/131a303b2654-106082_img_0tdL8g5.png.webp",
+      "category": "CINEMA"
+    },
+    {
       "title": "L'Héritier de village",
       "description": "Créé en ouverture desContes d'apérodu 6 au 10 juillet 2026,L'Héritier de villageprend la route à la fin de l'été pour une tournée maralpine organisée par laMétropole Nice Côte d'Azurdans les communes suivantes :•La Bollène- Tennis de La Bollène-Vésubie • Le 19 août 20h30•Clans- Place Raymond Santucci • Le 20 août 20h30•Isola Village- Jardin d'enfants du clocher • Le 21 août 20h30•Levens- Complexe ",
       "place": "Les FranciscainsLa Cuisine",
@@ -888,6 +948,51 @@
       "category": "THEATRE"
     },
     {
+      "title": "Vikings : L’Odyssée jusqu’aux confins du monde – Cités Immersives",
+      "description": "",
+      "place": "ExpositionHistorique",
+      "city": "Nice",
+      "starts_at": 1788040800000,
+      "ends_at": 1788048000000,
+      "has_time": false,
+      "price": "—",
+      "price_val": 0,
+      "source": "OT_NICE",
+      "source_url": "https://www.explorenicecotedazur.com/evenement/vikings-lodyssee-jusquaux-confins-du-monde-cites-immersives/",
+      "image_url": "https://cdn.iris-etourism.io/uploads/nice/sizes/560/141-54-36255373-335x335.webp",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Exposition Ramiro Arrue",
+      "description": "",
+      "place": "ExpositionArts plastiques / graphiques",
+      "city": "Nice",
+      "starts_at": 1788040800000,
+      "ends_at": 1788048000000,
+      "has_time": false,
+      "price": "—",
+      "price_val": 0,
+      "source": "OT_NICE",
+      "source_url": "https://www.explorenicecotedazur.com/evenement/exposition-ramiro-arrue/",
+      "image_url": "https://cdn.iris-etourism.io/uploads/nice/sizes/9a0/165-89-41703845-335x335.webp",
+      "category": "EXPO"
+    },
+    {
+      "title": "Clos de boules de Roquebillière",
+      "description": "",
+      "place": "Concours / TournoisSport divers",
+      "city": "Nice",
+      "starts_at": 1788127200000,
+      "ends_at": 1788134400000,
+      "has_time": false,
+      "price": "—",
+      "price_val": 0,
+      "source": "OT_NICE",
+      "source_url": "https://www.explorenicecotedazur.com/evenement/clos-de-boules-de-roquebilliere/",
+      "image_url": "https://cdn.iris-etourism.io/uploads/nice/sizes/daa/115-96-41705587-335x335.webp",
+      "category": "AUTRE"
+    },
+    {
       "title": "Nelken",
       "description": "Dans le cadre de son Festival d’été 2026, laScène Nationale de Châteauvallon-Libertéaccueille les seules dates\r\nfrançaises de la tournée deNelkende Pina Bausch. Dans l’écrin de l’Amphithéâtre de Châteauvallon, métamorphosé\r\nen un immense parterre de 8 700 œillets roses, résonnera la création immortelle de l’immense chorégraphe où danse,\r\nchant et théâtre se conjuguent dans une fresque d’une puissa",
       "place": "Les FranciscainsLa Cuisine",
@@ -946,6 +1051,21 @@
       "source_url": "https://www.tnn.fr/fr/evenements/comite-lecture-2026",
       "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-07-824-comite-lecture-2026-slider.jpg",
       "category": "THEATRE"
+    },
+    {
+      "title": "Yoga d’été à la Citadelle de Villefranche-sur-Mer",
+      "description": "",
+      "place": "Initiation / découverte dans le cadre d’un événementBien-être",
+      "city": "Nice",
+      "starts_at": 1788904800000,
+      "ends_at": 1788912000000,
+      "has_time": false,
+      "price": "—",
+      "price_val": 0,
+      "source": "OT_NICE",
+      "source_url": "https://www.explorenicecotedazur.com/evenement/yoga-dete-a-la-citadelle-de-villefranche-sur-mer/",
+      "image_url": "https://cdn.iris-etourism.io/uploads/nice/sizes/969/215-150-41916119-335x335.webp",
+      "category": "SPORT"
     },
     {
       "title": "Comité de lecture",
@@ -1113,6 +1233,36 @@
       "category": "THEATRE"
     },
     {
+      "title": "Destination Bijou Cagnes",
+      "description": "",
+      "place": "Exposition",
+      "city": "Nice",
+      "starts_at": 1789855200000,
+      "ends_at": 1789862400000,
+      "has_time": false,
+      "price": "—",
+      "price_val": 0,
+      "source": "OT_NICE",
+      "source_url": "https://www.explorenicecotedazur.com/evenement/destination-bijou-cagnes/",
+      "image_url": "https://cdn.iris-etourism.io/uploads/nice/sizes/0dc/65-58-41040449-335x335.webp",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Exposition temporaire à la Villa Kérylos",
+      "description": "",
+      "place": "ExpositionArt contemporain",
+      "city": "Nice",
+      "starts_at": 1789855200000,
+      "ends_at": 1789862400000,
+      "has_time": false,
+      "price": "—",
+      "price_val": 0,
+      "source": "OT_NICE",
+      "source_url": "https://www.explorenicecotedazur.com/evenement/exposition-temporaire-a-la-villa-kerylos/",
+      "image_url": "https://cdn.iris-etourism.io/uploads/nice/sizes/6e7/147-237-41807251-335x335.webp",
+      "category": "EXPO"
+    },
+    {
       "title": "LEC SUMMER FINALS 2026",
       "description": "",
       "place": "Nice",
@@ -1126,6 +1276,21 @@
       "source_url": "https://www.nikaia.fr/programmation/lec-summer-finals-2026",
       "image_url": "https://www.nikaia.fr/files/2026-07/1080x1080-lec.jpg",
       "category": "AUTRE"
+    },
+    {
+      "title": "Chagall à l’oeuvre – Un prêt d’exception au musée",
+      "description": "",
+      "place": "ExpositionPeinture",
+      "city": "Nice",
+      "starts_at": 1789941600000,
+      "ends_at": 1789948800000,
+      "has_time": false,
+      "price": "—",
+      "price_val": 0,
+      "source": "OT_NICE",
+      "source_url": "https://www.explorenicecotedazur.com/evenement/chagall-a-loeuvre-un-pret-dexception-au-musee/",
+      "image_url": "https://cdn.iris-etourism.io/uploads/nice/sizes/cbb/62-171-37268286-335x335.webp",
+      "category": "EXPO"
     },
     {
       "title": "Chagall à l'oeuvre. Un prêt d'exception au musée",
@@ -1186,6 +1351,36 @@
       "source_url": "https://www.opera-nice.org/lieux/foyer-montserrat-caballe-de-lopera/",
       "image_url": "https://www.opera-nice.org/wp-content/uploads/2026/05/share-opera-nice-cote-dazur.jpg",
       "category": "THEATRE"
+    },
+    {
+      "title": "Exposition Mathieu Forget",
+      "description": "",
+      "place": "ExpositionPhotographie",
+      "city": "Nice",
+      "starts_at": 1790460000000,
+      "ends_at": 1790467200000,
+      "has_time": false,
+      "price": "—",
+      "price_val": 0,
+      "source": "OT_NICE",
+      "source_url": "https://www.explorenicecotedazur.com/evenement/exposition-mathieu-forget/",
+      "image_url": "https://cdn.iris-etourism.io/uploads/nice/sizes/355/58-45-41495866-335x335.webp",
+      "category": "EXPO"
+    },
+    {
+      "title": "« Henri Matisse – Yves Saint Laurent. Le beau, la mode et le bonheur »",
+      "description": "",
+      "place": "ExpositionMode",
+      "city": "Nice",
+      "starts_at": 1790546400000,
+      "ends_at": 1790553600000,
+      "has_time": false,
+      "price": "—",
+      "price_val": 0,
+      "source": "OT_NICE",
+      "source_url": "https://www.explorenicecotedazur.com/evenement/henri-matisse-yves-saint-laurent-le-beau-la-mode-et-le-bonheur/",
+      "image_url": "https://www.explorenicecotedazur.com/app/uploads/2026/04/affiche-matisse-ysl-335x335.webp",
+      "category": "AUTRE"
     },
     {
       "title": "Face à face – Orlando",
@@ -1458,6 +1653,21 @@
       "category": "AUTRE"
     },
     {
+      "title": "Africa Pop",
+      "description": "",
+      "place": "ExpositionArt moderne / contemporain",
+      "city": "Nice",
+      "starts_at": 1792274400000,
+      "ends_at": 1792281600000,
+      "has_time": false,
+      "price": "—",
+      "price_val": 0,
+      "source": "OT_NICE",
+      "source_url": "https://www.explorenicecotedazur.com/evenement/africa-pop/",
+      "image_url": "https://cdn.iris-etourism.io/uploads/nice/sizes/bf2/74-246-40891978-335x335.webp",
+      "category": "AUTRE"
+    },
+    {
       "title": "TERRAVINI",
       "description": "",
       "place": "Nice",
@@ -1500,6 +1710,21 @@
       "source": "NIKAIA",
       "source_url": "https://www.nikaia.fr/programmation/legend-tour",
       "image_url": "https://www.nikaia.fr/files/2025-12/legendtour-webge-ne-rique-1080x1080.png",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Trésors, charafi et quoi encore ?",
+      "description": "",
+      "place": "ExpositionHistorique",
+      "city": "Nice",
+      "starts_at": 1793314800000,
+      "ends_at": 1793322000000,
+      "has_time": false,
+      "price": "—",
+      "price_val": 0,
+      "source": "OT_NICE",
+      "source_url": "https://www.explorenicecotedazur.com/evenement/tresors-charafi-et-quoi-encore/",
+      "image_url": "https://cdn.iris-etourism.io/uploads/nice/sizes/67b/207-3-40829903-335x335.webp",
       "category": "AUTRE"
     },
     {
@@ -1593,6 +1818,36 @@
       "category": "THEATRE"
     },
     {
+      "title": "Étoiles grandeur nature",
+      "description": "",
+      "place": "DémonstrationAstronomie",
+      "city": "Nice",
+      "starts_at": 1794178800000,
+      "ends_at": 1794186000000,
+      "has_time": false,
+      "price": "—",
+      "price_val": 0,
+      "source": "OT_NICE",
+      "source_url": "https://www.explorenicecotedazur.com/evenement/etoiles-grandeur-nature/",
+      "image_url": "https://cdn.iris-etourism.io/uploads/nice/sizes/c4c/193-99-41182145-335x335.webp",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Jazz au Château",
+      "description": "",
+      "place": "ConcertJazz et blues",
+      "city": "Nice",
+      "starts_at": 1794178800000,
+      "ends_at": 1794186000000,
+      "has_time": false,
+      "price": "—",
+      "price_val": 0,
+      "source": "OT_NICE",
+      "source_url": "https://www.explorenicecotedazur.com/evenement/jazz-au-chateau/",
+      "image_url": "https://cdn.iris-etourism.io/uploads/nice/sizes/148/38-251-41614118-335x335.webp",
+      "category": "CONCERT"
+    },
+    {
       "title": "Brahms / Chostakovitch",
       "description": "",
       "place": "Nice",
@@ -1621,6 +1876,21 @@
       "source_url": "https://www.tnn.fr/fr/evenements/comite-lecture-2026",
       "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-07-824-comite-lecture-2026-slider.jpg",
       "category": "THEATRE"
+    },
+    {
+      "title": "« Cerises aux cœurs » : exposition de sculptures en plein air de Jean-Louis Landraud",
+      "description": "",
+      "place": "ExpositionSculpture",
+      "city": "Nice",
+      "starts_at": 1794265200000,
+      "ends_at": 1794272400000,
+      "has_time": false,
+      "price": "—",
+      "price_val": 0,
+      "source": "OT_NICE",
+      "source_url": "https://www.explorenicecotedazur.com/evenement/cerises-aux-coeurs-exposition-de-sculptures-en-plein-air-de-jean-louis-landraud/",
+      "image_url": "https://cdn.iris-etourism.io/uploads/nice/sizes/731/229-132-41452773-335x335.webp",
+      "category": "EXPO"
     },
     {
       "title": "Viens avec ton doudou",
@@ -1893,6 +2163,21 @@
       "category": "THEATRE"
     },
     {
+      "title": "Concerts à la Trinquette Jazz Club",
+      "description": "",
+      "place": "ConcertJazz et blues",
+      "city": "Nice",
+      "starts_at": 1795906800000,
+      "ends_at": 1795914000000,
+      "has_time": false,
+      "price": "—",
+      "price_val": 0,
+      "source": "OT_NICE",
+      "source_url": "https://www.explorenicecotedazur.com/evenement/concerts-a-la-trinquette-jazz-club/",
+      "image_url": "https://cdn.iris-etourism.io/uploads/nice/sizes/243/110-179-41988974-335x335.webp",
+      "category": "CONCERT"
+    },
+    {
       "title": "Divin.e Fripon.ne",
       "description": "La Station",
       "place": "Nice",
@@ -2011,6 +2296,21 @@
       "source_url": "https://www.nikaia.fr/programmation/veronique-sanson-2027",
       "image_url": "https://www.nikaia.fr/files/2026-04/600x600-sanson.jpg",
       "category": "AUTRE"
+    },
+    {
+      "title": "Ateliers de Yoga – Camping St Dalmas Valdeblore",
+      "description": "",
+      "place": "Yoga",
+      "city": "Nice",
+      "starts_at": 1797030000000,
+      "ends_at": 1797037200000,
+      "has_time": false,
+      "price": "—",
+      "price_val": 0,
+      "source": "OT_NICE",
+      "source_url": "https://www.explorenicecotedazur.com/evenement/ateliers-de-yoga-camping-st-dalmas-valdeblore/",
+      "image_url": "https://cdn.iris-etourism.io/uploads/nice/sizes/5b8/52-44-36973620-335x335.webp",
+      "category": "SPORT"
     },
     {
       "title": "Le Petit Garçon avec une ombre d'oiseau",
@@ -2236,6 +2536,21 @@
       "source_url": "https://www.tnn.fr/fr/spectacles/saison-2026-2027/le-petit-garcon-avec-une-ombre-doiseau",
       "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-05-792-le-petit-garcon-avec-une-ombre-doiseau-slider.jpg",
       "category": "THEATRE"
+    },
+    {
+      "title": "Cours de Yoga – Camping St Dalmas Valdeblore",
+      "description": "",
+      "place": "Yoga",
+      "city": "Nice",
+      "starts_at": 1798498800000,
+      "ends_at": 1798506000000,
+      "has_time": false,
+      "price": "—",
+      "price_val": 0,
+      "source": "OT_NICE",
+      "source_url": "https://www.explorenicecotedazur.com/evenement/cours-de-yoga-camping-st-dalmas-valdeblore/",
+      "image_url": "https://cdn.iris-etourism.io/uploads/nice/sizes/6f4/131-38-36906627-335x335.webp",
+      "category": "SPORT"
     },
     {
       "title": "L’Incandescente et le Gang des cracheuses de sang",
@@ -2778,6 +3093,21 @@
       "category": "THEATRE"
     },
     {
+      "title": "De la scène à la toile. Artistes et mondaines de la Belle Époque",
+      "description": "",
+      "place": "ExpositionPeinture",
+      "city": "Nice",
+      "starts_at": 1806789600000,
+      "ends_at": 1806796800000,
+      "has_time": false,
+      "price": "—",
+      "price_val": 0,
+      "source": "OT_NICE",
+      "source_url": "https://www.explorenicecotedazur.com/evenement/de-la-scene-a-la-toile-artistes-et-mondaines-de-la-belle-epoque/",
+      "image_url": "https://cdn.iris-etourism.io/uploads/nice/sizes/4d1/149-80-41635989-335x335.webp",
+      "category": "AUTRE"
+    },
+    {
       "title": "L'Amante anglaise",
       "description": "Pierre et Claire Lannes sont interrogés à tour de rôle au sujet du meurtre de Marie-Thérèse Bousquet, la cousine sourde et muette de Pierre, qui était aussi leur femme de ménage et cuisinière. Claire reconnaît tout de suite l’avoir tuée, puis avoir découpé et disséminé son corps, sans jamais parvenir à en expliquer la raison. De son côté, Pierre affirme n’avoir rien vu. L’intrigue se transforme so",
       "place": "Les FranciscainsLa Cuisine",
@@ -3196,6 +3526,21 @@
       "source_url": "https://www.tnn.fr/fr/spectacles/saison-2026-2027/sono-io",
       "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-05-802-sono-io-slider.jpg",
       "category": "THEATRE"
+    },
+    {
+      "title": "Merveilles et curiosités du Palais Lascaris",
+      "description": "",
+      "place": "Exposition",
+      "city": "Nice",
+      "starts_at": 1825023600000,
+      "ends_at": 1825030800000,
+      "has_time": false,
+      "price": "—",
+      "price_val": 0,
+      "source": "OT_NICE",
+      "source_url": "https://www.explorenicecotedazur.com/evenement/merveilles-et-curiosites-du-palais-lascaris/",
+      "image_url": "https://cdn.iris-etourism.io/uploads/nice/sizes/c9b/66-6-40830530-335x335.webp",
+      "category": "AUTRE"
     },
     {
       "title": "Hautes perchées",
