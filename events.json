@@ -1,22 +1,7 @@
 {
-  "scraped_at": "2026-07-18T18:55:59Z",
+  "scraped_at": "2026-07-18T21:48:09Z",
   "count": 243,
   "events": [
-    {
-      "title": "Un p’tit truc en plus",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1784397600000,
-      "ends_at": 1784404800000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/projection/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
-      "category": "AUTRE"
-    },
     {
       "title": "Pause fraîcheur – Caucade",
       "description": "",
@@ -44,7 +29,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/05/evenement-crypte-250x250.jpg",
       "category": "AUTRE"
     },
     {
@@ -1186,6 +1171,21 @@
       "source_url": "https://www.tnn.fr/fr/evenements/comite-lecture-laureat-2025",
       "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-06-822-comite-lecture-laureat-2025-slider.jpg",
       "category": "THEATRE"
+    },
+    {
+      "title": "Soirée Jeux - Initiation au Scrabble Duplicate avec le Monaco Scrabble Club",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1789837200000,
+      "ends_at": 1789848000000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/soiree-jeux-initiation-au-scrabble-duplicate-avec-le-monaco-scrabble-club",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/1/0/9/1/2171901-3-fre-FR/a7bd34d9d9d4-106162_img_0kSqEc5.png.webp",
+      "category": "NUIT"
     },
     {
       "title": "Destination Bijou Cagnes",
