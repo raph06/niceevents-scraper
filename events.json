@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-18T01:49:27Z",
-  "count": 254,
+  "scraped_at": "2026-07-18T05:23:22Z",
+  "count": 253,
   "events": [
     {
       "title": "Pause fraîcheur – Caucade",
@@ -74,7 +74,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/atelier/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/09/upcycling-18juil-mde.jpg",
       "category": "AUTRE"
     },
     {
@@ -134,7 +134,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/04/ysl-matisse.jpg",
       "category": "EXPO"
     },
     {
@@ -1261,21 +1261,6 @@
       "source_url": "https://www.opera-nice.org/lieux/opera-nice-cote-dazur/",
       "image_url": "https://www.opera-nice.org/wp-content/uploads/2026/05/share-opera-nice-cote-dazur.jpg",
       "category": "AUTRE"
-    },
-    {
-      "title": "Concert symphonique - B. de Billy - T. Mørk",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1789315200000,
-      "ends_at": 1789321500000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/concert-symphonique-b.-de-billy-t.-moerk",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/8/0/9/3/2143908-2-fre-FR/7bd60fc8be3e-106083_img_0MqANDn.jpg.webp",
-      "category": "CONCERT"
     },
     {
       "title": "AtelierS de pratiques artistiques (6-11 ans) / LES MERCREDIS",
