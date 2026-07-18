@@ -1,37 +1,7 @@
 {
-  "scraped_at": "2026-07-18T13:00:55Z",
-  "count": 244,
+  "scraped_at": "2026-07-18T15:51:44Z",
+  "count": 243,
   "events": [
-    {
-      "title": "Sueurs froides, un festival de films d’horreur",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1784377800000,
-      "ends_at": 1784385000000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/projection/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
-      "category": "CINEMA"
-    },
-    {
-      "title": "Sur les traces de Léonard",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1784379600000,
-      "ends_at": 1784386800000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
-      "category": "AUTRE"
-    },
     {
       "title": "Pause fraîcheur – Caucade",
       "description": "",
@@ -44,7 +14,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/animation/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/07/pause-fraicheur.png",
       "category": "AUTRE"
     },
     {
@@ -74,7 +44,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/theatre/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/566640-contes-apero-250x250.jpg",
       "category": "FAMILLE"
     },
     {
@@ -105,6 +75,21 @@
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/projection/",
       "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Visite guidée de la Crypte",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1784462400000,
+      "ends_at": 1784469600000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/05/evenement-crypte-250x250.jpg",
       "category": "AUTRE"
     },
     {
