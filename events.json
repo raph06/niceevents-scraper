@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-19T13:03:23Z",
-  "count": 255,
+  "scraped_at": "2026-07-19T15:55:07Z",
+  "count": 256,
   "events": [
     {
       "title": "Orchestre d’Harmonie de la ville de Nice",
@@ -1410,6 +1410,21 @@
       "source": "NIKAIA",
       "source_url": "https://www.nikaia.fr/programmation/lec-summer-finals-2026",
       "image_url": "https://www.nikaia.fr/files/2026-07/1080x1080-lec.jpg",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Stella Almondo",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1789920000000,
+      "ends_at": 1789929000000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/stella-almondo",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/5/1/7/1/2021715-49-fre-FR/d09d801e49bf-105848_img_0u5UfUv.jpg.webp.webp",
       "category": "AUTRE"
     },
     {
