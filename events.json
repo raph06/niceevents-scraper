@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-19T18:58:39Z",
-  "count": 252,
+  "scraped_at": "2026-07-19T21:48:42Z",
+  "count": 253,
   "events": [
     {
       "title": "Pause fraîcheur – Caucade",
@@ -1396,6 +1396,21 @@
       "source_url": "https://musees-nationaux-alpesmaritimes.fr/chagall/agenda/evenement/chagall-loeuvre-un-pret-dexception-au-musee",
       "image_url": "https://musees-nationaux-alpesmaritimes.fr/chagall/sites/chagall/files/styles/thumbnail_w880/public/2025-12/Bandeau%20Maquette%20pour%20le%20rideau%20de%20sc%C3%A8ne%20du%201er%20acte%20de%20%E2%80%9CL%E2%80%99Oiseau%20de%20feu%E2%80%9D%20de%20Stravinsky%20%20La%20for%C3%AAt%20enchant%C3%A9e%2C%201945.jpg?itok=U4w7xmqO",
       "category": "EXPO"
+    },
+    {
+      "title": "Conférence Ludo Mémo : lorsque le jeu aide à stimuler notre cerveau, en collaboration avec le Centre Mémoire du CHPG",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1790181000000,
+      "ends_at": 1790186400000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/conference-ludo-memo-lorsque-le-jeu-aide-a-stimuler-notre-cerveau-en-collaboration-avec-le-centre-memoire-du-chpg",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/5/0/4/2/2172405-2-fre-FR/87d6b994a617-106165_img_0efws32.png.webp",
+      "category": "AUTRE"
     },
     {
       "title": "Niki de Saint Phalle. Vive l’Amour #6",
