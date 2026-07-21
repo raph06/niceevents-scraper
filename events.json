@@ -1,22 +1,7 @@
 {
-  "scraped_at": "2026-07-21T19:11:01Z",
+  "scraped_at": "2026-07-21T22:02:58Z",
   "count": 240,
   "events": [
-    {
-      "title": "Stephan Eicher et Osomo",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1784662200000,
-      "ends_at": 1784666700000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/stephan-eicher-et-osomo",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/0/6/2/3/2143260-1-fre-FR/ff4fb99394a6-106079_img_06e4p0r.jpg.webp",
-      "category": "AUTRE"
-    },
     {
       "title": "Pause fraîcheur – Caucade",
       "description": "",
@@ -1261,6 +1246,21 @@
       "source_url": "https://www.opera-nice.org/lieux/foyer-montserrat-caballe-de-lopera/",
       "image_url": "https://www.opera-nice.org/wp-content/uploads/2026/05/share-opera-nice-cote-dazur.jpg",
       "category": "THEATRE"
+    },
+    {
+      "title": "Roma de Jules Massenet",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1790431200000,
+      "ends_at": 1790440200000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/roma-de-jules-massenet",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/9/7/8/2/2192879-1-fre-FR/55f3d059aeab-106182_img_0UF4FpZ.jpg.webp",
+      "category": "AUTRE"
     },
     {
       "title": "Exposition Mathieu Forget",
