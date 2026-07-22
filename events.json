@@ -1,52 +1,7 @@
 {
-  "scraped_at": "2026-07-22T11:05:01Z",
-  "count": 240,
+  "scraped_at": "2026-07-22T13:29:31Z",
+  "count": 238,
   "events": [
-    {
-      "title": "L’escargot dans la spirale du temps",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1784718000000,
-      "ends_at": 1784725200000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/projection/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Ateliers de pratiques artistiques",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1784721600000,
-      "ends_at": 1784728800000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/atelier/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/02/ateliers-6-11ans-matisse-250x250.jpg",
-      "category": "AUTRE"
-    },
-    {
-      "title": "ATELIERS de pratiques artistiques (6-11 ans) / VACANCES SCOLAIRES",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1784721600000,
-      "ends_at": 1784728800000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MATISSE",
-      "source_url": "https://www.musee-matisse-nice.org/fr/evenement/stage-de-pratiques-artistiques-6-11-ans-vacances-scolaires-4/",
-      "image_url": "https://www.musee-matisse-nice.org/wp-content/uploads/2021/02/Musee-Matisse-Nice-Partage.png",
-      "category": "AUTRE"
-    },
     {
       "title": "Au Coeur de Monaco, Visite guidée de Monte-Carlo & Mareterra - VISITE EN ANGLAIS",
       "description": "",
@@ -346,6 +301,21 @@
       "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/concert-au-palais-princier3",
       "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/4/8/8/4/2044884-2-fre-FR/a0ff7f99bee5-105922_img_0flvh63.jpg.webp",
       "category": "CONCERT"
+    },
+    {
+      "title": "ATELIERS de pratiques artistiques (6-11 ans) / VACANCES SCOLAIRES",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1785153600000,
+      "ends_at": 1785160800000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MATISSE",
+      "source_url": "https://www.musee-matisse-nice.org/fr/evenement/stage-de-pratiques-artistiques-6-11-ans-vacances-scolaires-4/",
+      "image_url": "https://www.musee-matisse-nice.org/wp-content/uploads/2021/02/Musee-Matisse-Nice-Partage.png",
+      "category": "AUTRE"
     },
     {
       "title": "A Bocca Chiusa",
