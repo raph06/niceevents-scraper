@@ -1,22 +1,7 @@
 {
-  "scraped_at": "2026-07-22T19:05:01Z",
+  "scraped_at": "2026-07-22T22:04:43Z",
   "count": 238,
   "events": [
-    {
-      "title": "La Main au collet",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1784748600000,
-      "ends_at": 1784755800000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/projection/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
-      "category": "AUTRE"
-    },
     {
       "title": "Gymnastique aquatique en piscine",
       "description": "",
@@ -1306,6 +1291,21 @@
       "source_url": "https://www.opera-nice.org/lieux/opera-nice-cote-dazur/",
       "image_url": "https://www.opera-nice.org/wp-content/uploads/2026/05/share-opera-nice-cote-dazur.jpg",
       "category": "AUTRE"
+    },
+    {
+      "title": "Récital piano - David Kadouch",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1790789400000,
+      "ends_at": 1790796000000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/recital-piano-david-kadouch",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/0/7/0/4/2144070-2-fre-FR/358ca8eaa449-106084_img_0IXpf2D.jpg.webp",
+      "category": "CONCERT"
     },
     {
       "title": "Les Contes d'apéro",
