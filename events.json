@@ -1,82 +1,7 @@
 {
-  "scraped_at": "2026-07-23T16:26:49Z",
-  "count": 250,
+  "scraped_at": "2026-07-23T19:07:16Z",
+  "count": 245,
   "events": [
-    {
-      "title": "Belaprem – Twelty",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1784820600000,
-      "ends_at": 1784827800000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/animation/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Les Contes d'apéro",
-      "description": "Durant la période estivale,Les Contes d’apéroaniment le Kiosque du TNN sur la Coulée verte,tous les soirs à 19h!DU 6 AU 10 JUILLET 2026L'HÉRITIER DE VILLAGE,NOUVEL ÉPISODE DE LA SAGA MARIVAUXMarivauxMise en scèneLaurent Prévot• Dès 11 ans • Durée 1h05 • théâtreAvecÉlise Clary, Gérard Holtz, Muriel Mayette-Holtz, Armand Pitot, Laurent Prévot, Hervé Van der Meulen, Carla VentreBlaise, frustre et hon",
-      "place": "Les FranciscainsLa Cuisine",
-      "city": "Nice",
-      "starts_at": 1784826000000,
-      "ends_at": 1784833200000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "TNN",
-      "source_url": "https://www.tnn.fr/fr/evenements/contes-dapero-2026",
-      "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-06-819-contes-dapero-2026-slider.jpg",
-      "category": "THEATRE"
-    },
-    {
-      "title": "Les Contes d’apéro",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1784826000000,
-      "ends_at": 1784833200000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/theatre/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/566640-contes-apero-250x250.jpg",
-      "category": "FAMILLE"
-    },
-    {
-      "title": "Gabrielle Cavassa",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1784827800000,
-      "ends_at": 1784835000000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/concert/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/05/gabrielle-cavassa.png",
-      "category": "AUTRE"
-    },
-    {
-      "title": "GIRLBAND!",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1784829600000,
-      "ends_at": 1784836800000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/concert/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/05/girlband.jpg",
-      "category": "AUTRE"
-    },
     {
       "title": "Kassa Overall",
       "description": "",
@@ -104,7 +29,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/concert/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/05/naika.jpg",
       "category": "AUTRE"
     },
     {
@@ -134,7 +59,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/concert/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/07/olive-jones.jpg",
       "category": "AUTRE"
     },
     {
