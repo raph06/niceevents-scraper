@@ -1,22 +1,7 @@
 {
-  "scraped_at": "2026-07-23T11:08:05Z",
-  "count": 237,
+  "scraped_at": "2026-07-23T13:33:05Z",
+  "count": 239,
   "events": [
-    {
-      "title": "Rorqual",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1784804400000,
-      "ends_at": 1784811600000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/projection/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
-      "category": "AUTRE"
-    },
     {
       "title": "Ciné d'été famille - \"Amélie et la métaphysique des tubes\" de Mailys Vallade et Liane-Cho Han (2025)",
       "description": "",
@@ -978,6 +963,21 @@
       "category": "MARCHE"
     },
     {
+      "title": "YOYAKU x REF SESSION #15",
+      "description": "Frigo 16",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1789747200000,
+      "ends_at": 1789754400000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "LE109",
+      "source_url": "https://le109.nice.fr/programmation/yoyaku-x-ref-session-15",
+      "image_url": "https://wsrv.nl/?url=le109.nice.fr/thumbs/1024x562r/2026-07/capture-d-e-cran-2026-07-20-a-16.20.41.png",
+      "category": "AUTRE"
+    },
+    {
       "title": "La dernière fois qu'on a vu Bernard Stasi",
       "description": "Chaque année, les comédiens de la Troupe lisent en public les textes sélectionnés par leComité de lecture, présidé parMeFrançoise Assus-Juttner.AGENDA DES LECTURES• Cette année, lestextes retenus en 2026sont lus du 9 au 11 septembre 2026 à 19h30.• Letexte lauréat 2025,La dernière fois qu'on a vu Bernard StasideGrégoire Biseau, est mis en espace parMuriel Mayette-Holtzet interprété par les comédien",
       "place": "Les FranciscainsLa Cuisine",
@@ -1156,6 +1156,21 @@
       "source_url": "https://www.nikaia.fr/programmation/la-legende-de-monte-cristo-le-musical",
       "image_url": "https://www.nikaia.fr/files/2026-03/1773757627_vignette-site.jpg",
       "category": "AUTRE"
+    },
+    {
+      "title": "DJE BALETI – GIGI DE NISSA",
+      "description": "Frigo 16",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1790362800000,
+      "ends_at": 1790370000000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "LE109",
+      "source_url": "https://le109.nice.fr/programmation/dje-baleti-gigi-de-nissa",
+      "image_url": "https://wsrv.nl/?url=le109.nice.fr/thumbs/1024x562r/2026-07/capture-d-e-cran-2026-07-23-a-13.41.29.png",
+      "category": "CONCERT"
     },
     {
       "title": "Marché Artisa’Vence",
@@ -1366,6 +1381,21 @@
       "source_url": "https://www.tnn.fr/fr/spectacles/saison-2026-2027/enoch-arden",
       "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-05-785-enoch-arden-slider.jpg",
       "category": "THEATRE"
+    },
+    {
+      "title": "LIV DEL ESTAL",
+      "description": "Frigo 16",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1791655200000,
+      "ends_at": 1791662400000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "LE109",
+      "source_url": "https://le109.nice.fr/programmation/liv-del-estal",
+      "image_url": "https://wsrv.nl/?url=le109.nice.fr/thumbs/1024x562r/2026-07/capture-d-e-cran-2026-07-23-a-15.26.53.png",
+      "category": "AUTRE"
     },
     {
       "title": "LA DAME DE PIERRE",
