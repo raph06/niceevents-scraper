@@ -1,22 +1,7 @@
 {
-  "scraped_at": "2026-07-24T08:16:22Z",
+  "scraped_at": "2026-07-24T11:01:31Z",
   "count": 237,
   "events": [
-    {
-      "title": "Visites guidées (à partir de 7 ans)",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1784883600000,
-      "ends_at": 1784890800000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MATISSE",
-      "source_url": "https://www.musee-matisse-nice.org/fr/evenement/visites-commentees-a-partir-de-7-ans-4/",
-      "image_url": "https://www.musee-matisse-nice.org/wp-content/uploads/2021/02/Musee-Matisse-Nice-Partage.png",
-      "category": "AUTRE"
-    },
     {
       "title": "Les Contes d'apéro",
       "description": "Durant la période estivale,Les Contes d’apéroaniment le Kiosque du TNN sur la Coulée verte,tous les soirs à 19h!DU 6 AU 10 JUILLET 2026L'HÉRITIER DE VILLAGE,NOUVEL ÉPISODE DE LA SAGA MARIVAUXMarivauxMise en scèneLaurent Prévot• Dès 11 ans • Durée 1h05 • théâtreAvecÉlise Clary, Gérard Holtz, Muriel Mayette-Holtz, Armand Pitot, Laurent Prévot, Hervé Van der Meulen, Carla VentreBlaise, frustre et hon",
@@ -285,6 +270,21 @@
       "source": "OT_NICE",
       "source_url": "https://www.explorenicecotedazur.com/evenement/andre-jean-et-les-autres/",
       "image_url": "https://cdn.iris-etourism.io/uploads/nice/sizes/f3d/153-175-38055833-335x335.webp",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Visites guidées (à partir de 7 ans)",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1785488400000,
+      "ends_at": 1785495600000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MATISSE",
+      "source_url": "https://www.musee-matisse-nice.org/fr/evenement/visites-commentees-a-partir-de-7-ans-4/",
+      "image_url": "https://www.musee-matisse-nice.org/wp-content/uploads/2021/02/Musee-Matisse-Nice-Partage.png",
       "category": "AUTRE"
     },
     {
@@ -644,7 +644,7 @@
       "price_val": 0,
       "source": "OT_NICE",
       "source_url": "https://www.explorenicecotedazur.com/evenement/soirees-estivales-2026/",
-      "image_url": "https://cdn.iris-etourism.io/uploads/nice/sizes/8fc/64-126-42171968-335x335.webp",
+      "image_url": "https://www.explorenicecotedazur.com/app/uploads/2026/07/soirees-estivales-335x335.png",
       "category": "NUIT"
     },
     {
@@ -1199,7 +1199,7 @@
       "price_val": 0,
       "source": "OT_NICE",
       "source_url": "https://www.explorenicecotedazur.com/evenement/henri-matisse-yves-saint-laurent-le-beau-la-mode-et-le-bonheur/",
-      "image_url": "https://www.explorenicecotedazur.com/app/uploads/2026/04/affiche-matisse-ysl-335x335.webp",
+      "image_url": "https://www.explorenicecotedazur.com/app/uploads/2026/06/Image_20260618_135423_566-scaled-335x335.webp",
       "category": "AUTRE"
     },
     {
