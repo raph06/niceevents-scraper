@@ -1,22 +1,7 @@
 {
-  "scraped_at": "2026-07-25T05:41:38Z",
+  "scraped_at": "2026-07-25T07:58:27Z",
   "count": 252,
   "events": [
-    {
-      "title": "Pause fraîcheur – Caucade",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1784959200000,
-      "ends_at": 1784966400000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/animation/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/07/pause-fraicheur.png",
-      "category": "AUTRE"
-    },
     {
       "title": "Quand vient la pluie",
       "description": "",
@@ -164,7 +149,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/projection/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/03/projections.jpg",
       "category": "CINEMA"
     },
     {
@@ -195,6 +180,21 @@
       "source": "MONACO",
       "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/tournoi-de-belote2",
       "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/5/4/1/7/2187145-1-fre-FR/71f68f3e2cdb-106180_img_0jP9txO.jpg.webp",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Pause fraîcheur – Caucade",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1784991600000,
+      "ends_at": 1784998800000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/animation/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/07/pause-fraicheur.png",
       "category": "AUTRE"
     },
     {
