@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-26T08:17:06Z",
+  "scraped_at": "2026-07-26T10:36:05Z",
   "count": 248,
   "events": [
     {
@@ -74,7 +74,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/concert/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/07/tremplin.jpeg",
       "category": "CONCERT"
     },
     {
