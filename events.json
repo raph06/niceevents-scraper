@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-29T01:54:40Z",
+  "scraped_at": "2026-07-29T05:49:50Z",
   "count": 243,
   "events": [
     {
@@ -44,7 +44,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/04/611891-tour-bellanda-250x250.jpg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
@@ -149,7 +149,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/04/centre-du-patrimoine-charafi-250x250-1.jpg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "EXPO"
     },
     {
@@ -164,7 +164,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/conference/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/07/vlisco-conference-basse-reso-250x250.jpg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
@@ -179,7 +179,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/04/ysl-matisse.jpg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "EXPO"
     },
     {
@@ -209,7 +209,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/concert/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/06/nice-classic-festival-edition-2026-concerts.jpg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "CONCERT"
     },
     {
