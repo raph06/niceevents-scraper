@@ -1,22 +1,7 @@
 {
-  "scraped_at": "2026-07-30T19:17:16Z",
+  "scraped_at": "2026-07-30T22:05:56Z",
   "count": 240,
   "events": [
-    {
-      "title": "Concert au Palais Princier",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1785439800000,
-      "ends_at": 1785445200000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/concert-au-palais-princier4",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/6/4/0/5/2045046-2-fre-FR/e4452952a267-105923_img_0MeGBzz.jpg.webp",
-      "category": "CONCERT"
-    },
     {
       "title": "André, Jean et les autres…",
       "description": "",
@@ -119,7 +104,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/animation/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/07/pause-fraicheur.png",
       "category": "AUTRE"
     },
     {
@@ -179,7 +164,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/06/lascaris-viiste-estival.jpg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
@@ -1546,6 +1531,21 @@
       "source_url": "https://www.explorenicecotedazur.com/evenement/africa-pop/",
       "image_url": "https://cdn.iris-etourism.io/media/nice/7796005/fe6268e60e190285-335x335.webp",
       "category": "AUTRE"
+    },
+    {
+      "title": "Concert symphonique - L. Foster - D. Ránki - H. Brady - P. Peigner",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1792339200000,
+      "ends_at": 1792346400000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/concert-symphonique-l.-foster-d.-ranki-h.-brady-p.-peigner",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/8/9/4/0/2150498-2-fre-FR/6b8647c019b4-106101_img_04CPNs4.jpg.webp",
+      "category": "CONCERT"
     },
     {
       "title": "TERRAVINI",
