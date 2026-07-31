@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-31T16:35:55Z",
+  "scraped_at": "2026-07-31T19:16:37Z",
   "count": 227,
   "events": [
     {
@@ -31,6 +31,21 @@
       "source_url": "https://www.musee-matisse-nice.org/fr/evenement/visite-commentee-des-collections-et-de-lexposition/",
       "image_url": "https://www.musee-matisse-nice.org/wp-content/uploads/2021/02/Musee-Matisse-Nice-Partage.png",
       "category": "EXPO"
+    },
+    {
+      "title": "Reprise des entrainements de basketball (Nice, Drap, Escarène)",
+      "description": "",
+      "place": "Drap",
+      "city": "Nice",
+      "starts_at": 1786226400000,
+      "ends_at": 1786233600000,
+      "has_time": false,
+      "price": "—",
+      "price_val": 0,
+      "source": "INFOLOCALE",
+      "source_url": "https://www.infolocale.fr/evenements?age%5B0%5D=Tout%20Public&age%5B1%5D=Adulte&age%5B2%5D=Adolescent&age%5B3%5D=Enfant&age%5B4%5D=Bebe&commune=06088",
+      "image_url": "https://photos.infolocale.fr/infolocale/annonce/2026/0705/8932700/_1.jpg?rnd=20260706113715",
+      "category": "AUTRE"
     },
     {
       "title": "Saigon",
@@ -2941,21 +2956,6 @@
       "source_url": "https://www.tnn.fr/fr/spectacles/saison-2026-2027/la-terre",
       "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-05-816-la-terre-slider.jpg",
       "category": "THEATRE"
-    },
-    {
-      "title": "Exposition Maxime «Corrosions intimes»",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1810224000000,
-      "ends_at": 1810231200000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "INFOLOCALE",
-      "source_url": "https://www.infolocale.fr/evenements?age%5B0%5D=Tout%20Public&age%5B1%5D=Adulte&age%5B2%5D=Adolescent&age%5B3%5D=Enfant&age%5B4%5D=Bebe&commune=06088",
-      "image_url": "https://photos.infolocale.fr/infolocale/annonce/2026/0629/8928481/_1.jpg?rnd=20260629173903",
-      "category": "EXPO"
     },
     {
       "title": "La Terre",
