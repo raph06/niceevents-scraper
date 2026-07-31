@@ -1,22 +1,7 @@
 {
-  "scraped_at": "2026-07-31T08:48:47Z",
+  "scraped_at": "2026-07-31T11:28:55Z",
   "count": 225,
   "events": [
-    {
-      "title": "Visites guidées (à partir de 7 ans)",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1785488400000,
-      "ends_at": 1785495600000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MATISSE",
-      "source_url": "https://www.musee-matisse-nice.org/fr/evenement/visites-commentees-a-partir-de-7-ans-4/",
-      "image_url": "https://www.musee-matisse-nice.org/wp-content/uploads/2021/02/Musee-Matisse-Nice-Partage.png",
-      "category": "AUTRE"
-    },
     {
       "title": "Exposition - Patrimoine en danger",
       "description": "",
@@ -135,6 +120,21 @@
       "source": "MONACO",
       "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/soeurs-audrey-victoria",
       "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/5/6/3/3/2193365-1-fre-FR/4230f67f1113-106185_img_05Hnv48.jpg.webp",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Visites guidées (à partir de 7 ans)",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1786698000000,
+      "ends_at": 1786705200000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MATISSE",
+      "source_url": "https://www.musee-matisse-nice.org/fr/evenement/visites-commentees-a-partir-de-7-ans-4/",
+      "image_url": "https://www.musee-matisse-nice.org/wp-content/uploads/2021/02/Musee-Matisse-Nice-Partage.png",
       "category": "AUTRE"
     },
     {
