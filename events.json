@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-31T06:04:39Z",
-  "count": 227,
+  "scraped_at": "2026-07-31T08:48:47Z",
+  "count": 225,
   "events": [
     {
       "title": "Visites guidées (à partir de 7 ans)",
@@ -330,6 +330,21 @@
       "source": "MATISSE",
       "source_url": "https://www.musee-matisse-nice.org/fr/evenement/atelier-de-pratiques-artistiques-a-partir-de-16-ans-5/",
       "image_url": "https://www.musee-matisse-nice.org/wp-content/uploads/2021/02/Musee-Matisse-Nice-Partage.png",
+      "category": "AUTRE"
+    },
+    {
+      "title": "LOTO & BINGO Votre rendez-vous gagnant !",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1788012000000,
+      "ends_at": 1788019200000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/loto-bingo-votre-rendez-vous-gagnant",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/8/3/2/5/2225238-1-fre-FR/31ccc8b80a09-106231_img_01Alyac.jpg.webp",
       "category": "AUTRE"
     },
     {
@@ -1218,21 +1233,6 @@
       "category": "CONCERT"
     },
     {
-      "title": "Thursday Live Sessions - Friedberg",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1792081800000,
-      "ends_at": 1792098000000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/thursday-live-sessions-friedberg",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/7/2/9/0/2030927-54-fre-FR/4c9f318ba13e-105893_img_08JSjSn.jpg.webp",
-      "category": "AUTRE"
-    },
-    {
       "title": "FLODOR",
       "description": "L’Entre-Pont",
       "place": "Nice",
@@ -1336,21 +1336,6 @@
       "source_url": "https://www.explorenicecotedazur.com/evenement/africa-pop/",
       "image_url": "https://cdn.iris-etourism.io/media/nice/7796005/fe6268e60e190285-335x335.webp",
       "category": "AUTRE"
-    },
-    {
-      "title": "Concert symphonique - L. Foster - D. Ránki - H. Brady - P. Peigner",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1792339200000,
-      "ends_at": 1792346400000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/concert-symphonique-l.-foster-d.-ranki-h.-brady-p.-peigner",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/8/9/4/0/2150498-2-fre-FR/6b8647c019b4-106101_img_04CPNs4.jpg.webp",
-      "category": "CONCERT"
     },
     {
       "title": "TERRAVINI",
@@ -1623,21 +1608,6 @@
       "category": "AUTRE"
     },
     {
-      "title": "Concert symphonique - K. Solomnishvili - J. L. Prats",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1794326400000,
-      "ends_at": 1794334500000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/concert-symphonique-k.-solomnishvili-j.-l.-prats",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/6/3/3/0/2150336-2-fre-FR/b89dad0d303c-106100_img_0fhZhG0.jpg.webp",
-      "category": "CONCERT"
-    },
-    {
       "title": "Résurrection",
       "description": "DansRésurrection, il est question d’un jeune homme de bonne famille qui mène une vie de plaisirs dans une grande ville et se retrouve juré au procès d’une femme accusée de meurtre. Il reconnaît son amour de jeunesse, autrefois au service de sa famille. Il a abusé d’elle et l’a mise enceinte avant de l’abandonner. Elle est devenue une prostituée. Désireux de racheter sa faute, il tente de l’innocen",
       "place": "Les FranciscainsLa Cuisine",
@@ -1788,7 +1758,7 @@
       "category": "THEATRE"
     },
     {
-      "title": "Rencontre insolite",
+      "title": "Rencontre insolite entre le clavecin et l'accordéon",
       "description": "",
       "place": "Nice",
       "city": "Nice",
@@ -1798,7 +1768,7 @@
       "price": "—",
       "price_val": 0,
       "source": "CHAGALL",
-      "source_url": "https://musees-nationaux-alpesmaritimes.fr/chagall/agenda/evenement/rencontre-insolite",
+      "source_url": "https://musees-nationaux-alpesmaritimes.fr/chagall/agenda/evenement/rencontre-insolite-entre-le-clavecin-et-laccordeon",
       "image_url": "https://musees-nationaux-alpesmaritimes.fr/chagall/sites/chagall/files/styles/thumbnail_w880/public/2026-07/Banni%C3%A8re%20site.png?itok=-ntmOYws",
       "category": "AUTRE"
     },
