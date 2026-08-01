@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-31T22:04:15Z",
-  "count": 227,
+  "scraped_at": "2026-08-01T02:06:05Z",
+  "count": 228,
   "events": [
     {
       "title": "Exposition - Patrimoine en danger",
@@ -436,6 +436,21 @@
       "source_url": "https://www.explorenicecotedazur.com/evenement/exposition-ephemere/",
       "image_url": "https://cdn.iris-etourism.io/media/nice/7834344/2cde94b04d3c42a4-335x335.webp",
       "category": "EXPO"
+    },
+    {
+      "title": "Puzzle participatif de l’été !",
+      "description": "",
+      "place": "Vence",
+      "city": "Nice",
+      "starts_at": 1788040800000,
+      "ends_at": 1788048000000,
+      "has_time": false,
+      "price": "—",
+      "price_val": 0,
+      "source": "OT_NICE",
+      "source_url": "https://www.explorenicecotedazur.com/evenement/puzzle-participatif-de-lete/",
+      "image_url": "https://cdn.iris-etourism.io/media/nice/7850640/22d92d43c0d6ec78-335x335.webp",
+      "category": "AUTRE"
     },
     {
       "title": "Clos de boules de Roquebillière",
