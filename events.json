@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-01T15:59:59Z",
-  "count": 228,
+  "scraped_at": "2026-08-01T19:02:24Z",
+  "count": 229,
   "events": [
     {
       "title": "Exposition - Patrimoine en danger",
@@ -1291,6 +1291,21 @@
       "source_url": "https://musees-nationaux-alpesmaritimes.fr/chagall/agenda/evenement/ensemble-decouverte-du-philharmonique-de-nice-1",
       "image_url": "https://musees-nationaux-alpesmaritimes.fr/chagall/sites/chagall/files/styles/thumbnail_w880/public/2021-09/Concert_opera_piano_violon_1920x960px.jpg?itok=qJgmSEg-",
       "category": "CONCERT"
+    },
+    {
+      "title": "Voyage USA Texas Louisiane octobre 2026",
+      "description": "",
+      "place": "Antibes",
+      "city": "Nice",
+      "starts_at": 1792015200000,
+      "ends_at": 1792022400000,
+      "has_time": false,
+      "price": "—",
+      "price_val": 0,
+      "source": "INFOLOCALE",
+      "source_url": "https://www.infolocale.fr/evenements?age%5B0%5D=Tout%20Public&age%5B1%5D=Adulte&age%5B2%5D=Adolescent&age%5B3%5D=Enfant&age%5B4%5D=Bebe&commune=06088",
+      "image_url": "https://photos.infolocale.fr/infolocale/genres/148/_1.jpg?rnd=20241119161752",
+      "category": "AUTRE"
     },
     {
       "title": "FLODOR",
