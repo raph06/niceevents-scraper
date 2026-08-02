@@ -1,7 +1,22 @@
 {
-  "scraped_at": "2026-08-02T08:13:17Z",
-  "count": 230,
+  "scraped_at": "2026-08-02T10:33:49Z",
+  "count": 231,
   "events": [
+    {
+      "title": "Exposition - Patrimoine en danger",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1785826800000,
+      "ends_at": 1775840400000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/exposition-patrimoine-en-danger",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/8/5/1/0/2050158-2-fre-FR/d947f6783c1b-2026-03_Expo-Photos-2026_32x48cm_01-sans-traits.jpg.webp.webp",
+      "category": "EXPO"
+    },
     {
       "title": "Visite guidée De L’EXPOSTION « Henri Matisse ‒ Yves Saint LaurenT »",
       "description": "",
