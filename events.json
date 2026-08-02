@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-02T19:02:31Z",
-  "count": 231,
+  "scraped_at": "2026-08-02T21:51:34Z",
+  "count": 232,
   "events": [
     {
       "title": "Exposition - Patrimoine en danger",
@@ -1305,6 +1305,21 @@
       "source": "INFOLOCALE",
       "source_url": "https://www.infolocale.fr/evenements?age%5B0%5D=Tout%20Public&age%5B1%5D=Adulte&age%5B2%5D=Adolescent&age%5B3%5D=Enfant&age%5B4%5D=Bebe&commune=06088",
       "image_url": "https://photos.infolocale.fr/infolocale/genres/148/_1.jpg?rnd=20241119161752",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Thursday Live Sessions - Friedberg",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1792081800000,
+      "ends_at": 1792098000000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/thursday-live-sessions-friedberg",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/7/2/9/0/2030927-54-fre-FR/4c9f318ba13e-105893_img_08JSjSn.jpg.webp",
       "category": "AUTRE"
     },
     {
