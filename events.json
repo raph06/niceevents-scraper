@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-03T06:16:48Z",
+  "scraped_at": "2026-08-03T12:20:07Z",
   "count": 232,
   "events": [
     {
@@ -226,6 +226,21 @@
       "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/cine-d-ete-famille-hola-frida-de-andre-kadi-et-karine-vezina-2025",
       "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/6/4/7/3/2143746-1-fre-FR/131a303b2654-106082_img_0tdL8g5.png.webp",
       "category": "CINEMA"
+    },
+    {
+      "title": "Apéro-concert au Jardin Exotique",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1787248800000,
+      "ends_at": 1787256000000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/apero-concert-au-jardin-exotique",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/0/5/8/9/2229850-1-fre-FR/4260a878d762-106232_img_0eLPquS.jpg.webp",
+      "category": "CONCERT"
     },
     {
       "title": "L'Héritier de village",
@@ -1308,21 +1323,6 @@
       "category": "AUTRE"
     },
     {
-      "title": "Thursday Live Sessions - Friedberg",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1792081800000,
-      "ends_at": 1792098000000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/thursday-live-sessions-friedberg",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/7/2/9/0/2030927-54-fre-FR/4c9f318ba13e-105893_img_08JSjSn.jpg.webp",
-      "category": "AUTRE"
-    },
-    {
       "title": "FLODOR",
       "description": "L’Entre-Pont",
       "place": "Nice",
@@ -1994,7 +1994,7 @@
       "price_val": 0,
       "source": "OT_NICE",
       "source_url": "https://www.explorenicecotedazur.com/evenement/concerts-a-la-trinquette-jazz-club/",
-      "image_url": "https://cdn.iris-etourism.io/media/nice/6802208/8fa0e8153a538acd-335x335.webp",
+      "image_url": "https://cdn.iris-etourism.io/media/nice/6802208/da78cfd5b872e3d8-335x335.webp",
       "category": "CONCERT"
     },
     {
