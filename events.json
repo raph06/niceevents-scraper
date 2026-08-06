@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-06T13:49:29Z",
-  "count": 234,
+  "scraped_at": "2026-08-06T23:57:36Z",
+  "count": 240,
   "events": [
     {
       "title": "Visite guidée De L’EXPOSTION « Henri Matisse ‒ Yves Saint LaurenT »",
@@ -693,6 +693,21 @@
       "category": "THEATRE"
     },
     {
+      "title": "Rémy Saglier  La Vague qui Vient",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1789653600000,
+      "ends_at": 1789660800000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "INFOLOCALE",
+      "source_url": "https://www.infolocale.fr/evenements?age%5B0%5D=Tout%20Public&age%5B1%5D=Adulte&age%5B2%5D=Adolescent&age%5B3%5D=Enfant&age%5B4%5D=Bebe&commune=06088",
+      "image_url": "https://photos.infolocale.fr/infolocale/annonce/2026/0806/8951556/_1.jpg?rnd=20260806173812",
+      "category": "AUTRE"
+    },
+    {
       "title": "La dernière fois qu'on a vu Bernard Stasi",
       "description": "Chaque année, les comédiens de la Troupe lisent en public les textes sélectionnés par leComité de lecture, présidé parMeFrançoise Assus-Juttner.AGENDA DES LECTURES• Cette année, lestextes retenus en 2026sont lus du 9 au 11 septembre 2026 à 19h30.• Letexte lauréat 2025,La dernière fois qu'on a vu Bernard StasideGrégoire Biseau, est mis en espace parMuriel Mayette-Holtzet interprété par les comédien",
       "place": "Les FranciscainsLa Cuisine",
@@ -916,6 +931,21 @@
       "source_url": "https://www.mamac-nice.org/exposition/niki-de-saint-phalle-vive-lamour-6/",
       "image_url": "https://www.mamac-nice.org/wp-content/uploads/2021/05/site-mamac.jpg",
       "category": "AUTRE"
+    },
+    {
+      "title": "Soirée projection 2 films",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1790272800000,
+      "ends_at": 1790280000000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "INFOLOCALE",
+      "source_url": "https://www.infolocale.fr/evenements?age%5B0%5D=Tout%20Public&age%5B1%5D=Adulte&age%5B2%5D=Adolescent&age%5B3%5D=Enfant&age%5B4%5D=Bebe&commune=06088",
+      "image_url": "https://photos.infolocale.fr/infolocale/annonce/2026/0806/8951557/_1.jpg?rnd=20260806174411",
+      "category": "CINEMA"
     },
     {
       "title": "25 sept.",
@@ -1458,6 +1488,36 @@
       "category": "CONCERT"
     },
     {
+      "title": "SPORTEL MONACO",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1792360800000,
+      "ends_at": 1792533600000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/sportel-monaco2",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/3/9/2/8/1968293-1-fre-FR/eed1aa38c857-105596_img_0CeaJE8.jpg.webp",
+      "category": "SPORT"
+    },
+    {
+      "title": "Disney en concert - Suivez vos rêves",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1792857600000,
+      "ends_at": 1792866600000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/disney-en-concert-suivez-vos-reves",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/1/6/5/0/1970561-49-fre-FR/3a77e3b4b44a-105617_img_0ABEVeR.jpg.webp",
+      "category": "CONCERT"
+    },
+    {
       "title": "TERRAVINI",
       "description": "",
       "place": "Nice",
@@ -1488,6 +1548,21 @@
       "category": "AUTRE"
     },
     {
+      "title": "Concert symphonique - L. Kuokman - R. Goosby",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1792944000000,
+      "ends_at": 1792951200000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/concert-symphonique-l.-kuokman-r.-goosby",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/0/6/6/0/2150660-2-fre-FR/9885f1d8686a-106102_img_0D1cs2R.jpg.webp",
+      "category": "CONCERT"
+    },
+    {
       "title": "LEGEND TOUR BY TRADE REPUBLIC",
       "description": "",
       "place": "Nice",
@@ -1501,6 +1576,21 @@
       "source_url": "https://www.nikaia.fr/programmation/legend-tour",
       "image_url": "https://www.nikaia.fr/files/2025-12/legendtour-webge-ne-rique-1080x1080.png",
       "category": "AUTRE"
+    },
+    {
+      "title": "Récital piano - Piotr Anderszewski",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1793212200000,
+      "ends_at": 1793218500000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/recital-piano-piotr-anderszewski",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/2/2/8/0/2150822-2-fre-FR/13e7d679da7c-106103_img_0h3A0GX.jpg.webp",
+      "category": "CONCERT"
     },
     {
       "title": "Trésors, charafi et quoi encore ?",
