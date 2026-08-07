@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-07T07:07:37Z",
-  "count": 240,
+  "scraped_at": "2026-08-07T09:58:58Z",
+  "count": 239,
   "events": [
     {
       "title": "Visite guidée De L’EXPOSTION « Henri Matisse ‒ Yves Saint LaurenT »",
@@ -1533,21 +1533,6 @@
       "category": "AUTRE"
     },
     {
-      "title": "Concert symphonique - L. Kuokman - R. Goosby",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1792944000000,
-      "ends_at": 1792951200000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/concert-symphonique-l.-kuokman-r.-goosby",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/0/6/6/0/2150660-2-fre-FR/9885f1d8686a-106102_img_0D1cs2R.jpg.webp",
-      "category": "CONCERT"
-    },
-    {
       "title": "LEGEND TOUR BY TRADE REPUBLIC",
       "description": "",
       "place": "Nice",
@@ -1561,21 +1546,6 @@
       "source_url": "https://www.nikaia.fr/programmation/legend-tour",
       "image_url": "https://www.nikaia.fr/files/2025-12/legendtour-webge-ne-rique-1080x1080.png",
       "category": "AUTRE"
-    },
-    {
-      "title": "Récital piano - Piotr Anderszewski",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1793212200000,
-      "ends_at": 1793218500000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/recital-piano-piotr-anderszewski",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/2/2/8/0/2150822-2-fre-FR/13e7d679da7c-106103_img_0h3A0GX.jpg.webp",
-      "category": "CONCERT"
     },
     {
       "title": "Trésors, charafi et quoi encore ?",
@@ -1726,6 +1696,21 @@
       "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/art3f-monaco-salon-international-d-art-contemporain",
       "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/8/2/7/2/1982728-1-fre-FR/90a313e2db04-105722_img_0sRoOb0.png.webp",
       "category": "MARCHE"
+    },
+    {
+      "title": "L’exploration spatiale aujourd’hui et demain",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1794241800000,
+      "ends_at": 1794249000000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/l-exploration-spatiale-aujourd-hui-et-demain",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/3/3/2/1/2231233-1-fre-FR/be8c5e94d095-106234_img_0BPMRtx.png.webp",
+      "category": "AUTRE"
     },
     {
       "title": "Comité de lecture",
