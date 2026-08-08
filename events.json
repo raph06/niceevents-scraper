@@ -1,22 +1,7 @@
 {
-  "scraped_at": "2026-08-08T18:29:53Z",
-  "count": 245,
+  "scraped_at": "2026-08-08T21:27:07Z",
+  "count": 244,
   "events": [
-    {
-      "title": "Madagascar",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1786212000000,
-      "ends_at": 1786219200000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/projection/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/06/madagascar.jpg",
-      "category": "AUTRE"
-    },
     {
       "title": "Reprise des entrainements de basketball (Nice, Drap, Escarène)",
       "description": "",
