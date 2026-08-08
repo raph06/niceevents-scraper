@@ -1,52 +1,7 @@
 {
-  "scraped_at": "2026-08-08T09:34:32Z",
-  "count": 249,
+  "scraped_at": "2026-08-08T12:35:10Z",
+  "count": 248,
   "events": [
-    {
-      "title": "Visite guidée de l’exposition « Henri Matisse ‒ Yves Saint Laurent »",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1786179600000,
-      "ends_at": 1786186800000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/04/ysl-matisse.jpg",
-      "category": "EXPO"
-    },
-    {
-      "title": "Visite de l’exposition temporaire : « De la scène à la toile. Artistes et mondaines de la Belle Époque »",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1786179600000,
-      "ends_at": 1786186800000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/06/mba-expo-2026.jpg",
-      "category": "EXPO"
-    },
-    {
-      "title": "Visite guidée De L’EXPOSTION « Henri Matisse ‒ Yves Saint LaurenT »",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1786179600000,
-      "ends_at": 1786186800000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MATISSE",
-      "source_url": "https://www.musee-matisse-nice.org/fr/evenement/visite-commentee-des-collections-et-de-lexposition/",
-      "image_url": "https://www.musee-matisse-nice.org/wp-content/uploads/2021/02/Musee-Matisse-Nice-Partage.png",
-      "category": "EXPO"
-    },
     {
       "title": "Visite guidée de la Crypte",
       "description": "",
@@ -59,7 +14,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/05/evenement-crypte-250x250.jpg",
       "category": "AUTRE"
     },
     {
@@ -104,7 +59,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/competition-sportive/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/07/tdf-femmes-250x250.jpg",
       "category": "AUTRE"
     },
     {
@@ -134,7 +89,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/concert/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/06/6818da597883e319333534.jpg",
       "category": "CONCERT"
     },
     {
@@ -614,8 +569,23 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/animation/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/07/tdf-femmes-250x250.jpg",
       "category": "AUTRE"
+    },
+    {
+      "title": "Concert de clôture Jazz",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1788890400000,
+      "ends_at": 1788897600000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/concert/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "category": "CONCERT"
     },
     {
       "title": "Comité de lecture",
@@ -2251,6 +2221,21 @@
       "source_url": "https://www.explorenicecotedazur.com/evenement/concerts-a-la-trinquette-jazz-club/",
       "image_url": "https://cdn.iris-etourism.io/media/nice/6802208/da78cfd5b872e3d8-335x335.webp",
       "category": "CONCERT"
+    },
+    {
+      "title": "Visite guidée De L’EXPOSTION « Henri Matisse ‒ Yves Saint LaurenT »",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1796724000000,
+      "ends_at": 1796731200000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MATISSE",
+      "source_url": "https://www.musee-matisse-nice.org/fr/evenement/visite-commentee-des-collections-et-de-lexposition/",
+      "image_url": "https://www.musee-matisse-nice.org/wp-content/uploads/2021/02/Musee-Matisse-Nice-Partage.png",
+      "category": "EXPO"
     },
     {
       "title": "Au Cœur de Monaco, Visite guidée de Monte-Carlo & Mareterra",
