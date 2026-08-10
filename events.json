@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-10T07:18:52Z",
+  "scraped_at": "2026-08-10T10:15:35Z",
   "count": 253,
   "events": [
     {
@@ -1023,51 +1023,6 @@
       "category": "CONCERT"
     },
     {
-      "title": "Pause fraîcheur – Caucade",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1791439200000,
-      "ends_at": 1791446400000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/animation/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/07/pause-fraicheur.png",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Atelier broderie",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1791442800000,
-      "ends_at": 1791450000000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/atelier/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Jeux de fléchettes",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1791446400000,
-      "ends_at": 1791453600000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/animation/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
-      "category": "AUTRE"
-    },
-    {
       "title": "Atelier de pratiques artistiques dès 4 ans",
       "description": "",
       "place": "Nice",
@@ -1309,6 +1264,21 @@
     },
     {
       "title": "Pause fraîcheur – Gorbella",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1791471600000,
+      "ends_at": 1791478800000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/animation/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/07/pause-fraicheur.png",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Pause fraîcheur – Caucade",
       "description": "",
       "place": "Nice",
       "city": "Nice",
@@ -1830,6 +1800,36 @@
       "source": "NIKAIA",
       "source_url": "https://www.nikaia.fr/programmation/patrick-bruel-5",
       "image_url": "https://www.nikaia.fr/files/2026-02/site-pb.jpg",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Gymnastique aquatique en piscine",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1794121200000,
+      "ends_at": 1794128400000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/animation/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Les Têtes Givrées",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1794124800000,
+      "ends_at": 1794132000000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/projection/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
@@ -3254,7 +3254,7 @@
       "price_val": 0,
       "source": "CHAGALL",
       "source_url": "https://musees-nationaux-alpesmaritimes.fr/chagall/agenda/evenement/latelier-du-beau-annee-2026-2027",
-      "image_url": "https://musees-nationaux-alpesmaritimes.fr/chagall/sites/chagall/files/styles/thumbnail_w880/public/2026-07/20260120_183854.jpg?itok=8KOfDkcf",
+      "image_url": "https://musees-nationaux-alpesmaritimes.fr/chagall/sites/chagall/files/styles/thumbnail_w880/public/2026-08/Banni%C3%A8re%20site%281%29_0.png?itok=h7lwbBKd",
       "category": "AUTRE"
     },
     {
@@ -3453,7 +3453,7 @@
       "category": "THEATRE"
     },
     {
-      "title": "Chagall couture. Un hommage à l'artiste",
+      "title": "Chagall Couture. Un hommage à l'artiste",
       "description": "",
       "place": "Nice",
       "city": "Nice",
