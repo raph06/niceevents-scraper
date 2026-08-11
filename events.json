@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-11T09:58:02Z",
-  "count": 248,
+  "scraped_at": "2026-08-11T12:49:21Z",
+  "count": 249,
   "events": [
     {
       "title": "Atelier de pratiques artistiques (à partir de 4 ans)",
@@ -661,6 +661,21 @@
       "source_url": "https://www.tnn.fr/fr/evenements/comite-lecture-laureat-2025",
       "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-06-822-comite-lecture-laureat-2025-slider.jpg",
       "category": "THEATRE"
+    },
+    {
+      "title": "Journées européennes du Patrimoine 2026",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1789768800000,
+      "ends_at": 1789776000000,
+      "has_time": false,
+      "price": "—",
+      "price_val": 0,
+      "source": "CHAGALL",
+      "source_url": "https://musees-nationaux-alpesmaritimes.fr/chagall/agenda/evenement/journees-europeennes-du-patrimoine-2026",
+      "image_url": "https://musees-nationaux-alpesmaritimes.fr/chagall/sites/chagall/files/styles/crop_vignette/public/2026-08/JEP26_RS%20ext%2016x9.jpg?itok=d9tP0ayu",
+      "category": "AUTRE"
     },
     {
       "title": "Soirée Jeux - Initiation au Scrabble Duplicate avec le Monaco Scrabble Club",
@@ -1488,21 +1503,6 @@
       "category": "AUTRE"
     },
     {
-      "title": "Les Têtes Givrées",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1794124800000,
-      "ends_at": 1794132000000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/projection/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
-      "category": "AUTRE"
-    },
-    {
       "title": "Tour Bellanda – Le Bellandarium",
       "description": "",
       "place": "Nice",
@@ -1518,19 +1518,19 @@
       "category": "AUTRE"
     },
     {
-      "title": "Visite de l’exposition temporaire : « De la scène à la toile. Artistes et mondaines de la Belle Époque »",
+      "title": "Les Têtes Givrées",
       "description": "",
       "place": "Nice",
       "city": "Nice",
-      "starts_at": 1794130200000,
-      "ends_at": 1794137400000,
+      "starts_at": 1794139200000,
+      "ends_at": 1794146400000,
       "has_time": true,
       "price": "—",
       "price_val": 0,
       "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
+      "source_url": "https://www.nice.fr/agenda/type/projection/",
       "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
-      "category": "EXPO"
+      "category": "AUTRE"
     },
     {
       "title": "Pause fraîcheur – Port / République",
@@ -2193,6 +2193,36 @@
       "category": "AUTRE"
     },
     {
+      "title": "Petite initiation à l’informatique",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1796716800000,
+      "ends_at": 1796724000000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/formation/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Visite guidée de l’exposition « Trésors, charafi et quoi encore ? »",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1796720400000,
+      "ends_at": 1796727600000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/04/centre-du-patrimoine-charafi-250x250-1.jpg",
+      "category": "EXPO"
+    },
+    {
       "title": "Visite guidée De L’EXPOSTION « Henri Matisse ‒ Yves Saint LaurenT »",
       "description": "",
       "place": "Nice",
@@ -2325,21 +2355,6 @@
       "source": "NIKAIA",
       "source_url": "https://www.nikaia.fr/programmation/veronique-sanson-2027",
       "image_url": "https://www.nikaia.fr/files/2026-04/600x600-sanson.jpg",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Carte blanche aux élèves du Conservatoire de Nice ! #1",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1797030000000,
-      "ends_at": 1797037200000,
-      "has_time": false,
-      "price": "—",
-      "price_val": 0,
-      "source": "CHAGALL",
-      "source_url": "https://musees-nationaux-alpesmaritimes.fr/chagall/agenda/evenement/carte-blanche-aux-eleves-du-conservatoire-de-nice-1-4",
-      "image_url": "https://musees-nationaux-alpesmaritimes.fr/chagall/sites/chagall/files/styles/thumbnail_w880/public/2022-10/Eleve_conservatoire_piano_auditorium_Chagall_recadre_2021_1920x1000px.jpg?itok=unlaHzqO",
       "category": "AUTRE"
     },
     {
