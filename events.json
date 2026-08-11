@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-11T01:08:48Z",
-  "count": 240,
+  "scraped_at": "2026-08-11T04:18:43Z",
+  "count": 249,
   "events": [
     {
       "title": "Atelier de pratiques artistiques (à partir de 4 ans)",
@@ -963,6 +963,21 @@
       "category": "AUTRE"
     },
     {
+      "title": "Récital piano - David Kadouch",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1790789400000,
+      "ends_at": 1790796000000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/recital-piano-david-kadouch",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/0/7/0/4/2144070-2-fre-FR/358ca8eaa449-106084_img_0IXpf2D.jpg.webp",
+      "category": "CONCERT"
+    },
+    {
       "title": "Comité de lecture",
       "description": "Chaque année, les comédiens de la Troupe lisent en public les textes sélectionnés par leComité de lecture, présidé parMeFrançoise Assus-Juttner.AGENDA DES LECTURES• Cette année, lestextes retenus en 2026sont lus du 9 au 11 septembre 2026 à 19h30.• Letexte lauréat 2025,La dernière fois qu'on a vu Bernard StasideGrégoire Biseau, est mis en espace parMuriel Mayette-Holtzet interprété par les comédien",
       "place": "Les FranciscainsLa Cuisine",
@@ -1158,6 +1173,21 @@
       "category": "AUTRE"
     },
     {
+      "title": "Thursday Live Sessions - Friedberg",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1792081800000,
+      "ends_at": 1792098000000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/thursday-live-sessions-friedberg",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/7/2/9/0/2030927-56-fre-FR/bfab6c1a1fc2-105893_img_0NQ8dGD.jpg.webp",
+      "category": "AUTRE"
+    },
+    {
       "title": "FLODOR",
       "description": "L’Entre-Pont",
       "place": "Nice",
@@ -1186,6 +1216,21 @@
       "source_url": "https://www.tnn.fr/fr/spectacles/saison-2026-2027/ivanov",
       "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-05-786-ivanov-slider.jpg",
       "category": "THEATRE"
+    },
+    {
+      "title": "Mariage à Monaco.",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1792171800000,
+      "ends_at": 1792171800000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/mariage-a-monaco",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/4/1/9/4/2224914-5-fre-FR/a2c791e98db0-106230_img_0Wiogwj.jpg.webp",
+      "category": "AUTRE"
     },
     {
       "title": "Ivanov",
@@ -1261,6 +1306,51 @@
       "source_url": "https://www.explorenicecotedazur.com/evenement/africa-pop/",
       "image_url": "https://cdn.iris-etourism.io/media/nice/7796005/fe6268e60e190285-335x335.webp",
       "category": "AUTRE"
+    },
+    {
+      "title": "Concert symphonique - L. Foster - D. Ránki - H. Brady - P. Peigner",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1792339200000,
+      "ends_at": 1792346400000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/concert-symphonique-l.-foster-d.-ranki-h.-brady-p.-peigner",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/8/9/4/0/2150498-2-fre-FR/6b8647c019b4-106101_img_04CPNs4.jpg.webp",
+      "category": "CONCERT"
+    },
+    {
+      "title": "SPORTEL MONACO",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1792360800000,
+      "ends_at": 1792533600000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/sportel-monaco2",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/3/9/2/8/1968293-1-fre-FR/eed1aa38c857-105596_img_0CeaJE8.jpg.webp",
+      "category": "SPORT"
+    },
+    {
+      "title": "Disney en concert - Suivez vos rêves",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1792857600000,
+      "ends_at": 1792866600000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/disney-en-concert-suivez-vos-reves",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/1/6/5/0/1970561-50-fre-FR/511ac30dc54e-105617_img_0Qqqbkp.jpg.webp",
+      "category": "CONCERT"
     },
     {
       "title": "TERRAVINI",
@@ -1604,7 +1694,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/05/vieux-nice-250x250.jpg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
@@ -1756,6 +1846,51 @@
       "source_url": "https://www.opera-nice.org/lieux/foyer-montserrat-caballe-de-lopera/",
       "image_url": "https://www.opera-nice.org/wp-content/uploads/2026/05/share-opera-nice-cote-dazur.jpg",
       "category": "AUTRE"
+    },
+    {
+      "title": "La légende du Cristal magique",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1794319200000,
+      "ends_at": 1794322800000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/la-legende-du-cristal-magique",
+      "image_url": null,
+      "category": "AUTRE"
+    },
+    {
+      "title": "Une heure à t'attendre",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1794322800000,
+      "ends_at": 1794327000000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/une-heure-a-t-attendre",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/7/2/5/3/2193527-1-fre-FR/b8e722c35047-106186_img_03ly3k2.jpg.webp",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Concert symphonique - K. Solomnishvili - J. L. Prats",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1794326400000,
+      "ends_at": 1794334500000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/concert-symphonique-k.-solomnishvili-j.-l.-prats",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/6/3/3/0/2150336-2-fre-FR/b89dad0d303c-106100_img_0fhZhG0.jpg.webp",
+      "category": "CONCERT"
     },
     {
       "title": "Résurrection",
