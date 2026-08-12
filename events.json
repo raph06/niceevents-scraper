@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-12T10:00:03Z",
-  "count": 250,
+  "scraped_at": "2026-08-12T12:52:34Z",
+  "count": 251,
   "events": [
     {
       "title": "Atelier de pratiques artistiques (à partir de 4 ans)",
@@ -1968,36 +1968,6 @@
       "category": "CONCERT"
     },
     {
-      "title": "Pause fraîcheur – Caucade",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1796713200000,
-      "ends_at": 1796720400000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/animation/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/07/pause-fraicheur.png",
-      "category": "AUTRE"
-    },
-    {
-      "title": "L’intelligence des arbres",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1796716800000,
-      "ends_at": 1796724000000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/projection/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
-      "category": "AUTRE"
-    },
-    {
       "title": "Tour Bellanda – Le Bellandarium",
       "description": "",
       "place": "Nice",
@@ -2010,21 +1980,6 @@
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
       "image_url": "https://www.nice.fr/wp-content/uploads/2025/04/611891-tour-bellanda-250x250.jpg",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Petite initiation à l’informatique",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1796716800000,
-      "ends_at": 1796724000000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/formation/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
@@ -2054,7 +2009,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/10/img-20250306-wa0004.jpg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
@@ -2069,7 +2024,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/04/ysl-matisse.jpg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "EXPO"
     },
     {
@@ -2086,6 +2041,21 @@
       "source_url": "https://www.musee-matisse-nice.org/fr/evenement/visite-commentee-des-collections-et-de-lexposition/",
       "image_url": "https://www.musee-matisse-nice.org/wp-content/uploads/2021/02/Musee-Matisse-Nice-Partage.png",
       "category": "EXPO"
+    },
+    {
+      "title": "L’intelligence des arbres",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1796731200000,
+      "ends_at": 1796738400000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/projection/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "category": "AUTRE"
     },
     {
       "title": "Jeux de société, tennis de table, de fil en aiguille, bibliothèque…",
@@ -2253,6 +2223,21 @@
       "category": "AUTRE"
     },
     {
+      "title": "Pétanque",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1796734800000,
+      "ends_at": 1796742000000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/animation/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "category": "AUTRE"
+    },
+    {
       "title": "ATELIERS de pratiques artistiques (6-11 ans) / VACANCES SCOLAIRES",
       "description": "",
       "place": "Nice",
@@ -2266,6 +2251,36 @@
       "source_url": "https://www.musee-matisse-nice.org/fr/evenement/stage-de-pratiques-artistiques-6-11-ans-vacances-scolaires-4/",
       "image_url": "https://www.musee-matisse-nice.org/wp-content/uploads/2021/02/Musee-Matisse-Nice-Partage.png",
       "category": "AUTRE"
+    },
+    {
+      "title": "Crée ta bande dessinée",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1796736600000,
+      "ends_at": 1796743800000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/atelier/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Place aux films",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1796736600000,
+      "ends_at": 1796743800000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/projection/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/04/place-aux-films.jpeg",
+      "category": "CINEMA"
     },
     {
       "title": "Au Cœur de Monaco, Visite guidée de Monte-Carlo & Mareterra",
