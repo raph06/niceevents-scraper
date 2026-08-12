@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-12T07:16:21Z",
+  "scraped_at": "2026-08-12T10:00:03Z",
   "count": 250,
   "events": [
     {
@@ -2039,7 +2039,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/04/centre-du-patrimoine-charafi-250x250-1.jpg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "EXPO"
     },
     {
@@ -2234,7 +2234,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/atelier/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/07/esquisses-et-croquis-250x250.jpeg",
       "category": "AUTRE"
     },
     {
