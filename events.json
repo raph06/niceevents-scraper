@@ -1,37 +1,7 @@
 {
-  "scraped_at": "2026-08-13T15:56:49Z",
-  "count": 248,
+  "scraped_at": "2026-08-13T18:56:50Z",
+  "count": 246,
   "events": [
-    {
-      "title": "Pause fraîcheur – Gorbella",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1786633200000,
-      "ends_at": 1786640400000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/animation/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/07/pause-fraicheur.png",
-      "category": "AUTRE"
-    },
-    {
-      "title": "La Farandole, spectacle d’ouverture",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1786636800000,
-      "ends_at": 1786644000000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/animation/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
-      "category": "THEATRE"
-    },
     {
       "title": "Pause fraîcheur – Caucade",
       "description": "",
@@ -44,7 +14,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/animation/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/07/pause-fraicheur.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
@@ -119,7 +89,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/06/20211129-175233-690x494-1.jpg",
       "category": "FAMILLE"
     },
     {
@@ -134,7 +104,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/04/ysl-matisse.jpg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
@@ -209,7 +179,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/animation/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/07/pause-fraicheur.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
