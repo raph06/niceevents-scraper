@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-13T21:41:42Z",
-  "count": 246,
+  "scraped_at": "2026-08-14T01:16:31Z",
+  "count": 249,
   "events": [
     {
       "title": "Pause fraîcheur – Caucade",
@@ -44,7 +44,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/04/611891-tour-bellanda-250x250.jpg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
@@ -89,7 +89,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/06/20211129-175233-690x494-1.jpg",
       "category": "FAMILLE"
     },
     {
@@ -225,6 +225,51 @@
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/atelier/",
       "image_url": "https://www.nice.fr/wp-content/uploads/2026/07/esquisses-et-croquis-250x250.jpeg",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Jeux d’échecs (en autonomie)",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1786708800000,
+      "ends_at": 1786716000000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/animation/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Pétanque",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1786708800000,
+      "ends_at": 1786716000000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/animation/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Pop-up théâtral",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1786710600000,
+      "ends_at": 1786717800000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/atelier/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
