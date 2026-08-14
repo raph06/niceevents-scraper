@@ -1,22 +1,7 @@
 {
-  "scraped_at": "2026-08-14T18:47:26Z",
-  "count": 234,
+  "scraped_at": "2026-08-14T21:23:05Z",
+  "count": 233,
   "events": [
-    {
-      "title": "Hommage à Catherine Ségurane",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1786732200000,
-      "ends_at": 1786739400000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/fete-traditionnelle/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/12/bp-598513-segurane-250x250.jpg",
-      "category": "AUTRE"
-    },
     {
       "title": "Pause fraîcheur – Caucade",
       "description": "",
