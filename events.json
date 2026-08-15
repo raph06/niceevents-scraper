@@ -1,22 +1,7 @@
 {
-  "scraped_at": "2026-08-15T12:25:40Z",
-  "count": 241,
+  "scraped_at": "2026-08-15T15:17:26Z",
+  "count": 240,
   "events": [
-    {
-      "title": "Projections",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1786797000000,
-      "ends_at": 1786804200000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/projection/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/03/projections.jpg",
-      "category": "CINEMA"
-    },
     {
       "title": "Pause fraîcheur – Caucade",
       "description": "",
