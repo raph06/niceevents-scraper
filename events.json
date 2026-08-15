@@ -1,37 +1,7 @@
 {
-  "scraped_at": "2026-08-15T09:23:35Z",
+  "scraped_at": "2026-08-15T12:25:40Z",
   "count": 241,
   "events": [
-    {
-      "title": "Visite guidée de l’exposition « Henri Matisse ‒ Yves Saint Laurent »",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1786784400000,
-      "ends_at": 1786791600000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/04/ysl-matisse.jpg",
-      "category": "EXPO"
-    },
-    {
-      "title": "Visite guidée De L’EXPOSTION « Henri Matisse ‒ Yves Saint LaurenT »",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1786784400000,
-      "ends_at": 1786791600000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MATISSE",
-      "source_url": "https://www.musee-matisse-nice.org/fr/evenement/visite-commentee-des-collections-et-de-lexposition/",
-      "image_url": "https://www.musee-matisse-nice.org/wp-content/uploads/2021/02/Musee-Matisse-Nice-Partage.png",
-      "category": "EXPO"
-    },
     {
       "title": "Projections",
       "description": "",
@@ -44,7 +14,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/projection/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/03/projections.jpg",
       "category": "CINEMA"
     },
     {
@@ -74,7 +44,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/fete-traditionnelle/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/05/assomption-2026-250x250.jpg",
       "category": "AUTRE"
     },
     {
@@ -168,6 +138,21 @@
       "category": "AUTRE"
     },
     {
+      "title": "Atelier de pratiques artistiques dès 4 ans",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1786955400000,
+      "ends_at": 1786962600000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/atelier/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/02/ateliers-4ans-matisse-250x250.jpg",
+      "category": "AUTRE"
+    },
+    {
       "title": "Atelier de pratiques artistiques (à partir de 4 ans)",
       "description": "",
       "place": "Nice",
@@ -196,6 +181,21 @@
       "source_url": "https://www.musee-matisse-nice.org/fr/evenement/stage-de-pratiques-artistiques-6-11-ans-vacances-scolaires-4/",
       "image_url": "https://www.musee-matisse-nice.org/wp-content/uploads/2021/02/Musee-Matisse-Nice-Partage.png",
       "category": "AUTRE"
+    },
+    {
+      "title": "Visite guidée De L’EXPOSTION « Henri Matisse ‒ Yves Saint LaurenT »",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1787130000000,
+      "ends_at": 1787137200000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MATISSE",
+      "source_url": "https://www.musee-matisse-nice.org/fr/evenement/visite-commentee-des-collections-et-de-lexposition/",
+      "image_url": "https://www.musee-matisse-nice.org/wp-content/uploads/2021/02/Musee-Matisse-Nice-Partage.png",
+      "category": "EXPO"
     },
     {
       "title": "Au Coeur de Monaco, Visite guidée de Monte-Carlo & Mareterra - VISITE EN ANGLAIS",
