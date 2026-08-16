@@ -1,37 +1,7 @@
 {
-  "scraped_at": "2026-08-16T15:18:41Z",
-  "count": 247,
+  "scraped_at": "2026-08-16T18:22:11Z",
+  "count": 246,
   "events": [
-    {
-      "title": "La Farandole, Cérémonie de la Paix",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1786892400000,
-      "ends_at": 1786899600000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/commemoration/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Pause fraîcheur – Caucade",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1786892400000,
-      "ends_at": 1786899600000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/animation/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/07/pause-fraicheur.png",
-      "category": "AUTRE"
-    },
     {
       "title": "La Farandole, Gala de clôture",
       "description": "",
@@ -45,6 +15,21 @@
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/animation/",
       "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Pause fraîcheur – Caucade",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1786946400000,
+      "ends_at": 1786953600000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/animation/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/07/pause-fraicheur.png",
       "category": "AUTRE"
     },
     {
