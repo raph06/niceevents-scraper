@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-16T21:17:53Z",
-  "count": 245,
+  "scraped_at": "2026-08-17T00:49:19Z",
+  "count": 249,
   "events": [
     {
       "title": "Pause fraîcheur – Caucade",
@@ -225,6 +225,66 @@
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/atelier/",
       "image_url": "https://www.nice.fr/wp-content/uploads/2026/07/atelier-bd.jpg",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Pause fraîcheur – Gorbella",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1786978800000,
+      "ends_at": 1786986000000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/animation/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/07/pause-fraicheur.png",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Gymnastique aquatique en piscine",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1787032800000,
+      "ends_at": 1787040000000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/animation/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Visite privée et guidée de l’Observatoire de Nice",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1787033700000,
+      "ends_at": 1787040900000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/as-598345109-observatoire-nice-g-250x250.jpg",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Être avec les abeilles",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1787036400000,
+      "ends_at": 1787043600000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/projection/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
