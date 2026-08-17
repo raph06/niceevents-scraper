@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-17T18:30:20Z",
+  "scraped_at": "2026-08-17T21:29:12Z",
   "count": 238,
   "events": [
     {
@@ -59,7 +59,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/04/611891-tour-bellanda-250x250.jpg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
