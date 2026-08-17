@@ -1,67 +1,7 @@
 {
-  "scraped_at": "2026-08-17T06:41:44Z",
-  "count": 249,
+  "scraped_at": "2026-08-17T09:39:54Z",
+  "count": 238,
   "events": [
-    {
-      "title": "Pause fraîcheur – Caucade",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1786946400000,
-      "ends_at": 1786953600000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/animation/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/07/pause-fraicheur.png",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Atelier broderie",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1786950000000,
-      "ends_at": 1786957200000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/atelier/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Atelier de pratiques artistiques dès 4 ans",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1786955400000,
-      "ends_at": 1786962600000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/atelier/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/02/ateliers-4ans-matisse-250x250.jpg",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Atelier de pratiques artistiques (à partir de 4 ans)",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1786955400000,
-      "ends_at": 1786962600000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MATISSE",
-      "source_url": "https://www.musee-matisse-nice.org/fr/evenement/atelier-de-pratiques-artistiques-a-partir-de-4-ans-3/",
-      "image_url": "https://www.musee-matisse-nice.org/wp-content/uploads/2021/02/Musee-Matisse-Nice-Partage.png",
-      "category": "AUTRE"
-    },
     {
       "title": "Visite flash",
       "description": "",
@@ -243,6 +183,21 @@
       "category": "AUTRE"
     },
     {
+      "title": "Pause fraîcheur – Caucade",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1786978800000,
+      "ends_at": 1786986000000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/animation/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/07/pause-fraicheur.png",
+      "category": "AUTRE"
+    },
+    {
       "title": "Gymnastique aquatique en piscine",
       "description": "",
       "place": "Nice",
@@ -269,7 +224,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/as-598345109-observatoire-nice-g-250x250.jpg",
       "category": "AUTRE"
     },
     {
@@ -360,6 +315,21 @@
       "source": "MONACO",
       "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/depart-de-la-vuelta-2026",
       "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/4/0/1/6/1866104-6-fre-FR/027cfa78852f-La-Vuelta-MC-2026.jpeg.webp",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Atelier de pratiques artistiques (à partir de 4 ans)",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1787214600000,
+      "ends_at": 1787221800000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MATISSE",
+      "source_url": "https://www.musee-matisse-nice.org/fr/evenement/atelier-de-pratiques-artistiques-a-partir-de-4-ans-3/",
+      "image_url": "https://www.musee-matisse-nice.org/wp-content/uploads/2021/02/Musee-Matisse-Nice-Partage.png",
       "category": "AUTRE"
     },
     {
@@ -753,21 +723,6 @@
       "category": "THEATRE"
     },
     {
-      "title": "Concert de musique de chambre",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1789077600000,
-      "ends_at": 1789084800000,
-      "has_time": false,
-      "price": "—",
-      "price_val": 0,
-      "source": "CHAGALL",
-      "source_url": "https://musees-nationaux-alpesmaritimes.fr/chagall/agenda/evenement/concert-de-musique-de-chambre-27",
-      "image_url": "https://musees-nationaux-alpesmaritimes.fr/chagall/sites/chagall/files/styles/thumbnail_w880/public/2024-04/Concert_opera_musique_chambre_1920x960px.jpg?itok=UFqS7MPS",
-      "category": "CONCERT"
-    },
-    {
       "title": "Escape Game",
       "description": "",
       "place": "Nice",
@@ -903,21 +858,6 @@
       "category": "MARCHE"
     },
     {
-      "title": "YOYAKU x REF SESSION #15",
-      "description": "Frigo 16",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1789747200000,
-      "ends_at": 1789754400000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "LE109",
-      "source_url": "https://le109.nice.fr/programmation/yoyaku-x-ref-session-15",
-      "image_url": "https://wsrv.nl/?url=le109.nice.fr/thumbs/1024x562r/2026-07/capture-d-e-cran-2026-07-20-a-16.20.41.png",
-      "category": "AUTRE"
-    },
-    {
       "title": "La dernière fois qu'on a vu Bernard Stasi",
       "description": "Chaque année, les comédiens de la Troupe lisent en public les textes sélectionnés par leComité de lecture, présidé parMeFrançoise Assus-Juttner.AGENDA DES LECTURES• Cette année, lestextes retenus en 2026sont lus du 9 au 11 septembre 2026 à 19h30.• Letexte lauréat 2025,La dernière fois qu'on a vu Bernard StasideGrégoire Biseau, est mis en espace parMuriel Mayette-Holtzet interprété par les comédien",
       "place": "Les FranciscainsLa Cuisine",
@@ -931,21 +871,6 @@
       "source_url": "https://www.tnn.fr/fr/evenements/comite-lecture-laureat-2025",
       "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-06-822-comite-lecture-laureat-2025-slider.jpg",
       "category": "THEATRE"
-    },
-    {
-      "title": "Journées européennes du Patrimoine 2026",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1789768800000,
-      "ends_at": 1789776000000,
-      "has_time": false,
-      "price": "—",
-      "price_val": 0,
-      "source": "CHAGALL",
-      "source_url": "https://musees-nationaux-alpesmaritimes.fr/chagall/agenda/evenement/journees-europeennes-du-patrimoine-2026",
-      "image_url": "https://musees-nationaux-alpesmaritimes.fr/chagall/sites/chagall/files/styles/crop_vignette/public/2026-08/JEP26_RS%20ext%2016x9.jpg?itok=d9tP0ayu",
-      "category": "AUTRE"
     },
     {
       "title": "Soirée Jeux - Initiation au Scrabble Duplicate avec le Monaco Scrabble Club",
@@ -1053,36 +978,6 @@
       "category": "EXPO"
     },
     {
-      "title": "Chagall à l'oeuvre. Un prêt d'exception au musée",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1789941600000,
-      "ends_at": 1789948800000,
-      "has_time": false,
-      "price": "—",
-      "price_val": 0,
-      "source": "CHAGALL",
-      "source_url": "https://musees-nationaux-alpesmaritimes.fr/chagall/agenda/evenement/chagall-loeuvre-un-pret-dexception-au-musee",
-      "image_url": "https://musees-nationaux-alpesmaritimes.fr/chagall/sites/chagall/files/styles/thumbnail_w880/public/2025-12/Bandeau%20Maquette%20pour%20le%20rideau%20de%20sc%C3%A8ne%20du%201er%20acte%20de%20%E2%80%9CL%E2%80%99Oiseau%20de%20feu%E2%80%9D%20de%20Stravinsky%20%20La%20for%C3%AAt%20enchant%C3%A9e%2C%201945.jpg?itok=U4w7xmqO",
-      "category": "EXPO"
-    },
-    {
-      "title": "Monstre Pente - Camille Llobe...",
-      "description": "21 sept.",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1789992000000,
-      "ends_at": 1789999200000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "LE109",
-      "source_url": "https://le109.nice.fr/programmation/monstre-pente-camille-llobet",
-      "image_url": "https://wsrv.nl/?url=le109.nice.fr/thumbs/1024x562r/2026-07/glacier-noir-2026-ditptyque-9-2-r6a7506.jpg",
-      "category": "AUTRE"
-    },
-    {
       "title": "Conférence Ludo Mémo : lorsque le jeu aide à stimuler notre cerveau, en collaboration avec le Centre Mémoire du CHPG",
       "description": "",
       "place": "Monaco",
@@ -1143,21 +1038,6 @@
       "category": "CINEMA"
     },
     {
-      "title": "25 sept.",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1790314800000,
-      "ends_at": 1790322000000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "LE109",
-      "source_url": "https://le109.nice.fr/programmation/festival-clown-power-2026",
-      "image_url": "https://wsrv.nl/?url=le109.nice.fr/thumbs/1024x562r/2026-07/aff-clownpower-2026-web.jpg",
-      "category": "AUTRE"
-    },
-    {
       "title": "LA LÉGENDE DE MONTE-CRISTO, L...",
       "description": "",
       "place": "Nice",
@@ -1171,21 +1051,6 @@
       "source_url": "https://www.nikaia.fr/programmation/la-legende-de-monte-cristo-le-musical",
       "image_url": "https://www.nikaia.fr/files/2026-03/1773757627_vignette-site.jpg",
       "category": "AUTRE"
-    },
-    {
-      "title": "DJE BALETI – GIGI DE NISSA",
-      "description": "Frigo 16",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1790362800000,
-      "ends_at": 1790370000000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "LE109",
-      "source_url": "https://le109.nice.fr/programmation/dje-baleti-gigi-de-nissa",
-      "image_url": "https://wsrv.nl/?url=le109.nice.fr/thumbs/1024x562r/2026-07/capture-d-e-cran-2026-07-23-a-13.41.29.png",
-      "category": "CONCERT"
     },
     {
       "title": "De l’opérette à la comédie musicale, quel chemin ?",
@@ -1353,21 +1218,6 @@
       "category": "THEATRE"
     },
     {
-      "title": "LIV DEL ESTAL",
-      "description": "Frigo 16",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1791655200000,
-      "ends_at": 1791662400000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "LE109",
-      "source_url": "https://le109.nice.fr/programmation/liv-del-estal",
-      "image_url": "https://wsrv.nl/?url=le109.nice.fr/thumbs/1024x562r/2026-07/capture-d-e-cran-2026-07-23-a-15.26.53.png",
-      "category": "AUTRE"
-    },
-    {
       "title": "LA DAME DE PIERRE",
       "description": "",
       "place": "Nice",
@@ -1471,21 +1321,6 @@
       "source_url": "https://www.opera-nice.org/lieux/musee-marc-chagall/",
       "image_url": "https://www.opera-nice.org/wp-content/uploads/2026/05/share-opera-nice-cote-dazur.jpg",
       "category": "AUTRE"
-    },
-    {
-      "title": "Ensemble Découverte du Philharmonique de Nice",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1792015200000,
-      "ends_at": 1792022400000,
-      "has_time": false,
-      "price": "—",
-      "price_val": 0,
-      "source": "CHAGALL",
-      "source_url": "https://musees-nationaux-alpesmaritimes.fr/chagall/agenda/evenement/ensemble-decouverte-du-philharmonique-de-nice-1",
-      "image_url": "https://musees-nationaux-alpesmaritimes.fr/chagall/sites/chagall/files/styles/thumbnail_w880/public/2021-09/Concert_opera_piano_violon_1920x960px.jpg?itok=qJgmSEg-",
-      "category": "CONCERT"
     },
     {
       "title": "Voyage USA Texas Louisiane octobre 2026",
@@ -1681,21 +1516,6 @@
       "source_url": "https://www.nikaia.fr/programmation/terravini-1",
       "image_url": "https://www.nikaia.fr/files/2026-04/visuel-terravini-2026-carre.jpg",
       "category": "FOOD"
-    },
-    {
-      "title": "Marc Chagall. Entre poésie et spiritualité",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1792879200000,
-      "ends_at": 1792886400000,
-      "has_time": false,
-      "price": "—",
-      "price_val": 0,
-      "source": "CHAGALL",
-      "source_url": "https://musees-nationaux-alpesmaritimes.fr/chagall/agenda/evenement/marc-chagall-entre-poesie-et-spiritualite",
-      "image_url": "https://musees-nationaux-alpesmaritimes.fr/chagall/sites/chagall/files/styles/crop_vignette/public/2026-07/Image1OK.png?itok=89QqBFDV",
-      "category": "AUTRE"
     },
     {
       "title": "LEGEND TOUR BY TRADE REPUBLIC",
@@ -1983,6 +1803,21 @@
       "category": "CONCERT"
     },
     {
+      "title": "BRODINSKI",
+      "description": "Frigo 16",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1794510000000,
+      "ends_at": 1794517200000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "LE109",
+      "source_url": "https://le109.nice.fr/programmation/brodinski",
+      "image_url": "https://wsrv.nl/?url=le109.nice.fr/thumbs/1024x562r/2026-08/capture-d-e-cran-2026-08-17-a-10.42.26.png",
+      "category": "AUTRE"
+    },
+    {
       "title": "Résurrection",
       "description": "DansRésurrection, il est question d’un jeune homme de bonne famille qui mène une vie de plaisirs dans une grande ville et se retrouve juré au procès d’une femme accusée de meurtre. Il reconnaît son amour de jeunesse, autrefois au service de sa famille. Il a abusé d’elle et l’a mise enceinte avant de l’abandonner. Elle est devenue une prostituée. Désireux de racheter sa faute, il tente de l’innocen",
       "place": "Les FranciscainsLa Cuisine",
@@ -2013,6 +1848,21 @@
       "category": "AUTRE"
     },
     {
+      "title": "JETLAG GANG",
+      "description": "Frigo 16",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1794609000000,
+      "ends_at": 1794616200000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "LE109",
+      "source_url": "https://le109.nice.fr/programmation/jetlag-gang",
+      "image_url": "https://wsrv.nl/?url=le109.nice.fr/thumbs/1024x562r/2026-08/capture-d-e-cran-2026-08-17-a-09.20.38.png",
+      "category": "AUTRE"
+    },
+    {
       "title": "Résurrection",
       "description": "DansRésurrection, il est question d’un jeune homme de bonne famille qui mène une vie de plaisirs dans une grande ville et se retrouve juré au procès d’une femme accusée de meurtre. Il reconnaît son amour de jeunesse, autrefois au service de sa famille. Il a abusé d’elle et l’a mise enceinte avant de l’abandonner. Elle est devenue une prostituée. Désireux de racheter sa faute, il tente de l’innocen",
       "place": "Les FranciscainsLa Cuisine",
@@ -2026,6 +1876,21 @@
       "source_url": "https://www.tnn.fr/fr/spectacles/saison-2026-2027/resurrection",
       "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-05-787-resurrection-slider.jpg",
       "category": "THEATRE"
+    },
+    {
+      "title": "CARAVEL",
+      "description": "Frigo 16",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1794682800000,
+      "ends_at": 1794690000000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "LE109",
+      "source_url": "https://le109.nice.fr/programmation/caravel",
+      "image_url": "https://wsrv.nl/?url=le109.nice.fr/thumbs/1024x562r/2026-08/capture-d-e-cran-2026-08-17-a-09.22.29.png",
+      "category": "AUTRE"
     },
     {
       "title": "Le Petit Chaperon rouge",
@@ -2088,6 +1953,21 @@
       "category": "THEATRE"
     },
     {
+      "title": "PAUL SEUL",
+      "description": "Frigo 16",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1795201200000,
+      "ends_at": 1795208400000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "LE109",
+      "source_url": "https://le109.nice.fr/programmation/paul-seul",
+      "image_url": "https://wsrv.nl/?url=le109.nice.fr/thumbs/1024x562r/2026-08/capture-d-e-cran-2026-08-17-a-09.24.51.png",
+      "category": "AUTRE"
+    },
+    {
       "title": "Le Petit Chaperon rouge",
       "description": "Il était une fois une petite fille qui s’ennuyait, seule dans sa maison. Sa mère, débordée et toujours pressée, lui interdisait de sortir. L’enfant rêvait de découvrir le monde au-delà de la forêt. Un jour, elle obtient enfin la permission d’aller rendre visite à sa grand-mère, de l’autre côté des bois. Sur le chemin, elle traverse un monde où la curiosité se mêle à la peur, où l’inconnu attire au",
       "place": "Les FranciscainsLa Cuisine",
@@ -2131,21 +2011,6 @@
       "source_url": "https://www.tnn.fr/fr/spectacles/saison-2026-2027/orgueilleuse",
       "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-05-789-orgueilleuse-slider.jpg",
       "category": "THEATRE"
-    },
-    {
-      "title": "Rencontre insolite entre le clavecin et l'accordéon",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1795647600000,
-      "ends_at": 1795654800000,
-      "has_time": false,
-      "price": "—",
-      "price_val": 0,
-      "source": "CHAGALL",
-      "source_url": "https://musees-nationaux-alpesmaritimes.fr/chagall/agenda/evenement/rencontre-insolite-entre-le-clavecin-et-laccordeon",
-      "image_url": "https://musees-nationaux-alpesmaritimes.fr/chagall/sites/chagall/files/styles/thumbnail_w880/public/2026-07/Banni%C3%A8re%20site.png?itok=-ntmOYws",
-      "category": "AUTRE"
     },
     {
       "title": "Orgueilleuse",
@@ -2283,36 +2148,6 @@
       "category": "AUTRE"
     },
     {
-      "title": "Le souffle porté par la gravi...",
-      "description": "12 sept.",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1796803200000,
-      "ends_at": 1796810400000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "LE109",
-      "source_url": "https://le109.nice.fr/programmation/le-souffle-porte-par-la-gravite",
-      "image_url": "https://wsrv.nl/?url=le109.nice.fr/thumbs/1024x562r/2026-06/pastedgraphic-1.png",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Cabaret Manasah : Rock'n'Show",
-      "description": "L’Entre-Pont",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1796839200000,
-      "ends_at": 1796846400000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "LE109",
-      "source_url": "https://le109.nice.fr/programmation/cabaret-manasah-rock-n-show",
-      "image_url": "https://wsrv.nl/?url=le109.nice.fr/thumbs/1024x562r/2026-07/whatsapp-image-2026-07-28-at-16.55.37.jpeg",
-      "category": "CONCERT"
-    },
-    {
       "title": "Résurrection",
       "description": "DansRésurrection, il est question d’un jeune homme de bonne famille qui mène une vie de plaisirs dans une grande ville et se retrouve juré au procès d’une femme accusée de meurtre. Il reconnaît son amour de jeunesse, autrefois au service de sa famille. Il a abusé d’elle et l’a mise enceinte avant de l’abandonner. Elle est devenue une prostituée. Désireux de racheter sa faute, il tente de l’innocen",
       "place": "Les FranciscainsLa Cuisine",
@@ -2355,6 +2190,21 @@
       "source": "NIKAIA",
       "source_url": "https://www.nikaia.fr/programmation/veronique-sanson-2027",
       "image_url": "https://www.nikaia.fr/files/2026-04/600x600-sanson.jpg",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Mungo’s HI FI",
+      "description": "Frigo 16",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1797102000000,
+      "ends_at": 1797109200000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "LE109",
+      "source_url": "https://le109.nice.fr/programmation/mungo-s-hi-fi",
+      "image_url": "https://wsrv.nl/?url=le109.nice.fr/thumbs/1024x562r/2026-08/capture-d-e-cran-2026-08-17-a-10.51.53.png",
       "category": "AUTRE"
     },
     {
@@ -3183,21 +3033,6 @@
       "category": "THEATRE"
     },
     {
-      "title": "L'Atelier du beau - année 2026-2027",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1807826400000,
-      "ends_at": 1807833600000,
-      "has_time": false,
-      "price": "—",
-      "price_val": 0,
-      "source": "CHAGALL",
-      "source_url": "https://musees-nationaux-alpesmaritimes.fr/chagall/agenda/evenement/latelier-du-beau-annee-2026-2027",
-      "image_url": "https://musees-nationaux-alpesmaritimes.fr/chagall/sites/chagall/files/styles/thumbnail_w880/public/2026-07/20260120_183854.jpg?itok=8KOfDkcf",
-      "category": "AUTRE"
-    },
-    {
       "title": "L'Amante anglaise",
       "description": "Pierre et Claire Lannes sont interrogés à tour de rôle au sujet du meurtre de Marie-Thérèse Bousquet, la cousine sourde et muette de Pierre, qui était aussi leur femme de ménage et cuisinière. Claire reconnaît tout de suite l’avoir tuée, puis avoir découpé et disséminé son corps, sans jamais parvenir à en expliquer la raison. De son côté, Pierre affirme n’avoir rien vu. L’intrigue se transforme so",
       "place": "Les FranciscainsLa Cuisine",
@@ -3393,21 +3228,6 @@
       "category": "THEATRE"
     },
     {
-      "title": "Chagall Couture. Un hommage à l'artiste",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1811023200000,
-      "ends_at": 1811030400000,
-      "has_time": false,
-      "price": "—",
-      "price_val": 0,
-      "source": "CHAGALL",
-      "source_url": "https://musees-nationaux-alpesmaritimes.fr/chagall/agenda/evenement/chagall-couture-un-hommage-lartiste",
-      "image_url": "https://musees-nationaux-alpesmaritimes.fr/chagall/sites/chagall/files/styles/crop_vignette/public/2026-07/Visuels%20g%C3%A9neriques%20Chagall%20Couture%20volets%201%20et%202_page-0001.jpg?itok=qdTPQFpN",
-      "category": "AUTRE"
-    },
-    {
       "title": "Scaramuccia",
       "description": "Nous sommes en 1645, sur l’île de Crète alors stratégique pour l’empire maritime vénitien. Tandis que la cinquième guerre turco-vénitienne se prépare, Pantalone de’ Bisognosi, marchand installé sur l’île, organise le mariage de sa fille Ortensia avec le riche Don Alonso. Mais à Venise, Don Alonso croise la route de Scaramuccia, Napolitain mal en point, et son fidèle serviteur Arlecchino. Une quere",
       "place": "Les FranciscainsLa Cuisine",
@@ -3496,6 +3316,21 @@
       "source_url": "https://www.tnn.fr/fr/spectacles/saison-2026-2027/la-tendresse",
       "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-05-814-la-tendresse-slider.jpg",
       "category": "THEATRE"
+    },
+    {
+      "title": "Frigo 16",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1814770500000,
+      "ends_at": 1814777700000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "LE109",
+      "source_url": "https://le109.nice.fr/programmation/ref-festival-2027",
+      "image_url": "https://wsrv.nl/?url=le109.nice.fr/thumbs/1024x562r/2026-08/capture-d-e-cran-2026-08-17-a-10.56.45.png",
+      "category": "AUTRE"
     },
     {
       "title": "Petite Balade aux enfers",
