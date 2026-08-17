@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-17T03:48:14Z",
+  "scraped_at": "2026-08-17T06:41:44Z",
   "count": 249,
   "events": [
     {
@@ -269,7 +269,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/as-598345109-observatoire-nice-g-250x250.jpg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
