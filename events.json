@@ -1,22 +1,7 @@
 {
-  "scraped_at": "2026-08-18T15:28:17Z",
-  "count": 238,
+  "scraped_at": "2026-08-18T18:35:39Z",
+  "count": 237,
   "events": [
-    {
-      "title": "Pause fraîcheur – Gorbella",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1787065200000,
-      "ends_at": 1787072400000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/animation/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/07/pause-fraicheur.png",
-      "category": "AUTRE"
-    },
     {
       "title": "Loboda",
       "description": "",
@@ -29,7 +14,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/concert/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/06/loboda-250x250.jpg",
       "category": "AUTRE"
     },
     {
