@@ -1,82 +1,7 @@
 {
-  "scraped_at": "2026-08-18T06:33:31Z",
-  "count": 248,
+  "scraped_at": "2026-08-18T09:29:15Z",
+  "count": 246,
   "events": [
-    {
-      "title": "Gymnastique aquatique en piscine",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1787032800000,
-      "ends_at": 1787040000000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/animation/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Visite privée et guidée de l’Observatoire de Nice",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1787033700000,
-      "ends_at": 1787040900000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/as-598345109-observatoire-nice-g-250x250.jpg",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Être avec les abeilles",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1787036400000,
-      "ends_at": 1787043600000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/projection/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Tour Bellanda – Le Bellandarium",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1787036400000,
-      "ends_at": 1787043600000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Lectures de la Belle Époque",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1787040000000,
-      "ends_at": 1787047200000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/lecture/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
-      "category": "AUTRE"
-    },
     {
       "title": "Visite de l’exposition temporaire : « De la scène à la toile. Artistes et mondaines de la Belle Époque »",
       "description": "",
@@ -89,8 +14,23 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/06/mba-expo-2026.jpg",
       "category": "EXPO"
+    },
+    {
+      "title": "Être avec les abeilles",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1787050800000,
+      "ends_at": 1787058000000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/projection/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "category": "AUTRE"
     },
     {
       "title": "Pause fraîcheur – Port / République",
@@ -183,6 +123,21 @@
       "category": "AUTRE"
     },
     {
+      "title": "Tour Bellanda – Le Bellandarium",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1787054400000,
+      "ends_at": 1787061600000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/04/611891-tour-bellanda-250x250.jpg",
+      "category": "AUTRE"
+    },
+    {
       "title": "Pétanque",
       "description": "",
       "place": "Nice",
@@ -209,7 +164,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/projection/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/02/cine-mardi.jpeg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "CINEMA"
     },
     {
@@ -224,7 +179,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/projection/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/08/emotions-grand-ecran.jpeg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
@@ -255,6 +210,21 @@
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/animation/",
       "image_url": "https://www.nice.fr/wp-content/uploads/2026/07/pause-fraicheur.png",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Loboda",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1787076000000,
+      "ends_at": 1787083200000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/concert/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/06/loboda-250x250.jpg",
       "category": "AUTRE"
     },
     {
