@@ -1,22 +1,7 @@
 {
-  "scraped_at": "2026-08-18T18:35:39Z",
-  "count": 237,
+  "scraped_at": "2026-08-18T21:20:59Z",
+  "count": 236,
   "events": [
-    {
-      "title": "Loboda",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1787076000000,
-      "ends_at": 1787083200000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/concert/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/06/loboda-250x250.jpg",
-      "category": "AUTRE"
-    },
     {
       "title": "Pause fraîcheur – Caucade",
       "description": "",
