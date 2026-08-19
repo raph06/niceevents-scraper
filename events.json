@@ -1,37 +1,7 @@
 {
-  "scraped_at": "2026-08-19T15:33:15Z",
+  "scraped_at": "2026-08-19T18:27:39Z",
   "count": 235,
   "events": [
-    {
-      "title": "Pause fraîcheur – Gorbella",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1787151600000,
-      "ends_at": 1787158800000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/animation/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/07/pause-fraicheur.png",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Pause fraîcheur – Caucade",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1787151600000,
-      "ends_at": 1787158800000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/animation/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/07/pause-fraicheur.png",
-      "category": "AUTRE"
-    },
     {
       "title": "Soirées Musicales Estivales - Exit",
       "description": "",
@@ -1353,6 +1323,21 @@
       "category": "SPORT"
     },
     {
+      "title": "Disney en concert - Suivez vos rêves",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1792857600000,
+      "ends_at": 1792866600000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/disney-en-concert-suivez-vos-reves",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/1/6/5/0/1970561-50-fre-FR/511ac30dc54e-105617_img_0Qqqbkp.jpg.webp",
+      "category": "CONCERT"
+    },
+    {
       "title": "TERRAVINI",
       "description": "",
       "place": "Nice",
@@ -1381,6 +1366,21 @@
       "source_url": "https://musees-nationaux-alpesmaritimes.fr/chagall/agenda/evenement/marc-chagall-entre-poesie-et-spiritualite",
       "image_url": "https://musees-nationaux-alpesmaritimes.fr/chagall/sites/chagall/files/styles/crop_vignette/public/2026-07/Image1OK.png?itok=89QqBFDV",
       "category": "AUTRE"
+    },
+    {
+      "title": "Concert symphonique - L. Kuokman - R. Goosby",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1792944000000,
+      "ends_at": 1792951200000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/concert-symphonique-l.-kuokman-r.-goosby",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/0/6/6/0/2150660-2-fre-FR/9885f1d8686a-106102_img_0D1cs2R.jpg.webp",
+      "category": "CONCERT"
     },
     {
       "title": "LEGEND TOUR BY TRADE REPUBLIC",
