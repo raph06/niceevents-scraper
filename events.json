@@ -1,37 +1,7 @@
 {
-  "scraped_at": "2026-08-20T18:31:17Z",
-  "count": 235,
+  "scraped_at": "2026-08-20T21:25:24Z",
+  "count": 233,
   "events": [
-    {
-      "title": "Apéro-concert au Jardin Exotique",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1787248800000,
-      "ends_at": 1787256000000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/apero-concert-au-jardin-exotique",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/0/5/8/9/2229850-1-fre-FR/4260a878d762-106232_img_0eLPquS.jpg.webp",
-      "category": "CONCERT"
-    },
-    {
-      "title": "L'Héritier de village",
-      "description": "Créé en ouverture desContes d'apérodu 6 au 10 juillet 2026,L'Héritier de villageprend la route à la fin de l'été pour une tournée maralpine organisée par laMétropole Nice Côte d'Azurdans les communes suivantes :•La Bollène- Tennis de La Bollène-Vésubie • Le 19 août 20h30•Clans- Place Raymond Santucci • Le 20 août 20h30•Isola Village- Jardin d'enfants du clocher • Le 21 août 20h30•Levens- Complexe ",
-      "place": "Les FranciscainsLa Cuisine",
-      "city": "Nice",
-      "starts_at": 1787250600000,
-      "ends_at": 1787257800000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "TNN",
-      "source_url": "https://www.tnn.fr/fr/evenements/l-heritier-de-village-marivaux-2026-tournee",
-      "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-07-823-l-heritier-de-village-marivaux-2026-tournee-slider.jpg",
-      "category": "THEATRE"
-    },
     {
       "title": "Randonnée Vallée de la Gordelasque",
       "description": "",
