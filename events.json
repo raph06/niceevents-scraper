@@ -1,22 +1,7 @@
 {
-  "scraped_at": "2026-08-22T15:18:21Z",
+  "scraped_at": "2026-08-22T18:22:07Z",
   "count": 235,
   "events": [
-    {
-      "title": "Pause fraîcheur – Caucade",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1787410800000,
-      "ends_at": 1787418000000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/animation/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/07/pause-fraicheur.png",
-      "category": "AUTRE"
-    },
     {
       "title": "Mamma Mia !",
       "description": "",
@@ -30,6 +15,21 @@
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/projection/",
       "image_url": "https://www.nice.fr/wp-content/uploads/2026/06/mamma-mia.jpg",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Pause fraîcheur – Caucade",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1787464800000,
+      "ends_at": 1787472000000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/animation/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/07/pause-fraicheur.png",
       "category": "AUTRE"
     },
     {
