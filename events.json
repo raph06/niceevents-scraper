@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-21T21:20:49Z",
+  "scraped_at": "2026-08-22T00:48:40Z",
   "count": 234,
   "events": [
     {
@@ -91,6 +91,81 @@
       "source_url": "https://www.musee-matisse-nice.org/fr/evenement/visite-commentee-des-collections-et-de-lexposition/",
       "image_url": "https://www.musee-matisse-nice.org/wp-content/uploads/2021/02/Musee-Matisse-Nice-Partage.png",
       "category": "EXPO"
+    },
+    {
+      "title": "Atelier pastel",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1787396400000,
+      "ends_at": 1787403600000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/atelier/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Atelier d’art postal",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1787400000000,
+      "ends_at": 1787407200000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/atelier/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/10/whatsapp-image-2026-01-23-at-11.50.15-2.jpeg",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Visite guidée de la Crypte",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1787400000000,
+      "ends_at": 1787407200000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Projections",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1787401800000,
+      "ends_at": 1787409000000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/projection/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/03/projections.jpg",
+      "category": "CINEMA"
+    },
+    {
+      "title": "Mamma Mia !",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1787421600000,
+      "ends_at": 1787428800000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/projection/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/06/mamma-mia.jpg",
+      "category": "AUTRE"
     },
     {
       "title": "Atelier de pratiques artistiques (à partir de 4 ans)",
@@ -198,21 +273,6 @@
       "category": "THEATRE"
     },
     {
-      "title": "Garden Comedy",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1787943600000,
-      "ends_at": 1787950800000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/garden-comedy",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/1/3/6/1/2231631-1-fre-FR/0b507d6bed14-106244_img_0GZv1tR.jpg.webp",
-      "category": "AUTRE"
-    },
-    {
       "title": "Atelier de pratiques artistiques (à partir de 16 ans)",
       "description": "",
       "place": "Nice",
@@ -225,21 +285,6 @@
       "source": "MATISSE",
       "source_url": "https://www.musee-matisse-nice.org/fr/evenement/atelier-de-pratiques-artistiques-a-partir-de-16-ans-5/",
       "image_url": "https://www.musee-matisse-nice.org/wp-content/uploads/2021/02/Musee-Matisse-Nice-Partage.png",
-      "category": "AUTRE"
-    },
-    {
-      "title": "LOTO & BINGO Votre rendez-vous gagnant !",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1788012000000,
-      "ends_at": 1788019200000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/loto-bingo-votre-rendez-vous-gagnant",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/8/3/2/5/2225238-1-fre-FR/31ccc8b80a09-106231_img_01Alyac.jpg.webp",
       "category": "AUTRE"
     },
     {
@@ -361,21 +406,6 @@
       "source_url": "https://www.explorenicecotedazur.com/evenement/yoga-dete-a-la-citadelle-de-villefranche-sur-mer/",
       "image_url": "https://cdn.iris-etourism.io/media/nice/7894355/a9e5344dd407e432-335x335.webp",
       "category": "SPORT"
-    },
-    {
-      "title": "Stages pratiques amateurs - Gravure pointe sèche",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1788940800000,
-      "ends_at": 1794236400000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/stages-pratiques-amateurs-gravure-pointe-seche",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/4/0/4/0/2090404-1-fre-FR/6cd59d46916e-105998_img_0bApjju.jpg.webp",
-      "category": "AUTRE"
     },
     {
       "title": "Comité de lecture",
@@ -1548,21 +1578,6 @@
       "category": "MARCHE"
     },
     {
-      "title": "L’exploration spatiale aujourd’hui et demain",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1794241800000,
-      "ends_at": 1794249000000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/l-exploration-spatiale-aujourd-hui-et-demain",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/3/3/2/1/2231233-1-fre-FR/be8c5e94d095-106234_img_0BPMRtx.png.webp",
-      "category": "AUTRE"
-    },
-    {
       "title": "Comité de lecture",
       "description": "Chaque année, les comédiens de la Troupe lisent en public les textes sélectionnés par leComité de lecture, présidé parMeFrançoise Assus-Juttner.AGENDA DES LECTURES• Cette année, lestextes retenus en 2026sont lus du 9 au 11 septembre 2026 à 19h30.• Letexte lauréat 2025,La dernière fois qu'on a vu Bernard StasideGrégoire Biseau, est mis en espace parMuriel Mayette-Holtzet interprété par les comédien",
       "place": "Les FranciscainsLa Cuisine",
@@ -1576,21 +1591,6 @@
       "source_url": "https://www.tnn.fr/fr/evenements/comite-lecture-2026",
       "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-07-824-comite-lecture-2026-slider.jpg",
       "category": "THEATRE"
-    },
-    {
-      "title": "MONACO CARD SHOW",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1794261600000,
-      "ends_at": 1796774400000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/monaco-card-show2",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/8/1/0/8/1998018-3-fre-FR/bb1f92cc012b-105781_img_0VRqlKI.jpg.webp",
-      "category": "AUTRE"
     },
     {
       "title": "« Cerises aux cœurs » : exposition de sculptures en plein air de Jean-Louis Landraud",
