@@ -1,22 +1,7 @@
 {
-  "scraped_at": "2026-08-23T12:26:59Z",
-  "count": 244,
+  "scraped_at": "2026-08-23T15:19:34Z",
+  "count": 243,
   "events": [
-    {
-      "title": "Visite guidée de la Crypte",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1787486400000,
-      "ends_at": 1787493600000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/05/evenement-crypte-250x250.jpg",
-      "category": "AUTRE"
-    },
     {
       "title": "Mesclaland",
       "description": "",
@@ -44,7 +29,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/animation/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/07/pause-fraicheur.png",
       "category": "AUTRE"
     },
     {
@@ -74,7 +59,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/atelier/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/02/ateliers-4ans-matisse-250x250.jpg",
       "category": "AUTRE"
     },
     {
@@ -104,7 +89,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/04/ysl-matisse.jpg",
       "category": "AUTRE"
     },
     {
@@ -164,7 +149,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/animation/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/07/pause-fraicheur.png",
       "category": "AUTRE"
     },
     {
@@ -179,7 +164,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/animation/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/07/pause-fraicheur.png",
       "category": "AUTRE"
     },
     {
@@ -194,7 +179,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/atelier/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/02/ateliers-6-11ans-matisse-250x250.jpg",
       "category": "AUTRE"
     },
     {
@@ -239,7 +224,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/atelier/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/07/atelier-bd.jpg",
       "category": "AUTRE"
     },
     {
