@@ -1,67 +1,7 @@
 {
-  "scraped_at": "2026-08-24T06:44:12Z",
-  "count": 246,
+  "scraped_at": "2026-08-24T09:43:06Z",
+  "count": 244,
   "events": [
-    {
-      "title": "Pause fraîcheur – Caucade",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1787551200000,
-      "ends_at": 1787558400000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/animation/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/07/pause-fraicheur.png",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Atelier broderie",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1787554800000,
-      "ends_at": 1787562000000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/atelier/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Atelier de pratiques artistiques dès 4 ans",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1787560200000,
-      "ends_at": 1787567400000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/atelier/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/02/ateliers-4ans-matisse-250x250.jpg",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Atelier de pratiques artistiques (à partir de 4 ans)",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1787560200000,
-      "ends_at": 1787567400000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MATISSE",
-      "source_url": "https://www.musee-matisse-nice.org/fr/evenement/atelier-de-pratiques-artistiques-a-partir-de-4-ans-3/",
-      "image_url": "https://www.musee-matisse-nice.org/wp-content/uploads/2021/02/Musee-Matisse-Nice-Partage.png",
-      "category": "AUTRE"
-    },
     {
       "title": "Visite flash",
       "description": "",
@@ -164,7 +104,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/atelier/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/02/ateliers-6-11ans-matisse-250x250.jpg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
@@ -214,6 +154,21 @@
     },
     {
       "title": "Pause fraîcheur – Gorbella",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1787583600000,
+      "ends_at": 1787590800000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/animation/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/07/pause-fraicheur.png",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Pause fraîcheur – Caucade",
       "description": "",
       "place": "Nice",
       "city": "Nice",
@@ -331,6 +286,21 @@
       "source_url": "https://www.tnn.fr/fr/evenements/l-heritier-de-village-marivaux-2026-tournee",
       "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-07-823-l-heritier-de-village-marivaux-2026-tournee-slider.jpg",
       "category": "THEATRE"
+    },
+    {
+      "title": "Atelier de pratiques artistiques (à partir de 4 ans)",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1787819400000,
+      "ends_at": 1787826600000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MATISSE",
+      "source_url": "https://www.musee-matisse-nice.org/fr/evenement/atelier-de-pratiques-artistiques-a-partir-de-4-ans-3/",
+      "image_url": "https://www.musee-matisse-nice.org/wp-content/uploads/2021/02/Musee-Matisse-Nice-Partage.png",
+      "category": "AUTRE"
     },
     {
       "title": "Atelier de pratiques artistiques ‒ Pour les ados (12-15 ans)",
@@ -817,8 +787,8 @@
       "description": "",
       "place": "Nice",
       "city": "Nice",
-      "starts_at": 1789808400000,
-      "ends_at": 1789815600000,
+      "starts_at": 1789819200000,
+      "ends_at": 1789826400000,
       "has_time": true,
       "price": "—",
       "price_val": 0,
@@ -929,7 +899,7 @@
       "price_val": 0,
       "source": "OT_NICE",
       "source_url": "https://www.explorenicecotedazur.com/evenement/chagall-a-loeuvre-un-pret-dexception-au-musee/",
-      "image_url": "https://cdn.iris-etourism.io/media/nice/7647953/6b44a7a57ec0d553-335x335.webp",
+      "image_url": "https://cdn.iris-etourism.io/media/nice/7647953/4e1d37d25bc252c6-335x335.webp",
       "category": "EXPO"
     },
     {
@@ -1694,7 +1664,7 @@
       "price_val": 0,
       "source": "OT_NICE",
       "source_url": "https://www.explorenicecotedazur.com/evenement/jazz-au-chateau/",
-      "image_url": "https://cdn.iris-etourism.io/media/nice/6302876/544160a34e6a83af-335x335.webp",
+      "image_url": "https://cdn.iris-etourism.io/media/nice/6302876/0752ce97e2e6a28a-335x335.webp",
       "category": "CONCERT"
     },
     {
