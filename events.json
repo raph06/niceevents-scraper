@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-23T21:18:56Z",
-  "count": 242,
+  "scraped_at": "2026-08-24T00:50:13Z",
+  "count": 246,
   "events": [
     {
       "title": "Pause fraîcheur – Caucade",
@@ -241,6 +241,66 @@
       "source_url": "https://www.tnn.fr/fr/evenements/l-heritier-de-village-marivaux-2026-tournee",
       "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-07-823-l-heritier-de-village-marivaux-2026-tournee-slider.jpg",
       "category": "THEATRE"
+    },
+    {
+      "title": "Excursion Rocher Mistral – Château de la Barben – Au cœur de la culture provençale",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1787637600000,
+      "ends_at": 1787644800000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/seance-de-plein-air/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Gymnastique aquatique en piscine",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1787637600000,
+      "ends_at": 1787644800000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/animation/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "category": "AUTRE"
+    },
+    {
+      "title": "La Belle Ville",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1787641200000,
+      "ends_at": 1787648400000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/projection/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Tour Bellanda – Le Bellandarium",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1787641200000,
+      "ends_at": 1787648400000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/04/611891-tour-bellanda-250x250.jpg",
+      "category": "AUTRE"
     },
     {
       "title": "Les rendez-vous trail",
