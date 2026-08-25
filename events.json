@@ -1,22 +1,7 @@
 {
-  "scraped_at": "2026-08-25T15:39:59Z",
-  "count": 235,
+  "scraped_at": "2026-08-25T18:37:31Z",
+  "count": 206,
   "events": [
-    {
-      "title": "Pause fraîcheur – Gorbella",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1787670000000,
-      "ends_at": 1787677200000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/animation/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/07/pause-fraicheur.png",
-      "category": "AUTRE"
-    },
     {
       "title": "Les rendez-vous trail",
       "description": "",
@@ -198,21 +183,6 @@
       "category": "THEATRE"
     },
     {
-      "title": "Garden Comedy",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1787943600000,
-      "ends_at": 1787950800000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/garden-comedy",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/1/3/6/1/2231631-1-fre-FR/0b507d6bed14-106244_img_0GZv1tR.jpg.webp",
-      "category": "AUTRE"
-    },
-    {
       "title": "Atelier de pratiques artistiques (à partir de 16 ans)",
       "description": "",
       "place": "Nice",
@@ -241,21 +211,6 @@
       "source_url": "https://www.musee-matisse-nice.org/fr/evenement/visite-commentee-des-collections-et-de-lexposition/",
       "image_url": "https://www.musee-matisse-nice.org/wp-content/uploads/2021/02/Musee-Matisse-Nice-Partage.png",
       "category": "EXPO"
-    },
-    {
-      "title": "LOTO & BINGO Votre rendez-vous gagnant !",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1788012000000,
-      "ends_at": 1788019200000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/loto-bingo-votre-rendez-vous-gagnant",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/8/3/2/5/2225238-1-fre-FR/31ccc8b80a09-106231_img_01Alyac.jpg.webp",
-      "category": "AUTRE"
     },
     {
       "title": "Divin.e Fripon.ne",
@@ -378,21 +333,6 @@
       "category": "SPORT"
     },
     {
-      "title": "Stages pratiques amateurs - Gravure pointe sèche",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1788940800000,
-      "ends_at": 1794236400000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/stages-pratiques-amateurs-gravure-pointe-seche",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/4/0/4/0/2090404-1-fre-FR/6cd59d46916e-105998_img_0bApjju.jpg.webp",
-      "category": "AUTRE"
-    },
-    {
       "title": "Comité de lecture",
       "description": "Chaque année, les comédiens de la Troupe lisent en public les textes sélectionnés par leComité de lecture, présidé parMeFrançoise Assus-Juttner.AGENDA DES LECTURES• Cette année, lestextes retenus en 2026sont lus du 9 au 11 septembre 2026 à 19h30.• Letexte lauréat 2025,La dernière fois qu'on a vu Bernard StasideGrégoire Biseau, est mis en espace parMuriel Mayette-Holtzet interprété par les comédien",
       "place": "Les FranciscainsLa Cuisine",
@@ -498,36 +438,6 @@
       "category": "AUTRE"
     },
     {
-      "title": "Concert symphonique - B. de Billy - T. Mørk",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1789315200000,
-      "ends_at": 1789321500000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/concert-symphonique-b.-de-billy-t.-moerk",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/8/0/9/3/2143908-2-fre-FR/7bd60fc8be3e-106083_img_0MqANDn.jpg.webp",
-      "category": "CONCERT"
-    },
-    {
-      "title": "Saison 2026/2027 de l'Orchestre Philharmonique de Monte-Carlo",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1789315200000,
-      "ends_at": 1807128000000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/saison-2026-2027-de-l-orchestre-philharmonique-de-monte-carlo",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/4/6/3/9/2229364-1-fre-FR/fec7fddf8b69-106098_img_0nxlYGf.jpg.webp",
-      "category": "CONCERT"
-    },
-    {
       "title": "AtelierS de pratiques artistiques (6-11 ans) / LES MERCREDIS",
       "description": "",
       "place": "Nice",
@@ -618,21 +528,6 @@
       "category": "AUTRE"
     },
     {
-      "title": "Salon Monaco Business 2026",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1789713000000,
-      "ends_at": 1789747200000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/salon-monaco-business-2026",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/8/0/0/3/2053008-1-fre-FR/18691ce0bd48-TyrQDEw5L4v2GAeM.png.webp",
-      "category": "MARCHE"
-    },
-    {
       "title": "La dernière fois qu'on a vu Bernard Stasi",
       "description": "Chaque année, les comédiens de la Troupe lisent en public les textes sélectionnés par leComité de lecture, présidé parMeFrançoise Assus-Juttner.AGENDA DES LECTURES• Cette année, lestextes retenus en 2026sont lus du 9 au 11 septembre 2026 à 19h30.• Letexte lauréat 2025,La dernière fois qu'on a vu Bernard StasideGrégoire Biseau, est mis en espace parMuriel Mayette-Holtzet interprété par les comédien",
       "place": "Les FranciscainsLa Cuisine",
@@ -676,21 +571,6 @@
       "source_url": "https://www.musee-matisse-nice.org/fr/evenement/journees-europeennes-du-patrimoine-3/",
       "image_url": "https://www.musee-matisse-nice.org/wp-content/uploads/2021/02/Musee-Matisse-Nice-Partage.png",
       "category": "AUTRE"
-    },
-    {
-      "title": "Soirée Jeux - Initiation au Scrabble Duplicate avec le Monaco Scrabble Club",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1789837200000,
-      "ends_at": 1789848000000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/soiree-jeux-initiation-au-scrabble-duplicate-avec-le-monaco-scrabble-club",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/1/0/9/1/2171901-3-fre-FR/a7bd34d9d9d4-106162_img_0kSqEc5.png.webp",
-      "category": "NUIT"
     },
     {
       "title": "Destination Bijou Cagnes",
@@ -753,21 +633,6 @@
       "category": "AUTRE"
     },
     {
-      "title": "Stella Almondo",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1789920000000,
-      "ends_at": 1789929000000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/stella-almondo",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/5/1/7/1/2021715-49-fre-FR/d09d801e49bf-105848_img_0u5UfUv.jpg.webp.webp",
-      "category": "AUTRE"
-    },
-    {
       "title": "Chagall à l’oeuvre – Un prêt d’exception au musée",
       "description": "",
       "place": "ExpositionPeinture",
@@ -798,21 +663,6 @@
       "category": "EXPO"
     },
     {
-      "title": "Conférence Ludo Mémo : lorsque le jeu aide à stimuler notre cerveau, en collaboration avec le Centre Mémoire du CHPG",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1790181000000,
-      "ends_at": 1790186400000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/conference-ludo-memo-lorsque-le-jeu-aide-a-stimuler-notre-cerveau-en-collaboration-avec-le-centre-memoire-du-chpg",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/5/0/4/2/2172405-2-fre-FR/87d6b994a617-106165_img_0efws32.png.webp",
-      "category": "AUTRE"
-    },
-    {
       "title": "Niki de Saint Phalle. Vive l’Amour #6",
       "description": "",
       "place": "Nice",
@@ -825,21 +675,6 @@
       "source": "MAMAC",
       "source_url": "https://www.mamac-nice.org/exposition/niki-de-saint-phalle-vive-lamour-6/",
       "image_url": "https://www.mamac-nice.org/wp-content/uploads/2021/05/site-mamac.jpg",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Art and Luxury Fair",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1790251200000,
-      "ends_at": 1790362800000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/art-and-luxury-fair2",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/3/9/7/1/2231793-1-fre-FR/888c3ef16ae7-106245_img_0qGEvzQ.png.webp",
       "category": "AUTRE"
     },
     {
@@ -888,21 +723,6 @@
       "category": "THEATRE"
     },
     {
-      "title": "Roma de Jules Massenet",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1790431200000,
-      "ends_at": 1790440200000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/roma-de-jules-massenet",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/9/7/8/2/2192879-1-fre-FR/55f3d059aeab-106182_img_0UF4FpZ.jpg.webp",
-      "category": "AUTRE"
-    },
-    {
       "title": "Exposition Mathieu Forget",
       "description": "",
       "place": "ExpositionPhotographie",
@@ -930,21 +750,6 @@
       "source": "OT_NICE",
       "source_url": "https://www.explorenicecotedazur.com/evenement/henri-matisse-yves-saint-laurent-le-beau-la-mode-et-le-bonheur/",
       "image_url": "https://www.explorenicecotedazur.com/app/uploads/2026/06/Image_20260618_135423_566-scaled-335x335.webp",
-      "category": "AUTRE"
-    },
-    {
-      "title": "LUXE PACK MONACO",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1790546400000,
-      "ends_at": 1790719200000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/luxe-pack-monaco2",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/7/1/6/8/1968617-3-fre-FR/b378ffb17ca1-105602_img_0DAS9j9.jpg.webp",
       "category": "AUTRE"
     },
     {
@@ -976,21 +781,6 @@
       "source_url": "https://www.opera-nice.org/lieux/opera-nice-cote-dazur/",
       "image_url": "https://www.opera-nice.org/wp-content/uploads/2026/05/share-opera-nice-cote-dazur.jpg",
       "category": "AUTRE"
-    },
-    {
-      "title": "Récital piano - David Kadouch",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1790789400000,
-      "ends_at": 1790796000000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/recital-piano-david-kadouch",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/0/7/0/4/2144070-2-fre-FR/358ca8eaa449-106084_img_0IXpf2D.jpg.webp",
-      "category": "CONCERT"
     },
     {
       "title": "Comité de lecture",
@@ -1173,21 +963,6 @@
       "category": "CONCERT"
     },
     {
-      "title": "Thursday Live Sessions - Friedberg",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1792081800000,
-      "ends_at": 1792098000000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/thursday-live-sessions-friedberg",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/7/2/9/0/2030927-56-fre-FR/bfab6c1a1fc2-105893_img_0NQ8dGD.jpg.webp",
-      "category": "AUTRE"
-    },
-    {
       "title": "Ivanov",
       "description": "Ivanovnous confronte au destin contrarié d’un homme cultivé et sensible mais profondément épuisé par la vie : un propriétaire terrien ruiné, dont l’épouse tombe gravement malade. Enlisé dans une existence étouffée par les ragots, l’hypocrisie et les préjugés, le lucide Ivanov tombe amoureux de Sacha, la fille d’une de ses connaissances. Tiraillé entre la mort imminente de son épouse et l’exaltatio",
       "place": "Les FranciscainsLa Cuisine",
@@ -1201,21 +976,6 @@
       "source_url": "https://www.tnn.fr/fr/spectacles/saison-2026-2027/ivanov",
       "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-05-786-ivanov-slider.jpg",
       "category": "THEATRE"
-    },
-    {
-      "title": "Mariage à Monaco.",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1792171800000,
-      "ends_at": 1792171800000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/mariage-a-monaco",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/4/1/9/4/2224914-5-fre-FR/a2c791e98db0-106230_img_0Wiogwj.jpg.webp",
-      "category": "AUTRE"
     },
     {
       "title": "Ivanov",
@@ -1278,51 +1038,6 @@
       "category": "AUTRE"
     },
     {
-      "title": "Concert symphonique - L. Foster - D. Ránki - H. Brady - P. Peigner",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1792339200000,
-      "ends_at": 1792346400000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/concert-symphonique-l.-foster-d.-ranki-h.-brady-p.-peigner",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/8/9/4/0/2150498-2-fre-FR/6b8647c019b4-106101_img_04CPNs4.jpg.webp",
-      "category": "CONCERT"
-    },
-    {
-      "title": "SPORTEL MONACO",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1792360800000,
-      "ends_at": 1792533600000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/sportel-monaco2",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/3/9/2/8/1968293-1-fre-FR/eed1aa38c857-105596_img_0CeaJE8.jpg.webp",
-      "category": "SPORT"
-    },
-    {
-      "title": "Disney en concert - Suivez vos rêves",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1792857600000,
-      "ends_at": 1792866600000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/disney-en-concert-suivez-vos-reves",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/1/6/5/0/1970561-50-fre-FR/511ac30dc54e-105617_img_0Qqqbkp.jpg.webp",
-      "category": "CONCERT"
-    },
-    {
       "title": "TERRAVINI",
       "description": "",
       "place": "Nice",
@@ -1353,21 +1068,6 @@
       "category": "AUTRE"
     },
     {
-      "title": "Concert symphonique - L. Kuokman - R. Goosby",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1792944000000,
-      "ends_at": 1792951200000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/concert-symphonique-l.-kuokman-r.-goosby",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/0/6/6/0/2150660-2-fre-FR/9885f1d8686a-106102_img_0D1cs2R.jpg.webp",
-      "category": "CONCERT"
-    },
-    {
       "title": "LEGEND TOUR BY TRADE REPUBLIC",
       "description": "",
       "place": "Nice",
@@ -1381,21 +1081,6 @@
       "source_url": "https://www.nikaia.fr/programmation/legend-tour",
       "image_url": "https://www.nikaia.fr/files/2025-12/legendtour-webge-ne-rique-1080x1080.png",
       "category": "AUTRE"
-    },
-    {
-      "title": "Récital piano - Piotr Anderszewski",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1793212200000,
-      "ends_at": 1793218500000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/recital-piano-piotr-anderszewski",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/2/2/8/0/2150822-2-fre-FR/13e7d679da7c-106103_img_0h3A0GX.jpg.webp",
-      "category": "CONCERT"
     },
     {
       "title": "Trésors, charafi et quoi encore ?",
@@ -1473,21 +1158,6 @@
       "category": "AUTRE"
     },
     {
-      "title": "Concert Famille - Harry Potter et la sorcellerie dans la musique",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1793455200000,
-      "ends_at": 1793462340000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/concert-famille-harry-potter-et-la-sorcellerie-dans-la-musique",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/5/7/5/8/2168575-3-fre-FR/b5bc9dbb107e-106149_img_0Yho0qv.png.webp",
-      "category": "CONCERT"
-    },
-    {
       "title": "PATRICK BRUEL",
       "description": "",
       "place": "Nice",
@@ -1548,36 +1218,6 @@
       "category": "AUTRE"
     },
     {
-      "title": "art3f Monaco - Salon International d'Art Contemporain",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1794232800000,
-      "ends_at": 1789318800000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/art3f-monaco-salon-international-d-art-contemporain",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/8/2/7/2/1982728-1-fre-FR/90a313e2db04-105722_img_0sRoOb0.png.webp",
-      "category": "MARCHE"
-    },
-    {
-      "title": "L’exploration spatiale aujourd’hui et demain",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1794241800000,
-      "ends_at": 1794249000000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/l-exploration-spatiale-aujourd-hui-et-demain",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/3/3/2/1/2231233-1-fre-FR/be8c5e94d095-106234_img_0BPMRtx.png.webp",
-      "category": "AUTRE"
-    },
-    {
       "title": "Comité de lecture",
       "description": "Chaque année, les comédiens de la Troupe lisent en public les textes sélectionnés par leComité de lecture, présidé parMeFrançoise Assus-Juttner.AGENDA DES LECTURES• Cette année, lestextes retenus en 2026sont lus du 9 au 11 septembre 2026 à 19h30.• Letexte lauréat 2025,La dernière fois qu'on a vu Bernard StasideGrégoire Biseau, est mis en espace parMuriel Mayette-Holtzet interprété par les comédien",
       "place": "Les FranciscainsLa Cuisine",
@@ -1591,21 +1231,6 @@
       "source_url": "https://www.tnn.fr/fr/evenements/comite-lecture-2026",
       "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-07-824-comite-lecture-2026-slider.jpg",
       "category": "THEATRE"
-    },
-    {
-      "title": "MONACO CARD SHOW",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1794261600000,
-      "ends_at": 1796774400000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/monaco-card-show2",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/8/1/0/8/1998018-3-fre-FR/bb1f92cc012b-105781_img_0VRqlKI.jpg.webp",
-      "category": "AUTRE"
     },
     {
       "title": "« Cerises aux cœurs » : exposition de sculptures en plein air de Jean-Louis Landraud",
@@ -1636,51 +1261,6 @@
       "source_url": "https://www.opera-nice.org/lieux/foyer-montserrat-caballe-de-lopera/",
       "image_url": "https://www.opera-nice.org/wp-content/uploads/2026/05/share-opera-nice-cote-dazur.jpg",
       "category": "AUTRE"
-    },
-    {
-      "title": "La légende du Cristal magique",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1794319200000,
-      "ends_at": 1794322800000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/la-legende-du-cristal-magique",
-      "image_url": null,
-      "category": "AUTRE"
-    },
-    {
-      "title": "Une heure à t'attendre",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1794322800000,
-      "ends_at": 1794327000000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/une-heure-a-t-attendre",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/7/2/5/3/2193527-1-fre-FR/b8e722c35047-106186_img_03ly3k2.jpg.webp",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Concert symphonique - K. Solomnishvili - J. L. Prats",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1794326400000,
-      "ends_at": 1794334500000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/concert-symphonique-k.-solomnishvili-j.-l.-prats",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/6/3/3/0/2150336-2-fre-FR/b89dad0d303c-106100_img_0fhZhG0.jpg.webp",
-      "category": "CONCERT"
     },
     {
       "title": "BRODINSKI",
@@ -2056,21 +1636,6 @@
       "source_url": "https://www.explorenicecotedazur.com/evenement/concerts-a-la-trinquette-jazz-club/",
       "image_url": "https://cdn.iris-etourism.io/media/nice/6802208/da78cfd5b872e3d8-335x335.webp",
       "category": "CONCERT"
-    },
-    {
-      "title": "Les ateliers CycloShow",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1796801400000,
-      "ends_at": 1796827500000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/les-ateliers-cycloshow2",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/9/9/0/5/2205099-1-fre-FR/503287739919-106191_img_0jWSxzs.jpeg.webp",
-      "category": "AUTRE"
     },
     {
       "title": "Résurrection",
