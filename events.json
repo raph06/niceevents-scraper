@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-25T00:50:00Z",
+  "scraped_at": "2026-08-25T03:47:24Z",
   "count": 245,
   "events": [
     {
@@ -89,7 +89,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/animation/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/07/pause-fraicheur.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
