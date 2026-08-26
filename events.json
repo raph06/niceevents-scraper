@@ -1,22 +1,7 @@
 {
-  "scraped_at": "2026-08-26T16:16:55Z",
-  "count": 239,
+  "scraped_at": "2026-08-26T19:45:01Z",
+  "count": 238,
   "events": [
-    {
-      "title": "L'Héritier de village",
-      "description": "Créé en ouverture desContes d'apérodu 6 au 10 juillet 2026,L'Héritier de villageprend la route à la fin de l'été pour une tournée maralpine organisée par laMétropole Nice Côte d'Azurdans les communes suivantes :•La Bollène- Tennis de La Bollène-Vésubie • Le 19 août 20h30•Clans- Place Raymond Santucci • Le 20 août 20h30•Isola Village- Jardin d'enfants du clocher • Le 21 août 20h30•Levens- Complexe ",
-      "place": "Les FranciscainsLa Cuisine",
-      "city": "Nice",
-      "starts_at": 1787769000000,
-      "ends_at": 1787776200000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "TNN",
-      "source_url": "https://www.tnn.fr/fr/evenements/l-heritier-de-village-marivaux-2026-tournee",
-      "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-07-823-l-heritier-de-village-marivaux-2026-tournee-slider.jpg",
-      "category": "THEATRE"
-    },
     {
       "title": "L’Homme de Rio",
       "description": "",
@@ -29,7 +14,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/projection/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/06/lhomme-de-rio.jpg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
@@ -104,7 +89,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/05/riviera-visite.jpg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
@@ -119,7 +104,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/atelier/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/02/ateliers-4ans-matisse-250x250.jpg",
       "category": "AUTRE"
     },
     {
