@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-28T23:53:34Z",
+  "scraped_at": "2026-08-29T05:00:01Z",
   "count": 238,
   "events": [
     {
@@ -44,7 +44,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/atelier/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/02/matisse-ateliers-16ans-250x250.jpg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
@@ -89,7 +89,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/04/ysl-matisse.jpg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "EXPO"
     },
     {
@@ -269,22 +269,7 @@
       "price_val": 0,
       "source": "MONACO",
       "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/ligue-1-as-monaco-o.-marseille",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/7/1/0/9/2239017-1-fre-FR/d5d6439c26d0-106248_img_0tB0gbS.png.webp",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Clos de boules de Roquebillière",
-      "description": "",
-      "place": "Concours / TournoisSport divers",
-      "city": "Nice",
-      "starts_at": 1788127200000,
-      "ends_at": 1788134400000,
-      "has_time": false,
-      "price": "—",
-      "price_val": 0,
-      "source": "OT_NICE",
-      "source_url": "https://www.explorenicecotedazur.com/evenement/clos-de-boules-de-roquebilliere/",
-      "image_url": "https://cdn.iris-etourism.io/media/nice/7862745/c6cad7850447841f-335x335.webp",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/7/1/0/9/2239017-3-fre-FR/1f0a5e983712-106248_img_0TcN3OZ.png.webp",
       "category": "AUTRE"
     },
     {
@@ -301,6 +286,21 @@
       "source_url": "https://www.explorenicecotedazur.com/evenement/soirees-estivales-2026/",
       "image_url": "https://www.explorenicecotedazur.com/app/uploads/2026/07/soirees-estivales-335x335.png",
       "category": "NUIT"
+    },
+    {
+      "title": "Exposition sur l’Authion par l’association L ‘AMONT",
+      "description": "",
+      "place": "Exposition",
+      "city": "Nice",
+      "starts_at": 1788127200000,
+      "ends_at": 1788134400000,
+      "has_time": false,
+      "price": "—",
+      "price_val": 0,
+      "source": "OT_NICE",
+      "source_url": "https://www.explorenicecotedazur.com/evenement/exposition-sur-lauthion-par-lassociation-l-amont/",
+      "image_url": "https://cdn.iris-etourism.io/media/nice/7290080/d81bb4ed0412de23-335x335.webp",
+      "category": "EXPO"
     },
     {
       "title": "Visite flash",
@@ -734,7 +734,7 @@
       "price_val": 0,
       "source": "MONACO",
       "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/ligue-1-as-monaco-rc-lens",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/1/4/3/9/2239341-1-fre-FR/8d4a5ceaab3e-106249_img_0ZsMDLg.png.webp",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/1/4/3/9/2239341-3-fre-FR/21b9820f5a44-106249_img_0smr0xx.png.webp",
       "category": "AUTRE"
     },
     {
@@ -1154,7 +1154,7 @@
       "price_val": 0,
       "source": "MONACO",
       "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/ligue-1-as-monaco-toulouse-fc",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/5/6/6/9/2239665-1-fre-FR/3d2a5151fc72-106250_img_0iVP2NJ.png.webp",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/5/6/6/9/2239665-3-fre-FR/641e328c79c8-106250_img_0onlhbb.png.webp",
       "category": "AUTRE"
     },
     {
