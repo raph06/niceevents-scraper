@@ -1,37 +1,7 @@
 {
-  "scraped_at": "2026-08-29T16:32:12Z",
-  "count": 233,
+  "scraped_at": "2026-08-29T20:18:33Z",
+  "count": 232,
   "events": [
-    {
-      "title": "Divin.e Fripon.ne",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1788019200000,
-      "ends_at": 1788026400000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "INFOLOCALE",
-      "source_url": "https://www.infolocale.fr/evenements?age%5B0%5D=Tout%20Public&age%5B1%5D=Adulte&age%5B2%5D=Adolescent&age%5B3%5D=Enfant&age%5B4%5D=Bebe&commune=06088",
-      "image_url": "https://photos.infolocale.fr/infolocale/annonce/2026/0525/8897175/_1.jpg?rnd=20260525163216",
-      "category": "FOOD"
-    },
-    {
-      "title": "L'Héritier de village",
-      "description": "Créé en ouverture desContes d'apérodu 6 au 10 juillet 2026,L'Héritier de villageprend la route à la fin de l'été pour une tournée maralpine organisée par laMétropole Nice Côte d'Azurdans les communes suivantes :•La Bollène- Tennis de La Bollène-Vésubie • Le 19 août 20h30•Clans- Place Raymond Santucci • Le 20 août 20h30•Isola Village- Jardin d'enfants du clocher • Le 21 août 20h30•Levens- Complexe ",
-      "place": "Les FranciscainsLa Cuisine",
-      "city": "Nice",
-      "starts_at": 1788028200000,
-      "ends_at": 1788035400000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "TNN",
-      "source_url": "https://www.tnn.fr/fr/evenements/l-heritier-de-village-marivaux-2026-tournee",
-      "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-07-823-l-heritier-de-village-marivaux-2026-tournee-slider.jpg",
-      "category": "THEATRE"
-    },
     {
       "title": "Exposition Ramiro Arrue",
       "description": "",
@@ -89,7 +59,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/05/evenement-crypte-250x250.jpg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
@@ -164,7 +134,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/rencontre/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/06/bp-664515-plage-adaptee-handiplage.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
@@ -555,6 +525,21 @@
       "source": "MAMAC",
       "source_url": "https://www.mamac-nice.org/evenement/journees-europeennes-du-patrimoine-2026/",
       "image_url": "https://www.mamac-nice.org/wp-content/uploads/2021/05/site-mamac.jpg",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Voyage au cœur du Lyrique",
+      "description": "",
+      "place": "Monaco",
+      "city": "Nice",
+      "starts_at": 1789768800000,
+      "ends_at": 1789776000000,
+      "has_time": false,
+      "price": "—",
+      "price_val": 0,
+      "source": "INFOLOCALE",
+      "source_url": "https://www.infolocale.fr/evenements?age%5B0%5D=Tout%20Public&age%5B1%5D=Adulte&age%5B2%5D=Adolescent&age%5B3%5D=Enfant&age%5B4%5D=Bebe&commune=06088",
+      "image_url": "https://photos.infolocale.fr/infolocale/annonce/2026/0817/8956370/_1.jpg?rnd=20260819113218",
       "category": "AUTRE"
     },
     {
