@@ -1,52 +1,7 @@
 {
-  "scraped_at": "2026-08-29T20:18:33Z",
-  "count": 232,
+  "scraped_at": "2026-08-29T23:01:52Z",
+  "count": 230,
   "events": [
-    {
-      "title": "Exposition Ramiro Arrue",
-      "description": "",
-      "place": "ExpositionArts plastiques / graphiques",
-      "city": "Nice",
-      "starts_at": 1788040800000,
-      "ends_at": 1788048000000,
-      "has_time": false,
-      "price": "—",
-      "price_val": 0,
-      "source": "OT_NICE",
-      "source_url": "https://www.explorenicecotedazur.com/evenement/exposition-ramiro-arrue/",
-      "image_url": "https://cdn.iris-etourism.io/media/nice/7842554/6d3b0ade376d1524-335x335.webp",
-      "category": "EXPO"
-    },
-    {
-      "title": "Exposition éphémère",
-      "description": "",
-      "place": "ExpositionPeinture",
-      "city": "Nice",
-      "starts_at": 1788040800000,
-      "ends_at": 1788048000000,
-      "has_time": false,
-      "price": "—",
-      "price_val": 0,
-      "source": "OT_NICE",
-      "source_url": "https://www.explorenicecotedazur.com/evenement/exposition-ephemere/",
-      "image_url": "https://cdn.iris-etourism.io/media/nice/7834344/2cde94b04d3c42a4-335x335.webp",
-      "category": "EXPO"
-    },
-    {
-      "title": "Puzzle participatif de l’été !",
-      "description": "",
-      "place": "Vence",
-      "city": "Nice",
-      "starts_at": 1788040800000,
-      "ends_at": 1788048000000,
-      "has_time": false,
-      "price": "—",
-      "price_val": 0,
-      "source": "OT_NICE",
-      "source_url": "https://www.explorenicecotedazur.com/evenement/puzzle-participatif-de-lete/",
-      "image_url": "https://cdn.iris-etourism.io/media/nice/7850640/22d92d43c0d6ec78-335x335.webp",
-      "category": "AUTRE"
-    },
     {
       "title": "Visite guidée de la Crypte",
       "description": "",
@@ -59,7 +14,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/05/evenement-crypte-250x250.jpg",
       "category": "AUTRE"
     },
     {
@@ -134,7 +89,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/rencontre/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/06/bp-664515-plage-adaptee-handiplage.png",
       "category": "AUTRE"
     },
     {
@@ -1261,6 +1216,21 @@
       "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/concert-symphonique-l.-foster-d.-ranki-h.-brady-p.-peigner",
       "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/8/9/4/0/2150498-2-fre-FR/6b8647c019b4-106101_img_04CPNs4.jpg.webp",
       "category": "CONCERT"
+    },
+    {
+      "title": "SPORTEL AWARDS",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1792360800000,
+      "ends_at": 1792368000000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/sportel-awards2",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/3/5/6/1/2251653-1-fre-FR/0487722974ce-106287_img_0Qm1UjW.jpg.webp",
+      "category": "SPORT"
     },
     {
       "title": "TERRAVINI",
