@@ -1,67 +1,7 @@
 {
-  "scraped_at": "2026-08-29T12:06:09Z",
-  "count": 235,
+  "scraped_at": "2026-08-29T16:32:12Z",
+  "count": 233,
   "events": [
-    {
-      "title": "Visite guidée de la Crypte",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1788004800000,
-      "ends_at": 1788012000000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/05/evenement-crypte-250x250.jpg",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Tour Bellanda – Le Bellandarium",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1788004800000,
-      "ends_at": 1788012000000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/04/611891-tour-bellanda-250x250.jpg",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Projections",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1788006600000,
-      "ends_at": 1788013800000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/projection/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/03/projections.jpg",
-      "category": "CINEMA"
-    },
-    {
-      "title": "LOTO & BINGO Votre rendez-vous gagnant !",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1788012000000,
-      "ends_at": 1788019200000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/loto-bingo-votre-rendez-vous-gagnant",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/8/3/2/5/2225238-1-fre-FR/31ccc8b80a09-106231_img_01Alyac.jpg.webp",
-      "category": "AUTRE"
-    },
     {
       "title": "Divin.e Fripon.ne",
       "description": "",
@@ -135,6 +75,21 @@
       "source": "OT_NICE",
       "source_url": "https://www.explorenicecotedazur.com/evenement/puzzle-participatif-de-lete/",
       "image_url": "https://cdn.iris-etourism.io/media/nice/7850640/22d92d43c0d6ec78-335x335.webp",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Visite guidée de la Crypte",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1788091200000,
+      "ends_at": 1788098400000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/05/evenement-crypte-250x250.jpg",
       "category": "AUTRE"
     },
     {
@@ -1306,6 +1261,21 @@
       "source_url": "https://www.explorenicecotedazur.com/evenement/africa-pop/",
       "image_url": "https://cdn.iris-etourism.io/media/nice/7796005/fe6268e60e190285-335x335.webp",
       "category": "AUTRE"
+    },
+    {
+      "title": "Concert symphonique - L. Foster - D. Ránki - H. Brady - P. Peigner",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1792339200000,
+      "ends_at": 1792346400000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/concert-symphonique-l.-foster-d.-ranki-h.-brady-p.-peigner",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/8/9/4/0/2150498-2-fre-FR/6b8647c019b4-106101_img_04CPNs4.jpg.webp",
+      "category": "CONCERT"
     },
     {
       "title": "TERRAVINI",
