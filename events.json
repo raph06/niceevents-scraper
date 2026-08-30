@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-30T08:50:34Z",
+  "scraped_at": "2026-08-30T14:13:56Z",
   "count": 231,
   "events": [
     {
@@ -7,8 +7,8 @@
       "description": "",
       "place": "Nice",
       "city": "Nice",
-      "starts_at": 1788091200000,
-      "ends_at": 1788098400000,
+      "starts_at": 1788098400000,
+      "ends_at": 1788105600000,
       "has_time": true,
       "price": "—",
       "price_val": 0,
@@ -89,7 +89,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/rencontre/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/06/bp-664515-plage-adaptee-handiplage.png",
       "category": "AUTRE"
     },
     {
