@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-30T02:43:08Z",
+  "scraped_at": "2026-08-30T08:50:34Z",
   "count": 231,
   "events": [
     {
@@ -74,7 +74,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/04/ysl-matisse.jpg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
@@ -89,7 +89,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/rencontre/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/06/bp-664515-plage-adaptee-handiplage.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
@@ -134,7 +134,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/animation/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/07/pause-fraicheur.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
@@ -1109,7 +1109,7 @@
       "price_val": 0,
       "source": "MONACO",
       "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/thursday-live-sessions-friedberg",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/7/2/9/0/2030927-57-fre-FR/74a2b51b5ef7-105893_img_0RwPxk3.jpg.webp",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/7/2/9/0/2030927-58-fre-FR/6819b33b33ee-105893_img_0BeWIlb.jpg.webp",
       "category": "AUTRE"
     },
     {
@@ -1139,7 +1139,7 @@
       "price_val": 0,
       "source": "MONACO",
       "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/mariage-a-monaco",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/4/1/9/4/2224914-7-fre-FR/a68f3e87c16d-106230_img_0NMzeOx.jpg.webp",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/4/1/9/4/2224914-9-fre-FR/a6506b163590-106230_img_0nfhI3T.jpg.webp",
       "category": "AUTRE"
     },
     {
