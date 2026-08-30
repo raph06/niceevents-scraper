@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-29T23:01:52Z",
-  "count": 230,
+  "scraped_at": "2026-08-30T02:43:08Z",
+  "count": 231,
   "events": [
     {
       "title": "Visite guidée de la Crypte",
@@ -1336,6 +1336,21 @@
       "source_url": "https://www.nikaia.fr/programmation/laura-pausini",
       "image_url": "https://www.nikaia.fr/files/2025-09/laura-pausini-iocanto-visuelweb-post-1080x1080-nice.jpg",
       "category": "AUTRE"
+    },
+    {
+      "title": "Exposition de l’été « L’Absurde et Le Rêve »",
+      "description": "",
+      "place": "ExpositionArt moderne / contemporain",
+      "city": "Nice",
+      "starts_at": 1793401200000,
+      "ends_at": 1793408400000,
+      "has_time": false,
+      "price": "—",
+      "price_val": 0,
+      "source": "OT_NICE",
+      "source_url": "https://www.explorenicecotedazur.com/evenement/exposition-de-lete-labsurde-et-le-reve/",
+      "image_url": "https://cdn.iris-etourism.io/media/nice/7823335/fe33331032c8400a-335x335.webp",
+      "category": "EXPO"
     },
     {
       "title": "Goûter sur scène",
