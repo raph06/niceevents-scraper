@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-30T23:08:03Z",
-  "count": 227,
+  "scraped_at": "2026-08-31T02:37:24Z",
+  "count": 228,
   "events": [
     {
       "title": "Visite flash",
@@ -2776,6 +2776,21 @@
       "source_url": "https://www.tnn.fr/fr/spectacles/saison-2026-2027/romeo-et-juliette",
       "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-05-812-romeo-et-juliette-slider.jpg",
       "category": "THEATRE"
+    },
+    {
+      "title": "Exposition – Les 80 ans du Château-musée Grimaldi",
+      "description": "",
+      "place": "Exposition",
+      "city": "Nice",
+      "starts_at": 1806530400000,
+      "ends_at": 1806537600000,
+      "has_time": false,
+      "price": "—",
+      "price_val": 0,
+      "source": "OT_NICE",
+      "source_url": "https://www.explorenicecotedazur.com/evenement/exposition-les-80-ans-du-chateau-musee-grimaldi/",
+      "image_url": "https://cdn.iris-etourism.io/media/nice/7823534/10eb689cfbad3cc5-335x335.webp",
+      "category": "EXPO"
     },
     {
       "title": "Instabile",
