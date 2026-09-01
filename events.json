@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-01T00:20:36Z",
-  "count": 221,
+  "scraped_at": "2026-09-01T08:14:01Z",
+  "count": 222,
   "events": [
     {
       "title": "Comité de lecture",
@@ -1066,6 +1066,21 @@
       "source_url": "https://www.explorenicecotedazur.com/evenement/africa-pop/",
       "image_url": "https://cdn.iris-etourism.io/media/nice/7796005/fe6268e60e190285-335x335.webp",
       "category": "AUTRE"
+    },
+    {
+      "title": "Exposition Lilette et Gilbert Valentin « Quand la terre devient lumière »",
+      "description": "",
+      "place": "Exposition",
+      "city": "Nice",
+      "starts_at": 1792274400000,
+      "ends_at": 1792281600000,
+      "has_time": false,
+      "price": "—",
+      "price_val": 0,
+      "source": "OT_NICE",
+      "source_url": "https://www.explorenicecotedazur.com/evenement/exposition-lilette-et-gilbert-valentin-quand-la-terre-devient-lumiere/",
+      "image_url": "https://cdn.iris-etourism.io/media/nice/7819601/424bfb7b9534ea7f-335x335.webp",
+      "category": "EXPO"
     },
     {
       "title": "Concert symphonique - L. Foster - D. Ránki - H. Brady - P. Peigner",
