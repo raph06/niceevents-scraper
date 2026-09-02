@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-02T07:33:57Z",
-  "count": 220,
+  "scraped_at": "2026-09-02T13:12:31Z",
+  "count": 221,
   "events": [
     {
       "title": "Comité de lecture",
@@ -1756,6 +1756,21 @@
       "source_url": "https://www.tnn.fr/fr/spectacles/saison-2026-2027/orgueilleuse",
       "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-05-789-orgueilleuse-slider.jpg",
       "category": "THEATRE"
+    },
+    {
+      "title": "Monstre Pente - Exposition personnelle de Camille Llobet",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1795885200000,
+      "ends_at": 1795892400000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "INFOLOCALE",
+      "source_url": "https://www.infolocale.fr/evenements?age%5B0%5D=Tout%20Public&age%5B1%5D=Adulte&age%5B2%5D=Adolescent&age%5B3%5D=Enfant&age%5B4%5D=Bebe&commune=06088",
+      "image_url": "https://photos.infolocale.fr/infolocale/annonce/2026/0902/8969108/_1.jpg?rnd=20260902121747",
+      "category": "EXPO"
     },
     {
       "title": "Concerts à la Trinquette Jazz Club",
