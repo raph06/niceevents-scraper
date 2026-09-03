@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-03T18:21:54Z",
-  "count": 220,
+  "scraped_at": "2026-09-03T23:00:24Z",
+  "count": 221,
   "events": [
     {
       "title": "Comité de lecture",
@@ -1395,6 +1395,21 @@
       "source": "MONACO",
       "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/la-legende-du-cristal-magique",
       "image_url": null,
+      "category": "AUTRE"
+    },
+    {
+      "title": "Une heure à t'attendre",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1794322800000,
+      "ends_at": 1794327000000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/une-heure-a-t-attendre",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/7/2/5/3/2193527-1-fre-FR/b8e722c35047-106186_img_03ly3k2.jpg.webp",
       "category": "AUTRE"
     },
     {
