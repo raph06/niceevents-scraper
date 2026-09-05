@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-05T02:14:49Z",
+  "scraped_at": "2026-09-05T07:20:39Z",
   "count": 223,
   "events": [
     {
@@ -873,6 +873,21 @@
       "category": "THEATRE"
     },
     {
+      "title": "Le tout dans le tout, expérience culinaire de Soline Bredin",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1791561600000,
+      "ends_at": 1791572400000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/le-tout-dans-le-tout-experience-culinaire-de-soline-bredin",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/4/1/4/0/2260414-1-fre-FR/e3073515d4c9-106334_img_0uoJkMs.jpg.webp",
+      "category": "AUTRE"
+    },
+    {
       "title": "Comité de lecture",
       "description": "Chaque année, les comédiens de la Troupe lisent en public les textes sélectionnés par leComité de lecture, présidé parMeFrançoise Assus-Juttner.AGENDA DES LECTURES• Cette année, lestextes retenus en 2026sont lus du 9 au 11 septembre 2026 à 19h30.• Letexte lauréat 2025,La dernière fois qu'on a vu Bernard StasideGrégoire Biseau, est mis en espace parMuriel Mayette-Holtzet interprété par les comédien",
       "place": "Les FranciscainsLa Cuisine",
@@ -930,21 +945,6 @@
       "source": "NIKAIA",
       "source_url": "https://www.nikaia.fr/programmation/la-dame-de-pierre-1",
       "image_url": "https://www.nikaia.fr/files/2025-10/1080x1080.jpeg",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Ligue 1: AS MONACO - TOULOUSE FC",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1791657900000,
-      "ends_at": 1791665100000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/ligue-1-as-monaco-toulouse-fc",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/5/6/6/9/2239665-5-fre-FR/e11bc735fd61-106250_img_0FdZvGR.png.webp",
       "category": "AUTRE"
     },
     {
