@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-04T22:45:32Z",
-  "count": 222,
+  "scraped_at": "2026-09-05T02:14:49Z",
+  "count": 223,
   "events": [
     {
       "title": "Comité de lecture",
@@ -750,6 +750,21 @@
       "source": "OT_NICE",
       "source_url": "https://www.explorenicecotedazur.com/evenement/staring-at-the-sun/",
       "image_url": "https://cdn.iris-etourism.io/media/nice/7905091/a4f283510a5856ee-335x335.webp",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Là où le jour cède de Dany Albiach",
+      "description": "",
+      "place": "Exposition",
+      "city": "Nice",
+      "starts_at": 1790460000000,
+      "ends_at": 1790467200000,
+      "has_time": false,
+      "price": "—",
+      "price_val": 0,
+      "source": "OT_NICE",
+      "source_url": "https://www.explorenicecotedazur.com/evenement/la-ou-le-jour-cede-de-dany-albiach/",
+      "image_url": "https://cdn.iris-etourism.io/media/nice/7905105/685e961a131777aa-335x335.webp",
       "category": "AUTRE"
     },
     {
