@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-06T07:33:09Z",
-  "count": 227,
+  "scraped_at": "2026-09-06T12:34:58Z",
+  "count": 229,
   "events": [
     {
       "title": "Comité de lecture",
@@ -46,6 +46,36 @@
       "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
       "image_url": "https://www.nice.fr/wp-content/uploads/2025/04/611891-tour-bellanda-250x250.jpg",
       "category": "AUTRE"
+    },
+    {
+      "title": "Jardin aquatique",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1788938100000,
+      "ends_at": 1788945300000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/animation/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Parcours Vélo enfant",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1788939000000,
+      "ends_at": 1788946200000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/atelier/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "category": "FAMILLE"
     },
     {
       "title": "Stages pratiques amateurs - Gravure pointe sèche",
