@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-07T14:44:00Z",
-  "count": 242,
+  "scraped_at": "2026-09-07T19:01:42Z",
+  "count": 226,
   "events": [
     {
       "title": "Comité de lecture",
@@ -89,7 +89,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/04/centre-du-patrimoine-charafi-250x250-1.jpg",
       "category": "EXPO"
     },
     {
@@ -258,51 +258,6 @@
       "category": "AUTRE"
     },
     {
-      "title": "Concert symphonique - B. de Billy - T. Mørk",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1789315200000,
-      "ends_at": 1789321500000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/concert-symphonique-b.-de-billy-t.-moerk",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/8/0/9/3/2143908-2-fre-FR/7bd60fc8be3e-106083_img_0MqANDn.jpg.webp",
-      "category": "CONCERT"
-    },
-    {
-      "title": "Saison 2026/2027 de l'Orchestre Philharmonique de Monte-Carlo",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1789315200000,
-      "ends_at": 1807128000000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/saison-2026-2027-de-l-orchestre-philharmonique-de-monte-carlo",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/4/6/3/9/2229364-1-fre-FR/fec7fddf8b69-106098_img_0nxlYGf.jpg.webp",
-      "category": "CONCERT"
-    },
-    {
-      "title": "Monaco Bouge Pour Ceux Qui Oublient",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1789489200000,
-      "ends_at": 1789990200000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/monaco-bouge-pour-ceux-qui-oublient",
-      "image_url": null,
-      "category": "AUTRE"
-    },
-    {
       "title": "AtelierS de pratiques artistiques (6-11 ans) / LES MERCREDIS",
       "description": "",
       "place": "Nice",
@@ -315,21 +270,6 @@
       "source": "MATISSE",
       "source_url": "https://www.musee-matisse-nice.org/fr/evenement/ateliers-de-pratiques-artistiques-6-11-ans-les-mercredis/",
       "image_url": "https://www.musee-matisse-nice.org/wp-content/uploads/2021/02/Musee-Matisse-Nice-Partage.png",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Le Calme sous Pression: apnéiste Simona Auteri",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1789574400000,
-      "ends_at": 1789581600000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/le-calme-sous-pression-apneiste-simona-auteri",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/7/1/1/7/2247117-1-fre-FR/5f12f0c19bbf-106273_img_0FWrS53.png.webp",
       "category": "AUTRE"
     },
     {
@@ -408,21 +348,6 @@
       "category": "AUTRE"
     },
     {
-      "title": "Salon Monaco Business 2026",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1789713000000,
-      "ends_at": 1789747200000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/salon-monaco-business-2026",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/8/0/0/3/2053008-1-fre-FR/18691ce0bd48-TyrQDEw5L4v2GAeM.png.webp",
-      "category": "MARCHE"
-    },
-    {
       "title": "La dernière fois qu'on a vu Bernard Stasi",
       "description": "Chaque année, les comédiens de la Troupe lisent en public les textes sélectionnés par leComité de lecture, présidé parMeFrançoise Assus-Juttner.AGENDA DES LECTURES• Cette année, lestextes retenus en 2026sont lus du 9 au 11 septembre 2026 à 19h30.• Letexte lauréat 2025,La dernière fois qu'on a vu Bernard StasideGrégoire Biseau, est mis en espace parMuriel Mayette-Holtzet interprété par les comédien",
       "place": "Les FranciscainsLa Cuisine",
@@ -436,21 +361,6 @@
       "source_url": "https://www.tnn.fr/fr/evenements/comite-lecture-laureat-2025",
       "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-06-822-comite-lecture-laureat-2025-slider.jpg",
       "category": "THEATRE"
-    },
-    {
-      "title": "Ligue 1: AS MONACO - RC LENS",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1789757100000,
-      "ends_at": 1789764300000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/ligue-1-as-monaco-rc-lens",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/1/4/3/9/2239341-5-fre-FR/a741b2e60b2e-106249_img_0E4ecXA.png.webp",
-      "category": "AUTRE"
     },
     {
       "title": "Journées Européennes du Patrimoine 2026",
@@ -483,36 +393,6 @@
       "category": "AUTRE"
     },
     {
-      "title": "Monaco Trott’n’Roll #12",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1789801200000,
-      "ends_at": 1789833600000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/monaco-trott-n-roll-12",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/4/8/6/2/2252684-1-fre-FR/dd7bcc9c2eef-106293_img_0NgvnFD.png.webp",
-      "category": "AUTRE"
-    },
-    {
-      "title": "World Cleanup Day 2026",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1789803000000,
-      "ends_at": 1789810200000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/world-cleanup-day-2026",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/2/3/2/6/2256232-1-fre-FR/2d615f8e7b9b-106306_img_0cGlLwz.jpg.webp",
-      "category": "AUTRE"
-    },
-    {
       "title": "Journées européennes du Patrimoine",
       "description": "",
       "place": "Nice",
@@ -526,36 +406,6 @@
       "source_url": "https://www.musee-matisse-nice.org/fr/evenement/journees-europeennes-du-patrimoine-3/",
       "image_url": "https://www.musee-matisse-nice.org/wp-content/uploads/2021/02/Musee-Matisse-Nice-Partage.png",
       "category": "AUTRE"
-    },
-    {
-      "title": "Soirée Jeux - Initiation au Scrabble Duplicate avec le Monaco Scrabble Club",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1789837200000,
-      "ends_at": 1789848000000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/soiree-jeux-initiation-au-scrabble-duplicate-avec-le-monaco-scrabble-club",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/1/0/9/1/2171901-3-fre-FR/a7bd34d9d9d4-106162_img_0kSqEc5.png.webp",
-      "category": "NUIT"
-    },
-    {
-      "title": "Les Concerts de la Voûte : Voyage au Cœur du Lyrique",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1789837200000,
-      "ends_at": 1789846200000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/les-concerts-de-la-voute-voyage-au-caeur-du-lyrique",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/1/4/4/7/2247441-1-fre-FR/9836d0ac7276-106274_img_0iI7QSe.png.webp",
-      "category": "CONCERT"
     },
     {
       "title": "Destination Bijou Cagnes",
@@ -618,21 +468,6 @@
       "category": "AUTRE"
     },
     {
-      "title": "Stella Almondo",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1789920000000,
-      "ends_at": 1789929000000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/stella-almondo",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/5/1/7/1/2021715-49-fre-FR/d09d801e49bf-105848_img_0u5UfUv.jpg.webp.webp",
-      "category": "AUTRE"
-    },
-    {
       "title": "Chagall à l’oeuvre – Un prêt d’exception au musée",
       "description": "",
       "place": "ExpositionPeinture",
@@ -663,36 +498,6 @@
       "category": "EXPO"
     },
     {
-      "title": "35e Monaco Yacht Show",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1790150400000,
-      "ends_at": 1790440200000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/35e-monaco-yacht-show",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/5/6/7/7/2247765-1-fre-FR/322a7759e9a4-106275_img_0vfi0lC.png.webp",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Conférence Ludo Mémo : lorsque le jeu aide à stimuler notre cerveau, en collaboration avec le Centre Mémoire du CHPG",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1790181000000,
-      "ends_at": 1790186400000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/conference-ludo-memo-lorsque-le-jeu-aide-a-stimuler-notre-cerveau-en-collaboration-avec-le-centre-memoire-du-chpg",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/5/0/4/2/2172405-2-fre-FR/87d6b994a617-106165_img_0efws32.png.webp",
-      "category": "AUTRE"
-    },
-    {
       "title": "Niki de Saint Phalle. Vive l’Amour #6",
       "description": "",
       "place": "Nice",
@@ -705,21 +510,6 @@
       "source": "MAMAC",
       "source_url": "https://www.mamac-nice.org/exposition/niki-de-saint-phalle-vive-lamour-6/",
       "image_url": "https://www.mamac-nice.org/wp-content/uploads/2021/05/site-mamac.jpg",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Art and Luxury Fair",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1790251200000,
-      "ends_at": 1790362800000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/art-and-luxury-fair2",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/3/9/7/1/2231793-1-fre-FR/888c3ef16ae7-106245_img_0qGEvzQ.png.webp",
       "category": "AUTRE"
     },
     {
@@ -2073,36 +1863,6 @@
       "category": "AUTRE"
     },
     {
-      "title": "Munegu Repair Café",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1796819400000,
-      "ends_at": 1796832000000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/munegu-repair-cafe6",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/9/3/1/2/2252139-5-fre-FR/82b38705e999-106290_img_0wYJqOd.jpg.webp",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Le Bal du Marché",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1796837400000,
-      "ends_at": 1796844600000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/le-bal-du-marche2",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/8/0/9/5/2255908-1-fre-FR/9a3f4b47822d-106304_img_0n5KfIM.jpg.webp",
-      "category": "MARCHE"
-    },
-    {
       "title": "Conversation intime avec Jean-François Sivadier",
       "description": "Jean-François Sivadierest un comédien, auteur et metteur en scène incontournable du paysage théâtral et lyrique français. Formé au Théâtre National de Strasbourg, il s'impose par des mises en scène pointues des grands textes du répertoire, et remporte le Molière du metteur en scène en 2005. Artiste complet, il déploie également son talent à l'opéra et à la télévision. Il viendra partager avecCathe",
       "place": "Les FranciscainsLa Cuisine",
@@ -2689,7 +2449,7 @@
     },
     {
       "title": "Magistral.e.s",
-      "description": "AvecMagistral·e·s, Alexandra Cismondi imagine un théâtre d’audience participatif qui transformera la salle des Franciscains en cour d’assises. Nourrie de son immersion au cœur du monde judiciaire et inspirée d’un procès ayant participé à l’évolution de la loi sur le non-consentement des mineurs de moins de 15 ans, la metteuse en scène interroge le système : comment une société peut-elle exiger d’u",
+      "description": "AvecMagistral·e·s, Alexandra Cismondi imagine un théâtre d’audience qui transformera la salle des Franciscains en cour d’assises. Nourrie de son immersion au cœur du monde judiciaire et inspirée d’un procès ayant participé à l’évolution de la loi sur le non-consentement des mineurs de moins de 15 ans, la metteuse en scène interroge le système : comment une société peut-elle exiger d’une enfant qu’",
       "place": "Les FranciscainsLa Cuisine",
       "city": "Nice",
       "starts_at": 1801076400000,
@@ -2704,7 +2464,7 @@
     },
     {
       "title": "Magistral.e.s",
-      "description": "AvecMagistral·e·s, Alexandra Cismondi imagine un théâtre d’audience participatif qui transformera la salle des Franciscains en cour d’assises. Nourrie de son immersion au cœur du monde judiciaire et inspirée d’un procès ayant participé à l’évolution de la loi sur le non-consentement des mineurs de moins de 15 ans, la metteuse en scène interroge le système : comment une société peut-elle exiger d’u",
+      "description": "AvecMagistral·e·s, Alexandra Cismondi imagine un théâtre d’audience qui transformera la salle des Franciscains en cour d’assises. Nourrie de son immersion au cœur du monde judiciaire et inspirée d’un procès ayant participé à l’évolution de la loi sur le non-consentement des mineurs de moins de 15 ans, la metteuse en scène interroge le système : comment une société peut-elle exiger d’une enfant qu’",
       "place": "Les FranciscainsLa Cuisine",
       "city": "Nice",
       "starts_at": 1801141200000,
@@ -2719,7 +2479,7 @@
     },
     {
       "title": "Magistral.e.s",
-      "description": "AvecMagistral·e·s, Alexandra Cismondi imagine un théâtre d’audience participatif qui transformera la salle des Franciscains en cour d’assises. Nourrie de son immersion au cœur du monde judiciaire et inspirée d’un procès ayant participé à l’évolution de la loi sur le non-consentement des mineurs de moins de 15 ans, la metteuse en scène interroge le système : comment une société peut-elle exiger d’u",
+      "description": "AvecMagistral·e·s, Alexandra Cismondi imagine un théâtre d’audience qui transformera la salle des Franciscains en cour d’assises. Nourrie de son immersion au cœur du monde judiciaire et inspirée d’un procès ayant participé à l’évolution de la loi sur le non-consentement des mineurs de moins de 15 ans, la metteuse en scène interroge le système : comment une société peut-elle exiger d’une enfant qu’",
       "place": "Les FranciscainsLa Cuisine",
       "city": "Nice",
       "starts_at": 1801162800000,
@@ -2734,7 +2494,7 @@
     },
     {
       "title": "Magistral.e.s",
-      "description": "AvecMagistral·e·s, Alexandra Cismondi imagine un théâtre d’audience participatif qui transformera la salle des Franciscains en cour d’assises. Nourrie de son immersion au cœur du monde judiciaire et inspirée d’un procès ayant participé à l’évolution de la loi sur le non-consentement des mineurs de moins de 15 ans, la metteuse en scène interroge le système : comment une société peut-elle exiger d’u",
+      "description": "AvecMagistral·e·s, Alexandra Cismondi imagine un théâtre d’audience qui transformera la salle des Franciscains en cour d’assises. Nourrie de son immersion au cœur du monde judiciaire et inspirée d’un procès ayant participé à l’évolution de la loi sur le non-consentement des mineurs de moins de 15 ans, la metteuse en scène interroge le système : comment une société peut-elle exiger d’une enfant qu’",
       "place": "Les FranciscainsLa Cuisine",
       "city": "Nice",
       "starts_at": 1801249200000,
