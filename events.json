@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-07T07:49:18Z",
-  "count": 231,
+  "scraped_at": "2026-09-07T14:44:00Z",
+  "count": 242,
   "events": [
     {
       "title": "Comité de lecture",
@@ -44,7 +44,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/04/611891-tour-bellanda-250x250.jpg",
       "category": "AUTRE"
     },
     {
@@ -89,7 +89,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/04/centre-du-patrimoine-charafi-250x250-1.jpg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "EXPO"
     },
     {
@@ -106,6 +106,21 @@
       "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/stages-pratiques-amateurs-gravure-pointe-seche",
       "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/4/0/4/0/2090404-1-fre-FR/6cd59d46916e-105998_img_0bApjju.jpg.webp",
       "category": "AUTRE"
+    },
+    {
+      "title": "Potager en famille",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1788955200000,
+      "ends_at": 1788962400000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/atelier/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/03/atelier-potager-8juil-mde-250x250.png",
+      "category": "FAMILLE"
     },
     {
       "title": "Animation jeux",
@@ -1053,21 +1068,6 @@
       "category": "AUTRE"
     },
     {
-      "title": "Face à face – La Veuve joyeuse",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1791669600000,
-      "ends_at": 1791676800000,
-      "has_time": false,
-      "price": "—",
-      "price_val": 0,
-      "source": "OPERA_NICE",
-      "source_url": "https://www.opera-nice.org/lieux/foyer-montserrat-caballe-de-lopera/",
-      "image_url": "https://www.opera-nice.org/wp-content/uploads/2026/05/share-opera-nice-cote-dazur.jpg",
-      "category": "AUTRE"
-    },
-    {
       "title": "Mon futur ne sera pas mon pas...",
       "description": "L’Entre-Pont",
       "place": "Nice",
@@ -1278,6 +1278,36 @@
       "category": "AUTRE"
     },
     {
+      "title": "Musique de chambre",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1792969200000,
+      "ends_at": 1792976400000,
+      "has_time": false,
+      "price": "—",
+      "price_val": 0,
+      "source": "OPERA_NICE",
+      "source_url": "https://www.opera-nice.org/lieux/foyer-montserrat-caballe-de-lopera/",
+      "image_url": "https://www.opera-nice.org/wp-content/uploads/2026/05/share-opera-nice-cote-dazur.jpg",
+      "category": "CONCERT"
+    },
+    {
+      "title": "Le Lab'Oratoire",
+      "description": "Chaque dernier lundi du mois à 19h, d’octobre à avril, Muriel Mayette-Holtz et les comédiens de la Troupe proposent des cours d’oralité et permettent à chacun de s’entraîner à la prise de parole en public.Le Lab'Oratoireest l’occasion, pour les acteurs de la troupe et moi, de transmettre quelques clés d’un métier aussi mystérieux qu’essentiel : celui de l’acteur, et plus intimement encore, celui d",
+      "place": "Les FranciscainsLa Cuisine",
+      "city": "Nice",
+      "starts_at": 1793037600000,
+      "ends_at": 1793044800000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "TNN",
+      "source_url": "https://www.tnn.fr/fr/evenements/laboratoire-2026-2027",
+      "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-09-826-laboratoire-2026-2027-slider.jpg",
+      "category": "THEATRE"
+    },
+    {
       "title": "LEGEND TOUR BY TRADE REPUBLIC",
       "description": "",
       "place": "Nice",
@@ -1291,6 +1321,21 @@
       "source_url": "https://www.nikaia.fr/programmation/legend-tour",
       "image_url": "https://www.nikaia.fr/files/2025-12/legendtour-webge-ne-rique-1080x1080.png",
       "category": "AUTRE"
+    },
+    {
+      "title": "Nissa Slam",
+      "description": "Animées par le comédien et slameurJacky Ido, ces soirées sont organisées une fois par mois au bar-restaurant de notre salle de La Cuisine et sont ouvertes à toutes et à tous. Venez jouer avec la musicalité des mots !1 vers dit = 1 verre offert !**1 verre offert pour toute participation. Soft ou alcool [vin, bière] en fonction de l’âge. L’abus d’alcool est dangereux pour la santé. Il est interdit d",
+      "place": "Les FranciscainsLa Cuisine",
+      "city": "Nice",
+      "starts_at": 1793314800000,
+      "ends_at": 1793322000000,
+      "has_time": false,
+      "price": "Gratuit",
+      "price_val": 0,
+      "source": "TNN",
+      "source_url": "https://www.tnn.fr/fr/evenements/nissa-slam-26-27",
+      "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-09-827-nissa-slam-26-27-slider.jpg",
+      "category": "THEATRE"
     },
     {
       "title": "Trésors, charafi et quoi encore ?",
@@ -1336,6 +1381,21 @@
       "source_url": "https://www.opera-nice.org/lieux/opera-nice-cote-dazur/",
       "image_url": "https://www.opera-nice.org/wp-content/uploads/2026/05/share-opera-nice-cote-dazur.jpg",
       "category": "AUTRE"
+    },
+    {
+      "title": "Nissa Slam",
+      "description": "Animées par le comédien et slameurJacky Ido, ces soirées sont organisées une fois par mois au bar-restaurant de notre salle de La Cuisine et sont ouvertes à toutes et à tous. Venez jouer avec la musicalité des mots !1 vers dit = 1 verre offert !**1 verre offert pour toute participation. Soft ou alcool [vin, bière] en fonction de l’âge. L’abus d’alcool est dangereux pour la santé. Il est interdit d",
+      "place": "Les FranciscainsLa Cuisine",
+      "city": "Nice",
+      "starts_at": 1793385000000,
+      "ends_at": 1793392200000,
+      "has_time": true,
+      "price": "Gratuit",
+      "price_val": 0,
+      "source": "TNN",
+      "source_url": "https://www.tnn.fr/fr/evenements/nissa-slam-26-27",
+      "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-09-827-nissa-slam-26-27-slider.jpg",
+      "category": "THEATRE"
     },
     {
       "title": "LAURA PAUSINI",
@@ -1923,6 +1983,21 @@
       "category": "CONCERT"
     },
     {
+      "title": "Le Lab'Oratoire",
+      "description": "Chaque dernier lundi du mois à 19h, d’octobre à avril, Muriel Mayette-Holtz et les comédiens de la Troupe proposent des cours d’oralité et permettent à chacun de s’entraîner à la prise de parole en public.Le Lab'Oratoireest l’occasion, pour les acteurs de la troupe et moi, de transmettre quelques clés d’un métier aussi mystérieux qu’essentiel : celui de l’acteur, et plus intimement encore, celui d",
+      "place": "Les FranciscainsLa Cuisine",
+      "city": "Nice",
+      "starts_at": 1796061600000,
+      "ends_at": 1796068800000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "TNN",
+      "source_url": "https://www.tnn.fr/fr/evenements/laboratoire-2026-2027",
+      "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-09-826-laboratoire-2026-2027-slider.jpg",
+      "category": "THEATRE"
+    },
+    {
       "title": "Les ateliers CycloShow",
       "description": "",
       "place": "Monaco",
@@ -2026,6 +2101,36 @@
       "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/le-bal-du-marche2",
       "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/8/0/9/5/2255908-1-fre-FR/9a3f4b47822d-106304_img_0n5KfIM.jpg.webp",
       "category": "MARCHE"
+    },
+    {
+      "title": "Conversation intime avec Jean-François Sivadier",
+      "description": "Jean-François Sivadierest un comédien, auteur et metteur en scène incontournable du paysage théâtral et lyrique français. Formé au Théâtre National de Strasbourg, il s'impose par des mises en scène pointues des grands textes du répertoire, et remporte le Molière du metteur en scène en 2005. Artiste complet, il déploie également son talent à l'opéra et à la télévision. Il viendra partager avecCathe",
+      "place": "Les FranciscainsLa Cuisine",
+      "city": "Nice",
+      "starts_at": 1796857200000,
+      "ends_at": 1796864400000,
+      "has_time": false,
+      "price": "—",
+      "price_val": 0,
+      "source": "TNN",
+      "source_url": "https://www.tnn.fr/fr/evenements/conversation-intime-1-2627",
+      "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-09-825-conversation-intime-1-2627-slider.jpg",
+      "category": "THEATRE"
+    },
+    {
+      "title": "Conversation intime avec Jean-François Sivadier",
+      "description": "Jean-François Sivadierest un comédien, auteur et metteur en scène incontournable du paysage théâtral et lyrique français. Formé au Théâtre National de Strasbourg, il s'impose par des mises en scène pointues des grands textes du répertoire, et remporte le Molière du metteur en scène en 2005. Artiste complet, il déploie également son talent à l'opéra et à la télévision. Il viendra partager avecCathe",
+      "place": "Les FranciscainsLa Cuisine",
+      "city": "Nice",
+      "starts_at": 1796927400000,
+      "ends_at": 1796934600000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "TNN",
+      "source_url": "https://www.tnn.fr/fr/evenements/conversation-intime-1-2627",
+      "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-09-825-conversation-intime-1-2627-slider.jpg",
+      "category": "THEATRE"
     },
     {
       "title": "Résurrection",
@@ -2313,6 +2418,21 @@
       "category": "THEATRE"
     },
     {
+      "title": "Le Lab'Oratoire",
+      "description": "Chaque dernier lundi du mois à 19h, d’octobre à avril, Muriel Mayette-Holtz et les comédiens de la Troupe proposent des cours d’oralité et permettent à chacun de s’entraîner à la prise de parole en public.Le Lab'Oratoireest l’occasion, pour les acteurs de la troupe et moi, de transmettre quelques clés d’un métier aussi mystérieux qu’essentiel : celui de l’acteur, et plus intimement encore, celui d",
+      "place": "Les FranciscainsLa Cuisine",
+      "city": "Nice",
+      "starts_at": 1798480800000,
+      "ends_at": 1798488000000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "TNN",
+      "source_url": "https://www.tnn.fr/fr/evenements/laboratoire-2026-2027",
+      "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-09-826-laboratoire-2026-2027-slider.jpg",
+      "category": "THEATRE"
+    },
+    {
       "title": "Léonard de Vinci – A la croisée des arts et des sciences",
       "description": "",
       "place": "ExpositionHistorique",
@@ -2550,6 +2670,21 @@
       "source": "TNN",
       "source_url": "https://www.tnn.fr/fr/spectacles/saison-2026-2027/la-chateau-des-carpathes",
       "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-05-798-la-chateau-des-carpathes-slider.jpg",
+      "category": "THEATRE"
+    },
+    {
+      "title": "Le Lab'Oratoire",
+      "description": "Chaque dernier lundi du mois à 19h, d’octobre à avril, Muriel Mayette-Holtz et les comédiens de la Troupe proposent des cours d’oralité et permettent à chacun de s’entraîner à la prise de parole en public.Le Lab'Oratoireest l’occasion, pour les acteurs de la troupe et moi, de transmettre quelques clés d’un métier aussi mystérieux qu’essentiel : celui de l’acteur, et plus intimement encore, celui d",
+      "place": "Les FranciscainsLa Cuisine",
+      "city": "Nice",
+      "starts_at": 1800900000000,
+      "ends_at": 1800907200000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "TNN",
+      "source_url": "https://www.tnn.fr/fr/evenements/laboratoire-2026-2027",
+      "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-09-826-laboratoire-2026-2027-slider.jpg",
       "category": "THEATRE"
     },
     {
@@ -2793,6 +2928,21 @@
       "category": "THEATRE"
     },
     {
+      "title": "Le Lab'Oratoire",
+      "description": "Chaque dernier lundi du mois à 19h, d’octobre à avril, Muriel Mayette-Holtz et les comédiens de la Troupe proposent des cours d’oralité et permettent à chacun de s’entraîner à la prise de parole en public.Le Lab'Oratoireest l’occasion, pour les acteurs de la troupe et moi, de transmettre quelques clés d’un métier aussi mystérieux qu’essentiel : celui de l’acteur, et plus intimement encore, celui d",
+      "place": "Les FranciscainsLa Cuisine",
+      "city": "Nice",
+      "starts_at": 1803319200000,
+      "ends_at": 1803326400000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "TNN",
+      "source_url": "https://www.tnn.fr/fr/evenements/laboratoire-2026-2027",
+      "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-09-826-laboratoire-2026-2027-slider.jpg",
+      "category": "THEATRE"
+    },
+    {
       "title": "Instabile",
       "description": "Joris Frigerio conçoitInstabilecomme une création circassienne en deux temps. Sur un plateau roulant, instable et imprévisible, l’équilibre se négocie à chaque seconde pour les trois interprètes qui s’y confrontent. Le dispositif scénique, aussi exigeant qu’innovant, impose l’urgence : rester en mouvement pour rester en vie. À travers cette vibrante mise sous tension, Instabile explore notre rappo",
       "place": "Les FranciscainsLa Cuisine",
@@ -2970,6 +3120,21 @@
       "source": "TNN",
       "source_url": "https://www.tnn.fr/fr/spectacles/saison-2026-2027/l-amante-anglaise",
       "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-05-815-l-amante-anglaise-slider.jpg",
+      "category": "THEATRE"
+    },
+    {
+      "title": "Le Lab'Oratoire",
+      "description": "Chaque dernier lundi du mois à 19h, d’octobre à avril, Muriel Mayette-Holtz et les comédiens de la Troupe proposent des cours d’oralité et permettent à chacun de s’entraîner à la prise de parole en public.Le Lab'Oratoireest l’occasion, pour les acteurs de la troupe et moi, de transmettre quelques clés d’un métier aussi mystérieux qu’essentiel : celui de l’acteur, et plus intimement encore, celui d",
+      "place": "Les FranciscainsLa Cuisine",
+      "city": "Nice",
+      "starts_at": 1808758800000,
+      "ends_at": 1808766000000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "TNN",
+      "source_url": "https://www.tnn.fr/fr/evenements/laboratoire-2026-2027",
+      "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-09-826-laboratoire-2026-2027-slider.jpg",
       "category": "THEATRE"
     },
     {
