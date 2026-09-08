@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-08T02:19:02Z",
+  "scraped_at": "2026-09-08T07:41:53Z",
   "count": 242,
   "events": [
     {
@@ -134,7 +134,7 @@
       "price_val": 0,
       "source": "MONACO",
       "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/animation-jeux4",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/6/4/7/5/2255746-2-fre-FR/ec5194ca98d8-106303_img_07iijMO.jpg.webp",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/6/4/7/5/2255746-3-fre-FR/6b262d9f2013-106303_img_0CIqZ9x.jpg.webp",
       "category": "AUTRE"
     },
     {
@@ -798,6 +798,21 @@
       "category": "THEATRE"
     },
     {
+      "title": "La braderie",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1790409600000,
+      "ends_at": 1790431200000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/la-braderie",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/6/4/5/1/2261546-1-fre-FR/f9523defa4b3-106342_img_0kKowwa.jpg.webp",
+      "category": "AUTRE"
+    },
+    {
       "title": "Roma de Jules Massenet",
       "description": "",
       "place": "Monaco",
@@ -824,7 +839,7 @@
       "price_val": 0,
       "source": "MONACO",
       "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/echecs-bridge-et-backgammon",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/4/9/3/6/2256394-2-fre-FR/28e00291b2a9-106307_img_043SbJd.jpg.webp",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/4/9/3/6/2256394-3-fre-FR/f4257b4da999-106307_img_0IhcOZC.jpg.webp",
       "category": "AUTRE"
     },
     {
@@ -1514,7 +1529,7 @@
       "price_val": 0,
       "source": "MONACO",
       "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/art3f-monaco-salon-international-d-art-contemporain",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/8/2/7/2/1982728-3-fre-FR/a3ba1ece005f-105722_img_0k29AEU.png.webp",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/8/2/7/2/1982728-5-fre-FR/08881ac7ee0f-105722_img_0GZQJGK.png.webp",
       "category": "MARCHE"
     },
     {
@@ -1590,21 +1605,6 @@
       "source": "OPERA_NICE",
       "source_url": "https://www.opera-nice.org/lieux/foyer-montserrat-caballe-de-lopera/",
       "image_url": "https://www.opera-nice.org/wp-content/uploads/2026/05/share-opera-nice-cote-dazur.jpg",
-      "category": "AUTRE"
-    },
-    {
-      "title": "La légende du Cristal magique",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1794319200000,
-      "ends_at": 1794322800000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/la-legende-du-cristal-magique",
-      "image_url": null,
       "category": "AUTRE"
     },
     {
@@ -2069,7 +2069,7 @@
       "price_val": 0,
       "source": "MONACO",
       "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/splash-party-2026",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/7/7/9/1/2251977-5-fre-FR/0c2c5ff5fbb4-106289_img_0yNJYHG.jpg.webp",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/7/7/9/1/2251977-6-fre-FR/f384d7f89a6b-106289_img_0INxvQP.jpg.webp",
       "category": "AUTRE"
     },
     {
@@ -2084,7 +2084,7 @@
       "price_val": 0,
       "source": "MONACO",
       "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/munegu-repair-cafe6",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/9/3/1/2/2252139-5-fre-FR/82b38705e999-106290_img_0wYJqOd.jpg.webp",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/9/3/1/2/2252139-6-fre-FR/a49271b1ed57-106290_img_0AfIPvF.jpg.webp",
       "category": "AUTRE"
     },
     {
