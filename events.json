@@ -1,22 +1,7 @@
 {
-  "scraped_at": "2026-09-09T18:18:25Z",
-  "count": 248,
+  "scraped_at": "2026-09-09T22:56:33Z",
+  "count": 247,
   "events": [
-    {
-      "title": "Comité de lecture",
-      "description": "Chaque année, les comédiens de la Troupe lisent en public les textes sélectionnés par leComité de lecture, présidé parMeFrançoise Assus-Juttner.AGENDA DES LECTURES• Cette année, lestextes retenus en 2026sont lus du 9 au 11 septembre 2026 à 19h30.• Letexte lauréat 2025,La dernière fois qu'on a vu Bernard StasideGrégoire Biseau, est mis en espace parMuriel Mayette-Holtzet interprété par les comédien",
-      "place": "Les FranciscainsLa Cuisine",
-      "city": "Nice",
-      "starts_at": 1788975000000,
-      "ends_at": 1788982200000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "TNN",
-      "source_url": "https://www.tnn.fr/fr/evenements/comite-lecture-2026",
-      "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-07-824-comite-lecture-2026-slider.jpg",
-      "category": "THEATRE"
-    },
     {
       "title": "Enoch Arden",
       "description": "Dans un port anglais,Enoch Arden, ancien pêcheur devenu marin marchand, épouse Annie Lee, également courtisée par Philipp Ray. Après sept années heureuses, la pauvreté et la maladie s’installent au foyer. Afin de subvenir aux besoins de sa famille, Enoch reprend la mer avec son ancien capitaine. Le bateau fait naufrage et il est porté disparu pendant dix ans. Alors qu’il parvient à regagner sa ter",
@@ -959,7 +944,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/05/riviera-visite.jpg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
