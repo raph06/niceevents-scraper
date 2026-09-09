@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-08T23:10:37Z",
-  "count": 242,
+  "scraped_at": "2026-09-09T02:22:36Z",
+  "count": 243,
   "events": [
     {
       "title": "Tour Bellanda – Le Bellandarium",
@@ -59,7 +59,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/04/centre-du-patrimoine-charafi-250x250-1.jpg",
       "category": "EXPO"
     },
     {
@@ -104,7 +104,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/atelier/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/08/origami.jpeg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
@@ -119,7 +119,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/05/evenement-crypte-250x250.jpg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
@@ -991,6 +991,21 @@
       "source_url": "https://www.tnn.fr/fr/evenements/comite-lecture-2026",
       "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-07-824-comite-lecture-2026-slider.jpg",
       "category": "THEATRE"
+    },
+    {
+      "title": "Atelier d’écriture",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1791531000000,
+      "ends_at": 1791538200000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/atelier/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/06/atelier-ecriture-c.jpeg",
+      "category": "AUTRE"
     },
     {
       "title": "Le tout dans le tout, expérience culinaire de Soline Bredin",
