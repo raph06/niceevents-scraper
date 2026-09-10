@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-10T13:20:51Z",
+  "scraped_at": "2026-09-10T18:04:05Z",
   "count": 252,
   "events": [
     {
@@ -933,36 +933,6 @@
       "category": "AUTRE"
     },
     {
-      "title": "Cercle de jeux échecs",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1791547200000,
-      "ends_at": 1791554400000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/atelier/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/05/echecs.jpg",
-      "category": "AUTRE"
-    },
-    {
-      "title": "À vos jeux !",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1791549000000,
-      "ends_at": 1791556200000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/atelier/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/a-vos-jeux.jpg",
-      "category": "AUTRE"
-    },
-    {
       "title": "Avancées et défis actuels dans la lutte contre le cancer",
       "description": "",
       "place": "Nice",
@@ -1544,7 +1514,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/atelier/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/08/stylo-plume.jpeg",
       "category": "AUTRE"
     },
     {
@@ -1593,6 +1563,21 @@
       "category": "AUTRE"
     },
     {
+      "title": "Soirée hommage Michel Butor",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1794240000000,
+      "ends_at": 1794247200000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/rencontre/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/08/michel-butor.png",
+      "category": "NUIT"
+    },
+    {
       "title": "L’exploration spatiale aujourd’hui et demain",
       "description": "",
       "place": "Monaco",
@@ -1621,6 +1606,21 @@
       "source_url": "https://www.tnn.fr/fr/evenements/comite-lecture-2026",
       "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-07-824-comite-lecture-2026-slider.jpg",
       "category": "THEATRE"
+    },
+    {
+      "title": "Brahms / Chostakovitch",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1794250800000,
+      "ends_at": 1794258000000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/concert/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/06/11-1209-brahmschostakovitch-510x383-2.jpeg",
+      "category": "AUTRE"
     },
     {
       "title": "MONACO CARD SHOW",
