@@ -1,22 +1,7 @@
 {
-  "scraped_at": "2026-09-09T22:56:33Z",
-  "count": 247,
+  "scraped_at": "2026-09-10T02:21:24Z",
+  "count": 250,
   "events": [
-    {
-      "title": "Enoch Arden",
-      "description": "Dans un port anglais,Enoch Arden, ancien pêcheur devenu marin marchand, épouse Annie Lee, également courtisée par Philipp Ray. Après sept années heureuses, la pauvreté et la maladie s’installent au foyer. Afin de subvenir aux besoins de sa famille, Enoch reprend la mer avec son ancien capitaine. Le bateau fait naufrage et il est porté disparu pendant dix ans. Alors qu’il parvient à regagner sa ter",
-      "place": "Les FranciscainsLa Cuisine",
-      "city": "Nice",
-      "starts_at": 1788991200000,
-      "ends_at": 1788998400000,
-      "has_time": false,
-      "price": "—",
-      "price_val": 0,
-      "source": "TNN",
-      "source_url": "https://www.tnn.fr/fr/spectacles/saison-2026-2027/enoch-arden",
-      "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-05-785-enoch-arden-slider.jpg",
-      "category": "THEATRE"
-    },
     {
       "title": "Saigon",
       "description": "Dans le décor hyperréaliste d’un restaurant vietnamien, coincé dans un espace-temps compris entre le Vietnam des années 50 et la France des années 90, Caroline Guiela Nguyen déploie une fresque intime et poignante.Il s’agit de la vie et de ses souvenirs. Les trajectoires s’entremêlent : histoires d’amour, d’exil, de famille et d’amitié, toutes traversées par la grande Histoire. Ce “spectacle saga”",
@@ -450,6 +435,21 @@
       "source": "OT_NICE",
       "source_url": "https://www.explorenicecotedazur.com/evenement/exposition-temporaire-a-la-villa-kerylos/",
       "image_url": "https://cdn.iris-etourism.io/media/nice/7778300/a3692b30dce652ad-335x335.webp",
+      "category": "EXPO"
+    },
+    {
+      "title": "Exposition – « La Madone des Fenestres histoires et légendes »",
+      "description": "",
+      "place": "Exposition",
+      "city": "Nice",
+      "starts_at": 1789855200000,
+      "ends_at": 1789862400000,
+      "has_time": false,
+      "price": "—",
+      "price_val": 0,
+      "source": "OT_NICE",
+      "source_url": "https://www.explorenicecotedazur.com/evenement/exposition-la-madone-des-fenestres-histoires-et-legendes/",
+      "image_url": "https://cdn.iris-etourism.io/media/nice/6588077/55740c02d6b7c3cf-335x335.webp",
       "category": "EXPO"
     },
     {
@@ -1500,6 +1500,51 @@
       "source": "OPERA_NICE",
       "source_url": "https://www.opera-nice.org/lieux/opera-nice-cote-dazur/",
       "image_url": "https://www.opera-nice.org/wp-content/uploads/2026/05/share-opera-nice-cote-dazur.jpg",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Journées portes ouvertes au complexe Jean Bouin",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1794207600000,
+      "ends_at": 1794214800000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/journees-portes-ouvertes-au-complexe-jean-bouin/20260911-0800/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Journées portes ouvertes au complexe Les Combes",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1794207600000,
+      "ends_at": 1794214800000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/journees-portes-ouvertes-au-complexe-les-combes/20260911-0800/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Journées portes ouvertes au complexe Nice Mercantour",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1794207600000,
+      "ends_at": 1794214800000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/journees-portes-ouvertes-au-complexe-nice-mercantour/20260911-0800/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
