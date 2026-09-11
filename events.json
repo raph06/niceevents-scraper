@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-11T07:44:08Z",
-  "count": 249,
+  "scraped_at": "2026-09-11T13:13:38Z",
+  "count": 251,
   "events": [
     {
       "title": "Moya fait son Cirque",
@@ -1398,21 +1398,6 @@
       "category": "AUTRE"
     },
     {
-      "title": "Visite guidée du Vieux-Nice",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1794213000000,
-      "ends_at": 1794220200000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/05/vieux-nice-250x250.jpg",
-      "category": "AUTRE"
-    },
-    {
       "title": "Le stylo à plume",
       "description": "",
       "place": "Nice",
@@ -1469,7 +1454,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/atelier/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/08/echec-et-mat.jpeg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
@@ -1484,7 +1469,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/rencontre/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/08/michel-butor.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "NUIT"
     },
     {
@@ -1529,7 +1514,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/concert/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/06/11-1209-brahmschostakovitch-510x383-2.jpeg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
@@ -1544,7 +1529,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/humour/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/07/cabaret-impro-papy-marco.jpeg",
       "category": "AUTRE"
     },
     {
@@ -2039,7 +2024,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/atelier/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/03/atelier-potager-8juil-mde-250x250.png",
       "category": "FAMILLE"
     },
     {
@@ -2055,6 +2040,51 @@
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/atelier/",
       "image_url": "https://www.nice.fr/wp-content/uploads/2025/08/gratiferia-17jan-mde.jpg",
+      "category": "AUTRE"
+    },
+    {
+      "title": "La grande évasion",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1796806800000,
+      "ends_at": 1796814000000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/lecture/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Suivez le guide !",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1796806800000,
+      "ends_at": 1796814000000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/05/suivez-le-guide.jpg",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Atelier de pratiques artistiques – illustrateur de mode",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1796808600000,
+      "ends_at": 1796815800000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/atelier/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/02/matisse-ateliers-16ans-250x250.jpg",
       "category": "AUTRE"
     },
     {
