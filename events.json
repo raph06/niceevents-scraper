@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-12T17:39:16Z",
+  "scraped_at": "2026-09-12T20:00:02Z",
   "count": 249,
   "events": [
     {
@@ -1188,6 +1188,21 @@
       "category": "EXPO"
     },
     {
+      "title": "Concert symphonique - L. Foster - D. Ránki - H. Brady - P. Peigner",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1792339200000,
+      "ends_at": 1792346400000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/concert-symphonique-l.-foster-d.-ranki-h.-brady-p.-peigner",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/8/9/4/0/2150498-2-fre-FR/6b8647c019b4-106101_img_04CPNs4.jpg.webp",
+      "category": "CONCERT"
+    },
+    {
       "title": "TERRAVINI",
       "description": "",
       "place": "Nice",
@@ -1979,7 +1994,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/04/611891-tour-bellanda-250x250.jpg",
       "category": "AUTRE"
     },
     {
@@ -1994,7 +2009,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/atelier/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/02/matisse-ateliers-16ans-250x250.jpg",
       "category": "AUTRE"
     },
     {
@@ -2024,7 +2039,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/04/ysl-matisse.jpg",
       "category": "EXPO"
     },
     {
@@ -2069,23 +2084,8 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/concert/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/06/11-1209-brahmschostakovitch-510x383-2.jpeg",
       "category": "AUTRE"
-    },
-    {
-      "title": "Le Bal du Marché",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1796837400000,
-      "ends_at": 1796844600000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/le-bal-du-marche2",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/8/0/9/5/2255908-1-fre-FR/9a3f4b47822d-106304_img_0n5KfIM.jpg.webp",
-      "category": "MARCHE"
     },
     {
       "title": "Festins des territoires",
@@ -2099,7 +2099,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/animation/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/festin-territoire-2026-250x250.png",
       "category": "AUTRE"
     },
     {
