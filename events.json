@@ -1,67 +1,7 @@
 {
-  "scraped_at": "2026-09-14T08:27:01Z",
-  "count": 248,
+  "scraped_at": "2026-09-14T15:34:32Z",
+  "count": 286,
   "events": [
-    {
-      "title": "Lire à son rythme",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1789372800000,
-      "ends_at": 1789380000000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/lecture/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Bébé en éveil",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1789376400000,
-      "ends_at": 1789383600000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/atelier/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Jouez avec les mots",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1789385400000,
-      "ends_at": 1789392600000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/animation/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Dessine-moi un mot",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1789387200000,
-      "ends_at": 1789394400000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/atelier/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
-      "category": "AUTRE"
-    },
     {
       "title": "La rentrée des entrepreneurs",
       "description": "",
@@ -138,6 +78,21 @@
       "category": "AUTRE"
     },
     {
+      "title": "Lire à son rythme",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1789459200000,
+      "ends_at": 1789466400000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/lecture/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "category": "AUTRE"
+    },
+    {
       "title": "Les ressources numériques de la bibliothèque",
       "description": "",
       "place": "Nice",
@@ -194,7 +149,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/animation/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/08/tournois-de-speed-puzzling.jpeg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
@@ -1053,6 +1008,21 @@
       "category": "THEATRE"
     },
     {
+      "title": "Les Procès des grands personnages",
+      "description": "Tous les samedis à 11h, sur le parvis de la salle des Franciscains, participez aux Procès des grands personnages avec la plaidoirie d’un avocat du Barreau et un comédien de la Troupe ou un apprenti comédien de l’ERACM.Qui seront les prochains à rejoindre le banc des accusés ?OCTOBRE• Samedi 3/10 :Le Procès de Picsou- Laurent Prévot - Maître Robert Chemla - Hervé Van der Meulen• Samedi 10/10 :Le Pr",
+      "place": "Les FranciscainsLa Cuisine",
+      "city": "Nice",
+      "starts_at": 1791622800000,
+      "ends_at": 1791630000000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "TNN",
+      "source_url": "https://www.tnn.fr/fr/evenements/proces-grands-personnages-26-27",
+      "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-09-829-proces-grands-personnages-26-27-slider.jpg",
+      "category": "THEATRE"
+    },
+    {
       "title": "Enoch Arden",
       "description": "Dans un port anglais,Enoch Arden, ancien pêcheur devenu marin marchand, épouse Annie Lee, également courtisée par Philipp Ray. Après sept années heureuses, la pauvreté et la maladie s’installent au foyer. Afin de subvenir aux besoins de sa famille, Enoch reprend la mer avec son ancien capitaine. Le bateau fait naufrage et il est porté disparu pendant dix ans. Alors qu’il parvient à regagner sa ter",
       "place": "Les FranciscainsLa Cuisine",
@@ -1111,6 +1081,21 @@
       "source_url": "https://www.opera-nice.org/lieux/foyer-montserrat-caballe-de-lopera/",
       "image_url": "https://www.opera-nice.org/wp-content/uploads/2026/05/share-opera-nice-cote-dazur.jpg",
       "category": "AUTRE"
+    },
+    {
+      "title": "Les Jeudis littéraires",
+      "description": "Tous les jeudis à 19h, au bar-restaurant de la salle des Franciscains, un comédien de la Troupe lit des textes “coup de cœur”. Naviguant du grand répertoire classique à l’écriture contemporaine, de la poésie aux récits mythologiques, les voix de la Troupe vous font (re)découvrir les plus beaux textes. Venez savourer un apéritif et la chaleur de mots choisis.OCTOBREAutour de notre programmation• Je",
+      "place": "Les FranciscainsLa Cuisine",
+      "city": "Nice",
+      "starts_at": 1791824400000,
+      "ends_at": 1791831600000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "TNN",
+      "source_url": "https://www.tnn.fr/fr/evenements/jeudis-litteraires-26-27",
+      "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-09-828-jeudis-litteraires-26-27-slider.jpg",
+      "category": "THEATRE"
     },
     {
       "title": "Mon futur ne sera pas mon pas...",
@@ -1218,6 +1203,21 @@
       "category": "AUTRE"
     },
     {
+      "title": "Les Jeudis littéraires",
+      "description": "Tous les jeudis à 19h, au bar-restaurant de la salle des Franciscains, un comédien de la Troupe lit des textes “coup de cœur”. Naviguant du grand répertoire classique à l’écriture contemporaine, de la poésie aux récits mythologiques, les voix de la Troupe vous font (re)découvrir les plus beaux textes. Venez savourer un apéritif et la chaleur de mots choisis.OCTOBREAutour de notre programmation• Je",
+      "place": "Les FranciscainsLa Cuisine",
+      "city": "Nice",
+      "starts_at": 1792083600000,
+      "ends_at": 1792090800000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "TNN",
+      "source_url": "https://www.tnn.fr/fr/evenements/jeudis-litteraires-26-27",
+      "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-09-828-jeudis-litteraires-26-27-slider.jpg",
+      "category": "THEATRE"
+    },
+    {
       "title": "Ivanov",
       "description": "Ivanovnous confronte au destin contrarié d’un homme cultivé et sensible mais profondément épuisé par la vie : un propriétaire terrien ruiné, dont l’épouse tombe gravement malade. Enlisé dans une existence étouffée par les ragots, l’hypocrisie et les préjugés, le lucide Ivanov tombe amoureux de Sacha, la fille d’une de ses connaissances. Tiraillé entre la mort imminente de son épouse et l’exaltatio",
       "place": "Les FranciscainsLa Cuisine",
@@ -1276,6 +1276,21 @@
       "source_url": "https://www.opera-nice.org/lieux/opera-nice-cote-dazur/",
       "image_url": "https://www.opera-nice.org/wp-content/uploads/2026/05/share-opera-nice-cote-dazur.jpg",
       "category": "AUTRE"
+    },
+    {
+      "title": "Les Procès des grands personnages",
+      "description": "Tous les samedis à 11h, sur le parvis de la salle des Franciscains, participez aux Procès des grands personnages avec la plaidoirie d’un avocat du Barreau et un comédien de la Troupe ou un apprenti comédien de l’ERACM.Qui seront les prochains à rejoindre le banc des accusés ?OCTOBRE• Samedi 3/10 :Le Procès de Picsou- Laurent Prévot - Maître Robert Chemla - Hervé Van der Meulen• Samedi 10/10 :Le Pr",
+      "place": "Les FranciscainsLa Cuisine",
+      "city": "Nice",
+      "starts_at": 1792227600000,
+      "ends_at": 1792234800000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "TNN",
+      "source_url": "https://www.tnn.fr/fr/evenements/proces-grands-personnages-26-27",
+      "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-09-829-proces-grands-personnages-26-27-slider.jpg",
+      "category": "THEATRE"
     },
     {
       "title": "CHINESE MAN RECORDS",
@@ -1368,6 +1383,36 @@
       "category": "SPORT"
     },
     {
+      "title": "Les Jeudis littéraires",
+      "description": "Tous les jeudis à 19h, au bar-restaurant de la salle des Franciscains, un comédien de la Troupe lit des textes “coup de cœur”. Naviguant du grand répertoire classique à l’écriture contemporaine, de la poésie aux récits mythologiques, les voix de la Troupe vous font (re)découvrir les plus beaux textes. Venez savourer un apéritif et la chaleur de mots choisis.OCTOBREAutour de notre programmation• Je",
+      "place": "Les FranciscainsLa Cuisine",
+      "city": "Nice",
+      "starts_at": 1792688400000,
+      "ends_at": 1792695600000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "TNN",
+      "source_url": "https://www.tnn.fr/fr/evenements/jeudis-litteraires-26-27",
+      "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-09-828-jeudis-litteraires-26-27-slider.jpg",
+      "category": "THEATRE"
+    },
+    {
+      "title": "Les Procès des grands personnages",
+      "description": "Tous les samedis à 11h, sur le parvis de la salle des Franciscains, participez aux Procès des grands personnages avec la plaidoirie d’un avocat du Barreau et un comédien de la Troupe ou un apprenti comédien de l’ERACM.Qui seront les prochains à rejoindre le banc des accusés ?OCTOBRE• Samedi 3/10 :Le Procès de Picsou- Laurent Prévot - Maître Robert Chemla - Hervé Van der Meulen• Samedi 10/10 :Le Pr",
+      "place": "Les FranciscainsLa Cuisine",
+      "city": "Nice",
+      "starts_at": 1792832400000,
+      "ends_at": 1792839600000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "TNN",
+      "source_url": "https://www.tnn.fr/fr/evenements/proces-grands-personnages-26-27",
+      "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-09-829-proces-grands-personnages-26-27-slider.jpg",
+      "category": "THEATRE"
+    },
+    {
       "title": "TERRAVINI",
       "description": "",
       "place": "Nice",
@@ -1441,6 +1486,21 @@
       "source_url": "https://www.nikaia.fr/programmation/legend-tour",
       "image_url": "https://www.nikaia.fr/files/2025-12/legendtour-webge-ne-rique-1080x1080.png",
       "category": "AUTRE"
+    },
+    {
+      "title": "Les Jeudis littéraires",
+      "description": "Tous les jeudis à 19h, au bar-restaurant de la salle des Franciscains, un comédien de la Troupe lit des textes “coup de cœur”. Naviguant du grand répertoire classique à l’écriture contemporaine, de la poésie aux récits mythologiques, les voix de la Troupe vous font (re)découvrir les plus beaux textes. Venez savourer un apéritif et la chaleur de mots choisis.OCTOBREAutour de notre programmation• Je",
+      "place": "Les FranciscainsLa Cuisine",
+      "city": "Nice",
+      "starts_at": 1793296800000,
+      "ends_at": 1793304000000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "TNN",
+      "source_url": "https://www.tnn.fr/fr/evenements/jeudis-litteraires-26-27",
+      "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-09-828-jeudis-litteraires-26-27-slider.jpg",
+      "category": "THEATRE"
     },
     {
       "title": "Trésors, charafi et quoi encore ?",
@@ -1546,6 +1606,21 @@
       "source_url": "https://www.opera-nice.org/lieux/opera-nice-cote-dazur/",
       "image_url": "https://www.opera-nice.org/wp-content/uploads/2026/05/share-opera-nice-cote-dazur.jpg",
       "category": "AUTRE"
+    },
+    {
+      "title": "Les Procès des grands personnages",
+      "description": "Tous les samedis à 11h, sur le parvis de la salle des Franciscains, participez aux Procès des grands personnages avec la plaidoirie d’un avocat du Barreau et un comédien de la Troupe ou un apprenti comédien de l’ERACM.Qui seront les prochains à rejoindre le banc des accusés ?OCTOBRE• Samedi 3/10 :Le Procès de Picsou- Laurent Prévot - Maître Robert Chemla - Hervé Van der Meulen• Samedi 10/10 :Le Pr",
+      "place": "Les FranciscainsLa Cuisine",
+      "city": "Nice",
+      "starts_at": 1793440800000,
+      "ends_at": 1793448000000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "TNN",
+      "source_url": "https://www.tnn.fr/fr/evenements/proces-grands-personnages-26-27",
+      "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-09-829-proces-grands-personnages-26-27-slider.jpg",
+      "category": "THEATRE"
     },
     {
       "title": "PATRICK BRUEL",
@@ -1758,6 +1833,21 @@
       "category": "AUTRE"
     },
     {
+      "title": "Les Procès des grands personnages",
+      "description": "Tous les samedis à 11h, sur le parvis de la salle des Franciscains, participez aux Procès des grands personnages avec la plaidoirie d’un avocat du Barreau et un comédien de la Troupe ou un apprenti comédien de l’ERACM.Qui seront les prochains à rejoindre le banc des accusés ?OCTOBRE• Samedi 3/10 :Le Procès de Picsou- Laurent Prévot - Maître Robert Chemla - Hervé Van der Meulen• Samedi 10/10 :Le Pr",
+      "place": "Les FranciscainsLa Cuisine",
+      "city": "Nice",
+      "starts_at": 1794650400000,
+      "ends_at": 1794657600000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "TNN",
+      "source_url": "https://www.tnn.fr/fr/evenements/proces-grands-personnages-26-27",
+      "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-09-829-proces-grands-personnages-26-27-slider.jpg",
+      "category": "THEATRE"
+    },
+    {
       "title": "Résurrection",
       "description": "DansRésurrection, il est question d’un jeune homme de bonne famille qui mène une vie de plaisirs dans une grande ville et se retrouve juré au procès d’une femme accusée de meurtre. Il reconnaît son amour de jeunesse, autrefois au service de sa famille. Il a abusé d’elle et l’a mise enceinte avant de l’abandonner. Elle est devenue une prostituée. Désireux de racheter sa faute, il tente de l’innocen",
       "place": "Les FranciscainsLa Cuisine",
@@ -1833,6 +1923,21 @@
       "category": "THEATRE"
     },
     {
+      "title": "Les Jeudis littéraires",
+      "description": "Tous les jeudis à 19h, au bar-restaurant de la salle des Franciscains, un comédien de la Troupe lit des textes “coup de cœur”. Naviguant du grand répertoire classique à l’écriture contemporaine, de la poésie aux récits mythologiques, les voix de la Troupe vous font (re)découvrir les plus beaux textes. Venez savourer un apéritif et la chaleur de mots choisis.OCTOBREAutour de notre programmation• Je",
+      "place": "Les FranciscainsLa Cuisine",
+      "city": "Nice",
+      "starts_at": 1795111200000,
+      "ends_at": 1795118400000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "TNN",
+      "source_url": "https://www.tnn.fr/fr/evenements/jeudis-litteraires-26-27",
+      "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-09-828-jeudis-litteraires-26-27-slider.jpg",
+      "category": "THEATRE"
+    },
+    {
       "title": "Le Petit Chaperon rouge",
       "description": "Il était une fois une petite fille qui s’ennuyait, seule dans sa maison. Sa mère, débordée et toujours pressée, lui interdisait de sortir. L’enfant rêvait de découvrir le monde au-delà de la forêt. Un jour, elle obtient enfin la permission d’aller rendre visite à sa grand-mère, de l’autre côté des bois. Sur le chemin, elle traverse un monde où la curiosité se mêle à la peur, où l’inconnu attire au",
       "place": "Les FranciscainsLa Cuisine",
@@ -1861,6 +1966,21 @@
       "source_url": "https://le109.nice.fr/programmation/paul-seul",
       "image_url": "https://wsrv.nl/?url=le109.nice.fr/thumbs/1024x562r/2026-08/capture-d-e-cran-2026-08-17-a-09.24.51.png",
       "category": "AUTRE"
+    },
+    {
+      "title": "Les Procès des grands personnages",
+      "description": "Tous les samedis à 11h, sur le parvis de la salle des Franciscains, participez aux Procès des grands personnages avec la plaidoirie d’un avocat du Barreau et un comédien de la Troupe ou un apprenti comédien de l’ERACM.Qui seront les prochains à rejoindre le banc des accusés ?OCTOBRE• Samedi 3/10 :Le Procès de Picsou- Laurent Prévot - Maître Robert Chemla - Hervé Van der Meulen• Samedi 10/10 :Le Pr",
+      "place": "Les FranciscainsLa Cuisine",
+      "city": "Nice",
+      "starts_at": 1795255200000,
+      "ends_at": 1795262400000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "TNN",
+      "source_url": "https://www.tnn.fr/fr/evenements/proces-grands-personnages-26-27",
+      "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-09-829-proces-grands-personnages-26-27-slider.jpg",
+      "category": "THEATRE"
     },
     {
       "title": "Le Petit Chaperon rouge",
@@ -1935,6 +2055,21 @@
       "source": "TNN",
       "source_url": "https://www.tnn.fr/fr/spectacles/saison-2026-2027/orgueilleuse",
       "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-05-789-orgueilleuse-slider.jpg",
+      "category": "THEATRE"
+    },
+    {
+      "title": "Les Jeudis littéraires",
+      "description": "Tous les jeudis à 19h, au bar-restaurant de la salle des Franciscains, un comédien de la Troupe lit des textes “coup de cœur”. Naviguant du grand répertoire classique à l’écriture contemporaine, de la poésie aux récits mythologiques, les voix de la Troupe vous font (re)découvrir les plus beaux textes. Venez savourer un apéritif et la chaleur de mots choisis.OCTOBREAutour de notre programmation• Je",
+      "place": "Les FranciscainsLa Cuisine",
+      "city": "Nice",
+      "starts_at": 1795716000000,
+      "ends_at": 1795723200000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "TNN",
+      "source_url": "https://www.tnn.fr/fr/evenements/jeudis-litteraires-26-27",
+      "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-09-828-jeudis-litteraires-26-27-slider.jpg",
       "category": "THEATRE"
     },
     {
@@ -2025,6 +2160,21 @@
       "source": "TNN",
       "source_url": "https://www.tnn.fr/fr/spectacles/saison-2026-2027/christos-papadopoulos",
       "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-05-790-christos-papadopoulos-slider.jpg",
+      "category": "THEATRE"
+    },
+    {
+      "title": "Les Procès des grands personnages",
+      "description": "Tous les samedis à 11h, sur le parvis de la salle des Franciscains, participez aux Procès des grands personnages avec la plaidoirie d’un avocat du Barreau et un comédien de la Troupe ou un apprenti comédien de l’ERACM.Qui seront les prochains à rejoindre le banc des accusés ?OCTOBRE• Samedi 3/10 :Le Procès de Picsou- Laurent Prévot - Maître Robert Chemla - Hervé Van der Meulen• Samedi 10/10 :Le Pr",
+      "place": "Les FranciscainsLa Cuisine",
+      "city": "Nice",
+      "starts_at": 1795860000000,
+      "ends_at": 1795867200000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "TNN",
+      "source_url": "https://www.tnn.fr/fr/evenements/proces-grands-personnages-26-27",
+      "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-09-829-proces-grands-personnages-26-27-slider.jpg",
       "category": "THEATRE"
     },
     {
@@ -2133,6 +2283,21 @@
       "category": "THEATRE"
     },
     {
+      "title": "Les Jeudis littéraires",
+      "description": "Tous les jeudis à 19h, au bar-restaurant de la salle des Franciscains, un comédien de la Troupe lit des textes “coup de cœur”. Naviguant du grand répertoire classique à l’écriture contemporaine, de la poésie aux récits mythologiques, les voix de la Troupe vous font (re)découvrir les plus beaux textes. Venez savourer un apéritif et la chaleur de mots choisis.OCTOBREAutour de notre programmation• Je",
+      "place": "Les FranciscainsLa Cuisine",
+      "city": "Nice",
+      "starts_at": 1797012000000,
+      "ends_at": 1797019200000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "TNN",
+      "source_url": "https://www.tnn.fr/fr/evenements/jeudis-litteraires-26-27",
+      "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-09-828-jeudis-litteraires-26-27-slider.jpg",
+      "category": "THEATRE"
+    },
+    {
       "title": "Résurrection",
       "description": "DansRésurrection, il est question d’un jeune homme de bonne famille qui mène une vie de plaisirs dans une grande ville et se retrouve juré au procès d’une femme accusée de meurtre. Il reconnaît son amour de jeunesse, autrefois au service de sa famille. Il a abusé d’elle et l’a mise enceinte avant de l’abandonner. Elle est devenue une prostituée. Désireux de racheter sa faute, il tente de l’innocen",
       "place": "Les FranciscainsLa Cuisine",
@@ -2161,6 +2326,21 @@
       "source_url": "https://www.nikaia.fr/programmation/veronique-sanson-2027",
       "image_url": "https://www.nikaia.fr/files/2026-04/600x600-sanson.jpg",
       "category": "AUTRE"
+    },
+    {
+      "title": "Les Procès des grands personnages",
+      "description": "Tous les samedis à 11h, sur le parvis de la salle des Franciscains, participez aux Procès des grands personnages avec la plaidoirie d’un avocat du Barreau et un comédien de la Troupe ou un apprenti comédien de l’ERACM.Qui seront les prochains à rejoindre le banc des accusés ?OCTOBRE• Samedi 3/10 :Le Procès de Picsou- Laurent Prévot - Maître Robert Chemla - Hervé Van der Meulen• Samedi 10/10 :Le Pr",
+      "place": "Les FranciscainsLa Cuisine",
+      "city": "Nice",
+      "starts_at": 1797069600000,
+      "ends_at": 1797076800000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "TNN",
+      "source_url": "https://www.tnn.fr/fr/evenements/proces-grands-personnages-26-27",
+      "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-09-829-proces-grands-personnages-26-27-slider.jpg",
+      "category": "THEATRE"
     },
     {
       "title": "Mungo’s HI FI",
@@ -2268,6 +2448,21 @@
       "category": "THEATRE"
     },
     {
+      "title": "Les Jeudis littéraires",
+      "description": "Tous les jeudis à 19h, au bar-restaurant de la salle des Franciscains, un comédien de la Troupe lit des textes “coup de cœur”. Naviguant du grand répertoire classique à l’écriture contemporaine, de la poésie aux récits mythologiques, les voix de la Troupe vous font (re)découvrir les plus beaux textes. Venez savourer un apéritif et la chaleur de mots choisis.OCTOBREAutour de notre programmation• Je",
+      "place": "Les FranciscainsLa Cuisine",
+      "city": "Nice",
+      "starts_at": 1797530400000,
+      "ends_at": 1797537600000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "TNN",
+      "source_url": "https://www.tnn.fr/fr/evenements/jeudis-litteraires-26-27",
+      "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-09-828-jeudis-litteraires-26-27-slider.jpg",
+      "category": "THEATRE"
+    },
+    {
       "title": "Cap' ou pas cap' ?",
       "description": "L’Entre-Pont",
       "place": "Nice",
@@ -2340,6 +2535,21 @@
       "source": "TNN",
       "source_url": "https://www.tnn.fr/fr/spectacles/saison-2026-2027/l-ecole-des-femmes",
       "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-05-793-l-ecole-des-femmes-slider.jpg",
+      "category": "THEATRE"
+    },
+    {
+      "title": "Les Procès des grands personnages",
+      "description": "Tous les samedis à 11h, sur le parvis de la salle des Franciscains, participez aux Procès des grands personnages avec la plaidoirie d’un avocat du Barreau et un comédien de la Troupe ou un apprenti comédien de l’ERACM.Qui seront les prochains à rejoindre le banc des accusés ?OCTOBRE• Samedi 3/10 :Le Procès de Picsou- Laurent Prévot - Maître Robert Chemla - Hervé Van der Meulen• Samedi 10/10 :Le Pr",
+      "place": "Les FranciscainsLa Cuisine",
+      "city": "Nice",
+      "starts_at": 1797674400000,
+      "ends_at": 1797681600000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "TNN",
+      "source_url": "https://www.tnn.fr/fr/evenements/proces-grands-personnages-26-27",
+      "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-09-829-proces-grands-personnages-26-27-slider.jpg",
       "category": "THEATRE"
     },
     {
@@ -2478,6 +2688,21 @@
       "category": "THEATRE"
     },
     {
+      "title": "Les Jeudis littéraires",
+      "description": "Tous les jeudis à 19h, au bar-restaurant de la salle des Franciscains, un comédien de la Troupe lit des textes “coup de cœur”. Naviguant du grand répertoire classique à l’écriture contemporaine, de la poésie aux récits mythologiques, les voix de la Troupe vous font (re)découvrir les plus beaux textes. Venez savourer un apéritif et la chaleur de mots choisis.OCTOBREAutour de notre programmation• Je",
+      "place": "Les FranciscainsLa Cuisine",
+      "city": "Nice",
+      "starts_at": 1799949600000,
+      "ends_at": 1799956800000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "TNN",
+      "source_url": "https://www.tnn.fr/fr/evenements/jeudis-litteraires-26-27",
+      "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-09-828-jeudis-litteraires-26-27-slider.jpg",
+      "category": "THEATRE"
+    },
+    {
       "title": "L’Incandescente et le Gang des cracheuses de sang",
       "description": "La saison dernière, Louise Chevillotte interprétait Simone de Beauvoir dansThérèse et Isabelle. Nous la retrouvons pour sa première mise en scène. Inspirée par le roman éponyme de Claudie Hunzinger et le film documentaire de son fils Robin, elle fait revivre la correspondance passionnée entre Emma et Marcelle, deux jeunes filles du début du XXesiècle. Au plateau, quatre comédiennes incarnent ces j",
       "place": "Les FranciscainsLa Cuisine",
@@ -2538,6 +2763,21 @@
       "category": "THEATRE"
     },
     {
+      "title": "Les Procès des grands personnages",
+      "description": "Tous les samedis à 11h, sur le parvis de la salle des Franciscains, participez aux Procès des grands personnages avec la plaidoirie d’un avocat du Barreau et un comédien de la Troupe ou un apprenti comédien de l’ERACM.Qui seront les prochains à rejoindre le banc des accusés ?OCTOBRE• Samedi 3/10 :Le Procès de Picsou- Laurent Prévot - Maître Robert Chemla - Hervé Van der Meulen• Samedi 10/10 :Le Pr",
+      "place": "Les FranciscainsLa Cuisine",
+      "city": "Nice",
+      "starts_at": 1800093600000,
+      "ends_at": 1800100800000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "TNN",
+      "source_url": "https://www.tnn.fr/fr/evenements/proces-grands-personnages-26-27",
+      "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-09-829-proces-grands-personnages-26-27-slider.jpg",
+      "category": "THEATRE"
+    },
+    {
       "title": "Les Résistantes",
       "description": "Après le succès deLéon Blum, une vie héroïque, Charles Berling, Philippe Collin et Violaine Ballet poursuivent leur collaboration avecLes Résistantes, un nouvel événement théâtral participatif consacré à trois grandes figures féminines de la Résistance : Geneviève de Gaulle, Mila Racine et Lucie Aubrac.Souvent réduites à une poignée de clichés romantiques, celui d’une jeune messagère à vélo ou d’u",
       "place": "Les FranciscainsLa Cuisine",
@@ -2595,6 +2835,21 @@
       "source": "TNN",
       "source_url": "https://www.tnn.fr/fr/spectacles/saison-2026-2027/presque-hamlet",
       "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-05-797-presque-hamlet-slider.jpg",
+      "category": "THEATRE"
+    },
+    {
+      "title": "Les Jeudis littéraires",
+      "description": "Tous les jeudis à 19h, au bar-restaurant de la salle des Franciscains, un comédien de la Troupe lit des textes “coup de cœur”. Naviguant du grand répertoire classique à l’écriture contemporaine, de la poésie aux récits mythologiques, les voix de la Troupe vous font (re)découvrir les plus beaux textes. Venez savourer un apéritif et la chaleur de mots choisis.OCTOBREAutour de notre programmation• Je",
+      "place": "Les FranciscainsLa Cuisine",
+      "city": "Nice",
+      "starts_at": 1800554400000,
+      "ends_at": 1800561600000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "TNN",
+      "source_url": "https://www.tnn.fr/fr/evenements/jeudis-litteraires-26-27",
+      "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-09-828-jeudis-litteraires-26-27-slider.jpg",
       "category": "THEATRE"
     },
     {
@@ -2673,6 +2928,21 @@
       "category": "THEATRE"
     },
     {
+      "title": "Les Procès des grands personnages",
+      "description": "Tous les samedis à 11h, sur le parvis de la salle des Franciscains, participez aux Procès des grands personnages avec la plaidoirie d’un avocat du Barreau et un comédien de la Troupe ou un apprenti comédien de l’ERACM.Qui seront les prochains à rejoindre le banc des accusés ?OCTOBRE• Samedi 3/10 :Le Procès de Picsou- Laurent Prévot - Maître Robert Chemla - Hervé Van der Meulen• Samedi 10/10 :Le Pr",
+      "place": "Les FranciscainsLa Cuisine",
+      "city": "Nice",
+      "starts_at": 1800698400000,
+      "ends_at": 1800705600000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "TNN",
+      "source_url": "https://www.tnn.fr/fr/evenements/proces-grands-personnages-26-27",
+      "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-09-829-proces-grands-personnages-26-27-slider.jpg",
+      "category": "THEATRE"
+    },
+    {
       "title": "Le Château des Carpathes",
       "description": "Dans un petit village replié sur lui-même, cerné par la forêt et dominé par l’ombre du Château des Carpathes, la peur façonne les existences. Déterminé à percer le secret de cet étrange édifice, Franz, voyageur solitaire, s’engage dans une expédition périlleuse à travers forêts et montagnes. Sur scène, musiciens, chanteurs et comédiens déploient avec générosité toute la magie de l’œuvre romanesque",
       "place": "Les FranciscainsLa Cuisine",
@@ -2733,6 +3003,21 @@
       "category": "THEATRE"
     },
     {
+      "title": "Les Jeudis littéraires",
+      "description": "Tous les jeudis à 19h, au bar-restaurant de la salle des Franciscains, un comédien de la Troupe lit des textes “coup de cœur”. Naviguant du grand répertoire classique à l’écriture contemporaine, de la poésie aux récits mythologiques, les voix de la Troupe vous font (re)découvrir les plus beaux textes. Venez savourer un apéritif et la chaleur de mots choisis.OCTOBREAutour de notre programmation• Je",
+      "place": "Les FranciscainsLa Cuisine",
+      "city": "Nice",
+      "starts_at": 1801159200000,
+      "ends_at": 1801166400000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "TNN",
+      "source_url": "https://www.tnn.fr/fr/evenements/jeudis-litteraires-26-27",
+      "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-09-828-jeudis-litteraires-26-27-slider.jpg",
+      "category": "THEATRE"
+    },
+    {
       "title": "Magistral.e.s",
       "description": "AvecMagistral·e·s, Alexandra Cismondi imagine un théâtre d’audience qui transformera la salle des Franciscains en cour d’assises. Nourrie de son immersion au cœur du monde judiciaire et inspirée d’un procès ayant participé à l’évolution de la loi sur le non-consentement des mineurs de moins de 15 ans, la metteuse en scène interroge le système : comment une société peut-elle exiger d’une enfant qu’",
       "place": "Les FranciscainsLa Cuisine",
@@ -2775,6 +3060,21 @@
       "source": "TNN",
       "source_url": "https://www.tnn.fr/fr/spectacles/saison-2026-2027/magistrales",
       "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-05-799-magistrales-slider.jpg",
+      "category": "THEATRE"
+    },
+    {
+      "title": "Les Procès des grands personnages",
+      "description": "Tous les samedis à 11h, sur le parvis de la salle des Franciscains, participez aux Procès des grands personnages avec la plaidoirie d’un avocat du Barreau et un comédien de la Troupe ou un apprenti comédien de l’ERACM.Qui seront les prochains à rejoindre le banc des accusés ?OCTOBRE• Samedi 3/10 :Le Procès de Picsou- Laurent Prévot - Maître Robert Chemla - Hervé Van der Meulen• Samedi 10/10 :Le Pr",
+      "place": "Les FranciscainsLa Cuisine",
+      "city": "Nice",
+      "starts_at": 1801303200000,
+      "ends_at": 1801310400000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "TNN",
+      "source_url": "https://www.tnn.fr/fr/evenements/proces-grands-personnages-26-27",
+      "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-09-829-proces-grands-personnages-26-27-slider.jpg",
       "category": "THEATRE"
     },
     {
@@ -2868,6 +3168,21 @@
       "category": "THEATRE"
     },
     {
+      "title": "Les Procès des grands personnages",
+      "description": "Tous les samedis à 11h, sur le parvis de la salle des Franciscains, participez aux Procès des grands personnages avec la plaidoirie d’un avocat du Barreau et un comédien de la Troupe ou un apprenti comédien de l’ERACM.Qui seront les prochains à rejoindre le banc des accusés ?OCTOBRE• Samedi 3/10 :Le Procès de Picsou- Laurent Prévot - Maître Robert Chemla - Hervé Van der Meulen• Samedi 10/10 :Le Pr",
+      "place": "Les FranciscainsLa Cuisine",
+      "city": "Nice",
+      "starts_at": 1802512800000,
+      "ends_at": 1802520000000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "TNN",
+      "source_url": "https://www.tnn.fr/fr/evenements/proces-grands-personnages-26-27",
+      "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-09-829-proces-grands-personnages-26-27-slider.jpg",
+      "category": "THEATRE"
+    },
+    {
       "title": "Richard III",
       "description": "Richard IIIraconte l’ascension brutale et la chute d’un monstre politique : Richard de Gloucester, prêt à toutes les trahisons et stratégies pour accéder au pouvoir. Dans cette adaptation unique pour danseurs et marionnettistes, Yoann Pencolé place Richard comme seul interprète au milieu de marionnettes à taille humaine, manipulées par trois danseurs-marionnettistes.Inspirée du théâtre bunraku jap",
       "place": "Les FranciscainsLa Cuisine",
@@ -2928,6 +3243,21 @@
       "category": "THEATRE"
     },
     {
+      "title": "Les Jeudis littéraires",
+      "description": "Tous les jeudis à 19h, au bar-restaurant de la salle des Franciscains, un comédien de la Troupe lit des textes “coup de cœur”. Naviguant du grand répertoire classique à l’écriture contemporaine, de la poésie aux récits mythologiques, les voix de la Troupe vous font (re)découvrir les plus beaux textes. Venez savourer un apéritif et la chaleur de mots choisis.OCTOBREAutour de notre programmation• Je",
+      "place": "Les FranciscainsLa Cuisine",
+      "city": "Nice",
+      "starts_at": 1802973600000,
+      "ends_at": 1802980800000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "TNN",
+      "source_url": "https://www.tnn.fr/fr/evenements/jeudis-litteraires-26-27",
+      "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-09-828-jeudis-litteraires-26-27-slider.jpg",
+      "category": "THEATRE"
+    },
+    {
       "title": "Les Gaulois",
       "description": "À la lisière d’un sous-bois, dans une Gaule fantasmée, deux sangliers paissent, tranquilles, avant de s’écrouler brutalement dans un fossé. Le décor est planté. Le texte mordant de Marion Aubert fait affleurer ce qui se cache sous les mythes et les grands récits. Dans la peau de Gaulois barbus et poilus, Thomas Blanchard et Olivier Martin-Salvan imaginent un espace de jeu imprégné de culture érudi",
       "place": "Les FranciscainsLa Cuisine",
@@ -2940,6 +3270,21 @@
       "source": "TNN",
       "source_url": "https://www.tnn.fr/fr/spectacles/saison-2026-2027/les-gaulois",
       "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-05-806-les-gaulois-slider.jpg",
+      "category": "THEATRE"
+    },
+    {
+      "title": "Les Procès des grands personnages",
+      "description": "Tous les samedis à 11h, sur le parvis de la salle des Franciscains, participez aux Procès des grands personnages avec la plaidoirie d’un avocat du Barreau et un comédien de la Troupe ou un apprenti comédien de l’ERACM.Qui seront les prochains à rejoindre le banc des accusés ?OCTOBRE• Samedi 3/10 :Le Procès de Picsou- Laurent Prévot - Maître Robert Chemla - Hervé Van der Meulen• Samedi 10/10 :Le Pr",
+      "place": "Les FranciscainsLa Cuisine",
+      "city": "Nice",
+      "starts_at": 1803117600000,
+      "ends_at": 1803124800000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "TNN",
+      "source_url": "https://www.tnn.fr/fr/evenements/proces-grands-personnages-26-27",
+      "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-09-829-proces-grands-personnages-26-27-slider.jpg",
       "category": "THEATRE"
     },
     {
@@ -2973,6 +3318,21 @@
       "category": "THEATRE"
     },
     {
+      "title": "Les Jeudis littéraires",
+      "description": "Tous les jeudis à 19h, au bar-restaurant de la salle des Franciscains, un comédien de la Troupe lit des textes “coup de cœur”. Naviguant du grand répertoire classique à l’écriture contemporaine, de la poésie aux récits mythologiques, les voix de la Troupe vous font (re)découvrir les plus beaux textes. Venez savourer un apéritif et la chaleur de mots choisis.OCTOBREAutour de notre programmation• Je",
+      "place": "Les FranciscainsLa Cuisine",
+      "city": "Nice",
+      "starts_at": 1803578400000,
+      "ends_at": 1803585600000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "TNN",
+      "source_url": "https://www.tnn.fr/fr/evenements/jeudis-litteraires-26-27",
+      "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-09-828-jeudis-litteraires-26-27-slider.jpg",
+      "category": "THEATRE"
+    },
+    {
       "title": "Nissa Slam",
       "description": "Animées par le comédien et slameurJacky Ido, ces soirées sont organisées une fois par mois au bar-restaurant de notre salle de La Cuisine et sont ouvertes à toutes et à tous. Venez jouer avec la musicalité des mots !1 vers dit = 1 verre offert !**1 verre offert pour toute participation. Soft ou alcool [vin, bière] en fonction de l’âge. L’abus d’alcool est dangereux pour la santé. Il est interdit d",
       "place": "Les FranciscainsLa Cuisine",
@@ -2988,6 +3348,21 @@
       "category": "THEATRE"
     },
     {
+      "title": "Les Procès des grands personnages",
+      "description": "Tous les samedis à 11h, sur le parvis de la salle des Franciscains, participez aux Procès des grands personnages avec la plaidoirie d’un avocat du Barreau et un comédien de la Troupe ou un apprenti comédien de l’ERACM.Qui seront les prochains à rejoindre le banc des accusés ?OCTOBRE• Samedi 3/10 :Le Procès de Picsou- Laurent Prévot - Maître Robert Chemla - Hervé Van der Meulen• Samedi 10/10 :Le Pr",
+      "place": "Les FranciscainsLa Cuisine",
+      "city": "Nice",
+      "starts_at": 1803722400000,
+      "ends_at": 1803729600000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "TNN",
+      "source_url": "https://www.tnn.fr/fr/evenements/proces-grands-personnages-26-27",
+      "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-09-829-proces-grands-personnages-26-27-slider.jpg",
+      "category": "THEATRE"
+    },
+    {
       "title": "Instabile",
       "description": "Joris Frigerio conçoitInstabilecomme une création circassienne en deux temps. Sur un plateau roulant, instable et imprévisible, l’équilibre se négocie à chaque seconde pour les trois interprètes qui s’y confrontent. Le dispositif scénique, aussi exigeant qu’innovant, impose l’urgence : rester en mouvement pour rester en vie. À travers cette vibrante mise sous tension, Instabile explore notre rappo",
       "place": "Les FranciscainsLa Cuisine",
@@ -3000,6 +3375,21 @@
       "source": "TNN",
       "source_url": "https://www.tnn.fr/fr/spectacles/saison-2026-2027/instabile",
       "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-05-800-instabile-slider.jpg",
+      "category": "THEATRE"
+    },
+    {
+      "title": "Les Procès des grands personnages",
+      "description": "Tous les samedis à 11h, sur le parvis de la salle des Franciscains, participez aux Procès des grands personnages avec la plaidoirie d’un avocat du Barreau et un comédien de la Troupe ou un apprenti comédien de l’ERACM.Qui seront les prochains à rejoindre le banc des accusés ?OCTOBRE• Samedi 3/10 :Le Procès de Picsou- Laurent Prévot - Maître Robert Chemla - Hervé Van der Meulen• Samedi 10/10 :Le Pr",
+      "place": "Les FranciscainsLa Cuisine",
+      "city": "Nice",
+      "starts_at": 1804154400000,
+      "ends_at": 1804161600000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "TNN",
+      "source_url": "https://www.tnn.fr/fr/evenements/proces-grands-personnages-26-27",
+      "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-09-829-proces-grands-personnages-26-27-slider.jpg",
       "category": "THEATRE"
     },
     {
@@ -3078,6 +3468,21 @@
       "category": "THEATRE"
     },
     {
+      "title": "Les Jeudis littéraires",
+      "description": "Tous les jeudis à 19h, au bar-restaurant de la salle des Franciscains, un comédien de la Troupe lit des textes “coup de cœur”. Naviguant du grand répertoire classique à l’écriture contemporaine, de la poésie aux récits mythologiques, les voix de la Troupe vous font (re)découvrir les plus beaux textes. Venez savourer un apéritif et la chaleur de mots choisis.OCTOBREAutour de notre programmation• Je",
+      "place": "Les FranciscainsLa Cuisine",
+      "city": "Nice",
+      "starts_at": 1806685200000,
+      "ends_at": 1806692400000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "TNN",
+      "source_url": "https://www.tnn.fr/fr/evenements/jeudis-litteraires-26-27",
+      "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-09-828-jeudis-litteraires-26-27-slider.jpg",
+      "category": "THEATRE"
+    },
+    {
       "title": "Instabile",
       "description": "Joris Frigerio conçoitInstabilecomme une création circassienne en deux temps. Sur un plateau roulant, instable et imprévisible, l’équilibre se négocie à chaque seconde pour les trois interprètes qui s’y confrontent. Le dispositif scénique, aussi exigeant qu’innovant, impose l’urgence : rester en mouvement pour rester en vie. À travers cette vibrante mise sous tension, Instabile explore notre rappo",
       "place": "Les FranciscainsLa Cuisine",
@@ -3106,6 +3511,21 @@
       "source_url": "https://www.explorenicecotedazur.com/evenement/de-la-scene-a-la-toile-artistes-et-mondaines-de-la-belle-epoque/",
       "image_url": "https://cdn.iris-etourism.io/media/nice/7836872/a28502e7476e769a-335x335.webp",
       "category": "AUTRE"
+    },
+    {
+      "title": "Les Jeudis littéraires",
+      "description": "Tous les jeudis à 19h, au bar-restaurant de la salle des Franciscains, un comédien de la Troupe lit des textes “coup de cœur”. Naviguant du grand répertoire classique à l’écriture contemporaine, de la poésie aux récits mythologiques, les voix de la Troupe vous font (re)découvrir les plus beaux textes. Venez savourer un apéritif et la chaleur de mots choisis.OCTOBREAutour de notre programmation• Je",
+      "place": "Les FranciscainsLa Cuisine",
+      "city": "Nice",
+      "starts_at": 1807808400000,
+      "ends_at": 1807815600000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "TNN",
+      "source_url": "https://www.tnn.fr/fr/evenements/jeudis-litteraires-26-27",
+      "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-09-828-jeudis-litteraires-26-27-slider.jpg",
+      "category": "THEATRE"
     },
     {
       "title": "L'Amante anglaise",
@@ -3153,6 +3573,21 @@
       "category": "THEATRE"
     },
     {
+      "title": "Les Procès des grands personnages",
+      "description": "Tous les samedis à 11h, sur le parvis de la salle des Franciscains, participez aux Procès des grands personnages avec la plaidoirie d’un avocat du Barreau et un comédien de la Troupe ou un apprenti comédien de l’ERACM.Qui seront les prochains à rejoindre le banc des accusés ?OCTOBRE• Samedi 3/10 :Le Procès de Picsou- Laurent Prévot - Maître Robert Chemla - Hervé Van der Meulen• Samedi 10/10 :Le Pr",
+      "place": "Les FranciscainsLa Cuisine",
+      "city": "Nice",
+      "starts_at": 1807952400000,
+      "ends_at": 1807959600000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "TNN",
+      "source_url": "https://www.tnn.fr/fr/evenements/proces-grands-personnages-26-27",
+      "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-09-829-proces-grands-personnages-26-27-slider.jpg",
+      "category": "THEATRE"
+    },
+    {
       "title": "L'Amante anglaise",
       "description": "Pierre et Claire Lannes sont interrogés à tour de rôle au sujet du meurtre de Marie-Thérèse Bousquet, la cousine sourde et muette de Pierre, qui était aussi leur femme de ménage et cuisinière. Claire reconnaît tout de suite l’avoir tuée, puis avoir découpé et disséminé son corps, sans jamais parvenir à en expliquer la raison. De son côté, Pierre affirme n’avoir rien vu. L’intrigue se transforme so",
       "place": "Les FranciscainsLa Cuisine",
@@ -3183,6 +3618,36 @@
       "category": "THEATRE"
     },
     {
+      "title": "Les Jeudis littéraires",
+      "description": "Tous les jeudis à 19h, au bar-restaurant de la salle des Franciscains, un comédien de la Troupe lit des textes “coup de cœur”. Naviguant du grand répertoire classique à l’écriture contemporaine, de la poésie aux récits mythologiques, les voix de la Troupe vous font (re)découvrir les plus beaux textes. Venez savourer un apéritif et la chaleur de mots choisis.OCTOBREAutour de notre programmation• Je",
+      "place": "Les FranciscainsLa Cuisine",
+      "city": "Nice",
+      "starts_at": 1808413200000,
+      "ends_at": 1808420400000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "TNN",
+      "source_url": "https://www.tnn.fr/fr/evenements/jeudis-litteraires-26-27",
+      "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-09-828-jeudis-litteraires-26-27-slider.jpg",
+      "category": "THEATRE"
+    },
+    {
+      "title": "Les Procès des grands personnages",
+      "description": "Tous les samedis à 11h, sur le parvis de la salle des Franciscains, participez aux Procès des grands personnages avec la plaidoirie d’un avocat du Barreau et un comédien de la Troupe ou un apprenti comédien de l’ERACM.Qui seront les prochains à rejoindre le banc des accusés ?OCTOBRE• Samedi 3/10 :Le Procès de Picsou- Laurent Prévot - Maître Robert Chemla - Hervé Van der Meulen• Samedi 10/10 :Le Pr",
+      "place": "Les FranciscainsLa Cuisine",
+      "city": "Nice",
+      "starts_at": 1808557200000,
+      "ends_at": 1808564400000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "TNN",
+      "source_url": "https://www.tnn.fr/fr/evenements/proces-grands-personnages-26-27",
+      "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-09-829-proces-grands-personnages-26-27-slider.jpg",
+      "category": "THEATRE"
+    },
+    {
       "title": "Le Lab'Oratoire",
       "description": "Chaque dernier lundi du mois à 19h, d’octobre à avril, Muriel Mayette-Holtz et les comédiens de la Troupe proposent des cours d’oralité et permettent à chacun de s’entraîner à la prise de parole en public.Le Lab'Oratoireest l’occasion, pour les acteurs de la troupe et moi, de transmettre quelques clés d’un métier aussi mystérieux qu’essentiel : celui de l’acteur, et plus intimement encore, celui d",
       "place": "Les FranciscainsLa Cuisine",
@@ -3195,6 +3660,21 @@
       "source": "TNN",
       "source_url": "https://www.tnn.fr/fr/evenements/laboratoire-2026-2027",
       "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-09-826-laboratoire-2026-2027-slider.jpg",
+      "category": "THEATRE"
+    },
+    {
+      "title": "Les Jeudis littéraires",
+      "description": "Tous les jeudis à 19h, au bar-restaurant de la salle des Franciscains, un comédien de la Troupe lit des textes “coup de cœur”. Naviguant du grand répertoire classique à l’écriture contemporaine, de la poésie aux récits mythologiques, les voix de la Troupe vous font (re)découvrir les plus beaux textes. Venez savourer un apéritif et la chaleur de mots choisis.OCTOBREAutour de notre programmation• Je",
+      "place": "Les FranciscainsLa Cuisine",
+      "city": "Nice",
+      "starts_at": 1809018000000,
+      "ends_at": 1809025200000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "TNN",
+      "source_url": "https://www.tnn.fr/fr/evenements/jeudis-litteraires-26-27",
+      "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-09-828-jeudis-litteraires-26-27-slider.jpg",
       "category": "THEATRE"
     },
     {
@@ -3393,6 +3873,21 @@
       "category": "THEATRE"
     },
     {
+      "title": "Les Procès des grands personnages",
+      "description": "Tous les samedis à 11h, sur le parvis de la salle des Franciscains, participez aux Procès des grands personnages avec la plaidoirie d’un avocat du Barreau et un comédien de la Troupe ou un apprenti comédien de l’ERACM.Qui seront les prochains à rejoindre le banc des accusés ?OCTOBRE• Samedi 3/10 :Le Procès de Picsou- Laurent Prévot - Maître Robert Chemla - Hervé Van der Meulen• Samedi 10/10 :Le Pr",
+      "place": "Les FranciscainsLa Cuisine",
+      "city": "Nice",
+      "starts_at": 1811926800000,
+      "ends_at": 1811934000000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "TNN",
+      "source_url": "https://www.tnn.fr/fr/evenements/proces-grands-personnages-26-27",
+      "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-09-829-proces-grands-personnages-26-27-slider.jpg",
+      "category": "THEATRE"
+    },
+    {
       "title": "Scaramuccia",
       "description": "Nous sommes en 1645, sur l’île de Crète alors stratégique pour l’empire maritime vénitien. Tandis que la cinquième guerre turco-vénitienne se prépare, Pantalone de’ Bisognosi, marchand installé sur l’île, organise le mariage de sa fille Ortensia avec le riche Don Alonso. Mais à Venise, Don Alonso croise la route de Scaramuccia, Napolitain mal en point, et son fidèle serviteur Arlecchino. Une quere",
       "place": "Les FranciscainsLa Cuisine",
@@ -3405,6 +3900,21 @@
       "source": "TNN",
       "source_url": "https://www.tnn.fr/fr/spectacles/saison-2026-2027/scaramuccia",
       "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-09-801-scaramuccia-slider.jpg",
+      "category": "THEATRE"
+    },
+    {
+      "title": "Les Jeudis littéraires",
+      "description": "Tous les jeudis à 19h, au bar-restaurant de la salle des Franciscains, un comédien de la Troupe lit des textes “coup de cœur”. Naviguant du grand répertoire classique à l’écriture contemporaine, de la poésie aux récits mythologiques, les voix de la Troupe vous font (re)découvrir les plus beaux textes. Venez savourer un apéritif et la chaleur de mots choisis.OCTOBREAutour de notre programmation• Je",
+      "place": "Les FranciscainsLa Cuisine",
+      "city": "Nice",
+      "starts_at": 1814461200000,
+      "ends_at": 1814468400000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "TNN",
+      "source_url": "https://www.tnn.fr/fr/evenements/jeudis-litteraires-26-27",
+      "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-09-828-jeudis-litteraires-26-27-slider.jpg",
       "category": "THEATRE"
     },
     {
@@ -3498,6 +4008,21 @@
       "category": "THEATRE"
     },
     {
+      "title": "Les Jeudis littéraires",
+      "description": "Tous les jeudis à 19h, au bar-restaurant de la salle des Franciscains, un comédien de la Troupe lit des textes “coup de cœur”. Naviguant du grand répertoire classique à l’écriture contemporaine, de la poésie aux récits mythologiques, les voix de la Troupe vous font (re)découvrir les plus beaux textes. Venez savourer un apéritif et la chaleur de mots choisis.OCTOBREAutour de notre programmation• Je",
+      "place": "Les FranciscainsLa Cuisine",
+      "city": "Nice",
+      "starts_at": 1817398800000,
+      "ends_at": 1817406000000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "TNN",
+      "source_url": "https://www.tnn.fr/fr/evenements/jeudis-litteraires-26-27",
+      "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-09-828-jeudis-litteraires-26-27-slider.jpg",
+      "category": "THEATRE"
+    },
+    {
       "title": "La Tendresse",
       "description": "Qu’est-ce qu’être un homme aujourd’hui ? Un homme bien, un bon amant, un bon fils ou un bon père ? AprèsDésobéir, présenté au TNN en 2021, Julie Bérès donne corps au deuxième volet d’un diptyque consacré à la jeunesse.La Tendresseréunit sur le plateau de jeunes hommes qui, par la parole ou la danse, viennent raconter leurs parcours et, chacun à leur manière, ébranlent les modèles de virilité qu’il",
       "place": "Les FranciscainsLa Cuisine",
@@ -3510,6 +4035,21 @@
       "source": "TNN",
       "source_url": "https://www.tnn.fr/fr/spectacles/saison-2026-2027/la-tendresse",
       "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-05-814-la-tendresse-slider.jpg",
+      "category": "THEATRE"
+    },
+    {
+      "title": "Les Procès des grands personnages",
+      "description": "Tous les samedis à 11h, sur le parvis de la salle des Franciscains, participez aux Procès des grands personnages avec la plaidoirie d’un avocat du Barreau et un comédien de la Troupe ou un apprenti comédien de l’ERACM.Qui seront les prochains à rejoindre le banc des accusés ?OCTOBRE• Samedi 3/10 :Le Procès de Picsou- Laurent Prévot - Maître Robert Chemla - Hervé Van der Meulen• Samedi 10/10 :Le Pr",
+      "place": "Les FranciscainsLa Cuisine",
+      "city": "Nice",
+      "starts_at": 1819789200000,
+      "ends_at": 1819796400000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "TNN",
+      "source_url": "https://www.tnn.fr/fr/evenements/proces-grands-personnages-26-27",
+      "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-09-829-proces-grands-personnages-26-27-slider.jpg",
       "category": "THEATRE"
     },
     {
@@ -3588,6 +4128,21 @@
       "category": "THEATRE"
     },
     {
+      "title": "Les Procès des grands personnages",
+      "description": "Tous les samedis à 11h, sur le parvis de la salle des Franciscains, participez aux Procès des grands personnages avec la plaidoirie d’un avocat du Barreau et un comédien de la Troupe ou un apprenti comédien de l’ERACM.Qui seront les prochains à rejoindre le banc des accusés ?OCTOBRE• Samedi 3/10 :Le Procès de Picsou- Laurent Prévot - Maître Robert Chemla - Hervé Van der Meulen• Samedi 10/10 :Le Pr",
+      "place": "Les FranciscainsLa Cuisine",
+      "city": "Nice",
+      "starts_at": 1822640400000,
+      "ends_at": 1822647600000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "TNN",
+      "source_url": "https://www.tnn.fr/fr/evenements/proces-grands-personnages-26-27",
+      "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-09-829-proces-grands-personnages-26-27-slider.jpg",
+      "category": "THEATRE"
+    },
+    {
       "title": "Merveilles et curiosités du Palais Lascaris",
       "description": "",
       "place": "Exposition",
@@ -3615,6 +4170,21 @@
       "source": "TNN",
       "source_url": "https://www.tnn.fr/fr/spectacles/saison-2026-2027/hautes-perchees",
       "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-05-803-hautes-perchees-slider.jpg",
+      "category": "THEATRE"
+    },
+    {
+      "title": "Les Jeudis littéraires",
+      "description": "Tous les jeudis à 19h, au bar-restaurant de la salle des Franciscains, un comédien de la Troupe lit des textes “coup de cœur”. Naviguant du grand répertoire classique à l’écriture contemporaine, de la poésie aux récits mythologiques, les voix de la Troupe vous font (re)découvrir les plus beaux textes. Venez savourer un apéritif et la chaleur de mots choisis.OCTOBREAutour de notre programmation• Je",
+      "place": "Les FranciscainsLa Cuisine",
+      "city": "Nice",
+      "starts_at": 1825178400000,
+      "ends_at": 1825185600000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "TNN",
+      "source_url": "https://www.tnn.fr/fr/evenements/jeudis-litteraires-26-27",
+      "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-09-828-jeudis-litteraires-26-27-slider.jpg",
       "category": "THEATRE"
     },
     {
