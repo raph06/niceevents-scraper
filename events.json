@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-14T02:38:17Z",
-  "count": 247,
+  "scraped_at": "2026-09-14T08:27:01Z",
+  "count": 248,
   "events": [
     {
       "title": "Lire à son rythme",
@@ -29,7 +29,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/atelier/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/09/parent-enfant.jpeg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
@@ -89,7 +89,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/04/611891-tour-bellanda-250x250.jpg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
@@ -119,7 +119,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/lecture/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/01/club-lecture.jpeg",
       "category": "AUTRE"
     },
     {
@@ -134,7 +134,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/animation/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/08/jeux-rentree.png",
       "category": "AUTRE"
     },
     {
@@ -180,6 +180,21 @@
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/animation/",
       "image_url": "https://www.nice.fr/wp-content/uploads/2025/09/15-09-orchidees-alpes-maritimes.png",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Tournoi de « speed puzzling »",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1789459200000,
+      "ends_at": 1789466400000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/animation/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/08/tournois-de-speed-puzzling.jpeg",
       "category": "AUTRE"
     },
     {
@@ -783,21 +798,6 @@
       "category": "EXPO"
     },
     {
-      "title": "Echecs, bridge et backgammon",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1790431200000,
-      "ends_at": 1790438400000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/echecs-bridge-et-backgammon",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/4/9/3/6/2256394-4-fre-FR/6a2a4ac6a2a8-106307_img_0jT0W3K.jpg.webp",
-      "category": "AUTRE"
-    },
-    {
       "title": "Roma de Jules Massenet",
       "description": "",
       "place": "Monaco",
@@ -810,6 +810,21 @@
       "source": "MONACO",
       "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/roma-de-jules-massenet",
       "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/9/7/8/2/2192879-1-fre-FR/55f3d059aeab-106182_img_0UF4FpZ.jpg.webp",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Echecs, bridge et backgammon",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1790431200000,
+      "ends_at": 1790438400000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/echecs-bridge-et-backgammon",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/4/9/3/6/2256394-4-fre-FR/6a2a4ac6a2a8-106307_img_0jT0W3K.jpg.webp",
       "category": "AUTRE"
     },
     {
