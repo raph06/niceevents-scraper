@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-15T18:42:49Z",
-  "count": 282,
+  "scraped_at": "2026-09-15T23:26:35Z",
+  "count": 283,
   "events": [
     {
       "title": "Tour Bellanda – Le Bellandarium",
@@ -104,7 +104,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/05/evenement-crypte-250x250.jpg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
@@ -1321,6 +1321,21 @@
       "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/sportel-monaco2",
       "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/3/9/2/8/1968293-1-fre-FR/eed1aa38c857-105596_img_0CeaJE8.jpg.webp",
       "category": "SPORT"
+    },
+    {
+      "title": "Bkt eurocup: AS Monaco - Bahcesehir College Istanbul",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1792603800000,
+      "ends_at": 1792611000000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/bkt-eurocup-as-monaco-bahcesehir-college-istanbul",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/9/4/8/4/2244849-5-fre-FR/29e3328fdcbd-106266_img_0p3q0Ni.png.webp",
+      "category": "AUTRE"
     },
     {
       "title": "Les Jeudis littéraires",
