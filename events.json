@@ -1,37 +1,7 @@
 {
-  "scraped_at": "2026-09-16T18:40:22Z",
-  "count": 278,
+  "scraped_at": "2026-09-16T23:31:37Z",
+  "count": 276,
   "events": [
-    {
-      "title": "La dernière fois qu'on a vu Bernard Stasi",
-      "description": "Chaque année, les comédiens de la Troupe lisent en public les textes sélectionnés par leComité de lecture, présidé parMeFrançoise Assus-Juttner.AGENDA DES LECTURES• Cette année, lestextes retenus en 2026sont lus du 9 au 11 septembre 2026 à 19h30.• Letexte lauréat 2025,La dernière fois qu'on a vu Bernard StasideGrégoire Biseau, est mis en espace parMuriel Mayette-Holtzet interprété par les comédien",
-      "place": "Les FranciscainsLa Cuisine",
-      "city": "Nice",
-      "starts_at": 1789596000000,
-      "ends_at": 1789603200000,
-      "has_time": false,
-      "price": "—",
-      "price_val": 0,
-      "source": "TNN",
-      "source_url": "https://www.tnn.fr/fr/evenements/comite-lecture-laureat-2025",
-      "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-06-822-comite-lecture-laureat-2025-slider.jpg",
-      "category": "THEATRE"
-    },
-    {
-      "title": "La Vague Qui Vient",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1789596000000,
-      "ends_at": 1789603200000,
-      "has_time": false,
-      "price": "—",
-      "price_val": 0,
-      "source": "INFOLOCALE",
-      "source_url": "https://www.infolocale.fr/evenements?age%5B0%5D=Tout%20Public&age%5B1%5D=Adulte&age%5B2%5D=Adolescent&age%5B3%5D=Enfant&age%5B4%5D=Bebe&commune=06088",
-      "image_url": "https://photos.infolocale.fr/infolocale/annonce/2026/0822/8959480/_1.jpg?rnd=20260828102517",
-      "category": "AUTRE"
-    },
     {
       "title": "Tour Bellanda – Le Bellandarium",
       "description": "",
@@ -119,7 +89,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/atelier/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/05/tout-en-fil.jpg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
