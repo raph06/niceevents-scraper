@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-15T23:26:35Z",
-  "count": 283,
+  "scraped_at": "2026-09-16T02:36:48Z",
+  "count": 287,
   "events": [
     {
       "title": "Tour Bellanda – Le Bellandarium",
@@ -74,7 +74,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/atelier/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/02/atelierenfant-mercredis-250x250.jpg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
@@ -104,7 +104,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/05/evenement-crypte-250x250.jpg",
       "category": "AUTRE"
     },
     {
@@ -119,7 +119,37 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/conference/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/03/conference.jpg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "category": "AUTRE"
+    },
+    {
+      "title": "(Re)création : histoires d’art et d’imagination",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1789563600000,
+      "ends_at": 1789570800000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/atelier/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/08/recreation-histoires-dart-et-dimagination.jpeg",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Tout n’est pas si noir. Réflexions sur la vieillesse",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1789567200000,
+      "ends_at": 1789574400000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/conference/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
@@ -165,6 +195,36 @@
       "source": "INFOLOCALE",
       "source_url": "https://www.infolocale.fr/evenements?age%5B0%5D=Tout%20Public&age%5B1%5D=Adulte&age%5B2%5D=Adolescent&age%5B3%5D=Enfant&age%5B4%5D=Bebe&commune=06088",
       "image_url": "https://photos.infolocale.fr/infolocale/annonce/2026/0822/8959480/_1.jpg?rnd=20260828102517",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Éveil corporel",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1789630200000,
+      "ends_at": 1789637400000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/atelier/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/11/eveil-corporel.jpg",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Quand Nice invente la Riviera",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1789630200000,
+      "ends_at": 1789637400000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/05/riviera-visite.jpg",
       "category": "AUTRE"
     },
     {
