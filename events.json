@@ -1,37 +1,7 @@
 {
-  "scraped_at": "2026-09-16T14:01:10Z",
+  "scraped_at": "2026-09-16T18:40:22Z",
   "count": 278,
   "events": [
-    {
-      "title": "Tout n’est pas si noir. Réflexions sur la vieillesse",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1789567200000,
-      "ends_at": 1789574400000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/conference/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Le Calme sous Pression: apnéiste Simona Auteri",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1789574400000,
-      "ends_at": 1789581600000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/le-calme-sous-pression-apneiste-simona-auteri",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/7/1/1/7/2247117-1-fre-FR/5f12f0c19bbf-106273_img_0FWrS53.png.webp",
-      "category": "AUTRE"
-    },
     {
       "title": "La dernière fois qu'on a vu Bernard Stasi",
       "description": "Chaque année, les comédiens de la Troupe lisent en public les textes sélectionnés par leComité de lecture, présidé parMeFrançoise Assus-Juttner.AGENDA DES LECTURES• Cette année, lestextes retenus en 2026sont lus du 9 au 11 septembre 2026 à 19h30.• Letexte lauréat 2025,La dernière fois qu'on a vu Bernard StasideGrégoire Biseau, est mis en espace parMuriel Mayette-Holtzet interprété par les comédien",
@@ -89,7 +59,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/atelier/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/11/eveil-corporel.jpg",
       "category": "AUTRE"
     },
     {
@@ -104,7 +74,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/05/riviera-visite.jpg",
       "category": "AUTRE"
     },
     {
@@ -165,6 +135,21 @@
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/atelier/",
       "image_url": "https://www.nice.fr/wp-content/uploads/2025/11/genealogie.jpg",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Nice et Matisse",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1789646400000,
+      "ends_at": 1789653600000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/05/portrait-matisseetnice.jpg",
       "category": "AUTRE"
     },
     {
@@ -1636,6 +1621,21 @@
       "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/une-heure-a-t-attendre",
       "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/7/2/5/3/2193527-1-fre-FR/b8e722c35047-106186_img_03ly3k2.jpg.webp",
       "category": "AUTRE"
+    },
+    {
+      "title": "Concert symphonique - K. Solomnishvili - J. L. Prats",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1794326400000,
+      "ends_at": 1794334500000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/concert-symphonique-k.-solomnishvili-j.-l.-prats",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/6/3/3/0/2150336-2-fre-FR/b89dad0d303c-106100_img_0fhZhG0.jpg.webp",
+      "category": "CONCERT"
     },
     {
       "title": "BRODINSKI",
