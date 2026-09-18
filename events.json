@@ -1,37 +1,7 @@
 {
-  "scraped_at": "2026-09-18T20:34:19Z",
-  "count": 263,
+  "scraped_at": "2026-09-18T23:01:54Z",
+  "count": 258,
   "events": [
-    {
-      "title": "Journées Européennes du Patrimoine 2026",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1789768800000,
-      "ends_at": 1789776000000,
-      "has_time": false,
-      "price": "—",
-      "price_val": 0,
-      "source": "MAMAC",
-      "source_url": "https://www.mamac-nice.org/evenement/journees-europeennes-du-patrimoine-2026/",
-      "image_url": "https://www.mamac-nice.org/wp-content/uploads/2021/05/site-mamac.jpg",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Voyage au cœur du Lyrique",
-      "description": "",
-      "place": "Monaco",
-      "city": "Nice",
-      "starts_at": 1789768800000,
-      "ends_at": 1789776000000,
-      "has_time": false,
-      "price": "—",
-      "price_val": 0,
-      "source": "INFOLOCALE",
-      "source_url": "https://www.infolocale.fr/evenements?age%5B0%5D=Tout%20Public&age%5B1%5D=Adulte&age%5B2%5D=Adolescent&age%5B3%5D=Enfant&age%5B4%5D=Bebe&commune=06088",
-      "image_url": "https://photos.infolocale.fr/infolocale/annonce/2026/0817/8956370/_1.jpg?rnd=20260819113218",
-      "category": "AUTRE"
-    },
     {
       "title": "Bébés nageurs + jardin aquatique",
       "description": "",
@@ -678,21 +648,6 @@
       "category": "CONCERT"
     },
     {
-      "title": "Comité de lecture",
-      "description": "Chaque année, les comédiens de la Troupe lisent en public les textes sélectionnés par leComité de lecture, présidé parMeFrançoise Assus-Juttner.AGENDA DES LECTURES• Cette année, lestextes retenus en 2026sont lus du 9 au 11 septembre 2026 à 19h30.• Letexte lauréat 2025,La dernière fois qu'on a vu Bernard StasideGrégoire Biseau, est mis en espace parMuriel Mayette-Holtzet interprété par les comédien",
-      "place": "Les FranciscainsLa Cuisine",
-      "city": "Nice",
-      "starts_at": 1791496800000,
-      "ends_at": 1791504000000,
-      "has_time": false,
-      "price": "—",
-      "price_val": 0,
-      "source": "TNN",
-      "source_url": "https://www.tnn.fr/fr/evenements/comite-lecture-2026",
-      "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-07-824-comite-lecture-2026-slider.jpg",
-      "category": "THEATRE"
-    },
-    {
       "title": "Saigon",
       "description": "Dans le décor hyperréaliste d’un restaurant vietnamien, coincé dans un espace-temps compris entre le Vietnam des années 50 et la France des années 90, Caroline Guiela Nguyen déploie une fresque intime et poignante.Il s’agit de la vie et de ses souvenirs. Les trajectoires s’entremêlent : histoires d’amour, d’exil, de famille et d’amitié, toutes traversées par la grande Histoire. Ce “spectacle saga”",
       "place": "Les FranciscainsLa Cuisine",
@@ -705,21 +660,6 @@
       "source": "TNN",
       "source_url": "https://www.tnn.fr/fr/spectacles/saison-2026-2027/saigon",
       "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-05-783-saigon-slider.jpg",
-      "category": "THEATRE"
-    },
-    {
-      "title": "Comité de lecture",
-      "description": "Chaque année, les comédiens de la Troupe lisent en public les textes sélectionnés par leComité de lecture, présidé parMeFrançoise Assus-Juttner.AGENDA DES LECTURES• Cette année, lestextes retenus en 2026sont lus du 9 au 11 septembre 2026 à 19h30.• Letexte lauréat 2025,La dernière fois qu'on a vu Bernard StasideGrégoire Biseau, est mis en espace parMuriel Mayette-Holtzet interprété par les comédien",
-      "place": "Les FranciscainsLa Cuisine",
-      "city": "Nice",
-      "starts_at": 1791567000000,
-      "ends_at": 1791574200000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "TNN",
-      "source_url": "https://www.tnn.fr/fr/evenements/comite-lecture-2026",
-      "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-07-824-comite-lecture-2026-slider.jpg",
       "category": "THEATRE"
     },
     {
@@ -1293,36 +1233,6 @@
       "category": "AUTRE"
     },
     {
-      "title": "Comité de lecture",
-      "description": "Chaque année, les comédiens de la Troupe lisent en public les textes sélectionnés par leComité de lecture, présidé parMeFrançoise Assus-Juttner.AGENDA DES LECTURES• Cette année, lestextes retenus en 2026sont lus du 9 au 11 septembre 2026 à 19h30.• Letexte lauréat 2025,La dernière fois qu'on a vu Bernard StasideGrégoire Biseau, est mis en espace parMuriel Mayette-Holtzet interprété par les comédien",
-      "place": "Les FranciscainsLa Cuisine",
-      "city": "Nice",
-      "starts_at": 1794178800000,
-      "ends_at": 1794186000000,
-      "has_time": false,
-      "price": "—",
-      "price_val": 0,
-      "source": "TNN",
-      "source_url": "https://www.tnn.fr/fr/evenements/comite-lecture-2026",
-      "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-07-824-comite-lecture-2026-slider.jpg",
-      "category": "THEATRE"
-    },
-    {
-      "title": "Comité de lecture",
-      "description": "Chaque année, les comédiens de la Troupe lisent en public les textes sélectionnés par leComité de lecture, présidé parMeFrançoise Assus-Juttner.AGENDA DES LECTURES• Cette année, lestextes retenus en 2026sont lus du 9 au 11 septembre 2026 à 19h30.• Letexte lauréat 2025,La dernière fois qu'on a vu Bernard StasideGrégoire Biseau, est mis en espace parMuriel Mayette-Holtzet interprété par les comédien",
-      "place": "Les FranciscainsLa Cuisine",
-      "city": "Nice",
-      "starts_at": 1794249000000,
-      "ends_at": 1794256200000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "TNN",
-      "source_url": "https://www.tnn.fr/fr/evenements/comite-lecture-2026",
-      "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-07-824-comite-lecture-2026-slider.jpg",
-      "category": "THEATRE"
-    },
-    {
       "title": "« Cerises aux cœurs » : exposition de sculptures en plein air de Jean-Louis Landraud",
       "description": "",
       "place": "ExpositionSculpture",
@@ -1396,6 +1306,21 @@
       "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/une-heure-a-t-attendre",
       "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/7/2/5/3/2193527-1-fre-FR/b8e722c35047-106186_img_03ly3k2.jpg.webp",
       "category": "AUTRE"
+    },
+    {
+      "title": "Concert symphonique - K. Solomnishvili - J. L. Prats",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1794326400000,
+      "ends_at": 1794334500000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/concert-symphonique-k.-solomnishvili-j.-l.-prats",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/6/3/3/0/2150336-2-fre-FR/b89dad0d303c-106100_img_0fhZhG0.jpg.webp",
+      "category": "CONCERT"
     },
     {
       "title": "La Veuve joyeuse",
