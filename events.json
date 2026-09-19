@@ -1,37 +1,7 @@
 {
-  "scraped_at": "2026-09-19T12:53:52Z",
-  "count": 256,
+  "scraped_at": "2026-09-19T17:42:40Z",
+  "count": 257,
   "events": [
-    {
-      "title": "Journées européennes du Patrimoine",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1789819200000,
-      "ends_at": 1789826400000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MATISSE",
-      "source_url": "https://www.musee-matisse-nice.org/fr/evenement/journees-europeennes-du-patrimoine-3/",
-      "image_url": "https://www.musee-matisse-nice.org/wp-content/uploads/2021/02/Musee-Matisse-Nice-Partage.png",
-      "category": "AUTRE"
-    },
-    {
-      "title": "LEC SUMMER FINALS 2026",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1789830000000,
-      "ends_at": 1789837200000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "NIKAIA",
-      "source_url": "https://www.nikaia.fr/programmation/lec-summer-finals-2026-1",
-      "image_url": "https://www.nikaia.fr/files/2026-07/1080x1080-lec.jpg",
-      "category": "AUTRE"
-    },
     {
       "title": "Soirée Jeux - Initiation au Scrabble Duplicate avec le Monaco Scrabble Club",
       "description": "",
@@ -120,6 +90,36 @@
       "source": "INFOLOCALE",
       "source_url": "https://www.infolocale.fr/evenements?age%5B0%5D=Tout%20Public&age%5B1%5D=Adulte&age%5B2%5D=Adolescent&age%5B3%5D=Enfant&age%5B4%5D=Bebe&commune=06088",
       "image_url": "https://photos.infolocale.fr/infolocale/annonce/2026/0812/8954167/_1.jpg?rnd=20260813100838",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Journées européennes du Patrimoine",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1789905600000,
+      "ends_at": 1789912800000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MATISSE",
+      "source_url": "https://www.musee-matisse-nice.org/fr/evenement/journees-europeennes-du-patrimoine-3/",
+      "image_url": "https://www.musee-matisse-nice.org/wp-content/uploads/2021/02/Musee-Matisse-Nice-Partage.png",
+      "category": "AUTRE"
+    },
+    {
+      "title": "LEC SUMMER FINALS 2026",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1789916400000,
+      "ends_at": 1789923600000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "NIKAIA",
+      "source_url": "https://www.nikaia.fr/programmation/lec-summer-finals-2026-2",
+      "image_url": "https://www.nikaia.fr/files/2026-07/1080x1080-lec.jpg",
       "category": "AUTRE"
     },
     {
@@ -796,6 +796,21 @@
       "source_url": "https://www.opera-nice.org/lieux/lobservatoire/",
       "image_url": "https://www.opera-nice.org/wp-content/uploads/2026/05/share-opera-nice-cote-dazur.jpg",
       "category": "NUIT"
+    },
+    {
+      "title": "Rencontre avec les lauréats de la Bourse de la Découverte et du Coup de Cœur des Lycéens de la Fondation Prince Pierre de Monaco",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1791986400000,
+      "ends_at": 1791993600000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/rencontre-avec-les-laureats-de-la-bourse-de-la-decouverte-et-du-coup-de-caeur-des-lyceens-de-la-fondation-prince-pierre-de-monaco",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/4/7/7/0/2280774-1-fre-FR/90f2502fc597-106399_img_0aNqWOq.png.webp",
+      "category": "AUTRE"
     },
     {
       "title": "Ivanov",
