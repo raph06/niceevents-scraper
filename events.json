@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-21T02:36:20Z",
+  "scraped_at": "2026-09-21T08:29:37Z",
   "count": 265,
   "events": [
     {
@@ -74,7 +74,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/atelier/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/11/eveil-corporel.jpg",
       "category": "AUTRE"
     },
     {
@@ -164,6 +164,21 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/animation/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Sensibilisation aux gestes de premiers secours",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1790150400000,
+      "ends_at": 1790157600000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/atelier/",
       "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
@@ -1021,21 +1036,6 @@
       "source_url": "https://www.explorenicecotedazur.com/evenement/exposition-lilette-et-gilbert-valentin-quand-la-terre-devient-lumiere/",
       "image_url": "https://cdn.iris-etourism.io/media/nice/7819601/424bfb7b9534ea7f-335x335.webp",
       "category": "EXPO"
-    },
-    {
-      "title": "Concert symphonique - L. Foster - D. Ránki - H. Brady - P. Peigner",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1792339200000,
-      "ends_at": 1792346400000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/concert-symphonique-l.-foster-d.-ranki-h.-brady-p.-peigner",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/8/9/4/0/2150498-2-fre-FR/6b8647c019b4-106101_img_04CPNs4.jpg.webp",
-      "category": "CONCERT"
     },
     {
       "title": "Les Jeudis littéraires",
