@@ -1,37 +1,7 @@
 {
-  "scraped_at": "2026-09-22T18:31:47Z",
-  "count": 269,
+  "scraped_at": "2026-09-22T23:29:35Z",
+  "count": 268,
   "events": [
-    {
-      "title": "Trainings danse contemporaine avec Claire Camous",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1790100000000,
-      "ends_at": 1790107200000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/atelier/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/07/trainings-claire-camous.jpeg",
-      "category": "FAMILLE"
-    },
-    {
-      "title": "Exposition « Fragments d’un Parcours »",
-      "description": "",
-      "place": "Exposition",
-      "city": "Nice",
-      "starts_at": 1790114400000,
-      "ends_at": 1790121600000,
-      "has_time": false,
-      "price": "—",
-      "price_val": 0,
-      "source": "OT_NICE",
-      "source_url": "https://www.explorenicecotedazur.com/evenement/exposition-fragments-dun-parcours/",
-      "image_url": "https://cdn.iris-etourism.io/media/nice/7971154/abefd5b64cfab4e0-335x335.webp",
-      "category": "EXPO"
-    },
     {
       "title": "Séance d’aquagym",
       "description": "",
@@ -119,7 +89,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/lecture/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/08/il-etait-une-fois-histoire-enfant.jpg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
@@ -134,7 +104,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/animation/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/journee-association-2026-250x250.jpg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
@@ -149,7 +119,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/04/centre-du-patrimoine-charafi-250x250-1.jpg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "EXPO"
     },
     {
@@ -179,7 +149,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/03/visite-fleur.jpg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
@@ -1081,6 +1051,21 @@
       "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/concert-symphonique-l.-foster-d.-ranki-h.-brady-p.-peigner",
       "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/8/9/4/0/2150498-2-fre-FR/6b8647c019b4-106101_img_04CPNs4.jpg.webp",
       "category": "CONCERT"
+    },
+    {
+      "title": "SPORTEL AWARDS",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1792360800000,
+      "ends_at": 1792368000000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/sportel-awards2",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/3/5/6/1/2251653-1-fre-FR/0487722974ce-106287_img_0Qm1UjW.jpg.webp",
+      "category": "SPORT"
     },
     {
       "title": "Les Jeudis littéraires",
