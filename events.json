@@ -1,29 +1,14 @@
 {
-  "scraped_at": "2026-09-22T13:54:16Z",
-  "count": 266,
+  "scraped_at": "2026-09-22T18:31:47Z",
+  "count": 269,
   "events": [
-    {
-      "title": "Casse à Nice, l’affaire Spaggiari",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1790082000000,
-      "ends_at": 1790089200000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/rencontre/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/08/casse-a-nice-vbroquet.jpg",
-      "category": "AUTRE"
-    },
     {
       "title": "Trainings danse contemporaine avec Claire Camous",
       "description": "",
       "place": "Nice",
       "city": "Nice",
-      "starts_at": 1790094600000,
-      "ends_at": 1790101800000,
+      "starts_at": 1790100000000,
+      "ends_at": 1790107200000,
       "has_time": true,
       "price": "—",
       "price_val": 0,
@@ -31,21 +16,6 @@
       "source_url": "https://www.nice.fr/agenda/type/atelier/",
       "image_url": "https://www.nice.fr/wp-content/uploads/2026/07/trainings-claire-camous.jpeg",
       "category": "FAMILLE"
-    },
-    {
-      "title": "\"Playtime\" de Jacques Tati",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1790096400000,
-      "ends_at": 1790105400000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/playtime-de-jacques-tati",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/9/3/6/6/2266639-1-fre-FR/4125420ca0a5-106365_img_0DtDadL.jpg.webp",
-      "category": "AUTRE"
     },
     {
       "title": "Exposition « Fragments d’un Parcours »",
@@ -258,6 +228,21 @@
       "category": "SPORT"
     },
     {
+      "title": "Visite guidée de la Crypte",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1790164800000,
+      "ends_at": 1790172000000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/05/evenement-crypte-250x250.jpg",
+      "category": "AUTRE"
+    },
+    {
       "title": "Conférence Ludo Mémo : lorsque le jeu aide à stimuler notre cerveau, en collaboration avec le Centre Mémoire du CHPG",
       "description": "",
       "place": "Monaco",
@@ -348,6 +333,21 @@
       "category": "AUTRE"
     },
     {
+      "title": "Soirée projection 2 films",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1790272800000,
+      "ends_at": 1790280000000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "INFOLOCALE",
+      "source_url": "https://www.infolocale.fr/evenements?age%5B0%5D=Tout%20Public&age%5B1%5D=Adulte&age%5B2%5D=Adolescent&age%5B3%5D=Enfant&age%5B4%5D=Bebe&commune=06088",
+      "image_url": "https://photos.infolocale.fr/infolocale/annonce/2026/0806/8951557/_1.jpg?rnd=20260806174411",
+      "category": "CINEMA"
+    },
+    {
       "title": "LUMIÈRES SUR LA LAGUNE",
       "description": "",
       "place": "Monaco",
@@ -391,6 +391,21 @@
       "source_url": "https://www.nikaia.fr/programmation/la-legende-de-monte-cristo-le-musical",
       "image_url": "https://www.nikaia.fr/files/2026-03/1773757627_vignette-site.jpg",
       "category": "AUTRE"
+    },
+    {
+      "title": "Ciné-Club 2026 de GrecDoc à Nice en partenariat avec la CGDAM",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1790359200000,
+      "ends_at": 1790366400000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "INFOLOCALE",
+      "source_url": "https://www.infolocale.fr/evenements?age%5B0%5D=Tout%20Public&age%5B1%5D=Adulte&age%5B2%5D=Adolescent&age%5B3%5D=Enfant&age%5B4%5D=Bebe&commune=06088",
+      "image_url": "https://photos.infolocale.fr/infolocale/annonce/2026/0915/8982121/_1.jpg?rnd=20260915145925",
+      "category": "CINEMA"
     },
     {
       "title": "De l’opérette à la comédie musicale, quel chemin ?",
@@ -1861,6 +1876,21 @@
       "source_url": "https://www.tnn.fr/fr/spectacles/saison-2026-2027/orgueilleuse",
       "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-05-789-orgueilleuse-slider.jpg",
       "category": "THEATRE"
+    },
+    {
+      "title": "Monstre Pente - Exposition personnelle de Camille Llobet",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1795885200000,
+      "ends_at": 1795892400000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "INFOLOCALE",
+      "source_url": "https://www.infolocale.fr/evenements?age%5B0%5D=Tout%20Public&age%5B1%5D=Adulte&age%5B2%5D=Adolescent&age%5B3%5D=Enfant&age%5B4%5D=Bebe&commune=06088",
+      "image_url": "https://photos.infolocale.fr/infolocale/annonce/2026/0902/8969108/_1.jpg?rnd=20260902121747",
+      "category": "EXPO"
     },
     {
       "title": "Concerts à la Trinquette Jazz Club",
@@ -3811,6 +3841,21 @@
       "source_url": "https://www.tnn.fr/fr/spectacles/saison-2026-2027/la-tendresse",
       "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-05-814-la-tendresse-slider.jpg",
       "category": "THEATRE"
+    },
+    {
+      "title": "La Vague Qui Vient",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1821132000000,
+      "ends_at": 1821139200000,
+      "has_time": false,
+      "price": "—",
+      "price_val": 0,
+      "source": "INFOLOCALE",
+      "source_url": "https://www.infolocale.fr/evenements?age%5B0%5D=Tout%20Public&age%5B1%5D=Adulte&age%5B2%5D=Adolescent&age%5B3%5D=Enfant&age%5B4%5D=Bebe&commune=06088",
+      "image_url": "https://photos.infolocale.fr/infolocale/annonce/2026/0822/8959480/_1.jpg?rnd=20260828102517",
+      "category": "AUTRE"
     },
     {
       "title": "Sono io ?",
