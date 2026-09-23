@@ -1,52 +1,7 @@
 {
-  "scraped_at": "2026-09-23T18:50:45Z",
-  "count": 253,
+  "scraped_at": "2026-09-23T23:28:01Z",
+  "count": 250,
   "events": [
-    {
-      "title": "Club Sonore",
-      "description": "",
-      "place": "Soirée à thèmeDJ",
-      "city": "Nice",
-      "starts_at": 1790200800000,
-      "ends_at": 1790208000000,
-      "has_time": false,
-      "price": "—",
-      "price_val": 0,
-      "source": "OT_NICE",
-      "source_url": "https://www.explorenicecotedazur.com/evenement/club-sonore/",
-      "image_url": "https://cdn.iris-etourism.io/media/nice/7947637/bf2ea35868e2f652-335x335.webp",
-      "category": "NUIT"
-    },
-    {
-      "title": "Soirées OBRIGADO à Bocca Mar !",
-      "description": "",
-      "place": "Soirée à thèmeDJ",
-      "city": "Nice",
-      "starts_at": 1790200800000,
-      "ends_at": 1790208000000,
-      "has_time": false,
-      "price": "—",
-      "price_val": 0,
-      "source": "OT_NICE",
-      "source_url": "https://www.explorenicecotedazur.com/evenement/soirees-obrigado-a-bocca-mar/",
-      "image_url": "https://cdn.iris-etourism.io/media/nice/7947650/132e993e18cfef36-335x335.webp",
-      "category": "NUIT"
-    },
-    {
-      "title": "Niki de Saint Phalle. Vive l’Amour #6",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1790200800000,
-      "ends_at": 1790208000000,
-      "has_time": false,
-      "price": "—",
-      "price_val": 0,
-      "source": "MAMAC",
-      "source_url": "https://www.mamac-nice.org/exposition/niki-de-saint-phalle-vive-lamour-6/",
-      "image_url": "https://www.mamac-nice.org/wp-content/uploads/2021/05/site-mamac.jpg",
-      "category": "AUTRE"
-    },
     {
       "title": "Tour Bellanda – Le Bellandarium",
       "description": "",
@@ -89,7 +44,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/05/riviera-visite.jpg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
