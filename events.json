@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-22T23:29:35Z",
-  "count": 268,
+  "scraped_at": "2026-09-23T02:38:53Z",
+  "count": 270,
   "events": [
     {
       "title": "Séance d’aquagym",
@@ -89,7 +89,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/lecture/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/08/il-etait-une-fois-histoire-enfant.jpg",
       "category": "AUTRE"
     },
     {
@@ -104,7 +104,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/animation/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/journee-association-2026-250x250.jpg",
       "category": "AUTRE"
     },
     {
@@ -119,7 +119,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/04/centre-du-patrimoine-charafi-250x250-1.jpg",
       "category": "EXPO"
     },
     {
@@ -149,7 +149,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/03/visite-fleur.jpg",
       "category": "AUTRE"
     },
     {
@@ -211,6 +211,36 @@
       "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
       "image_url": "https://www.nice.fr/wp-content/uploads/2025/05/evenement-crypte-250x250.jpg",
       "category": "AUTRE"
+    },
+    {
+      "title": "Jean-Louis Gouraud : le monde sans œillères",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1790172000000,
+      "ends_at": 1790179200000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/conference/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Les visites-dégustations du musée des Beaux-Arts",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1790175600000,
+      "ends_at": 1790182800000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/08/visites-degustations.jpg",
+      "category": "EXPO"
     },
     {
       "title": "Conférence Ludo Mémo : lorsque le jeu aide à stimuler notre cerveau, en collaboration avec le Centre Mémoire du CHPG",
