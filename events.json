@@ -1,52 +1,7 @@
 {
-  "scraped_at": "2026-09-24T14:01:41Z",
+  "scraped_at": "2026-09-24T18:52:26Z",
   "count": 253,
   "events": [
-    {
-      "title": "Un jour, un auteur… David Foenkinos",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1790265600000,
-      "ends_at": 1790272800000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/rencontre/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Maîtriser le fonctionnement d’une association : AG, conseil d’administration…",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1790265600000,
-      "ends_at": 1790272800000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/formation/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Oktoberfest",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1790269200000,
-      "ends_at": 1790283600000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/oktoberfest2",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/0/2/1/5/2285120-1-fre-FR/cef2a3efafb8-106414_img_0vUqHpG.jpg.webp",
-      "category": "AUTRE"
-    },
     {
       "title": "Soirée projection 2 films",
       "description": "",
@@ -89,7 +44,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/atelier/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/08/milleetuneplumes.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
@@ -119,7 +74,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/lecture/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/06/ecumeurs-de-livres.jpeg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
@@ -149,7 +104,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/atelier/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/10/scrapbooking-oct-mde.jpg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
@@ -164,7 +119,22 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/atelier/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/01/alors-j-ecris.jpg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "category": "AUTRE"
+    },
+    {
+      "title": "La recyclerie",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1790337600000,
+      "ends_at": 1790344800000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/atelier/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
@@ -180,6 +150,36 @@
       "source": "MONACO",
       "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/l-apero-des-frenchy-au-meridien-beach-plaza-monaco",
       "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/0/9/0/0/2260090-1-fre-FR/ec4acef8e294-106333_img_0rpKiJk.png.webp",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Prix satellite 2026",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1790353800000,
+      "ends_at": 1790361000000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/vernissage/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Appelle-moi con",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1790355600000,
+      "ends_at": 1790362800000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/humour/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
