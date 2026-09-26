@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-25T23:49:11Z",
-  "count": 259,
+  "scraped_at": "2026-09-26T02:47:02Z",
+  "count": 260,
   "events": [
     {
       "title": "Jardiner en automne, c’est se reposer au printemps, le secret d’une nature générative",
@@ -104,7 +104,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/animation/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/04/curieux-nature.png",
       "category": "AUTRE"
     },
     {
@@ -119,7 +119,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/atelier/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/08/utopistes-clown-power-250x250.jpg",
       "category": "AUTRE"
     },
     {
@@ -134,7 +134,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/animation/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/02/jeux-en-famille.jpeg",
       "category": "AUTRE"
     },
     {
@@ -149,7 +149,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/rencontre/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/08/ia-demystifiee.jpeg",
       "category": "AUTRE"
     },
     {
@@ -164,7 +164,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/09/youqine-lefevre.jpg",
       "category": "AUTRE"
     },
     {
@@ -194,7 +194,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/atelier/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/08/carnet-evasion.jpeg",
       "category": "AUTRE"
     },
     {
@@ -209,7 +209,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/03/art-naif-visite-contee.jpeg",
       "category": "AUTRE"
     },
     {
@@ -224,7 +224,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/atelier/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/02/matisse-ateliers-16ans-250x250.jpg",
       "category": "AUTRE"
     },
     {
@@ -254,7 +254,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/04/ysl-matisse.jpg",
       "category": "EXPO"
     },
     {
@@ -269,7 +269,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/rencontre/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/08/charlotte-saliou-clown-power-250x250.jpg",
       "category": "AUTRE"
     },
     {
@@ -1426,6 +1426,21 @@
       "source_url": "https://www.tnn.fr/fr/spectacles/saison-2026-2027/le-petit-chaperon-rouge",
       "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-05-788-le-petit-chaperon-rouge-slider.jpg",
       "category": "THEATRE"
+    },
+    {
+      "title": "LEGENDARY ROCK VOICES",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1795028400000,
+      "ends_at": 1795035600000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "NIKAIA",
+      "source_url": "https://www.nikaia.fr/programmation/legendary-rock-voices",
+      "image_url": "https://www.nikaia.fr/files/2026-03/lrv-nice-arwork03-1080x1080.png",
+      "category": "CONCERT"
     },
     {
       "title": "Le Petit Chaperon rouge",
