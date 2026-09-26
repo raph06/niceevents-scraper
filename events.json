@@ -1,82 +1,7 @@
 {
-  "scraped_at": "2026-09-26T13:36:16Z",
-  "count": 240,
+  "scraped_at": "2026-09-26T18:16:35Z",
+  "count": 239,
   "events": [
-    {
-      "title": "Terre, eau, air et feu",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1790429400000,
-      "ends_at": 1790436600000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/conference/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/07/construction-dun-grand-chemin-claude-vernet-1774-louvre.jpg",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Le Saâdikh",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1790429400000,
-      "ends_at": 1790436600000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/humour/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Roma de Jules Massenet",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1790431200000,
-      "ends_at": 1790440200000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/roma-de-jules-massenet",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/9/7/8/2/2192879-1-fre-FR/55f3d059aeab-106182_img_0UF4FpZ.jpg.webp",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Echecs, bridge et backgammon",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1790431200000,
-      "ends_at": 1790438400000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/echecs-bridge-et-backgammon",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/4/9/3/6/2256394-6-fre-FR/ffc900c1657d-106307_img_01VjgYc.jpg.webp",
-      "category": "AUTRE"
-    },
-    {
-      "title": "La garde municipale de Nice",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1790433000000,
-      "ends_at": 1790440200000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/concert/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/08/la-garde-municipale-250x250.jpg",
-      "category": "AUTRE"
-    },
     {
       "title": "Exposition Mathieu Forget",
       "description": "",
@@ -408,6 +333,21 @@
       "category": "AUTRE"
     },
     {
+      "title": "Picnic Music - Un concert sur grand écran pour accompagner votre pause déjeuner",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1791886500000,
+      "ends_at": 1791891900000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/picnic-music-un-concert-sur-grand-ecran-pour-accompagner-votre-pause-dejeuner",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/2/1/6/0/2280612-1-fre-FR/a9efcdbd5f10-106398_img_0B6VFvm.png.webp",
+      "category": "CONCERT"
+    },
+    {
       "title": "Ivanov",
       "description": "Ivanovnous confronte au destin contrarié d’un homme cultivé et sensible mais profondément épuisé par la vie : un propriétaire terrien ruiné, dont l’épouse tombe gravement malade. Enlisé dans une existence étouffée par les ragots, l’hypocrisie et les préjugés, le lucide Ivanov tombe amoureux de Sacha, la fille d’une de ses connaissances. Tiraillé entre la mort imminente de son épouse et l’exaltatio",
       "place": "Les FranciscainsLa Cuisine",
@@ -436,6 +376,21 @@
       "source_url": "https://www.opera-nice.org/lieux/lobservatoire/",
       "image_url": "https://www.opera-nice.org/wp-content/uploads/2026/05/share-opera-nice-cote-dazur.jpg",
       "category": "NUIT"
+    },
+    {
+      "title": "Rencontre avec les lauréats de la Bourse de la Découverte et du Coup de Cœur des Lycéens de la Fondation Prince Pierre de Monaco",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1791986400000,
+      "ends_at": 1791993600000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/rencontre-avec-les-laureats-de-la-bourse-de-la-decouverte-et-du-coup-de-caeur-des-lyceens-de-la-fondation-prince-pierre-de-monaco",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/4/7/7/0/2280774-1-fre-FR/90f2502fc597-106399_img_0aNqWOq.png.webp",
+      "category": "AUTRE"
     },
     {
       "title": "Ivanov",
@@ -483,6 +438,21 @@
       "category": "CONCERT"
     },
     {
+      "title": "Thursday Live Sessions - Friedberg",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1792081800000,
+      "ends_at": 1792098000000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/thursday-live-sessions-friedberg",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/7/2/9/0/2030927-68-fre-FR/e3b4d8086728-105893_img_0Td9OoM.jpg.webp",
+      "category": "AUTRE"
+    },
+    {
       "title": "Les Jeudis littéraires",
       "description": "Tous les jeudis à 19h, au bar-restaurant de la salle des Franciscains, un comédien de la Troupe lit des textes “coup de cœur”. Naviguant du grand répertoire classique à l’écriture contemporaine, de la poésie aux récits mythologiques, les voix de la Troupe vous font (re)découvrir les plus beaux textes. Venez savourer un apéritif et la chaleur de mots choisis.OCTOBREAutour de notre programmation• Je",
       "place": "Les FranciscainsLa Cuisine",
@@ -496,6 +466,21 @@
       "source_url": "https://www.tnn.fr/fr/evenements/jeudis-litteraires-26-27",
       "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-09-828-jeudis-litteraires-26-27-slider.jpg",
       "category": "THEATRE"
+    },
+    {
+      "title": "Empahtie",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1792083600000,
+      "ends_at": 1792090800000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/empahtie",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/5/9/9/3/2313995-1-fre-FR/fecb7164c61e-106474_img_0u6Fqjd.png.webp",
+      "category": "AUTRE"
     },
     {
       "title": "Ivanov",
