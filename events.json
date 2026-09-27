@@ -1,37 +1,7 @@
 {
-  "scraped_at": "2026-09-27T02:46:55Z",
-  "count": 251,
+  "scraped_at": "2026-09-27T08:51:24Z",
+  "count": 249,
   "events": [
-    {
-      "title": "Rokethon",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1790490600000,
-      "ends_at": 1790525100000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/rokethon",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/1/9/9/5/2265991-1-fre-FR/d3e67c5ee07a-106362_img_0PQZT1Z.png.webp",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Jardin de glace",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1790492400000,
-      "ends_at": 1790499600000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/animation/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
-      "category": "AUTRE"
-    },
     {
       "title": "Initiation au cirque avec Les Uto’pistes",
       "description": "",
@@ -44,7 +14,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/atelier/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/08/utopistes-clown-power-250x250.jpg",
       "category": "AUTRE"
     },
     {
@@ -74,7 +44,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/09/bp-525532-plage-chien-bb.jpg",
       "category": "AUTRE"
     },
     {
@@ -89,7 +59,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/humour/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/08/cest-gratos-clown-power-250x250.jpg",
       "category": "AUTRE"
     },
     {
@@ -149,7 +119,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/projection/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/09/tu-m-entends-cinema-folie.jpg",
       "category": "AUTRE"
     },
     {
@@ -164,7 +134,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/05/evenement-crypte-250x250.jpg",
       "category": "AUTRE"
     },
     {
@@ -179,7 +149,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/humour/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/08/lagalla-clown-power-250x250.jpg",
       "category": "AUTRE"
     },
     {
