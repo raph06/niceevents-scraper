@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-27T23:36:48Z",
-  "count": 247,
+  "scraped_at": "2026-09-28T02:49:40Z",
+  "count": 250,
   "events": [
     {
       "title": "Randonnée à la « Turbie – Col d’Eze »",
@@ -119,7 +119,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/fete-traditionnelle/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/08/9975-250x250.jpg",
       "category": "AUTRE"
     },
     {
@@ -134,7 +134,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/projection/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/09/changer-l-eau-des-fleurs-affiche-800.jpeg",
       "category": "AUTRE"
     },
     {
@@ -150,6 +150,21 @@
       "source": "OT_NICE",
       "source_url": "https://www.explorenicecotedazur.com/evenement/exposition-evelyne-sie-latelier-sur-mer/",
       "image_url": "https://cdn.iris-etourism.io/media/nice/7939854/2601eab54245c425-335x335.webp",
+      "category": "EXPO"
+    },
+    {
+      "title": "Exposition « Le lointain envisagé »",
+      "description": "",
+      "place": "Exposition",
+      "city": "Nice",
+      "starts_at": 1790632800000,
+      "ends_at": 1790640000000,
+      "has_time": false,
+      "price": "—",
+      "price_val": 0,
+      "source": "OT_NICE",
+      "source_url": "https://www.explorenicecotedazur.com/evenement/exposition-le-lointain-envisage/",
+      "image_url": "https://cdn.iris-etourism.io/media/nice/7982796/1cb8a93cbb9d4b2a-335x335.webp",
       "category": "EXPO"
     },
     {
@@ -194,7 +209,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/04/611891-tour-bellanda-250x250.jpg",
       "category": "AUTRE"
     },
     {
@@ -224,7 +239,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/lecture/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/01/club-lecture.jpeg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
@@ -2148,6 +2163,21 @@
       "category": "THEATRE"
     },
     {
+      "title": "Bernard Reyboz – Hors norme",
+      "description": "",
+      "place": "Exposition",
+      "city": "Nice",
+      "starts_at": 1800054000000,
+      "ends_at": 1800061200000,
+      "has_time": false,
+      "price": "—",
+      "price_val": 0,
+      "source": "OT_NICE",
+      "source_url": "https://www.explorenicecotedazur.com/evenement/bernard-reyboz-hors-norme/",
+      "image_url": "https://cdn.iris-etourism.io/media/nice/7973713/77154707931f8026-335x335.webp",
+      "category": "AUTRE"
+    },
+    {
       "title": "Les Procès des grands personnages",
       "description": "Tous les samedis à 11h, sur le parvis de la salle des Franciscains, participez aux Procès des grands personnages avec la plaidoirie d’un avocat du Barreau et un comédien de la Troupe ou un apprenti comédien de l’ERACM.Qui seront les prochains à rejoindre le banc des accusés ?OCTOBRE• Samedi 3/10 :Le Procès de Picsou- Laurent Prévot - Maître Robert Chemla - Hervé Van der Meulen• Samedi 10/10 :Le Pr",
       "place": "Les FranciscainsLa Cuisine",
@@ -2836,6 +2866,21 @@
       "source_url": "https://www.explorenicecotedazur.com/evenement/exposition-les-80-ans-du-chateau-musee-grimaldi/",
       "image_url": "https://cdn.iris-etourism.io/media/nice/7823534/10eb689cfbad3cc5-335x335.webp",
       "category": "EXPO"
+    },
+    {
+      "title": "Sensoria – Experience immersive et sensorielle",
+      "description": "",
+      "place": "Exposition",
+      "city": "Nice",
+      "starts_at": 1806530400000,
+      "ends_at": 1806537600000,
+      "has_time": false,
+      "price": "—",
+      "price_val": 0,
+      "source": "OT_NICE",
+      "source_url": "https://www.explorenicecotedazur.com/evenement/sensoria-experience-immersive-et-sensorielle/",
+      "image_url": "https://cdn.iris-etourism.io/media/nice/7983917/07f9f5cbf0e6e2a4-335x335.webp",
+      "category": "AUTRE"
     },
     {
       "title": "Instabile",
