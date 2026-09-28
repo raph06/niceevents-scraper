@@ -1,82 +1,7 @@
 {
-  "scraped_at": "2026-09-28T02:49:40Z",
-  "count": 250,
+  "scraped_at": "2026-09-28T09:16:05Z",
+  "count": 253,
   "events": [
-    {
-      "title": "Randonnée à la « Turbie – Col d’Eze »",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1790576100000,
-      "ends_at": 1790583300000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/seance-de-plein-air/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Atelier créatif sur le thème de l’automne",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1790582400000,
-      "ends_at": 1790589600000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/atelier/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Club de lecture",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1790582400000,
-      "ends_at": 1790589600000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/atelier/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
-      "category": "NUIT"
-    },
-    {
-      "title": "Bingo bibli !",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1790582400000,
-      "ends_at": 1790589600000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/atelier/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Cinéroman à l’Artistique",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1790582400000,
-      "ends_at": 1790589600000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/rencontre/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
-      "category": "CINEMA"
-    },
     {
       "title": "Figures inspirantes de la Méditerranée",
       "description": "",
@@ -134,7 +59,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/projection/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/09/changer-l-eau-des-fleurs-affiche-800.jpeg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
@@ -209,7 +134,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/04/611891-tour-bellanda-250x250.jpg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
@@ -254,7 +179,22 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/atelier/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/11/eveil-corporel.jpg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Visite guidée du Vieux-Nice",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1790685000000,
+      "ends_at": 1790692200000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/05/vieux-nice-250x250.jpg",
       "category": "AUTRE"
     },
     {
@@ -1150,8 +1090,8 @@
       "starts_at": 1794596400000,
       "ends_at": 1794603600000,
       "has_time": true,
-      "price": "—",
-      "price_val": 0,
+      "price": "€2–50",
+      "price_val": 2,
       "source": "TNN",
       "source_url": "https://www.tnn.fr/fr/spectacles/saison-2026-2027/resurrection",
       "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-05-787-resurrection-slider.jpg",
@@ -1210,8 +1150,8 @@
       "starts_at": 1794664800000,
       "ends_at": 1794672000000,
       "has_time": true,
-      "price": "—",
-      "price_val": 0,
+      "price": "€2–50",
+      "price_val": 2,
       "source": "TNN",
       "source_url": "https://www.tnn.fr/fr/spectacles/saison-2026-2027/resurrection",
       "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-05-787-resurrection-slider.jpg",
@@ -1394,7 +1334,7 @@
       "price_val": 0,
       "source": "TNN",
       "source_url": "https://www.tnn.fr/fr/spectacles/saison-2026-2027/orgueilleuse",
-      "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-05-789-orgueilleuse-slider.jpg",
+      "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-09-789-orgueilleuse-slider.jpg",
       "category": "THEATRE"
     },
     {
@@ -1424,7 +1364,7 @@
       "price_val": 0,
       "source": "TNN",
       "source_url": "https://www.tnn.fr/fr/spectacles/saison-2026-2027/orgueilleuse",
-      "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-05-789-orgueilleuse-slider.jpg",
+      "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-09-789-orgueilleuse-slider.jpg",
       "category": "THEATRE"
     },
     {
@@ -1469,7 +1409,7 @@
       "price_val": 0,
       "source": "TNN",
       "source_url": "https://www.tnn.fr/fr/spectacles/saison-2026-2027/orgueilleuse",
-      "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-05-789-orgueilleuse-slider.jpg",
+      "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-09-789-orgueilleuse-slider.jpg",
       "category": "THEATRE"
     },
     {
@@ -1514,7 +1454,7 @@
       "price_val": 0,
       "source": "TNN",
       "source_url": "https://www.tnn.fr/fr/spectacles/saison-2026-2027/orgueilleuse",
-      "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-05-789-orgueilleuse-slider.jpg",
+      "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-09-789-orgueilleuse-slider.jpg",
       "category": "THEATRE"
     },
     {
@@ -1559,7 +1499,7 @@
       "price_val": 0,
       "source": "TNN",
       "source_url": "https://www.tnn.fr/fr/spectacles/saison-2026-2027/orgueilleuse",
-      "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-05-789-orgueilleuse-slider.jpg",
+      "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-09-789-orgueilleuse-slider.jpg",
       "category": "THEATRE"
     },
     {
@@ -1675,8 +1615,8 @@
       "starts_at": 1796943600000,
       "ends_at": 1796950800000,
       "has_time": false,
-      "price": "—",
-      "price_val": 0,
+      "price": "€2–50",
+      "price_val": 2,
       "source": "TNN",
       "source_url": "https://www.tnn.fr/fr/spectacles/saison-2026-2027/resurrection",
       "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-05-787-resurrection-slider.jpg",
@@ -1705,8 +1645,8 @@
       "starts_at": 1797015600000,
       "ends_at": 1797022800000,
       "has_time": true,
-      "price": "—",
-      "price_val": 0,
+      "price": "€2–50",
+      "price_val": 2,
       "source": "TNN",
       "source_url": "https://www.tnn.fr/fr/spectacles/saison-2026-2027/resurrection",
       "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-05-787-resurrection-slider.jpg",
@@ -3183,6 +3123,21 @@
       "category": "THEATRE"
     },
     {
+      "title": "Les Jeudis littéraires",
+      "description": "Tous les jeudis à 19h, au bar-restaurant de la salle des Franciscains, un comédien de la Troupe lit des textes “coup de cœur”. Naviguant du grand répertoire classique à l’écriture contemporaine, de la poésie aux récits mythologiques, les voix de la Troupe vous font (re)découvrir les plus beaux textes. Venez savourer un apéritif et la chaleur de mots choisis.OCTOBREAutour de notre programmation• Je",
+      "place": "Les FranciscainsLa Cuisine",
+      "city": "Nice",
+      "starts_at": 1810227600000,
+      "ends_at": 1810234800000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "TNN",
+      "source_url": "https://www.tnn.fr/fr/evenements/jeudis-litteraires-26-27",
+      "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-09-828-jeudis-litteraires-26-27-slider.jpg",
+      "category": "THEATRE"
+    },
+    {
       "title": "La Terre",
       "description": "De Zola, Anne Barbot avait déjà adaptéL’Assommoir. Elle se tourne cette fois vers le monde agricole, dont elle vient, et nous plonge de façon brute au plus près d’une réalité rarement abordée au théâtre. Grand spectacle populaire,La Terrebrosse un portrait saisissant de modernité des enjeux de la crise agricole contemporaine.Nous sommes chez Zola dans la deuxième moitié du XIXesiècle, à l’aube d’u",
       "place": "Les FranciscainsLa Cuisine",
@@ -3198,6 +3153,21 @@
       "category": "THEATRE"
     },
     {
+      "title": "Les Procès des grands personnages",
+      "description": "Tous les samedis à 11h, sur le parvis de la salle des Franciscains, participez aux Procès des grands personnages avec la plaidoirie d’un avocat du Barreau et un comédien de la Troupe ou un apprenti comédien de l’ERACM.Qui seront les prochains à rejoindre le banc des accusés ?OCTOBRE• Samedi 3/10 :Le Procès de Picsou- Laurent Prévot - Maître Robert Chemla - Hervé Van der Meulen• Samedi 10/10 :Le Pr",
+      "place": "Les FranciscainsLa Cuisine",
+      "city": "Nice",
+      "starts_at": 1810371600000,
+      "ends_at": 1810378800000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "TNN",
+      "source_url": "https://www.tnn.fr/fr/evenements/proces-grands-personnages-26-27",
+      "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-09-829-proces-grands-personnages-26-27-slider.jpg",
+      "category": "THEATRE"
+    },
+    {
       "title": "Eden",
       "description": "Kentucky, 1974. Éprise de liberté, une bande de jeunes amis rêve d’amour, d’un avenir meilleur et goûte à ce que l’on nomme le rêve américain. Pour cela, les adolescents s’inventent des vies en s’introduisant dans les maisons de leurs riches voisins. La réalité crue d’une condition marquée par la violence de classe et le racisme ordinaire viendra les percuter. Un apprentissage bouleversant mais li",
       "place": "Les FranciscainsLa Cuisine",
@@ -3210,6 +3180,21 @@
       "source": "TNN",
       "source_url": "https://www.tnn.fr/fr/spectacles/saison-2026-2027/eden",
       "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-05-817-eden-slider.jpg",
+      "category": "THEATRE"
+    },
+    {
+      "title": "Les Jeudis littéraires",
+      "description": "Tous les jeudis à 19h, au bar-restaurant de la salle des Franciscains, un comédien de la Troupe lit des textes “coup de cœur”. Naviguant du grand répertoire classique à l’écriture contemporaine, de la poésie aux récits mythologiques, les voix de la Troupe vous font (re)découvrir les plus beaux textes. Venez savourer un apéritif et la chaleur de mots choisis.OCTOBREAutour de notre programmation• Je",
+      "place": "Les FranciscainsLa Cuisine",
+      "city": "Nice",
+      "starts_at": 1810832400000,
+      "ends_at": 1810839600000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "TNN",
+      "source_url": "https://www.tnn.fr/fr/evenements/jeudis-litteraires-26-27",
+      "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-09-828-jeudis-litteraires-26-27-slider.jpg",
       "category": "THEATRE"
     },
     {
@@ -3258,6 +3243,21 @@
       "category": "THEATRE"
     },
     {
+      "title": "Les Procès des grands personnages",
+      "description": "Tous les samedis à 11h, sur le parvis de la salle des Franciscains, participez aux Procès des grands personnages avec la plaidoirie d’un avocat du Barreau et un comédien de la Troupe ou un apprenti comédien de l’ERACM.Qui seront les prochains à rejoindre le banc des accusés ?OCTOBRE• Samedi 3/10 :Le Procès de Picsou- Laurent Prévot - Maître Robert Chemla - Hervé Van der Meulen• Samedi 10/10 :Le Pr",
+      "place": "Les FranciscainsLa Cuisine",
+      "city": "Nice",
+      "starts_at": 1810976400000,
+      "ends_at": 1810983600000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "TNN",
+      "source_url": "https://www.tnn.fr/fr/evenements/proces-grands-personnages-26-27",
+      "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-09-829-proces-grands-personnages-26-27-slider.jpg",
+      "category": "THEATRE"
+    },
+    {
       "title": "Le Grand Défilé",
       "description": "Le Grand Défiléprend le vêtement comme point d’entrée pour interroger le regard porté sur le féminin. À la croisée du théâtre, de la performance, de l’art plastique et de la mode, cette création participative réunit actrices professionnelles et amatrices.Dans une atmosphère de fashion week, douze femmes incarnent douze archétypes féminins, de la vierge à la sorcière, de la maman à la bimbo. Les mo",
       "place": "Les FranciscainsLa Cuisine",
@@ -3303,6 +3303,21 @@
       "category": "AUTRE"
     },
     {
+      "title": "Les Jeudis littéraires",
+      "description": "Tous les jeudis à 19h, au bar-restaurant de la salle des Franciscains, un comédien de la Troupe lit des textes “coup de cœur”. Naviguant du grand répertoire classique à l’écriture contemporaine, de la poésie aux récits mythologiques, les voix de la Troupe vous font (re)découvrir les plus beaux textes. Venez savourer un apéritif et la chaleur de mots choisis.OCTOBREAutour de notre programmation• Je",
+      "place": "Les FranciscainsLa Cuisine",
+      "city": "Nice",
+      "starts_at": 1811437200000,
+      "ends_at": 1811444400000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "TNN",
+      "source_url": "https://www.tnn.fr/fr/evenements/jeudis-litteraires-26-27",
+      "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-09-828-jeudis-litteraires-26-27-slider.jpg",
+      "category": "THEATRE"
+    },
+    {
       "title": "Nissa Slam",
       "description": "Animées par le comédien et slameurJacky Ido, ces soirées sont organisées une fois par mois au bar-restaurant de notre salle de La Cuisine et sont ouvertes à toutes et à tous. Venez jouer avec la musicalité des mots !1 vers dit = 1 verre offert !**1 verre offert pour toute participation. Soft ou alcool [vin, bière] en fonction de l’âge. L’abus d’alcool est dangereux pour la santé. Il est interdit d",
       "place": "Les FranciscainsLa Cuisine",
@@ -3315,6 +3330,21 @@
       "source": "TNN",
       "source_url": "https://www.tnn.fr/fr/evenements/nissa-slam-26-27",
       "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-09-827-nissa-slam-26-27-slider.jpg",
+      "category": "THEATRE"
+    },
+    {
+      "title": "Les Procès des grands personnages",
+      "description": "Tous les samedis à 11h, sur le parvis de la salle des Franciscains, participez aux Procès des grands personnages avec la plaidoirie d’un avocat du Barreau et un comédien de la Troupe ou un apprenti comédien de l’ERACM.Qui seront les prochains à rejoindre le banc des accusés ?OCTOBRE• Samedi 3/10 :Le Procès de Picsou- Laurent Prévot - Maître Robert Chemla - Hervé Van der Meulen• Samedi 10/10 :Le Pr",
+      "place": "Les FranciscainsLa Cuisine",
+      "city": "Nice",
+      "starts_at": 1811581200000,
+      "ends_at": 1811588400000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "TNN",
+      "source_url": "https://www.tnn.fr/fr/evenements/proces-grands-personnages-26-27",
+      "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-09-829-proces-grands-personnages-26-27-slider.jpg",
       "category": "THEATRE"
     },
     {
@@ -3480,6 +3510,21 @@
       "source": "TNN",
       "source_url": "https://www.tnn.fr/fr/spectacles/saison-2026-2027/la-tendresse",
       "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-05-814-la-tendresse-slider.jpg",
+      "category": "THEATRE"
+    },
+    {
+      "title": "Les Procès des grands personnages",
+      "description": "Tous les samedis à 11h, sur le parvis de la salle des Franciscains, participez aux Procès des grands personnages avec la plaidoirie d’un avocat du Barreau et un comédien de la Troupe ou un apprenti comédien de l’ERACM.Qui seront les prochains à rejoindre le banc des accusés ?OCTOBRE• Samedi 3/10 :Le Procès de Picsou- Laurent Prévot - Maître Robert Chemla - Hervé Van der Meulen• Samedi 10/10 :Le Pr",
+      "place": "Les FranciscainsLa Cuisine",
+      "city": "Nice",
+      "starts_at": 1817456400000,
+      "ends_at": 1817463600000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "TNN",
+      "source_url": "https://www.tnn.fr/fr/evenements/proces-grands-personnages-26-27",
+      "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-09-829-proces-grands-personnages-26-27-slider.jpg",
       "category": "THEATRE"
     },
     {
