@@ -1,52 +1,7 @@
 {
-  "scraped_at": "2026-09-29T00:50:50Z",
+  "scraped_at": "2026-09-29T09:24:55Z",
   "count": 253,
   "events": [
-    {
-      "title": "Tour Bellanda – Le Bellandarium",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1790665200000,
-      "ends_at": 1790672400000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/04/611891-tour-bellanda-250x250.jpg",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Mille lectures",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1790668800000,
-      "ends_at": 1790676000000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/lecture/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/mille-lectures.jpeg",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Au fil des pages",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1790668800000,
-      "ends_at": 1790676000000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/lecture/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
-      "category": "AUTRE"
-    },
     {
       "title": "Éveil corporel",
       "description": "",
@@ -60,6 +15,21 @@
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/atelier/",
       "image_url": "https://www.nice.fr/wp-content/uploads/2025/11/eveil-corporel.jpg",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Tour Bellanda – Le Bellandarium",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1790683200000,
+      "ends_at": 1790690400000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/04/611891-tour-bellanda-250x250.jpg",
       "category": "AUTRE"
     },
     {
@@ -164,7 +134,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/projection/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/09/un-jeu-dangereux-photo-400.jpeg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
@@ -179,7 +149,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/atelier/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/07/trainings-claire-camous.jpeg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "FAMILLE"
     },
     {
@@ -196,6 +166,21 @@
       "source_url": "https://www.nice.fr/agenda/type/projection/",
       "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
+    },
+    {
+      "title": "Niki de Saint Phalle. Action-spectacle",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1790704800000,
+      "ends_at": 1790712000000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/performance/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/02/action-spectacle-oudin.jpg",
+      "category": "THEATRE"
     },
     {
       "title": "Orlando",
@@ -229,7 +214,7 @@
     },
     {
       "title": "Saigon",
-      "description": "Dans le décor hyperréaliste d’un restaurant vietnamien, coincé dans un espace-temps compris entre le Vietnam des années 50 et la France des années 90, Caroline Guiela Nguyen déploie une fresque intime et poignante.Il s’agit de la vie et de ses souvenirs. Les trajectoires s’entremêlent : histoires d’amour, d’exil, de famille et d’amitié, toutes traversées par la grande Histoire. Ce “spectacle saga”",
+      "description": "Dans le décor hyperréaliste d’un restaurant vietnamien, niché dans un espace-temps compris entre le Vietnam des années 1950 et la France des années 1990, Caroline Guiela Nguyen déploie une fresque intime et poignante.Il s’agit de la vie et de ses souvenirs. Les trajectoires s’entremêlent : histoires d’amour, d’exil, de famille et d’amitié, toutes traversées par la grande Histoire. Ce “spectacle sa",
       "place": "Les FranciscainsLa Cuisine",
       "city": "Nice",
       "starts_at": 1791524100000,
@@ -409,7 +394,7 @@
     },
     {
       "title": "Ivanov",
-      "description": "Ivanovnous confronte au destin contrarié d’un homme cultivé et sensible mais profondément épuisé par la vie : un propriétaire terrien ruiné, dont l’épouse tombe gravement malade. Enlisé dans une existence étouffée par les ragots, l’hypocrisie et les préjugés, le lucide Ivanov tombe amoureux de Sacha, la fille d’une de ses connaissances. Tiraillé entre la mort imminente de son épouse et l’exaltatio",
+      "description": "Ivanovnous confronte au destin contrarié d’un homme : Ivanov, un propriétaire terrien ruiné, dont l’épouse est gravement malade. Enlisé dans une existence étouffée par les ragots, l’hypocrisie et les préjugés, Ivanov tombe amoureux de Sacha, la fille de son ami et voisin Lebedev. Tiraillé entre la mort imminente de son épouse et l’exaltation d’un amour naissant, son incapacité à agir et son désenc",
       "place": "Les FranciscainsLa Cuisine",
       "city": "Nice",
       "starts_at": 1791928800000,
@@ -454,7 +439,7 @@
     },
     {
       "title": "Ivanov",
-      "description": "Ivanovnous confronte au destin contrarié d’un homme cultivé et sensible mais profondément épuisé par la vie : un propriétaire terrien ruiné, dont l’épouse tombe gravement malade. Enlisé dans une existence étouffée par les ragots, l’hypocrisie et les préjugés, le lucide Ivanov tombe amoureux de Sacha, la fille d’une de ses connaissances. Tiraillé entre la mort imminente de son épouse et l’exaltatio",
+      "description": "Ivanovnous confronte au destin contrarié d’un homme : Ivanov, un propriétaire terrien ruiné, dont l’épouse est gravement malade. Enlisé dans une existence étouffée par les ragots, l’hypocrisie et les préjugés, Ivanov tombe amoureux de Sacha, la fille de son ami et voisin Lebedev. Tiraillé entre la mort imminente de son épouse et l’exaltation d’un amour naissant, son incapacité à agir et son désenc",
       "place": "Les FranciscainsLa Cuisine",
       "city": "Nice",
       "starts_at": 1792000800000,
@@ -544,7 +529,7 @@
     },
     {
       "title": "Ivanov",
-      "description": "Ivanovnous confronte au destin contrarié d’un homme cultivé et sensible mais profondément épuisé par la vie : un propriétaire terrien ruiné, dont l’épouse tombe gravement malade. Enlisé dans une existence étouffée par les ragots, l’hypocrisie et les préjugés, le lucide Ivanov tombe amoureux de Sacha, la fille d’une de ses connaissances. Tiraillé entre la mort imminente de son épouse et l’exaltatio",
+      "description": "Ivanovnous confronte au destin contrarié d’un homme : Ivanov, un propriétaire terrien ruiné, dont l’épouse est gravement malade. Enlisé dans une existence étouffée par les ragots, l’hypocrisie et les préjugés, Ivanov tombe amoureux de Sacha, la fille de son ami et voisin Lebedev. Tiraillé entre la mort imminente de son épouse et l’exaltation d’un amour naissant, son incapacité à agir et son désenc",
       "place": "Les FranciscainsLa Cuisine",
       "city": "Nice",
       "starts_at": 1792087200000,
@@ -574,7 +559,7 @@
     },
     {
       "title": "Ivanov",
-      "description": "Ivanovnous confronte au destin contrarié d’un homme cultivé et sensible mais profondément épuisé par la vie : un propriétaire terrien ruiné, dont l’épouse tombe gravement malade. Enlisé dans une existence étouffée par les ragots, l’hypocrisie et les préjugés, le lucide Ivanov tombe amoureux de Sacha, la fille d’une de ses connaissances. Tiraillé entre la mort imminente de son épouse et l’exaltatio",
+      "description": "Ivanovnous confronte au destin contrarié d’un homme : Ivanov, un propriétaire terrien ruiné, dont l’épouse est gravement malade. Enlisé dans une existence étouffée par les ragots, l’hypocrisie et les préjugés, Ivanov tombe amoureux de Sacha, la fille de son ami et voisin Lebedev. Tiraillé entre la mort imminente de son épouse et l’exaltation d’un amour naissant, son incapacité à agir et son désenc",
       "place": "Les FranciscainsLa Cuisine",
       "city": "Nice",
       "starts_at": 1792173600000,
@@ -870,6 +855,21 @@
       "source": "NIKAIA",
       "source_url": "https://www.nikaia.fr/programmation/laura-pausini",
       "image_url": "https://www.nikaia.fr/files/2025-09/laura-pausini-iocanto-visuelweb-post-1080x1080-nice.jpg",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Nice, ma ville, mes jardins",
+      "description": "",
+      "place": "Exposition",
+      "city": "Nice",
+      "starts_at": 1793401200000,
+      "ends_at": 1793408400000,
+      "has_time": false,
+      "price": "—",
+      "price_val": 0,
+      "source": "OT_NICE",
+      "source_url": "https://www.explorenicecotedazur.com/evenement/nice-ma-ville-mes-jardins/",
+      "image_url": "https://cdn.iris-etourism.io/media/nice/8013320/b118c842c87c316a-335x335.webp",
       "category": "AUTRE"
     },
     {
