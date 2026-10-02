@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-02T09:17:42Z",
-  "count": 245,
+  "scraped_at": "2026-10-02T17:11:28Z",
+  "count": 247,
   "events": [
     {
       "title": "Saigon",
@@ -10,8 +10,8 @@
       "starts_at": 1791524100000,
       "ends_at": 1791531300000,
       "has_time": true,
-      "price": "—",
-      "price_val": 0,
+      "price": "€5–20",
+      "price_val": 5,
       "source": "TNN",
       "source_url": "https://www.tnn.fr/fr/spectacles/saison-2026-2027/saigon",
       "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-05-783-saigon-slider.jpg",
@@ -498,6 +498,21 @@
       "category": "EXPO"
     },
     {
+      "title": "Concert symphonique - L. Foster - D. Ránki - H. Brady - P. Peigner",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1792339200000,
+      "ends_at": 1792346400000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/concert-symphonique-l.-foster-d.-ranki-h.-brady-p.-peigner",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/8/9/4/0/2150498-2-fre-FR/6b8647c019b4-106101_img_04CPNs4.jpg.webp",
+      "category": "CONCERT"
+    },
+    {
       "title": "Les Jeudis littéraires",
       "description": "Tous les jeudis à 19h, au bar-restaurant de la salle des Franciscains, un comédien de la Troupe lit des textes “coup de cœur”. Naviguant du grand répertoire classique à l’écriture contemporaine, de la poésie aux récits mythologiques, les voix de la Troupe vous font (re)découvrir les plus beaux textes. Venez savourer un apéritif et la chaleur de mots choisis.OCTOBREAutour de notre programmation• Je",
       "place": "Les FranciscainsLa Cuisine",
@@ -586,6 +601,21 @@
       "source_url": "https://www.tnn.fr/fr/evenements/laboratoire-2026-2027",
       "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-09-826-laboratoire-2026-2027-slider.jpg",
       "category": "THEATRE"
+    },
+    {
+      "title": "Ateliers Môm’Art des vacances d’automne",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1793055600000,
+      "ends_at": 1793062800000,
+      "has_time": false,
+      "price": "—",
+      "price_val": 0,
+      "source": "MAMAC",
+      "source_url": "https://www.mamac-nice.org/evenement/ateliers-momart-des-vacances-dautomne/",
+      "image_url": "https://www.mamac-nice.org/wp-content/uploads/2021/05/site-mamac.jpg",
+      "category": "AUTRE"
     },
     {
       "title": "LEGEND TOUR BY TRADE REPUBLIC",
