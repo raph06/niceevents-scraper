@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-03T23:33:49Z",
-  "count": 249,
+  "scraped_at": "2026-10-04T03:37:10Z",
+  "count": 235,
   "events": [
     {
       "title": "Saigon",
@@ -108,21 +108,6 @@
       "category": "AUTRE"
     },
     {
-      "title": "Ligue 1: AS MONACO - TOULOUSE FC",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1791657900000,
-      "ends_at": 1791665100000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/ligue-1-as-monaco-toulouse-fc",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/5/6/6/9/2239665-5-fre-FR/e11bc735fd61-106250_img_0FdZvGR.png.webp",
-      "category": "AUTRE"
-    },
-    {
       "title": "Face à face – La Veuve joyeuse",
       "description": "",
       "place": "Nice",
@@ -168,21 +153,6 @@
       "category": "AUTRE"
     },
     {
-      "title": "Picnic Music - Un concert sur grand écran pour accompagner votre pause déjeuner",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1791886500000,
-      "ends_at": 1791891900000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/picnic-music-un-concert-sur-grand-ecran-pour-accompagner-votre-pause-dejeuner",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/2/1/6/0/2280612-1-fre-FR/a9efcdbd5f10-106398_img_0B6VFvm.png.webp",
-      "category": "CONCERT"
-    },
-    {
       "title": "Ivanov",
       "description": "Ivanovnous confronte au destin contrarié d’un homme : Ivanov, un propriétaire terrien ruiné, dont l’épouse est gravement malade. Enlisé dans une existence étouffée par les ragots, l’hypocrisie et les préjugés, Ivanov tombe amoureux de Sacha, la fille de son ami et voisin Lebedev. Tiraillé entre la mort imminente de son épouse et l’exaltation d’un amour naissant, son incapacité à agir et son désenc",
       "place": "Les FranciscainsLa Cuisine",
@@ -211,51 +181,6 @@
       "source_url": "https://www.opera-nice.org/lieux/lobservatoire/",
       "image_url": "https://www.opera-nice.org/wp-content/uploads/2026/05/share-opera-nice-cote-dazur.jpg",
       "category": "NUIT"
-    },
-    {
-      "title": "Rencontre avec les lauréats de la Bourse de la Découverte et du Coup de Cœur des Lycéens de la Fondation Prince Pierre de Monaco",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1791986400000,
-      "ends_at": 1791993600000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/rencontre-avec-les-laureats-de-la-bourse-de-la-decouverte-et-du-coup-de-caeur-des-lyceens-de-la-fondation-prince-pierre-de-monaco",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/4/7/7/0/2280774-1-fre-FR/90f2502fc597-106399_img_0aNqWOq.png.webp",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Projection du documentaire \"Hercule Florence, autoportrait\"",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1791995400000,
-      "ends_at": 1792002600000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/projection-du-documentaire-hercule-florence-autoportrait",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/2/6/6/3/2323662-1-fre-FR/59f1f204c906-106528_img_0cxt6fF.jpg.webp",
-      "category": "CINEMA"
-    },
-    {
-      "title": "L’Europe : héritage et promesse – Monaco",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1791997200000,
-      "ends_at": 1792004400000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/l-europe-heritage-et-promesse-monaco",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/3/4/6/2/2322643-1-fre-FR/8bca1514a601-106526_img_0WI1GwG.png.webp",
-      "category": "AUTRE"
     },
     {
       "title": "Ivanov",
@@ -303,21 +228,6 @@
       "category": "CONCERT"
     },
     {
-      "title": "Thursday Live Sessions - Friedberg",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1792081800000,
-      "ends_at": 1792098000000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/thursday-live-sessions-friedberg",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/7/2/9/0/2030927-72-fre-FR/3339ed93e27f-105893_img_0tGQe01.jpg.webp",
-      "category": "AUTRE"
-    },
-    {
       "title": "Les Jeudis littéraires",
       "description": "Tous les jeudis à 19h, au bar-restaurant de la salle des Franciscains, un comédien de la Troupe lit des textes “coup de cœur”. Naviguant du grand répertoire classique à l’écriture contemporaine, de la poésie aux récits mythologiques, les voix de la Troupe vous font (re)découvrir les plus beaux textes. Venez savourer un apéritif et la chaleur de mots choisis.OCTOBREAutour de notre programmation• Je",
       "place": "Les FranciscainsLa Cuisine",
@@ -331,21 +241,6 @@
       "source_url": "https://www.tnn.fr/fr/evenements/jeudis-litteraires-26-27",
       "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-09-828-jeudis-litteraires-26-27-slider.jpg",
       "category": "THEATRE"
-    },
-    {
-      "title": "Empahtie",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1792083600000,
-      "ends_at": 1792090800000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/empahtie",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/5/9/9/3/2313995-1-fre-FR/fecb7164c61e-106474_img_0u6Fqjd.png.webp",
-      "category": "AUTRE"
     },
     {
       "title": "Ivanov",
@@ -378,36 +273,6 @@
       "category": "AUTRE"
     },
     {
-      "title": "Foire Attractions de Monaco",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1792152000000,
-      "ends_at": 1792184400000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/foire-attractions-de-monaco",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/9/7/5/2/2312579-1-fre-FR/5a8aee31881b-106471_img_0LbcNc3.jpg.webp",
-      "category": "MARCHE"
-    },
-    {
-      "title": "Mariage à Monaco. L’événement médiatique de 1956",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1792171800000,
-      "ends_at": 1792179000000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/mariage-a-monaco.-l-evenement-mediatique-de-19562",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/4/1/9/4/2224914-25-fre-FR/eba17649b772-106230_img_0u4do8k.jpg.webp",
-      "category": "AUTRE"
-    },
-    {
       "title": "Ivanov",
       "description": "Ivanovnous confronte au destin contrarié d’un homme : Ivanov, un propriétaire terrien ruiné, dont l’épouse est gravement malade. Enlisé dans une existence étouffée par les ragots, l’hypocrisie et les préjugés, Ivanov tombe amoureux de Sacha, la fille de son ami et voisin Lebedev. Tiraillé entre la mort imminente de son épouse et l’exaltation d’un amour naissant, son incapacité à agir et son désenc",
       "place": "Les FranciscainsLa Cuisine",
@@ -436,21 +301,6 @@
       "source_url": "https://www.opera-nice.org/agenda/jean-christophe-maillot-ioannis-mandafounis/",
       "image_url": "https://www.opera-nice.org/wp-content/uploads/2026/05/share-opera-nice-cote-dazur.jpg",
       "category": "AUTRE"
-    },
-    {
-      "title": "Exposition Mémoire des lieux - Ateliers jeunesse",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1792224000000,
-      "ends_at": 1798043400000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/exposition-memoire-des-lieux-ateliers-jeunesse",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/5/8/5/6/2306585-1-fre-FR/9d141a71a8ee-106434_img_0MOwSBq.jpg.webp",
-      "category": "EXPO"
     },
     {
       "title": "Les Procès des grands personnages",
@@ -511,36 +361,6 @@
       "source_url": "https://www.explorenicecotedazur.com/evenement/exposition-lilette-et-gilbert-valentin-quand-la-terre-devient-lumiere/",
       "image_url": "https://cdn.iris-etourism.io/media/nice/7819601/424bfb7b9534ea7f-335x335.webp",
       "category": "EXPO"
-    },
-    {
-      "title": "Concert symphonique - L. Foster - D. Ránki - H. Brady - P. Peigner",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1792339200000,
-      "ends_at": 1792346400000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/concert-symphonique-l.-foster-d.-ranki-h.-brady-p.-peigner",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/8/9/4/0/2150498-2-fre-FR/6b8647c019b4-106101_img_04CPNs4.jpg.webp",
-      "category": "CONCERT"
-    },
-    {
-      "title": "SPORTEL AWARDS",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1792360800000,
-      "ends_at": 1792368000000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/sportel-awards2",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/3/5/6/1/2251653-1-fre-FR/0487722974ce-106287_img_0Qm1UjW.jpg.webp",
-      "category": "SPORT"
     },
     {
       "title": "Les Jeudis littéraires",
@@ -918,51 +738,6 @@
       "category": "AUTRE"
     },
     {
-      "title": "La légende du Cristal magique",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1794319200000,
-      "ends_at": 1794322800000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/la-legende-du-cristal-magique",
-      "image_url": null,
-      "category": "AUTRE"
-    },
-    {
-      "title": "Une heure à t'attendre",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1794322800000,
-      "ends_at": 1794327000000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/une-heure-a-t-attendre",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/7/2/5/3/2193527-1-fre-FR/b8e722c35047-106186_img_03ly3k2.jpg.webp",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Concert symphonique - K. Solomnishvili - J. L. Prats",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1794326400000,
-      "ends_at": 1794334500000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/concert-symphonique-k.-solomnishvili-j.-l.-prats",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/6/3/3/0/2150336-2-fre-FR/b89dad0d303c-106100_img_0fhZhG0.jpg.webp",
-      "category": "CONCERT"
-    },
-    {
       "title": "La Veuve joyeuse",
       "description": "",
       "place": "Nice",
@@ -1278,6 +1053,36 @@
       "category": "AUTRE"
     },
     {
+      "title": "L'HÉRITAGE GOLDMAN",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1795289400000,
+      "ends_at": 1795296600000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "NIKAIA",
+      "source_url": "https://www.nikaia.fr/programmation/l-heritage-goldman-2",
+      "image_url": "https://www.nikaia.fr/files/2026-06/hg-new-1080x1080.jpg",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Stand-Up Opéra",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1795474800000,
+      "ends_at": 1795482000000,
+      "has_time": false,
+      "price": "—",
+      "price_val": 0,
+      "source": "OPERA_NICE",
+      "source_url": "https://culture.univ-cotedazur.fr/",
+      "image_url": "https://www.opera-nice.org/wp-content/uploads/2026/05/share-opera-nice-cote-dazur.jpg",
+      "category": "CONCERT"
+    },
+    {
       "title": "Orgueilleuse",
       "description": "Un petit hameau de la Nièvre, coupé du reste du monde. Les témoignages de trois femmes, trois voisines, trois amies, qui “n’ont pas grand-chose à raconter”, disent-elles. Et pourtant, elles se livrent, discrètes, modestes. Ces destins qu’on pourrait considérer banals trouveront ici un espace d’émancipation par le jeu. Et si Christiane n’avait pas eu envie de frites ce soir de bal ? Et si Eugénie n",
       "place": "Les FranciscainsLa Cuisine",
@@ -1484,7 +1289,7 @@
       "price_val": 0,
       "source": "OT_NICE",
       "source_url": "https://www.explorenicecotedazur.com/evenement/concerts-a-la-trinquette-jazz-club/",
-      "image_url": "https://cdn.iris-etourism.io/media/nice/6802208/5ee0bbec54a6b4f0-335x335.webp",
+      "image_url": "https://cdn.iris-etourism.io/media/nice/6802208/c307bfc7391d7061-335x335.webp",
       "category": "CONCERT"
     },
     {
@@ -1516,21 +1321,6 @@
       "source_url": "https://www.tnn.fr/fr/evenements/conversation-intime-1-2627",
       "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-09-825-conversation-intime-1-2627-slider.jpg",
       "category": "THEATRE"
-    },
-    {
-      "title": "Les Archives du lundi - programme B d'octobre",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1796907600000,
-      "ends_at": 1796911200000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/les-archives-du-lundi-programme-b-d-octobre",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/3/4/6/4/2314643-1-fre-FR/a28ebb71c367-106477_img_012fyyj.jpg.webp",
-      "category": "AUTRE"
     },
     {
       "title": "Conversation intime avec Jean-François Sivadier",
