@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-05T13:12:10Z",
-  "count": 258,
+  "scraped_at": "2026-10-05T21:50:26Z",
+  "count": 261,
   "events": [
     {
       "title": "Saigon",
@@ -618,6 +618,36 @@
       "category": "AUTRE"
     },
     {
+      "title": "Invente ton spectacle de lanterne magique",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1792654200000,
+      "ends_at": 1792749600000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/invente-ton-spectacle-de-lanterne-magique",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/6/7/5/0/2260576-1-fre-FR/ddf2ef854ba5-106335_img_0KgnFID.jpg.webp",
+      "category": "THEATRE"
+    },
+    {
+      "title": "Exposition « Victor Brauner, L’Aventure magique » - Ateliers jeune public",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1792670400000,
+      "ends_at": 1793287800000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/exposition-victor-brauner-l-aventure-magique-ateliers-jeune-public",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/7/4/7/6/2306747-1-fre-FR/aec2160ce2f1-106435_img_0gtFtM9.jpg.webp",
+      "category": "EXPO"
+    },
+    {
       "title": "Les Jeudis littéraires",
       "description": "Tous les jeudis à 19h, au bar-restaurant de la salle des Franciscains, un comédien de la Troupe lit des textes “coup de cœur”. Naviguant du grand répertoire classique à l’écriture contemporaine, de la poésie aux récits mythologiques, les voix de la Troupe vous font (re)découvrir les plus beaux textes. Venez savourer un apéritif et la chaleur de mots choisis.OCTOBREAutour de notre programmation• Je",
       "place": "Les FranciscainsLa Cuisine",
@@ -631,6 +661,21 @@
       "source_url": "https://www.tnn.fr/fr/evenements/jeudis-litteraires-26-27",
       "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-09-828-jeudis-litteraires-26-27-slider.jpg",
       "category": "THEATRE"
+    },
+    {
+      "title": "Uefa conference league: AS MONACO - SC Fribourg",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1792695600000,
+      "ends_at": 1792702800000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/uefa-conference-league-as-monaco-sc-fribourg",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/0/5/4/4/2254450-1-fre-FR/32e55348485a-106296_img_08TNj9I.jpg.webp",
+      "category": "AUTRE"
     },
     {
       "title": "Les Procès des grands personnages",
