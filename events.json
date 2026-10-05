@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-05T03:16:57Z",
-  "count": 259,
+  "scraped_at": "2026-10-05T13:12:10Z",
+  "count": 258,
   "events": [
     {
       "title": "Saigon",
@@ -120,21 +120,6 @@
       "source": "MONACO",
       "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/ligue-1-as-monaco-toulouse-fc",
       "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/5/6/6/9/2239665-5-fre-FR/e11bc735fd61-106250_img_0FdZvGR.png.webp",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Face à face – La Veuve joyeuse",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1791669600000,
-      "ends_at": 1791676800000,
-      "has_time": false,
-      "price": "—",
-      "price_val": 0,
-      "source": "OPERA_NICE",
-      "source_url": "https://www.opera-nice.org/lieux/foyer-montserrat-caballe-de-lopera/",
-      "image_url": "https://www.opera-nice.org/wp-content/uploads/2026/05/share-opera-nice-cote-dazur.jpg",
       "category": "AUTRE"
     },
     {
@@ -361,6 +346,21 @@
       "source_url": "https://www.tnn.fr/fr/spectacles/saison-2026-2027/ivanov",
       "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-05-786-ivanov-slider.jpg",
       "category": "THEATRE"
+    },
+    {
+      "title": "Vermeer et son faussaire",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1792087200000,
+      "ends_at": 1792339200000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/vermeer-et-son-faussaire",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/0/1/3/4/2324310-1-fre-FR/2bdbfbabadca-106531_img_0Wjvezq.png.webp",
+      "category": "AUTRE"
     },
     {
       "title": "37ème édition des Semaines d’Information sur la Santé Mentale (SISM)",
@@ -618,21 +618,6 @@
       "category": "AUTRE"
     },
     {
-      "title": "Invente ton spectacle de lanterne magique",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1792654200000,
-      "ends_at": 1792749600000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/invente-ton-spectacle-de-lanterne-magique",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/6/7/5/0/2260576-1-fre-FR/ddf2ef854ba5-106335_img_0KgnFID.jpg.webp",
-      "category": "THEATRE"
-    },
-    {
       "title": "Les Jeudis littéraires",
       "description": "Tous les jeudis à 19h, au bar-restaurant de la salle des Franciscains, un comédien de la Troupe lit des textes “coup de cœur”. Naviguant du grand répertoire classique à l’écriture contemporaine, de la poésie aux récits mythologiques, les voix de la Troupe vous font (re)découvrir les plus beaux textes. Venez savourer un apéritif et la chaleur de mots choisis.OCTOBREAutour de notre programmation• Je",
       "place": "Les FranciscainsLa Cuisine",
@@ -646,21 +631,6 @@
       "source_url": "https://www.tnn.fr/fr/evenements/jeudis-litteraires-26-27",
       "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-09-828-jeudis-litteraires-26-27-slider.jpg",
       "category": "THEATRE"
-    },
-    {
-      "title": "Uefa conference league: AS MONACO - SC Fribourg",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1792695600000,
-      "ends_at": 1792702800000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/uefa-conference-league-as-monaco-sc-fribourg",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/0/5/4/4/2254450-1-fre-FR/32e55348485a-106296_img_08TNj9I.jpg.webp",
-      "category": "AUTRE"
     },
     {
       "title": "Les Procès des grands personnages",
@@ -1411,6 +1381,21 @@
       "source_url": "https://culture.univ-cotedazur.fr/",
       "image_url": "https://www.opera-nice.org/wp-content/uploads/2026/05/share-opera-nice-cote-dazur.jpg",
       "category": "CONCERT"
+    },
+    {
+      "title": "Afterwork – Romances et amour",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1795561200000,
+      "ends_at": 1795568400000,
+      "has_time": false,
+      "price": "—",
+      "price_val": 0,
+      "source": "OPERA_NICE",
+      "source_url": "https://www.opera-nice.org/lieux/foyer-montserrat-caballe-de-lopera/",
+      "image_url": "https://www.opera-nice.org/wp-content/uploads/2026/05/share-opera-nice-cote-dazur.jpg",
+      "category": "NUIT"
     },
     {
       "title": "Orgueilleuse",
@@ -2909,7 +2894,7 @@
       "price_val": 0,
       "source": "OT_NICE",
       "source_url": "https://www.explorenicecotedazur.com/evenement/sensoria-experience-immersive-et-sensorielle/",
-      "image_url": "https://cdn.iris-etourism.io/media/nice/7983917/07f9f5cbf0e6e2a4-335x335.webp",
+      "image_url": "https://cdn.iris-etourism.io/media/nice/7983917/c91eec2c3f8454ed-335x335.webp",
       "category": "AUTRE"
     },
     {
