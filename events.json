@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-04T23:49:47Z",
-  "count": 258,
+  "scraped_at": "2026-10-05T03:16:57Z",
+  "count": 259,
   "events": [
     {
       "title": "Saigon",
@@ -2491,6 +2491,21 @@
       "source_url": "https://www.tnn.fr/fr/spectacles/saison-2026-2027/magistrales",
       "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-05-799-magistrales-slider.jpg",
       "category": "THEATRE"
+    },
+    {
+      "title": "RAPID EYE MOVEMENTS",
+      "description": "",
+      "place": "ExpositionPeinture",
+      "city": "Nice",
+      "starts_at": 1801263600000,
+      "ends_at": 1801270800000,
+      "has_time": false,
+      "price": "—",
+      "price_val": 0,
+      "source": "OT_NICE",
+      "source_url": "https://www.explorenicecotedazur.com/evenement/rapid-eye-movements/",
+      "image_url": "https://cdn.iris-etourism.io/media/nice/7984478/008741573062b46b-335x335.webp",
+      "category": "AUTRE"
     },
     {
       "title": "Les Procès des grands personnages",
