@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-06T12:34:09Z",
-  "count": 260,
+  "scraped_at": "2026-10-06T20:00:51Z",
+  "count": 265,
   "events": [
     {
       "title": "Saigon",
@@ -10,8 +10,8 @@
       "starts_at": 1791524100000,
       "ends_at": 1791531300000,
       "has_time": true,
-      "price": "€5–20",
-      "price_val": 5,
+      "price": "€8–14",
+      "price_val": 8,
       "source": "TNN",
       "source_url": "https://www.tnn.fr/fr/spectacles/saison-2026-2027/saigon",
       "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-05-783-saigon-slider.jpg",
@@ -643,8 +643,8 @@
       "price": "—",
       "price_val": 0,
       "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/exposition-victor-brauner-l-aventure-magique-ateliers-jeune-public2",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/3/3/8/3/2313833-1-fre-FR/3a3215c247da-106435_img_0CHABuj.jpg.webp",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/exposition-victor-brauner-l-aventure-magique-ateliers-jeune-public",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/7/4/7/6/2306747-1-fre-FR/aec2160ce2f1-106435_img_0gtFtM9.jpg.webp",
       "category": "EXPO"
     },
     {
@@ -678,6 +678,21 @@
       "category": "AUTRE"
     },
     {
+      "title": "Que le spectacle commence !",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1792771200000,
+      "ends_at": 1792776600000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/que-le-spectacle-commence",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/9/2/1/5/2315129-1-fre-FR/e898ab3203a5-106480_img_0Ds1GUQ.jpg.webp",
+      "category": "THEATRE"
+    },
+    {
       "title": "Les Procès des grands personnages",
       "description": "Tous les samedis à 11h, sur le parvis de la salle des Franciscains, participez aux Procès des grands personnages avec la plaidoirie d’un avocat du Barreau et un comédien de la Troupe ou un apprenti comédien de l’ERACM.Qui seront les prochains à rejoindre le banc des accusés ?OCTOBRE• Samedi 3/10 :Le Procès de Picsou- Laurent Prévot - Maître Robert Chemla - Hervé Van der Meulen• Samedi 10/10 :Le Pr",
       "place": "Les FranciscainsLa Cuisine",
@@ -691,6 +706,21 @@
       "source_url": "https://www.tnn.fr/fr/evenements/proces-grands-personnages-26-27",
       "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-09-829-proces-grands-personnages-26-27-slider.jpg",
       "category": "THEATRE"
+    },
+    {
+      "title": "Spectacle \"Drôles de poésies\" avec Chantal Bertrand, Hélène Gastaud, Patrick Mégevand et la complicité de Jacques Burnouf",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1792854000000,
+      "ends_at": 1792857600000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/spectacle-droles-de-poesies-avec-chantal-bertrand-helene-gastaud-patrick-megevand-et-la-complicite-de-jacques-burnouf",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/4/2/9/0/2320924-2-fre-FR/1134ca40c606-106515_img_0CivzQY.png.webp",
+      "category": "CONCERT"
     },
     {
       "title": "TERRAVINI",
@@ -781,6 +811,51 @@
       "source_url": "https://www.nikaia.fr/programmation/legend-tour",
       "image_url": "https://www.nikaia.fr/files/2025-12/legendtour-webge-ne-rique-1080x1080.png",
       "category": "AUTRE"
+    },
+    {
+      "title": "Journées en famille",
+      "description": "Cette saison, le TNN ouvre les portes de la salle des Franciscains aux familles. Deux journées immersives et thématiques avec au programme : visite de l’envers du décor, jeux de piste et atelier de pratique théâtrale ! Parents et enfants, partez à la découverte des coulisses et de leurs secrets, de la fabrique d’un spectacle, des métiers méconnus du théâtre, ainsi que des nombreuses superstitions ",
+      "place": "Les FranciscainsLa Cuisine",
+      "city": "Nice",
+      "starts_at": 1793142000000,
+      "ends_at": 1793149200000,
+      "has_time": false,
+      "price": "—",
+      "price_val": 0,
+      "source": "TNN",
+      "source_url": "https://www.tnn.fr/fr/evenements/journee-en-famille-26-27",
+      "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-10-832-journee-en-famille-26-27-slider.jpg",
+      "category": "THEATRE"
+    },
+    {
+      "title": "Journées en famille",
+      "description": "Cette saison, le TNN ouvre les portes de la salle des Franciscains aux familles. Deux journées immersives et thématiques avec au programme : visite de l’envers du décor, jeux de piste et atelier de pratique théâtrale ! Parents et enfants, partez à la découverte des coulisses et de leurs secrets, de la fabrique d’un spectacle, des métiers méconnus du théâtre, ainsi que des nombreuses superstitions ",
+      "place": "Les FranciscainsLa Cuisine",
+      "city": "Nice",
+      "starts_at": 1793178000000,
+      "ends_at": 1793185200000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "TNN",
+      "source_url": "https://www.tnn.fr/fr/evenements/journee-en-famille-26-27",
+      "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-10-832-journee-en-famille-26-27-slider.jpg",
+      "category": "THEATRE"
+    },
+    {
+      "title": "Journées en famille",
+      "description": "Cette saison, le TNN ouvre les portes de la salle des Franciscains aux familles. Deux journées immersives et thématiques avec au programme : visite de l’envers du décor, jeux de piste et atelier de pratique théâtrale ! Parents et enfants, partez à la découverte des coulisses et de leurs secrets, de la fabrique d’un spectacle, des métiers méconnus du théâtre, ainsi que des nombreuses superstitions ",
+      "place": "Les FranciscainsLa Cuisine",
+      "city": "Nice",
+      "starts_at": 1793183400000,
+      "ends_at": 1793190600000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "TNN",
+      "source_url": "https://www.tnn.fr/fr/evenements/journee-en-famille-26-27",
+      "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-10-832-journee-en-famille-26-27-slider.jpg",
+      "category": "THEATRE"
     },
     {
       "title": "Les Jeudis littéraires",
