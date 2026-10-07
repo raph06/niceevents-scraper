@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-07T00:21:18Z",
+  "scraped_at": "2026-10-07T09:39:47Z",
   "count": 266,
   "events": [
     {
@@ -299,7 +299,7 @@
       "price_val": 0,
       "source": "MONACO",
       "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/thursday-live-sessions-friedberg",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/7/2/9/0/2030927-72-fre-FR/3339ed93e27f-105893_img_0tGQe01.jpg.webp",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/7/2/9/0/2030927-74-fre-FR/ab8a9cc4a65a-105893_img_0V5gkok.jpg.webp",
       "category": "AUTRE"
     },
     {
@@ -404,7 +404,7 @@
       "price_val": 0,
       "source": "MONACO",
       "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/mariage-a-monaco.-l-evenement-mediatique-de-19562",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/4/1/9/4/2224914-25-fre-FR/eba17649b772-106230_img_0u4do8k.jpg.webp",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/4/1/9/4/2224914-27-fre-FR/3243a89093a5-106230_img_0Qirg4t.jpg.webp",
       "category": "AUTRE"
     },
     {
@@ -618,6 +618,21 @@
       "category": "AUTRE"
     },
     {
+      "title": "LA PIETÀ de MICHEL-ANGE - Conférence/Méditation",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1792517400000,
+      "ends_at": 1792522800000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/la-pieta-de-michel-ange-conference-meditation",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/3/6/2/0/2340263-1-fre-FR/b246011e6884-106533_img_0uogP3M.jpeg.webp",
+      "category": "AUTRE"
+    },
+    {
       "title": "Invente ton spectacle de lanterne magique",
       "description": "",
       "place": "Monaco",
@@ -706,21 +721,6 @@
       "source_url": "https://www.tnn.fr/fr/evenements/proces-grands-personnages-26-27",
       "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-09-829-proces-grands-personnages-26-27-slider.jpg",
       "category": "THEATRE"
-    },
-    {
-      "title": "Spectacle \"Drôles de poésies\" avec Chantal Bertrand, Hélène Gastaud, Patrick Mégevand et la complicité de Jacques Burnouf",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1792854000000,
-      "ends_at": 1792857600000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/spectacle-droles-de-poesies-avec-chantal-bertrand-helene-gastaud-patrick-megevand-et-la-complicite-de-jacques-burnouf",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/4/2/9/0/2320924-2-fre-FR/1134ca40c606-106515_img_0CivzQY.png.webp",
-      "category": "CONCERT"
     },
     {
       "title": "TERRAVINI",
