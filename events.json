@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-07T09:39:47Z",
+  "scraped_at": "2026-10-07T18:20:58Z",
   "count": 266,
   "events": [
     {
@@ -913,7 +913,7 @@
       "price": "—",
       "price_val": 0,
       "source": "OPERA_NICE",
-      "source_url": "https://www.opera-nice.org/agenda/strauss-brahms/20261030-2000/",
+      "source_url": "https://www.opera-nice.org/agenda/strauss-brahms/",
       "image_url": "https://www.opera-nice.org/wp-content/uploads/2026/05/share-opera-nice-cote-dazur.jpg",
       "category": "AUTRE"
     },
@@ -1229,7 +1229,7 @@
       "price_val": 2,
       "source": "TNN",
       "source_url": "https://www.tnn.fr/fr/spectacles/saison-2026-2027/resurrection",
-      "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-05-787-resurrection-slider.jpg",
+      "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-10-787-resurrection-slider.jpg",
       "category": "THEATRE"
     },
     {
@@ -1289,7 +1289,7 @@
       "price_val": 2,
       "source": "TNN",
       "source_url": "https://www.tnn.fr/fr/spectacles/saison-2026-2027/resurrection",
-      "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-05-787-resurrection-slider.jpg",
+      "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-10-787-resurrection-slider.jpg",
       "category": "THEATRE"
     },
     {
@@ -1814,7 +1814,7 @@
       "price_val": 2,
       "source": "TNN",
       "source_url": "https://www.tnn.fr/fr/spectacles/saison-2026-2027/resurrection",
-      "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-05-787-resurrection-slider.jpg",
+      "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-10-787-resurrection-slider.jpg",
       "category": "THEATRE"
     },
     {
@@ -1844,7 +1844,7 @@
       "price_val": 2,
       "source": "TNN",
       "source_url": "https://www.tnn.fr/fr/spectacles/saison-2026-2027/resurrection",
-      "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-05-787-resurrection-slider.jpg",
+      "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-10-787-resurrection-slider.jpg",
       "category": "THEATRE"
     },
     {
