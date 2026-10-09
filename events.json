@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-08T18:18:50Z",
-  "count": 266,
+  "scraped_at": "2026-10-09T00:57:56Z",
+  "count": 269,
   "events": [
     {
       "title": "Saigon",
@@ -721,6 +721,51 @@
       "source_url": "https://www.tnn.fr/fr/evenements/proces-grands-personnages-26-27",
       "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-09-829-proces-grands-personnages-26-27-slider.jpg",
       "category": "THEATRE"
+    },
+    {
+      "title": "Spectacle \"Drôles de poésies\" avec Chantal Bertrand, Hélène Gastaud, Patrick Mégevand et la complicité de Jacques Burnouf",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1792854000000,
+      "ends_at": 1792857600000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/spectacle-droles-de-poesies-avec-chantal-bertrand-helene-gastaud-patrick-megevand-et-la-complicite-de-jacques-burnouf",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/4/2/9/0/2320924-2-fre-FR/1134ca40c606-106515_img_0CivzQY.png.webp",
+      "category": "CONCERT"
+    },
+    {
+      "title": "Disney en concert - Suivez vos rêves",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1792857600000,
+      "ends_at": 1792866600000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/disney-en-concert-suivez-vos-reves",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/1/6/5/0/1970561-68-fre-FR/7fdb7e01ca92-105617_img_0nsj1rf.jpg.webp",
+      "category": "CONCERT"
+    },
+    {
+      "title": "Les Concerts de la Voûte : Gabriel Dupont, la Nature retrouvée",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1792861200000,
+      "ends_at": 1792870200000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/les-concerts-de-la-voute-gabriel-dupont-la-nature-retrouvee",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/3/1/4/8/2248413-1-fre-FR/8bfa26fbcbd8-106277_img_0q6i2n9.png.webp",
+      "category": "CONCERT"
     },
     {
       "title": "TERRAVINI",
