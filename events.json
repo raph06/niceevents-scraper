@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-11T12:04:35Z",
-  "count": 257,
+  "scraped_at": "2026-10-11T17:18:00Z",
+  "count": 258,
   "events": [
     {
       "title": "Les Jeudis littéraires",
@@ -723,6 +723,36 @@
       "category": "THEATRE"
     },
     {
+      "title": "Picnic Music Live avec le duo ALMA Pop & Soul",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1793099700000,
+      "ends_at": 1793104200000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/picnic-music-live-avec-le-duo-alma-pop-soul",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/0/6/2/1/2281260-1-fre-FR/a514721c97b2-106402_img_0PdV86S.png.webp",
+      "category": "AUTRE"
+    },
+    {
+      "title": "\"Pluie noire\" de Shôhei Imamura",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1793124000000,
+      "ends_at": 1793133000000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/pluie-noire-de-shohei-imamura",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/3/5/4/5/2315453-1-fre-FR/c1a3b760aef4-106482_img_0d9gJ3r.jpg.webp",
+      "category": "AUTRE"
+    },
+    {
       "title": "Journées en famille",
       "description": "Cette saison, le TNN ouvre les portes de la salle des Franciscains aux familles. Deux journées immersives et thématiques avec au programme : visite de l’envers du décor, jeux de piste et atelier de pratique théâtrale ! Parents et enfants, partez à la découverte des coulisses et de leurs secrets, de la fabrique d’un spectacle, des métiers méconnus du théâtre, ainsi que des nombreuses superstitions ",
       "place": "Les FranciscainsLa Cuisine",
@@ -766,6 +796,21 @@
       "source_url": "https://www.tnn.fr/fr/evenements/journee-en-famille-26-27",
       "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-10-832-journee-en-famille-26-27-slider.jpg",
       "category": "THEATRE"
+    },
+    {
+      "title": "Ciné-club \"La source des femmes \"",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1793210400000,
+      "ends_at": 1793223000000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/cine-club-la-source-des-femmes",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/0/0/6/0/2320600-1-fre-FR/c3ce09a3bd54-106507_img_02LZAcB.jpeg.webp",
+      "category": "CINEMA"
     },
     {
       "title": "Les Jeudis littéraires",
@@ -1004,7 +1049,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/spectacle/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/viens-avec-ton-doudou-saison-25-26.png",
       "category": "AUTRE"
     },
     {
@@ -1019,7 +1064,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/fete-traditionnelle/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/06/635649-sainte-reparate-250x250.jpg",
       "category": "AUTRE"
     },
     {
@@ -1068,21 +1113,6 @@
       "category": "AUTRE"
     },
     {
-      "title": "La légende du Cristal magique",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1794319200000,
-      "ends_at": 1794322800000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/la-legende-du-cristal-magique",
-      "image_url": null,
-      "category": "AUTRE"
-    },
-    {
       "title": "Orchestre d’Harmonie de la ville de Nice",
       "description": "",
       "place": "Nice",
@@ -1094,23 +1124,8 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/concert/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/05/bp-499950-orchestre-harmonie-250x250.jpg",
       "category": "CONCERT"
-    },
-    {
-      "title": "Une heure à t'attendre",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1794322800000,
-      "ends_at": 1794327000000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/une-heure-a-t-attendre",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/7/2/5/3/2193527-1-fre-FR/b8e722c35047-106186_img_03ly3k2.jpg.webp",
-      "category": "AUTRE"
     },
     {
       "title": "La libertad, Cinéma sans frontières",
