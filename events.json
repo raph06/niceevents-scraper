@@ -1,22 +1,7 @@
 {
-  "scraped_at": "2026-10-12T14:17:23Z",
-  "count": 260,
+  "scraped_at": "2026-10-12T22:33:08Z",
+  "count": 261,
   "events": [
-    {
-      "title": "Les Jeudis littéraires",
-      "description": "Tous les jeudis à 19h, au bar-restaurant de la salle des Franciscains, un comédien de la Troupe lit des textes “coup de cœur”. Naviguant du grand répertoire classique à l’écriture contemporaine, de la poésie aux récits mythologiques, les voix de la Troupe vous font (re)découvrir les plus beaux textes. Venez savourer un apéritif et la chaleur de mots choisis.OCTOBREAutour de notre programmation• Je",
-      "place": "Les FranciscainsLa Cuisine",
-      "city": "Nice",
-      "starts_at": 1791824400000,
-      "ends_at": 1791831600000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "TNN",
-      "source_url": "https://www.tnn.fr/fr/evenements/jeudis-litteraires-26-27",
-      "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-09-828-jeudis-litteraires-26-27-slider.jpg",
-      "category": "THEATRE"
-    },
     {
       "title": "Au fil des pages",
       "description": "",
@@ -44,7 +29,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/atelier/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/11/eveil-corporel.jpg",
       "category": "AUTRE"
     },
     {
@@ -74,7 +59,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/04/interieur-diacosmie-250x250.jpg",
       "category": "AUTRE"
     },
     {
@@ -89,7 +74,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/animation/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/11/animation-musicale.jpg",
       "category": "AUTRE"
     },
     {
@@ -134,7 +119,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/animation/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/09/botanique-oct-mde-250x250.jpg",
       "category": "AUTRE"
     },
     {
@@ -149,7 +134,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/atelier/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/08/bp-605916-premiers-secours.jpg",
       "category": "AUTRE"
     },
     {
@@ -164,7 +149,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/lecture/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/10/marque-page.jpeg",
       "category": "AUTRE"
     },
     {
@@ -768,6 +753,21 @@
       "category": "THEATRE"
     },
     {
+      "title": "Ciné-Club 2026 de GrecDoc à Nice en partenariat avec la CGDAM",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1792778400000,
+      "ends_at": 1792785600000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "INFOLOCALE",
+      "source_url": "https://www.infolocale.fr/evenements?age%5B0%5D=Tout%20Public&age%5B1%5D=Adulte&age%5B2%5D=Adolescent&age%5B3%5D=Enfant&age%5B4%5D=Bebe&commune=06088",
+      "image_url": "https://photos.infolocale.fr/infolocale/annonce/2026/1012/9009289/_1.jpg?rnd=20261012180509",
+      "category": "CINEMA"
+    },
+    {
       "title": "Les Procès des grands personnages",
       "description": "Tous les samedis à 11h, sur le parvis de la salle des Franciscains, participez aux Procès des grands personnages avec la plaidoirie d’un avocat du Barreau et un comédien de la Troupe ou un apprenti comédien de l’ERACM.Qui seront les prochains à rejoindre le banc des accusés ?OCTOBRE• Samedi 3/10 :Le Procès de Picsou- Laurent Prévot - Maître Robert Chemla - Hervé Van der Meulen• Samedi 10/10 :Le Pr",
       "place": "Les FranciscainsLa Cuisine",
@@ -1036,6 +1036,21 @@
       "source_url": "https://www.tnn.fr/fr/evenements/jeudis-litteraires-26-27",
       "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-09-828-jeudis-litteraires-26-27-slider.jpg",
       "category": "THEATRE"
+    },
+    {
+      "title": "Concert Mozart",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1793296800000,
+      "ends_at": 1793300400000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/concert-mozart",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/6/7/8/5/2345876-1-fre-FR/e638f5617858-106540_img_0Lv2pyl.jpeg.webp",
+      "category": "CONCERT"
     },
     {
       "title": "Trésors, charafi et quoi encore ?",
