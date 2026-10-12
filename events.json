@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-12T03:32:36Z",
-  "count": 282,
+  "scraped_at": "2026-10-12T14:17:23Z",
+  "count": 260,
   "events": [
     {
       "title": "Les Jeudis littéraires",
@@ -29,6 +29,21 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/lecture/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/01/club-lecture.jpeg",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Éveil corporel",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1791876600000,
+      "ends_at": 1791883800000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/atelier/",
       "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
@@ -119,7 +134,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/animation/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/09/botanique-oct-mde-250x250.jpg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
@@ -134,7 +149,37 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/atelier/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/08/bp-605916-premiers-secours.jpg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Marque-pages",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1791878400000,
+      "ends_at": 1791885600000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/lecture/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Journée d’Isatis « fête des arts »",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1791878400000,
+      "ends_at": 1791885600000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/animation/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
@@ -288,6 +333,21 @@
       "category": "CONCERT"
     },
     {
+      "title": "Présentation de l’ouvrage Théâtres de la mode, conférence Is fashion sustainable?",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1792054800000,
+      "ends_at": 1792062000000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/presentation-de-l-ouvrage-theatres-de-la-mode-conference-is-fashion-sustainable",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/8/3/0/6/2346038-1-fre-FR/f3ea59681a4b-106541_img_0lgbILm.jpg.webp",
+      "category": "THEATRE"
+    },
+    {
       "title": "Thursday Live Sessions - Friedberg",
       "description": "",
       "place": "Monaco",
@@ -363,19 +423,19 @@
       "category": "AUTRE"
     },
     {
-      "title": "37ème édition des Semaines d’Information sur la Santé Mentale (SISM)",
+      "title": "l’EXPO du WEEK-END à Valdeblore",
       "description": "",
-      "place": "Nice",
+      "place": "ExpositionArtisanat",
       "city": "Nice",
       "starts_at": 1792101600000,
       "ends_at": 1792108800000,
       "has_time": false,
       "price": "—",
       "price_val": 0,
-      "source": "MAMAC",
-      "source_url": "https://www.mamac-nice.org/evenement/37eme-edition-des-semaines-dinformation-sur-la-sante-mentale-sism/",
-      "image_url": "https://www.mamac-nice.org/wp-content/uploads/2021/05/site-mamac.jpg",
-      "category": "AUTRE"
+      "source": "OT_NICE",
+      "source_url": "https://www.explorenicecotedazur.com/evenement/lexpo-du-week-end-a-valdeblore/",
+      "image_url": "https://cdn.iris-etourism.io/media/nice/7188253/67803ede57e60057-335x335.webp",
+      "category": "EXPO"
     },
     {
       "title": "Foire Attractions de Monaco",
@@ -466,21 +526,6 @@
       "source_url": "https://www.tnn.fr/fr/evenements/proces-grands-personnages-26-27",
       "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-09-829-proces-grands-personnages-26-27-slider.jpg",
       "category": "THEATRE"
-    },
-    {
-      "title": "CHINESE MAN RECORDS",
-      "description": "Frigo 16",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1792260000000,
-      "ends_at": 1792267200000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "LE109",
-      "source_url": "https://le109.nice.fr/programmation/chinese-man-records",
-      "image_url": "https://wsrv.nl/?url=le109.nice.fr/thumbs/1024x562r/2026-07/capture-d-e-cran-2026-07-23-a-16.40.26.png",
-      "category": "AUTRE"
     },
     {
       "title": "Africa Pop",
@@ -673,8 +718,8 @@
       "price": "—",
       "price_val": 0,
       "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/exposition-victor-brauner-l-aventure-magique-ateliers-jeune-public",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/7/4/7/6/2306747-1-fre-FR/aec2160ce2f1-106435_img_0gtFtM9.jpg.webp",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/exposition-victor-brauner-l-aventure-magique-ateliers-jeune-public2",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/3/3/8/3/2313833-1-fre-FR/3a3215c247da-106435_img_0CHABuj.jpg.webp",
       "category": "EXPO"
     },
     {
@@ -783,21 +828,6 @@
       "category": "CONCERT"
     },
     {
-      "title": "TERRAVINI",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1792879200000,
-      "ends_at": 1792886400000,
-      "has_time": false,
-      "price": "—",
-      "price_val": 0,
-      "source": "NIKAIA",
-      "source_url": "https://www.nikaia.fr/programmation/terravini-1",
-      "image_url": "https://www.nikaia.fr/files/2026-04/visuel-terravini-2026-carre.jpg",
-      "category": "FOOD"
-    },
-    {
       "title": "Exposition hors les murs : Marc Chagall. Entre poésie et spiritualité",
       "description": "",
       "place": "Nice",
@@ -888,21 +918,6 @@
       "category": "THEATRE"
     },
     {
-      "title": "Ateliers Môm’Art des vacances d’automne",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1793055600000,
-      "ends_at": 1793062800000,
-      "has_time": false,
-      "price": "—",
-      "price_val": 0,
-      "source": "MAMAC",
-      "source_url": "https://www.mamac-nice.org/evenement/ateliers-momart-des-vacances-dautomne/",
-      "image_url": "https://www.mamac-nice.org/wp-content/uploads/2021/05/site-mamac.jpg",
-      "category": "AUTRE"
-    },
-    {
       "title": "Picnic Music Live avec le duo ALMA Pop & Soul",
       "description": "",
       "place": "Monaco",
@@ -930,21 +945,6 @@
       "source": "MONACO",
       "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/pluie-noire-de-shohei-imamura",
       "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/3/5/4/5/2315453-1-fre-FR/c1a3b760aef4-106482_img_0d9gJ3r.jpg.webp",
-      "category": "AUTRE"
-    },
-    {
-      "title": "LEGEND TOUR BY TRADE REPUBLIC",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1793127600000,
-      "ends_at": 1793134800000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "NIKAIA",
-      "source_url": "https://www.nikaia.fr/programmation/legend-tour",
-      "image_url": "https://www.nikaia.fr/files/2025-12/legendtour-webge-ne-rique-1080x1080.png",
       "category": "AUTRE"
     },
     {
@@ -1128,21 +1128,6 @@
       "category": "THEATRE"
     },
     {
-      "title": "LAURA PAUSINI",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1793386800000,
-      "ends_at": 1793394000000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "NIKAIA",
-      "source_url": "https://www.nikaia.fr/programmation/laura-pausini",
-      "image_url": "https://www.nikaia.fr/files/2025-09/laura-pausini-iocanto-visuelweb-post-1080x1080-nice.jpg",
-      "category": "AUTRE"
-    },
-    {
       "title": "Nice, ma ville, mes jardins",
       "description": "",
       "place": "Exposition",
@@ -1188,21 +1173,6 @@
       "category": "EXPO"
     },
     {
-      "title": "l’EXPO du WEEK-END à Valdeblore",
-      "description": "",
-      "place": "ExpositionArtisanat",
-      "city": "Nice",
-      "starts_at": 1793401200000,
-      "ends_at": 1793408400000,
-      "has_time": false,
-      "price": "—",
-      "price_val": 0,
-      "source": "OT_NICE",
-      "source_url": "https://www.explorenicecotedazur.com/evenement/lexpo-du-week-end-a-valdeblore/",
-      "image_url": "https://cdn.iris-etourism.io/media/nice/7188253/bdc0e7a71bb43c4f-335x335.webp",
-      "category": "EXPO"
-    },
-    {
       "title": "Les Procès des grands personnages",
       "description": "Tous les samedis à 11h, sur le parvis de la salle des Franciscains, participez aux Procès des grands personnages avec la plaidoirie d’un avocat du Barreau et un comédien de la Troupe ou un apprenti comédien de l’ERACM.Qui seront les prochains à rejoindre le banc des accusés ?OCTOBRE• Samedi 3/10 :Le Procès de Picsou- Laurent Prévot - Maître Robert Chemla - Hervé Van der Meulen• Samedi 10/10 :Le Pr",
       "place": "Les FranciscainsLa Cuisine",
@@ -1216,21 +1186,6 @@
       "source_url": "https://www.tnn.fr/fr/evenements/proces-grands-personnages-26-27",
       "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-09-829-proces-grands-personnages-26-27-slider.jpg",
       "category": "THEATRE"
-    },
-    {
-      "title": "PATRICK BRUEL",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1793473200000,
-      "ends_at": 1793480400000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "NIKAIA",
-      "source_url": "https://www.nikaia.fr/programmation/patrick-bruel-5",
-      "image_url": "https://www.nikaia.fr/files/2026-09/vignette-site-annulation.jpg",
-      "category": "AUTRE"
     },
     {
       "title": "La Veuve joyeuse",
@@ -1248,51 +1203,6 @@
       "category": "AUTRE"
     },
     {
-      "title": "BRODINSKI",
-      "description": "Frigo 16",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1794510000000,
-      "ends_at": 1794517200000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "LE109",
-      "source_url": "https://le109.nice.fr/programmation/brodinski",
-      "image_url": "https://wsrv.nl/?url=le109.nice.fr/thumbs/1024x562r/2026-08/capture-d-e-cran-2026-08-17-a-10.42.26.png",
-      "category": "AUTRE"
-    },
-    {
-      "title": "ARTIFICE NUMÉRIQUE",
-      "description": "13 nov.",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1794577140000,
-      "ends_at": 1794584340000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "LE109",
-      "source_url": "https://le109.nice.fr/programmation/artifice-numerique",
-      "image_url": "https://wsrv.nl/?url=le109.nice.fr/thumbs/1024x562r/2026-08/capture-d-e-cran-2026-08-17-a-16.41.20.png",
-      "category": "AUTRE"
-    },
-    {
-      "title": "13 nov.",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1794577320000,
-      "ends_at": 1794584520000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "LE109",
-      "source_url": "https://le109.nice.fr/programmation/ovni-2026",
-      "image_url": "https://wsrv.nl/?url=le109.nice.fr/thumbs/1024x562r/2026-08/capture-d-e-cran-2026-08-17-a-16.43.33.png",
-      "category": "AUTRE"
-    },
-    {
       "title": "Résurrection",
       "description": "DansRésurrection, il est question d’un jeune homme de bonne famille qui mène une vie de plaisirs dans une grande ville et se retrouve juré au procès d’une femme accusée de meurtre. Il reconnaît son amour de jeunesse, autrefois au service de sa famille. Il a abusé d’elle et l’a mise enceinte avant de l’abandonner. Elle est devenue une prostituée. Désireux de racheter sa faute, il tente de l’innocen",
       "place": "Les FranciscainsLa Cuisine",
@@ -1306,36 +1216,6 @@
       "source_url": "https://www.tnn.fr/fr/spectacles/saison-2026-2027/resurrection",
       "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-10-787-resurrection-slider.jpg",
       "category": "THEATRE"
-    },
-    {
-      "title": "VANESSA PARADIS",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1794596400000,
-      "ends_at": 1794603600000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "NIKAIA",
-      "source_url": "https://www.nikaia.fr/programmation/vanessa-paradis",
-      "image_url": "https://www.nikaia.fr/files/2025-10/1080x1080-vp-hd.jpg",
-      "category": "AUTRE"
-    },
-    {
-      "title": "JETLAG GANG",
-      "description": "Frigo 16",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1794609000000,
-      "ends_at": 1794616200000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "LE109",
-      "source_url": "https://le109.nice.fr/programmation/jetlag-gang",
-      "image_url": "https://wsrv.nl/?url=le109.nice.fr/thumbs/1024x562r/2026-08/capture-d-e-cran-2026-08-17-a-09.20.38.png",
-      "category": "AUTRE"
     },
     {
       "title": "Escape Game",
@@ -1383,21 +1263,6 @@
       "category": "THEATRE"
     },
     {
-      "title": "CARAVEL",
-      "description": "Frigo 16",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1794682800000,
-      "ends_at": 1794690000000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "LE109",
-      "source_url": "https://le109.nice.fr/programmation/caravel",
-      "image_url": "https://wsrv.nl/?url=le109.nice.fr/thumbs/1024x562r/2026-08/capture-d-e-cran-2026-08-17-a-09.22.29.png",
-      "category": "AUTRE"
-    },
-    {
       "title": "Viens avec ton doudou",
       "description": "",
       "place": "Nice",
@@ -1426,21 +1291,6 @@
       "source_url": "https://www.tnn.fr/fr/spectacles/saison-2026-2027/le-petit-chaperon-rouge",
       "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-05-788-le-petit-chaperon-rouge-slider.jpg",
       "category": "THEATRE"
-    },
-    {
-      "title": "LEGENDARY ROCK VOICES",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1795028400000,
-      "ends_at": 1795035600000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "NIKAIA",
-      "source_url": "https://www.nikaia.fr/programmation/legendary-rock-voices",
-      "image_url": "https://www.nikaia.fr/files/2026-03/lrv-nice-arwork03-1080x1080.png",
-      "category": "CONCERT"
     },
     {
       "title": "Le Petit Chaperon rouge",
@@ -1518,21 +1368,6 @@
       "category": "THEATRE"
     },
     {
-      "title": "PAUL SEUL",
-      "description": "Frigo 16",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1795201200000,
-      "ends_at": 1795208400000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "LE109",
-      "source_url": "https://le109.nice.fr/programmation/paul-seul",
-      "image_url": "https://wsrv.nl/?url=le109.nice.fr/thumbs/1024x562r/2026-08/capture-d-e-cran-2026-08-17-a-09.24.51.png",
-      "category": "AUTRE"
-    },
-    {
       "title": "Les Procès des grands personnages",
       "description": "Tous les samedis à 11h, sur le parvis de la salle des Franciscains, participez aux Procès des grands personnages avec la plaidoirie d’un avocat du Barreau et un comédien de la Troupe ou un apprenti comédien de l’ERACM.Qui seront les prochains à rejoindre le banc des accusés ?OCTOBRE• Samedi 3/10 :Le Procès de Picsou- Laurent Prévot - Maître Robert Chemla - Hervé Van der Meulen• Samedi 10/10 :Le Pr",
       "place": "Les FranciscainsLa Cuisine",
@@ -1561,36 +1396,6 @@
       "source_url": "https://www.tnn.fr/fr/spectacles/saison-2026-2027/le-petit-chaperon-rouge",
       "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-05-788-le-petit-chaperon-rouge-slider.jpg",
       "category": "THEATRE"
-    },
-    {
-      "title": "MARCUS GAD",
-      "description": "Frigo 16",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1795287600000,
-      "ends_at": 1795294800000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "LE109",
-      "source_url": "https://le109.nice.fr/programmation/marcus-gad",
-      "image_url": "https://wsrv.nl/?url=le109.nice.fr/thumbs/1024x562r/2026-04/capture-d-e-cran-2026-04-27-a-11.17.34.png",
-      "category": "AUTRE"
-    },
-    {
-      "title": "L'HÉRITAGE GOLDMAN",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1795289400000,
-      "ends_at": 1795296600000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "NIKAIA",
-      "source_url": "https://www.nikaia.fr/programmation/l-heritage-goldman-2",
-      "image_url": "https://www.nikaia.fr/files/2026-06/hg-new-1080x1080.jpg",
-      "category": "AUTRE"
     },
     {
       "title": "Stand-Up Opéra",
@@ -1683,21 +1488,6 @@
       "category": "THEATRE"
     },
     {
-      "title": "Lamento Bazooka",
-      "description": "L’Entre-Pont",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1795716000000,
-      "ends_at": 1795723200000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "LE109",
-      "source_url": "https://le109.nice.fr/programmation/lamento-bazooka",
-      "image_url": "https://wsrv.nl/?url=le109.nice.fr/thumbs/1024x562r/2026-07/image7-3.jpg",
-      "category": "AUTRE"
-    },
-    {
       "title": "Orgueilleuse",
       "description": "Un petit hameau de la Nièvre, coupé du reste du monde. Les témoignages de trois femmes, trois voisines, trois amies, qui “n’ont pas grand-chose à raconter”, disent-elles. Et pourtant, elles se livrent, discrètes, modestes. Ces destins qu’on pourrait considérer banals trouveront ici un espace d’émancipation par le jeu. Et si Christiane n’avait pas eu envie de frites ce soir de bal ? Et si Eugénie n",
       "place": "Les FranciscainsLa Cuisine",
@@ -1740,21 +1530,6 @@
       "source": "OPERA_NICE",
       "source_url": "https://www.opera-nice.org/agenda/mari-schumann-gershwin-ravel/",
       "image_url": "https://www.opera-nice.org/wp-content/uploads/2026/05/share-opera-nice-cote-dazur.jpg",
-      "category": "AUTRE"
-    },
-    {
-      "title": "SOLUCOP 2026",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1795734000000,
-      "ends_at": 1795741200000,
-      "has_time": false,
-      "price": "—",
-      "price_val": 0,
-      "source": "NIKAIA",
-      "source_url": "https://www.nikaia.fr/programmation/solucop-2026",
-      "image_url": "https://www.nikaia.fr/files/2026-10/solucop-site.jpg",
       "category": "AUTRE"
     },
     {
@@ -1908,51 +1683,6 @@
       "category": "THEATRE"
     },
     {
-      "title": "Éveil corporel",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1796893200000,
-      "ends_at": 1796900400000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/atelier/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/11/eveil-corporel.jpg",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Visite de l’Hôtel Westminster",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1796893200000,
-      "ends_at": 1796900400000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/11/hotel-westminster.jpg",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Les Archives du lundi - programme B d'octobre",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1796907600000,
-      "ends_at": 1796911200000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/les-archives-du-lundi-programme-b-d-octobre",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/3/4/6/4/2314643-1-fre-FR/a28ebb71c367-106477_img_012fyyj.jpg.webp",
-      "category": "AUTRE"
-    },
-    {
       "title": "L’histoire de Nice, de son comté et des Alpes-Maritimes en 16 dates",
       "description": "",
       "place": "Nice",
@@ -1979,7 +1709,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/atelier/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/02/percussion.jpg",
       "category": "AUTRE"
     },
     {
@@ -2073,21 +1803,6 @@
       "category": "THEATRE"
     },
     {
-      "title": "VERONIQUE SANSON",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1797017400000,
-      "ends_at": 1797024600000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "NIKAIA",
-      "source_url": "https://www.nikaia.fr/programmation/veronique-sanson-2027",
-      "image_url": "https://www.nikaia.fr/files/2026-04/600x600-sanson.jpg",
-      "category": "AUTRE"
-    },
-    {
       "title": "Les Procès des grands personnages",
       "description": "Tous les samedis à 11h, sur le parvis de la salle des Franciscains, participez aux Procès des grands personnages avec la plaidoirie d’un avocat du Barreau et un comédien de la Troupe ou un apprenti comédien de l’ERACM.Qui seront les prochains à rejoindre le banc des accusés ?OCTOBRE• Samedi 3/10 :Le Procès de Picsou- Laurent Prévot - Maître Robert Chemla - Hervé Van der Meulen• Samedi 10/10 :Le Pr",
       "place": "Les FranciscainsLa Cuisine",
@@ -2101,21 +1816,6 @@
       "source_url": "https://www.tnn.fr/fr/evenements/proces-grands-personnages-26-27",
       "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-09-829-proces-grands-personnages-26-27-slider.jpg",
       "category": "THEATRE"
-    },
-    {
-      "title": "Mungo’s HI FI",
-      "description": "Frigo 16",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1797102000000,
-      "ends_at": 1797109200000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "LE109",
-      "source_url": "https://le109.nice.fr/programmation/mungo-s-hi-fi",
-      "image_url": "https://wsrv.nl/?url=le109.nice.fr/thumbs/1024x562r/2026-08/capture-d-e-cran-2026-08-17-a-10.51.53.png",
-      "category": "AUTRE"
     },
     {
       "title": "Le Petit Garçon avec une ombre d'oiseau",
@@ -2221,21 +1921,6 @@
       "source_url": "https://www.tnn.fr/fr/evenements/jeudis-litteraires-26-27",
       "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-09-828-jeudis-litteraires-26-27-slider.jpg",
       "category": "THEATRE"
-    },
-    {
-      "title": "Cap' ou pas cap' ?",
-      "description": "L’Entre-Pont",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1797530400000,
-      "ends_at": 1797537600000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "LE109",
-      "source_url": "https://le109.nice.fr/programmation/cap-ou-pas-cap",
-      "image_url": "https://wsrv.nl/?url=le109.nice.fr/thumbs/1024x562r/2026-06/capquad-04b.jpg",
-      "category": "AUTRE"
     },
     {
       "title": "L'École des femmes",
@@ -3871,21 +3556,6 @@
       "source_url": "https://www.tnn.fr/fr/spectacles/saison-2026-2027/la-tendresse",
       "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-05-814-la-tendresse-slider.jpg",
       "category": "THEATRE"
-    },
-    {
-      "title": "Frigo 16",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1814770500000,
-      "ends_at": 1814777700000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "LE109",
-      "source_url": "https://le109.nice.fr/programmation/ref-festival-2027",
-      "image_url": "https://wsrv.nl/?url=le109.nice.fr/thumbs/1024x562r/2026-08/capture-d-e-cran-2026-08-17-a-10.56.45.png",
-      "category": "AUTRE"
     },
     {
       "title": "Petite Balade aux enfers",
