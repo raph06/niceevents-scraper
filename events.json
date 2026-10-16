@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-15T23:33:00Z",
-  "count": 274,
+  "scraped_at": "2026-10-16T02:29:08Z",
+  "count": 284,
   "events": [
     {
       "title": "Zumba Rose",
@@ -29,7 +29,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/lecture/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/moulin-a-livres.jpg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
@@ -74,7 +74,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/rencontre/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/12/conversation-langue-francaise.jpeg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
@@ -89,7 +89,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/atelier/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/05/ecrivons.jpg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
@@ -104,6 +104,126 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/rencontre/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Jeux Halloween",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1792137600000,
+      "ends_at": 1792144800000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Cours de dessin/aquarelle (en extérieur)",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1792139400000,
+      "ends_at": 1792146600000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/atelier/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Lecture-sandwich",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1792146600000,
+      "ends_at": 1792153800000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/lecture/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Réalité Virtuelle : À Table !",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1792148400000,
+      "ends_at": 1792155600000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/atelier/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Bien-être au naturel",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1792152000000,
+      "ends_at": 1792159200000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/atelier/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Alors, j’écris",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1792152000000,
+      "ends_at": 1792159200000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/atelier/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/01/alors-j-ecris.jpg",
+      "category": "AUTRE"
+    },
+    {
+      "title": "La recyclerie",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1792152000000,
+      "ends_at": 1792159200000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/atelier/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Portes ouvertes Groupe d’Entraide Mutuelle J’aime Nice",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1792152000000,
+      "ends_at": 1792159200000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/reunion-dinformation/",
       "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
@@ -134,7 +254,7 @@
       "price_val": 0,
       "source": "MONACO",
       "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/mariage-a-monaco.-l-evenement-mediatique-de-19562",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/4/1/9/4/2224914-29-fre-FR/88a475a3a406-106230_img_0n9cUGi.jpg.webp",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/4/1/9/4/2224914-31-fre-FR/d54c1aef6f09-106230_img_0n1HR36.jpg.webp",
       "category": "AUTRE"
     },
     {
@@ -168,6 +288,21 @@
       "category": "AUTRE"
     },
     {
+      "title": "Ateliers jeunesse- Histoire contée 3-5 ans",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1792224000000,
+      "ends_at": 1792227600000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/ateliers-jeunesse-histoire-contee-3-5-ans",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/3/2/4/9/2349423-1-fre-FR/ea7eb5fe282a-106549_img_0G6EsKL.jpg.webp",
+      "category": "FAMILLE"
+    },
+    {
       "title": "Exposition Mémoire des lieux - Ateliers jeunesse",
       "description": "",
       "place": "Monaco",
@@ -179,7 +314,7 @@
       "price_val": 0,
       "source": "MONACO",
       "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/exposition-memoire-des-lieux-ateliers-jeunesse",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/5/8/5/6/2306585-1-fre-FR/9d141a71a8ee-106434_img_0MOwSBq.jpg.webp",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/5/8/5/6/2306585-2-fre-FR/8b38abdf5792-106434_img_06aEPVD.jpg.webp",
       "category": "EXPO"
     },
     {
@@ -403,8 +538,8 @@
       "price": "—",
       "price_val": 0,
       "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/exposition-victor-brauner-l-aventure-magique-ateliers-jeune-public2",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/3/3/8/3/2313833-1-fre-FR/3a3215c247da-106435_img_0CHABuj.jpg.webp",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/exposition-victor-brauner-l-aventure-magique-ateliers-jeune-public",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/7/4/7/6/2306747-1-fre-FR/aec2160ce2f1-106435_img_0gtFtM9.jpg.webp",
       "category": "EXPO"
     },
     {
@@ -539,7 +674,7 @@
       "price_val": 0,
       "source": "MONACO",
       "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/disney-en-concert-suivez-vos-reves",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/1/6/5/0/1970561-70-fre-FR/4c039c16a347-105617_img_0sgumMY.jpg.webp",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/1/6/5/0/1970561-72-fre-FR/a7942362e5ed-105617_img_09h7ntv.jpg.webp",
       "category": "CONCERT"
     },
     {
@@ -798,6 +933,21 @@
       "category": "THEATRE"
     },
     {
+      "title": "Ateliers jeunesse - Peinture murale 6-9 ans",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1793192400000,
+      "ends_at": 1793197800000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/ateliers-jeunesse-peinture-murale-6-9-ans",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/5/8/5/9/2349585-1-fre-FR/b41c70bb47d1-106550_img_0ZBBvS0.jpg.webp",
+      "category": "EXPO"
+    },
+    {
       "title": "Ciné-club \"La source des femmes \"",
       "description": "",
       "place": "Monaco",
@@ -843,18 +993,18 @@
       "category": "THEATRE"
     },
     {
-      "title": "Concert Mozart",
+      "title": "Concert extraordinaire à la Cathédrale de Monaco (29 octobre 2026 a 19.00))",
       "description": "",
       "place": "Monaco",
       "city": "Monaco",
       "starts_at": 1793296800000,
-      "ends_at": 1793300400000,
+      "ends_at": 1793302200000,
       "has_time": true,
       "price": "—",
       "price_val": 0,
       "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/concert-mozart",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/6/7/8/5/2345876-1-fre-FR/e638f5617858-106540_img_0Lv2pyl.jpeg.webp",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/concert-extraordinaire-a-la-cathedrale-de-monaco-29-octobre-2026-a-19.00",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/6/7/8/5/2345876-2-fre-FR/5714dc61bc9a-106540_img_0gf6awr.png.webp",
       "category": "CONCERT"
     },
     {
@@ -1053,6 +1203,21 @@
       "category": "EXPO"
     },
     {
+      "title": "Ateliers jeunesse- Histoire contée 3-5 ans",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1793437200000,
+      "ends_at": 1793440800000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/ateliers-jeunesse-histoire-contee-3-5-ans2",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/7/4/7/9/2349747-1-fre-FR/33a20db900ae-106551_img_0RJ7qE7.jpg.webp",
+      "category": "FAMILLE"
+    },
+    {
       "title": "Atelier de pratiques artistiques (à partir de 16 ans)",
       "description": "",
       "place": "Nice",
@@ -1094,7 +1259,7 @@
       "price_val": 0,
       "source": "MONACO",
       "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/halloween-au-parc-princesse-antoinette",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/7/6/9/2/2322967-3-fre-FR/09ef01abe6e0-106527_img_0dyF4rC.jpg.webp",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/7/6/9/2/2322967-4-fre-FR/4de4be79fff8-106527_img_0izGpzK.jpg.webp",
       "category": "AUTRE"
     },
     {
@@ -1111,21 +1276,6 @@
       "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/concert-famille-harry-potter-et-la-sorcellerie-dans-la-musique",
       "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/5/7/5/8/2168575-3-fre-FR/b5bc9dbb107e-106149_img_0Yho0qv.png.webp",
       "category": "CONCERT"
-    },
-    {
-      "title": "Halloween au Jardin Exotique",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1793471400000,
-      "ends_at": 1793478600000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/halloween-au-jardin-exotique",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/2/6/3/6/2346362-1-fre-FR/d4983aa0e532-106543_img_0NQQlFP.jpg.webp",
-      "category": "AUTRE"
     },
     {
       "title": "PATRICK BRUEL",
