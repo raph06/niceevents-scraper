@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-16T02:29:08Z",
-  "count": 284,
+  "scraped_at": "2026-10-16T07:48:51Z",
+  "count": 283,
   "events": [
     {
       "title": "Zumba Rose",
@@ -44,7 +44,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/05/vieux-nice-250x250.jpg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
@@ -59,7 +59,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/10/eglise-saint-roch-rdv-patrimoine.jpg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
@@ -164,7 +164,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/atelier/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/10/virtuel.png",
       "category": "AUTRE"
     },
     {
@@ -498,6 +498,21 @@
       "category": "AUTRE"
     },
     {
+      "title": "BRADERIE DU SACRE-COEUR",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1792648800000,
+      "ends_at": 1792915200000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/braderie-du-sacre-coeur",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/3/6/6/2/2352663-1-fre-FR/ee078ddd6244-106569_img_0McWBDw.jpeg.webp",
+      "category": "AUTRE"
+    },
+    {
       "title": "Invente ton spectacle de lanterne magique",
       "description": "",
       "place": "Monaco",
@@ -538,8 +553,8 @@
       "price": "—",
       "price_val": 0,
       "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/exposition-victor-brauner-l-aventure-magique-ateliers-jeune-public",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/7/4/7/6/2306747-1-fre-FR/aec2160ce2f1-106435_img_0gtFtM9.jpg.webp",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/exposition-victor-brauner-l-aventure-magique-ateliers-jeune-public2",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/3/3/8/3/2313833-1-fre-FR/3a3215c247da-106435_img_0CHABuj.jpg.webp",
       "category": "EXPO"
     },
     {
@@ -616,6 +631,21 @@
       "source_url": "https://www.infolocale.fr/evenements?age%5B0%5D=Tout%20Public&age%5B1%5D=Adulte&age%5B2%5D=Adolescent&age%5B3%5D=Enfant&age%5B4%5D=Bebe&commune=06088",
       "image_url": "https://photos.infolocale.fr/infolocale/annonce/2026/1012/9009289/_1.jpg?rnd=20261012180509",
       "category": "CINEMA"
+    },
+    {
+      "title": "Atelier Halloween",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1792828800000,
+      "ends_at": 1792834200000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/atelier-halloween",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/9/4/1/3/2353149-1-fre-FR/894795dde327-106571_img_0sR3Aii.jpg.webp",
+      "category": "AUTRE"
     },
     {
       "title": "Les Procès des grands personnages",
@@ -1203,21 +1233,6 @@
       "category": "EXPO"
     },
     {
-      "title": "Ateliers jeunesse- Histoire contée 3-5 ans",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1793437200000,
-      "ends_at": 1793440800000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/ateliers-jeunesse-histoire-contee-3-5-ans2",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/7/4/7/9/2349747-1-fre-FR/33a20db900ae-106551_img_0RJ7qE7.jpg.webp",
-      "category": "FAMILLE"
-    },
-    {
       "title": "Atelier de pratiques artistiques (à partir de 16 ans)",
       "description": "",
       "place": "Nice",
@@ -1246,36 +1261,6 @@
       "source_url": "https://www.tnn.fr/fr/evenements/proces-grands-personnages-26-27",
       "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-09-829-proces-grands-personnages-26-27-slider.jpg",
       "category": "THEATRE"
-    },
-    {
-      "title": "Halloween au Parc Princesse Antoinette",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1793451600000,
-      "ends_at": 1793464200000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/halloween-au-parc-princesse-antoinette",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/7/6/9/2/2322967-4-fre-FR/4de4be79fff8-106527_img_0izGpzK.jpg.webp",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Concert Famille - Harry Potter et la sorcellerie dans la musique",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1793455200000,
-      "ends_at": 1793462340000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/concert-famille-harry-potter-et-la-sorcellerie-dans-la-musique",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/5/7/5/8/2168575-3-fre-FR/b5bc9dbb107e-106149_img_0Yho0qv.png.webp",
-      "category": "CONCERT"
     },
     {
       "title": "PATRICK BRUEL",
