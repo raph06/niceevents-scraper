@@ -1,52 +1,7 @@
 {
-  "scraped_at": "2026-10-17T20:06:33Z",
-  "count": 236,
+  "scraped_at": "2026-10-17T23:00:31Z",
+  "count": 233,
   "events": [
-    {
-      "title": "Africa Pop",
-      "description": "",
-      "place": "ExpositionArt moderne / contemporain",
-      "city": "Nice",
-      "starts_at": 1792274400000,
-      "ends_at": 1792281600000,
-      "has_time": false,
-      "price": "—",
-      "price_val": 0,
-      "source": "OT_NICE",
-      "source_url": "https://www.explorenicecotedazur.com/evenement/africa-pop/",
-      "image_url": "https://cdn.iris-etourism.io/media/nice/7796005/fe6268e60e190285-335x335.webp",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Exposition Lilette et Gilbert Valentin « Quand la terre devient lumière »",
-      "description": "",
-      "place": "Exposition",
-      "city": "Nice",
-      "starts_at": 1792274400000,
-      "ends_at": 1792281600000,
-      "has_time": false,
-      "price": "—",
-      "price_val": 0,
-      "source": "OT_NICE",
-      "source_url": "https://www.explorenicecotedazur.com/evenement/exposition-lilette-et-gilbert-valentin-quand-la-terre-devient-lumiere/",
-      "image_url": "https://cdn.iris-etourism.io/media/nice/7819601/424bfb7b9534ea7f-335x335.webp",
-      "category": "EXPO"
-    },
-    {
-      "title": "Semaines de l’Information sur la Santé Mentale 2026",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1792274400000,
-      "ends_at": 1792281600000,
-      "has_time": false,
-      "price": "—",
-      "price_val": 0,
-      "source": "CHAGALL",
-      "source_url": "https://musees-nationaux-alpesmaritimes.fr/chagall/agenda",
-      "image_url": "https://musees-nationaux-alpesmaritimes.fr/chagall/sites/chagall/files/styles/crop_vignette/public/2026-10/SISM2026_Affiche_RVB_72dpi.jpg?itok=aDz7eUec",
-      "category": "AUTRE"
-    },
     {
       "title": "Concert symphonique - L. Foster - D. Ránki - H. Brady - P. Peigner",
       "description": "",
@@ -208,8 +163,8 @@
       "price": "—",
       "price_val": 0,
       "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/exposition-victor-brauner-l-aventure-magique-ateliers-jeune-public",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/7/4/7/6/2306747-1-fre-FR/aec2160ce2f1-106435_img_0gtFtM9.jpg.webp",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/exposition-victor-brauner-l-aventure-magique-ateliers-jeune-public2",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/3/3/8/3/2313833-1-fre-FR/3a3215c247da-106435_img_0CHABuj.jpg.webp",
       "category": "EXPO"
     },
     {
@@ -273,21 +228,6 @@
       "category": "CINEMA"
     },
     {
-      "title": "Animation démonstration & dégustation - Petits farcis",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1792828800000,
-      "ends_at": 1792836000000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/animation-demonstration-degustation-petits-farcis",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/3/5/8/1/2351853-1-fre-FR/46141a85784d-106564_img_0O0jA7x.jpg.webp",
-      "category": "FOOD"
-    },
-    {
       "title": "Atelier Halloween",
       "description": "",
       "place": "Monaco",
@@ -301,6 +241,21 @@
       "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/atelier-halloween",
       "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/9/4/1/3/2353149-1-fre-FR/894795dde327-106571_img_0sR3Aii.jpg.webp",
       "category": "AUTRE"
+    },
+    {
+      "title": "Animation démonstration & dégustation - Petits farcis",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1792828800000,
+      "ends_at": 1792836000000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/animation-demonstration-degustation-petits-farcis",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/3/5/8/1/2351853-1-fre-FR/46141a85784d-106564_img_0O0jA7x.jpg.webp",
+      "category": "FOOD"
     },
     {
       "title": "Les Procès des grands personnages",
