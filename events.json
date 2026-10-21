@@ -1,36 +1,51 @@
 {
-  "scraped_at": "2026-10-21T08:14:19Z",
-  "count": 261,
+  "scraped_at": "2026-10-21T14:23:14Z",
+  "count": 230,
   "events": [
     {
-      "title": "Jardin aquatique",
+      "title": "Pixel art manga",
       "description": "",
       "place": "Nice",
       "city": "Nice",
-      "starts_at": 1792566900000,
-      "ends_at": 1792574100000,
+      "starts_at": 1792589400000,
+      "ends_at": 1792596600000,
       "has_time": true,
       "price": "—",
       "price_val": 0,
       "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/animation/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "source_url": "https://www.nice.fr/agenda/type/atelier/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/09/manga-2026.jpg",
       "category": "AUTRE"
     },
     {
-      "title": "Opération « Fil Rose Aquabike »",
+      "title": "Quiz manga",
       "description": "",
       "place": "Nice",
       "city": "Nice",
-      "starts_at": 1792575000000,
-      "ends_at": 1792582200000,
+      "starts_at": 1792589400000,
+      "ends_at": 1792596600000,
       "has_time": true,
       "price": "—",
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/animation/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/09/manga-2026.jpg",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Visite guidée «Des abysses aux sommets»",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1792591200000,
+      "ends_at": 1792598400000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
       "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
-      "category": "CONCERT"
+      "category": "AUTRE"
     },
     {
       "title": "BRADERIE DU SACRE-COEUR",
@@ -88,8 +103,8 @@
       "price": "—",
       "price_val": 0,
       "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/exposition-victor-brauner-l-aventure-magique-ateliers-jeune-public",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/7/4/7/6/2306747-1-fre-FR/aec2160ce2f1-106435_img_0gtFtM9.jpg.webp",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/exposition-victor-brauner-l-aventure-magique-ateliers-jeune-public2",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/3/3/8/3/2313833-1-fre-FR/3a3215c247da-106435_img_0CHABuj.jpg.webp",
       "category": "EXPO"
     },
     {
@@ -153,33 +168,18 @@
       "category": "THEATRE"
     },
     {
-      "title": "Ciné-Club 2026 de GrecDoc à Nice en partenariat avec la CGDAM",
+      "title": "Atelier Halloween",
       "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1792778400000,
-      "ends_at": 1792785600000,
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1792828800000,
+      "ends_at": 1792834200000,
       "has_time": true,
       "price": "—",
       "price_val": 0,
-      "source": "INFOLOCALE",
-      "source_url": "https://www.infolocale.fr/evenements?age%5B0%5D=Tout%20Public&age%5B1%5D=Adulte&age%5B2%5D=Adolescent&age%5B3%5D=Enfant&age%5B4%5D=Bebe&commune=06088",
-      "image_url": "https://photos.infolocale.fr/infolocale/annonce/2026/1012/9009289/_1.jpg?rnd=20261012180509",
-      "category": "CINEMA"
-    },
-    {
-      "title": "Linda Babi « Texte de Textile, au fil de la tenture murale »",
-      "description": "",
-      "place": "Exposition",
-      "city": "Nice",
-      "starts_at": 1792792800000,
-      "ends_at": 1792800000000,
-      "has_time": false,
-      "price": "—",
-      "price_val": 0,
-      "source": "OT_NICE",
-      "source_url": "https://www.explorenicecotedazur.com/evenement/linda-babi-texte-de-textile-au-fil-de-la-tenture-murale/",
-      "image_url": "https://cdn.iris-etourism.io/media/nice/8008531/522a5c39433ee396-335x335.webp",
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/atelier-halloween",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/9/4/1/3/2353149-2-fre-FR/4165d3db0ab4-106571_img_0uCoR6W.jpg.webp",
       "category": "AUTRE"
     },
     {
@@ -196,21 +196,6 @@
       "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/animation-demonstration-degustation-petits-farcis",
       "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/3/5/8/1/2351853-1-fre-FR/46141a85784d-106564_img_0O0jA7x.jpg.webp",
       "category": "FOOD"
-    },
-    {
-      "title": "Atelier Halloween",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1792828800000,
-      "ends_at": 1792834200000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/atelier-halloween",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/9/4/1/3/2353149-2-fre-FR/4165d3db0ab4-106571_img_0uCoR6W.jpg.webp",
-      "category": "AUTRE"
     },
     {
       "title": "Les Procès des grands personnages",
@@ -301,21 +286,6 @@
       "source_url": "https://www.nikaia.fr/programmation/terravini-1",
       "image_url": "https://www.nikaia.fr/files/2026-04/visuel-terravini-2026-carre.jpg",
       "category": "FOOD"
-    },
-    {
-      "title": "Exposition hors les murs : Marc Chagall. Entre poésie et spiritualité",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1792879200000,
-      "ends_at": 1792886400000,
-      "has_time": false,
-      "price": "—",
-      "price_val": 0,
-      "source": "CHAGALL",
-      "source_url": "https://musees-nationaux-alpesmaritimes.fr/chagall/agenda",
-      "image_url": "https://musees-nationaux-alpesmaritimes.fr/chagall/sites/chagall/files/styles/crop_vignette/public/2026-07/Image1OK.png?itok=89QqBFDV",
-      "category": "EXPO"
     },
     {
       "title": "Ligue 1: AS MONACO - Lille OSC",
@@ -450,21 +420,6 @@
       "source": "MONACO",
       "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/pluie-noire-de-shohei-imamura",
       "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/3/5/4/5/2315453-1-fre-FR/c1a3b760aef4-106482_img_0d9gJ3r.jpg.webp",
-      "category": "AUTRE"
-    },
-    {
-      "title": "L'Apéro de la mort à Nice !",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1793125800000,
-      "ends_at": 1793133000000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "INFOLOCALE",
-      "source_url": "https://www.infolocale.fr/evenements?age%5B0%5D=Tout%20Public&age%5B1%5D=Adulte&age%5B2%5D=Adolescent&age%5B3%5D=Enfant&age%5B4%5D=Bebe&commune=06088",
-      "image_url": "https://photos.infolocale.fr/infolocale/annonce/2026/1015/9012181/_1.jpg?rnd=20261015114520",
       "category": "AUTRE"
     },
     {
@@ -633,36 +588,6 @@
       "category": "AUTRE"
     },
     {
-      "title": "Trésors, charafi et quoi encore ?",
-      "description": "",
-      "place": "ExpositionHistorique",
-      "city": "Nice",
-      "starts_at": 1793314800000,
-      "ends_at": 1793322000000,
-      "has_time": false,
-      "price": "—",
-      "price_val": 0,
-      "source": "OT_NICE",
-      "source_url": "https://www.explorenicecotedazur.com/evenement/tresors-charafi-et-quoi-encore/",
-      "image_url": "https://cdn.iris-etourism.io/media/nice/7796020/394dc44891856d22-335x335.webp",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Atmosphérique, filmer l’architecture",
-      "description": "",
-      "place": "Exposition",
-      "city": "Nice",
-      "starts_at": 1793314800000,
-      "ends_at": 1793322000000,
-      "has_time": false,
-      "price": "—",
-      "price_val": 0,
-      "source": "OT_NICE",
-      "source_url": "https://www.explorenicecotedazur.com/evenement/atmospherique-filmer-larchitecture/",
-      "image_url": "https://cdn.iris-etourism.io/media/nice/7944333/a9cc3e1a627161fa-335x335.webp",
-      "category": "CINEMA"
-    },
-    {
       "title": "Strauss / Brahms",
       "description": "",
       "place": "Nice",
@@ -675,36 +600,6 @@
       "source": "OPERA_NICE",
       "source_url": "https://www.opera-nice.org/agenda/strauss-brahms/",
       "image_url": "https://www.opera-nice.org/wp-content/uploads/2026/05/share-opera-nice-cote-dazur.jpg",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Visites guidées pour adultes et adolescents",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1793314800000,
-      "ends_at": 1793322000000,
-      "has_time": false,
-      "price": "—",
-      "price_val": 0,
-      "source": "CHAGALL",
-      "source_url": "https://musees-nationaux-alpesmaritimes.fr/chagall/agenda",
-      "image_url": "https://musees-nationaux-alpesmaritimes.fr/chagall/sites/chagall/files/styles/thumbnail_w880/public/2024-07/20240518_220349.jpg?itok=JZyTNNJW",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Activités d'octobre et des vacances scolaires",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1793314800000,
-      "ends_at": 1793322000000,
-      "has_time": false,
-      "price": "—",
-      "price_val": 0,
-      "source": "CHAGALL",
-      "source_url": "https://musees-nationaux-alpesmaritimes.fr/chagall/agenda",
-      "image_url": "https://musees-nationaux-alpesmaritimes.fr/chagall/sites/chagall/files/styles/crop_vignette/public/2026-10/Vignette%20atelier%20cr%C3%A9atifs%20octobre%202026.png?itok=ZKUV7rBz",
       "category": "AUTRE"
     },
     {
@@ -751,51 +646,6 @@
       "source_url": "https://www.nikaia.fr/programmation/laura-pausini",
       "image_url": "https://www.nikaia.fr/files/2025-09/laura-pausini-iocanto-visuelweb-post-1080x1080-nice.jpg",
       "category": "AUTRE"
-    },
-    {
-      "title": "Nice, ma ville, mes jardins",
-      "description": "",
-      "place": "Exposition",
-      "city": "Nice",
-      "starts_at": 1793401200000,
-      "ends_at": 1793408400000,
-      "has_time": false,
-      "price": "—",
-      "price_val": 0,
-      "source": "OT_NICE",
-      "source_url": "https://www.explorenicecotedazur.com/evenement/nice-ma-ville-mes-jardins/",
-      "image_url": "https://cdn.iris-etourism.io/media/nice/8013320/b118c842c87c316a-335x335.webp",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Exposition de l’été « L’Absurde et Le Rêve »",
-      "description": "",
-      "place": "ExpositionArt moderne / contemporain",
-      "city": "Nice",
-      "starts_at": 1793401200000,
-      "ends_at": 1793408400000,
-      "has_time": false,
-      "price": "—",
-      "price_val": 0,
-      "source": "OT_NICE",
-      "source_url": "https://www.explorenicecotedazur.com/evenement/exposition-de-lete-labsurde-et-le-reve/",
-      "image_url": "https://cdn.iris-etourism.io/media/nice/7823335/fe33331032c8400a-335x335.webp",
-      "category": "EXPO"
-    },
-    {
-      "title": "Exposition photo « ô lumières »",
-      "description": "",
-      "place": "ExpositionPaysage",
-      "city": "Nice",
-      "starts_at": 1793401200000,
-      "ends_at": 1793408400000,
-      "has_time": false,
-      "price": "—",
-      "price_val": 0,
-      "source": "OT_NICE",
-      "source_url": "https://www.explorenicecotedazur.com/evenement/exposition-photo-o-lumieres/",
-      "image_url": "https://cdn.iris-etourism.io/media/nice/7978956/72a62c8089553d2c-335x335.webp",
-      "category": "EXPO"
     },
     {
       "title": "Ateliers jeunesse- Histoire contée 3-5 ans",
@@ -856,21 +706,6 @@
       "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/halloween-au-parc-princesse-antoinette",
       "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/7/6/9/2/2322967-5-fre-FR/37c00677d11d-106527_img_0H7fyfO.jpg.webp",
       "category": "AUTRE"
-    },
-    {
-      "title": "Parade à  vélo Kidical Mass Véloween",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1793453400000,
-      "ends_at": 1793460600000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "INFOLOCALE",
-      "source_url": "https://www.infolocale.fr/evenements?age%5B0%5D=Tout%20Public&age%5B1%5D=Adulte&age%5B2%5D=Adolescent&age%5B3%5D=Enfant&age%5B4%5D=Bebe&commune=06088",
-      "image_url": "https://photos.infolocale.fr/infolocale/annonce/2026/1020/9016384/_1.png?rnd=20261021092410",
-      "category": "SPORT"
     },
     {
       "title": "Concert Famille - Harry Potter et la sorcellerie dans la musique",
@@ -1083,21 +918,6 @@
       "category": "AUTRE"
     },
     {
-      "title": "Conférence | Pascal Rousseau",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1794870000000,
-      "ends_at": 1794877200000,
-      "has_time": false,
-      "price": "—",
-      "price_val": 0,
-      "source": "CHAGALL",
-      "source_url": "https://musees-nationaux-alpesmaritimes.fr/chagall/agenda",
-      "image_url": "https://musees-nationaux-alpesmaritimes.fr/chagall/sites/chagall/files/styles/crop_vignette/public/2026-10/Vignette%20de%20Pascal%20Rousseau.png?itok=UCkvOR8W",
-      "category": "AUTRE"
-    },
-    {
       "title": "Ateliers de pratiques artistiques (6-11 ans) / LES MERCREDIS",
       "description": "",
       "place": "Nice",
@@ -1200,21 +1020,6 @@
       "source": "OPERA_NICE",
       "source_url": "https://www.opera-nice.org/agenda/vive-loperette/20261120-2000/",
       "image_url": "https://www.opera-nice.org/wp-content/uploads/2026/05/share-opera-nice-cote-dazur.jpg",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Pas croisés - Ballets de Monte-Carlo",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1795129200000,
-      "ends_at": 1795136400000,
-      "has_time": false,
-      "price": "—",
-      "price_val": 0,
-      "source": "CHAGALL",
-      "source_url": "https://musees-nationaux-alpesmaritimes.fr/chagall/agenda",
-      "image_url": "https://musees-nationaux-alpesmaritimes.fr/chagall/sites/chagall/files/styles/thumbnail_w880/public/2025-10/Pas%20crois%C3%A9s%20-%20Ballets%20de%20Monte-Carlo.jpeg?itok=Jxp2CvfD",
       "category": "AUTRE"
     },
     {
@@ -1351,21 +1156,6 @@
       "source_url": "https://www.tnn.fr/fr/spectacles/saison-2026-2027/orgueilleuse",
       "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-09-789-orgueilleuse-slider.jpg",
       "category": "THEATRE"
-    },
-    {
-      "title": "Rencontre insolite entre le clavecin et l'accordéon",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1795647600000,
-      "ends_at": 1795654800000,
-      "has_time": false,
-      "price": "—",
-      "price_val": 0,
-      "source": "CHAGALL",
-      "source_url": "https://musees-nationaux-alpesmaritimes.fr/chagall/agenda",
-      "image_url": "https://musees-nationaux-alpesmaritimes.fr/chagall/sites/chagall/files/styles/thumbnail_w880/public/2026-07/Banni%C3%A8re%20site.png?itok=-ntmOYws",
-      "category": "AUTRE"
     },
     {
       "title": "Orgueilleuse",
@@ -1563,21 +1353,6 @@
       "category": "THEATRE"
     },
     {
-      "title": "Monstre Pente - Exposition personnelle de Camille Llobet",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1795885200000,
-      "ends_at": 1795892400000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "INFOLOCALE",
-      "source_url": "https://www.infolocale.fr/evenements?age%5B0%5D=Tout%20Public&age%5B1%5D=Adulte&age%5B2%5D=Adolescent&age%5B3%5D=Enfant&age%5B4%5D=Bebe&commune=06088",
-      "image_url": "https://photos.infolocale.fr/infolocale/annonce/2026/0902/8969108/_1.jpg?rnd=20260902121747",
-      "category": "EXPO"
-    },
-    {
       "title": "DO YOU LIKE…TEKNO ?",
       "description": "Frigo 16",
       "place": "Nice",
@@ -1590,36 +1365,6 @@
       "source": "LE109",
       "source_url": "https://le109.nice.fr/programmation/do-you-like-tekno",
       "image_url": "https://wsrv.nl/?url=le109.nice.fr/thumbs/1024x562r/2026-10/capture-d-e-cran-2026-10-12-a-10.06.05.png",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Concerts à la Trinquette Jazz Club",
-      "description": "",
-      "place": "ConcertJazz et blues",
-      "city": "Nice",
-      "starts_at": 1795906800000,
-      "ends_at": 1795914000000,
-      "has_time": false,
-      "price": "—",
-      "price_val": 0,
-      "source": "OT_NICE",
-      "source_url": "https://www.explorenicecotedazur.com/evenement/concerts-a-la-trinquette-jazz-club/",
-      "image_url": "https://cdn.iris-etourism.io/media/nice/6802208/c307bfc7391d7061-335x335.webp",
-      "category": "CONCERT"
-    },
-    {
-      "title": "L’Automne de l’Image",
-      "description": "",
-      "place": "Exposition",
-      "city": "Nice",
-      "starts_at": 1795906800000,
-      "ends_at": 1795914000000,
-      "has_time": false,
-      "price": "—",
-      "price_val": 0,
-      "source": "OT_NICE",
-      "source_url": "https://www.explorenicecotedazur.com/evenement/lautomne-de-limage/",
-      "image_url": "https://www.explorenicecotedazur.com/app/uploads/2026/07/affiche-lis-2026-1-335x335.webp",
       "category": "AUTRE"
     },
     {
@@ -1923,21 +1668,6 @@
       "category": "THEATRE"
     },
     {
-      "title": "Expositions de l’AMSL Aquarelle et de l’association « Levens d’un temp è de deman »",
-      "description": "",
-      "place": "ExpositionPeinture",
-      "city": "Nice",
-      "starts_at": 1797548400000,
-      "ends_at": 1797555600000,
-      "has_time": false,
-      "price": "—",
-      "price_val": 0,
-      "source": "OT_NICE",
-      "source_url": "https://www.explorenicecotedazur.com/evenement/expositions-de-lamsl-aquarelle-et-de-lassociation-levens-dun-temp-e-de-deman/",
-      "image_url": "https://cdn.iris-etourism.io/media/nice/7615874/b174ccade54ac692-335x335.webp",
-      "category": "EXPO"
-    },
-    {
       "title": "Le Petit Garçon avec une ombre d'oiseau",
       "description": "C’est l’histoire d’Abezou’ch, un petit garçon qui vit seul avec sa grand-mère Gazella aux confins du désert. Tous les siens sont partis en ville. Accablé par le chagrin, il découvre un beau jour que son ombre a une forme d’oiseau. Affolé d’abord, il s’évertue à la cacher. Mais chaque soir, à l’approche de la nuit, l’ombre de l’oiseau s’épaissit. Une nuit, il se met à voler…Bouleversée par la puiss",
       "place": "Les FranciscainsLa Cuisine",
@@ -2103,21 +1833,6 @@
       "category": "THEATRE"
     },
     {
-      "title": "Léonard de Vinci – A la croisée des arts et des sciences",
-      "description": "",
-      "place": "ExpositionHistorique",
-      "city": "Nice",
-      "starts_at": 1798671600000,
-      "ends_at": 1798678800000,
-      "has_time": false,
-      "price": "—",
-      "price_val": 0,
-      "source": "OT_NICE",
-      "source_url": "https://www.explorenicecotedazur.com/evenement/leonard-de-vinci-a-la-croisee-des-arts-et-des-sciences/",
-      "image_url": "https://cdn.iris-etourism.io/media/nice/7684683/52dfef0138bb948e-335x335.webp",
-      "category": "FOOD"
-    },
-    {
       "title": "L’Incandescente et le Gang des cracheuses de sang",
       "description": "La saison dernière, Louise Chevillotte interprétait Simone de Beauvoir dansThérèse et Isabelle. Nous la retrouvons pour sa première mise en scène. Inspirée par le roman éponyme de Claudie Hunzinger et le film documentaire de son fils Robin, elle fait revivre la correspondance passionnée entre Emma et Marcelle, deux jeunes filles du début du XXesiècle. Au plateau, quatre comédiennes incarnent ces j",
       "place": "Les FranciscainsLa Cuisine",
@@ -2208,21 +1923,6 @@
       "category": "THEATRE"
     },
     {
-      "title": "Bernard Reyboz – Hors norme",
-      "description": "",
-      "place": "Exposition",
-      "city": "Nice",
-      "starts_at": 1800054000000,
-      "ends_at": 1800061200000,
-      "has_time": false,
-      "price": "—",
-      "price_val": 0,
-      "source": "OT_NICE",
-      "source_url": "https://www.explorenicecotedazur.com/evenement/bernard-reyboz-hors-norme/",
-      "image_url": "https://cdn.iris-etourism.io/media/nice/7973713/77154707931f8026-335x335.webp",
-      "category": "AUTRE"
-    },
-    {
       "title": "Les Procès des grands personnages",
       "description": "Tous les samedis à 11h, sur le parvis de la salle des Franciscains, participez aux Procès des grands personnages avec la plaidoirie d’un avocat du Barreau et un comédien de la Troupe ou un apprenti comédien de l’ERACM.Qui seront les prochains à rejoindre le banc des accusés ?OCTOBRE• Samedi 3/10 :Le Procès de Picsou- Laurent Prévot - Maître Robert Chemla - Hervé Van der Meulen• Samedi 10/10 :Le Pr",
       "place": "Les FranciscainsLa Cuisine",
@@ -2251,21 +1951,6 @@
       "source_url": "https://www.tnn.fr/fr/spectacles/saison-2026-2027/les-resistantes",
       "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-05-796-les-resistantes-slider.jpg",
       "category": "THEATRE"
-    },
-    {
-      "title": "Coun – Libera l’Art au Palais Lascaris",
-      "description": "",
-      "place": "Exposition",
-      "city": "Nice",
-      "starts_at": 1800226800000,
-      "ends_at": 1800234000000,
-      "has_time": false,
-      "price": "—",
-      "price_val": 0,
-      "source": "OT_NICE",
-      "source_url": "https://www.explorenicecotedazur.com/evenement/coun-libera-lart-au-palais-lascaris/",
-      "image_url": "https://cdn.iris-etourism.io/media/nice/7855801/11652e69de49ecc6-335x335.webp",
-      "category": "AUTRE"
     },
     {
       "title": "Presque Hamlet",
@@ -2523,21 +2208,6 @@
       "category": "THEATRE"
     },
     {
-      "title": "RAPID EYE MOVEMENTS",
-      "description": "",
-      "place": "ExpositionPeinture",
-      "city": "Nice",
-      "starts_at": 1801263600000,
-      "ends_at": 1801270800000,
-      "has_time": false,
-      "price": "—",
-      "price_val": 0,
-      "source": "OT_NICE",
-      "source_url": "https://www.explorenicecotedazur.com/evenement/rapid-eye-movements/",
-      "image_url": "https://cdn.iris-etourism.io/media/nice/7984478/008741573062b46b-335x335.webp",
-      "category": "AUTRE"
-    },
-    {
       "title": "Les Procès des grands personnages",
       "description": "Tous les samedis à 11h, sur le parvis de la salle des Franciscains, participez aux Procès des grands personnages avec la plaidoirie d’un avocat du Barreau et un comédien de la Troupe ou un apprenti comédien de l’ERACM.Qui seront les prochains à rejoindre le banc des accusés ?OCTOBRE• Samedi 3/10 :Le Procès de Picsou- Laurent Prévot - Maître Robert Chemla - Hervé Van der Meulen• Samedi 10/10 :Le Pr",
       "place": "Les FranciscainsLa Cuisine",
@@ -2551,21 +2221,6 @@
       "source_url": "https://www.tnn.fr/fr/evenements/proces-grands-personnages-26-27",
       "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-09-829-proces-grands-personnages-26-27-slider.jpg",
       "category": "THEATRE"
-    },
-    {
-      "title": "Exposition « Mortimer et le Japon de papier »",
-      "description": "",
-      "place": "ExpositionBande dessinée",
-      "city": "Nice",
-      "starts_at": 1801350000000,
-      "ends_at": 1801357200000,
-      "has_time": false,
-      "price": "—",
-      "price_val": 0,
-      "source": "OT_NICE",
-      "source_url": "https://www.explorenicecotedazur.com/evenement/exposition-mortimer-et-le-japon-de-papier/",
-      "image_url": "https://cdn.iris-etourism.io/media/nice/7819410/5a88d7ea281c7f69-335x335.webp",
-      "category": "EXPO"
     },
     {
       "title": "Roméo et Juliette",
@@ -2913,36 +2568,6 @@
       "category": "THEATRE"
     },
     {
-      "title": "Exposition – Les 80 ans du Château-musée Grimaldi",
-      "description": "",
-      "place": "Exposition",
-      "city": "Nice",
-      "starts_at": 1806530400000,
-      "ends_at": 1806537600000,
-      "has_time": false,
-      "price": "—",
-      "price_val": 0,
-      "source": "OT_NICE",
-      "source_url": "https://www.explorenicecotedazur.com/evenement/exposition-les-80-ans-du-chateau-musee-grimaldi/",
-      "image_url": "https://cdn.iris-etourism.io/media/nice/7823534/10eb689cfbad3cc5-335x335.webp",
-      "category": "EXPO"
-    },
-    {
-      "title": "Sensoria – Experience immersive et sensorielle",
-      "description": "",
-      "place": "Exposition",
-      "city": "Nice",
-      "starts_at": 1806530400000,
-      "ends_at": 1806537600000,
-      "has_time": false,
-      "price": "—",
-      "price_val": 0,
-      "source": "OT_NICE",
-      "source_url": "https://www.explorenicecotedazur.com/evenement/sensoria-experience-immersive-et-sensorielle/",
-      "image_url": "https://cdn.iris-etourism.io/media/nice/7983917/c91eec2c3f8454ed-335x335.webp",
-      "category": "AUTRE"
-    },
-    {
       "title": "Instabile",
       "description": "Joris Frigerio conçoitInstabilecomme une création circassienne en deux temps. Sur un plateau roulant, instable et imprévisible, l’équilibre se négocie à chaque seconde pour les trois interprètes qui s’y confrontent. Le dispositif scénique, aussi exigeant qu’innovant, impose l’urgence : rester en mouvement pour rester en vie. À travers cette vibrante mise sous tension,Instabileexplore notre rapport",
       "place": "Les FranciscainsLa Cuisine",
@@ -3003,21 +2628,6 @@
       "category": "THEATRE"
     },
     {
-      "title": "De la scène à la toile. Artistes et mondaines de la Belle Époque",
-      "description": "",
-      "place": "ExpositionPeinture",
-      "city": "Nice",
-      "starts_at": 1806789600000,
-      "ends_at": 1806796800000,
-      "has_time": false,
-      "price": "—",
-      "price_val": 0,
-      "source": "OT_NICE",
-      "source_url": "https://www.explorenicecotedazur.com/evenement/de-la-scene-a-la-toile-artistes-et-mondaines-de-la-belle-epoque/",
-      "image_url": "https://cdn.iris-etourism.io/media/nice/7836872/a28502e7476e769a-335x335.webp",
-      "category": "AUTRE"
-    },
-    {
       "title": "Les Jeudis littéraires",
       "description": "Tous les jeudis à 19h, au bar-restaurant de la salle des Franciscains, un comédien de la Troupe lit des textes “coup de cœur”. Naviguant du grand répertoire classique à l’écriture contemporaine, de la poésie aux récits mythologiques, les voix de la Troupe vous font (re)découvrir les plus beaux textes. Venez savourer un apéritif et la chaleur de mots choisis.OCTOBREAutour de notre programmation• Je",
       "place": "Les FranciscainsLa Cuisine",
@@ -3046,21 +2656,6 @@
       "source_url": "https://www.tnn.fr/fr/spectacles/saison-2026-2027/l-amante-anglaise",
       "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-05-815-l-amante-anglaise-slider.jpg",
       "category": "THEATRE"
-    },
-    {
-      "title": "L'Atelier du beau - année 2026-2027",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1807826400000,
-      "ends_at": 1807833600000,
-      "has_time": false,
-      "price": "—",
-      "price_val": 0,
-      "source": "CHAGALL",
-      "source_url": "https://musees-nationaux-alpesmaritimes.fr/chagall/agenda",
-      "image_url": "https://musees-nationaux-alpesmaritimes.fr/chagall/sites/chagall/files/styles/thumbnail_w880/public/2026-07/20260120_183854.jpg?itok=8KOfDkcf",
-      "category": "AUTRE"
     },
     {
       "title": "L'Amante anglaise",
@@ -3408,21 +3003,6 @@
       "category": "THEATRE"
     },
     {
-      "title": "Chagall Couture. Un hommage à l'artiste",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1811023200000,
-      "ends_at": 1811030400000,
-      "has_time": false,
-      "price": "—",
-      "price_val": 0,
-      "source": "CHAGALL",
-      "source_url": "https://musees-nationaux-alpesmaritimes.fr/chagall/agenda",
-      "image_url": "https://musees-nationaux-alpesmaritimes.fr/chagall/sites/chagall/files/styles/crop_vignette/public/2026-07/Visuels%20g%C3%A9neriques%20Chagall%20Couture%20volets%201%20et%202_page-0001.jpg?itok=qdTPQFpN",
-      "category": "AUTRE"
-    },
-    {
       "title": "Les Jeudis littéraires",
       "description": "Tous les jeudis à 19h, au bar-restaurant de la salle des Franciscains, un comédien de la Troupe lit des textes “coup de cœur”. Naviguant du grand répertoire classique à l’écriture contemporaine, de la poésie aux récits mythologiques, les voix de la Troupe vous font (re)découvrir les plus beaux textes. Venez savourer un apéritif et la chaleur de mots choisis.OCTOBREAutour de notre programmation• Je",
       "place": "Les FranciscainsLa Cuisine",
@@ -3723,21 +3303,6 @@
       "category": "THEATRE"
     },
     {
-      "title": "La Vague Qui Vient",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1821132000000,
-      "ends_at": 1821139200000,
-      "has_time": false,
-      "price": "—",
-      "price_val": 0,
-      "source": "INFOLOCALE",
-      "source_url": "https://www.infolocale.fr/evenements?age%5B0%5D=Tout%20Public&age%5B1%5D=Adulte&age%5B2%5D=Adolescent&age%5B3%5D=Enfant&age%5B4%5D=Bebe&commune=06088",
-      "image_url": "https://photos.infolocale.fr/infolocale/annonce/2026/0822/8959480/_1.jpg?rnd=20260828102517",
-      "category": "AUTRE"
-    },
-    {
       "title": "Sono io ?",
       "description": "Danny et Pepijn Ronaldo, père et fils circassiens, sont réunis en scène. Avec tendresse et humour,Sono io ?raconte leurs retrouvailles.Au travers de leur amour partagé pour la musique et le cirque, Danny et Pepijn Ronaldo tissent un lien entre leurs ressemblances et leurs différences. Danny, clown de la vieille école, ressasse ses souvenirs et tente de retrouver la gloire passée ; Pepijn, jeune ar",
       "place": "Les FranciscainsLa Cuisine",
@@ -3766,21 +3331,6 @@
       "source_url": "https://www.tnn.fr/fr/evenements/proces-grands-personnages-26-27",
       "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-09-829-proces-grands-personnages-26-27-slider.jpg",
       "category": "THEATRE"
-    },
-    {
-      "title": "Merveilles et curiosités du Palais Lascaris",
-      "description": "",
-      "place": "Exposition",
-      "city": "Nice",
-      "starts_at": 1825023600000,
-      "ends_at": 1825030800000,
-      "has_time": false,
-      "price": "—",
-      "price_val": 0,
-      "source": "OT_NICE",
-      "source_url": "https://www.explorenicecotedazur.com/evenement/merveilles-et-curiosites-du-palais-lascaris/",
-      "image_url": "https://cdn.iris-etourism.io/media/nice/7796044/a7a55d9df0c08b3e-335x335.webp",
-      "category": "AUTRE"
     },
     {
       "title": "Hautes perchées",
@@ -3901,21 +3451,6 @@
       "source_url": "https://www.tnn.fr/fr/spectacles/saison-2026-2027/la-terre",
       "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-05-816-la-terre-slider.jpg",
       "category": "THEATRE"
-    },
-    {
-      "title": "Un été 2024",
-      "description": "",
-      "place": "Exposition",
-      "city": "Nice",
-      "starts_at": 1848520800000,
-      "ends_at": 1848528000000,
-      "has_time": false,
-      "price": "—",
-      "price_val": 0,
-      "source": "OT_NICE",
-      "source_url": "https://www.explorenicecotedazur.com/evenement/un-ete-2024/",
-      "image_url": "https://cdn.iris-etourism.io/media/nice/7948067/2762a13fb9e139d3-335x335.webp",
-      "category": "AUTRE"
     }
   ]
 }
