@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-23T00:01:12Z",
-  "count": 239,
+  "scraped_at": "2026-10-23T02:46:15Z",
+  "count": 248,
   "events": [
     {
       "title": "Initiation aux gestes de premiers secours",
@@ -74,7 +74,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/atelier/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/10/atelier-museum-papillon-250x250.png",
       "category": "AUTRE"
     },
     {
@@ -89,7 +89,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/animation/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/10/don-sang.jpg",
       "category": "AUTRE"
     },
     {
@@ -104,7 +104,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/10/canard-museum-250x250.png",
       "category": "AUTRE"
     },
     {
@@ -119,7 +119,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/animation/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/10/23.10-pollinisateurs.png",
       "category": "AUTRE"
     },
     {
@@ -149,7 +149,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/atelier/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/08/stylo-plume.jpeg",
       "category": "AUTRE"
     },
     {
@@ -179,7 +179,22 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/atelier/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/04/707724-villa-arson-250x250.jpg",
+      "category": "AUTRE"
+    },
+    {
+      "title": "ATELIERS de pratiques artistiques (7-9 ans) / VACANCES SCOLAIRES",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1792758600000,
+      "ends_at": 1792765800000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MATISSE",
+      "source_url": "https://www.musee-matisse-nice.org/fr/evenement/stage-de-pratiques-artistiques-7-9-ans-vacances-scolaires/",
+      "image_url": "https://www.musee-matisse-nice.org/wp-content/uploads/2021/02/Musee-Matisse-Nice-Partage.png",
       "category": "AUTRE"
     },
     {
@@ -209,7 +224,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/spectacle/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/09/spectacle-gourmands-disent.jpg",
       "category": "AUTRE"
     },
     {
@@ -273,6 +288,21 @@
       "category": "AUTRE"
     },
     {
+      "title": "Atelier Halloween",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1792828800000,
+      "ends_at": 1792834200000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/atelier-halloween",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/9/4/1/3/2353149-2-fre-FR/4165d3db0ab4-106571_img_0uCoR6W.jpg.webp",
+      "category": "AUTRE"
+    },
+    {
       "title": "Animation démonstration & dégustation - Petits farcis",
       "description": "",
       "place": "Monaco",
@@ -288,19 +318,19 @@
       "category": "FOOD"
     },
     {
-      "title": "Atelier Halloween",
+      "title": "Visite guidée de l’exposition « Henri Matisse ‒ Alex Katz. Le silence de la peinture »",
       "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1792828800000,
-      "ends_at": 1792834200000,
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1792832400000,
+      "ends_at": 1792839600000,
       "has_time": true,
       "price": "—",
       "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/atelier-halloween",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/9/4/1/3/2353149-2-fre-FR/4165d3db0ab4-106571_img_0uCoR6W.jpg.webp",
-      "category": "AUTRE"
+      "source": "MATISSE",
+      "source_url": "https://www.musee-matisse-nice.org/fr/evenement/visite-commentee-des-collections-et-de-lexposition/",
+      "image_url": "https://www.musee-matisse-nice.org/wp-content/uploads/2021/02/Musee-Matisse-Nice-Partage.png",
+      "category": "EXPO"
     },
     {
       "title": "Spectacle \"Drôles de poésies\" avec Chantal Bertrand, Hélène Gastaud, Patrick Mégevand et la complicité de Jacques Burnouf",
@@ -408,6 +438,36 @@
       "category": "CONCERT"
     },
     {
+      "title": "Atelier de pratiques artistiques (à partir de 4 ans)",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1793005200000,
+      "ends_at": 1793012400000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MATISSE",
+      "source_url": "https://www.musee-matisse-nice.org/fr/evenement/atelier-de-pratiques-artistiques-a-partir-de-4-ans-3/",
+      "image_url": "https://www.musee-matisse-nice.org/wp-content/uploads/2021/02/Musee-Matisse-Nice-Partage.png",
+      "category": "AUTRE"
+    },
+    {
+      "title": "ATELIERS de pratiques artistiques (9-11 ans) / VACANCES SCOLAIRES",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1793021400000,
+      "ends_at": 1793028600000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MATISSE",
+      "source_url": "https://www.musee-matisse-nice.org/fr/evenement/ateliers-de-pratiques-artistiques-9-11-ans-vacances-scolaires/",
+      "image_url": "https://www.musee-matisse-nice.org/wp-content/uploads/2021/02/Musee-Matisse-Nice-Partage.png",
+      "category": "AUTRE"
+    },
+    {
       "title": "Les Archives du lundi - programme B d'octobre",
       "description": "",
       "place": "Monaco",
@@ -436,6 +496,21 @@
       "source_url": "https://www.tnn.fr/fr/evenements/laboratoire-2026-2027",
       "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-09-826-laboratoire-2026-2027-slider.jpg",
       "category": "THEATRE"
+    },
+    {
+      "title": "Ateliers Môm’Art des vacances d’automne",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1793055600000,
+      "ends_at": 1793062800000,
+      "has_time": false,
+      "price": "—",
+      "price_val": 0,
+      "source": "MAMAC",
+      "source_url": "https://www.mamac-nice.org/evenement/ateliers-momart-des-vacances-dautomne/",
+      "image_url": "https://www.mamac-nice.org/wp-content/uploads/2021/05/site-mamac.jpg",
+      "category": "AUTRE"
     },
     {
       "title": "Picnic Music Live avec le duo ALMA Pop & Soul",
@@ -708,6 +783,21 @@
       "category": "AUTRE"
     },
     {
+      "title": "STAGES de pratiques artistiques (6-11 ans) / VACANCES SCOLAIRES",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1793314800000,
+      "ends_at": 1793322000000,
+      "has_time": false,
+      "price": "—",
+      "price_val": 0,
+      "source": "MATISSE",
+      "source_url": "https://www.musee-matisse-nice.org/fr/evenement/stage-de-pratiques-artistiques-6-11-ans-vacances-scolaires-4/",
+      "image_url": "https://www.musee-matisse-nice.org/wp-content/uploads/2021/02/Musee-Matisse-Nice-Partage.png",
+      "category": "AUTRE"
+    },
+    {
       "title": "Nissa Slam",
       "description": "Animées par le comédien et slameurJacky Ido, ces soirées sont organisées une fois par mois au bar-restaurant de notre salle de La Cuisine et sont ouvertes à toutes et à tous. Venez jouer avec la musicalité des mots !1 vers dit = 1 verre offert !**1 verre offert pour toute participation. Soft ou alcool [vin, bière] en fonction de l’âge. L’abus d’alcool est dangereux pour la santé. Il est interdit d",
       "place": "Les FranciscainsLa Cuisine",
@@ -796,6 +886,21 @@
       "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/ateliers-jeunesse-histoire-contee-3-5-ans2",
       "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/7/4/7/9/2349747-1-fre-FR/33a20db900ae-106551_img_0RJ7qE7.jpg.webp",
       "category": "FAMILLE"
+    },
+    {
+      "title": "Atelier de pratiques artistiques (à partir de 16 ans)",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1793439000000,
+      "ends_at": 1793446200000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MATISSE",
+      "source_url": "https://www.musee-matisse-nice.org/fr/evenement/atelier-de-pratiques-artistiques-a-partir-de-16-ans-4/",
+      "image_url": "https://www.musee-matisse-nice.org/wp-content/uploads/2021/02/Musee-Matisse-Nice-Partage.png",
+      "category": "AUTRE"
     },
     {
       "title": "Les Procès des grands personnages",
@@ -975,6 +1080,21 @@
       "source": "CHAGALL",
       "source_url": "https://musees-nationaux-alpesmaritimes.fr/chagall/agenda",
       "image_url": "https://musees-nationaux-alpesmaritimes.fr/chagall/sites/chagall/files/styles/crop_vignette/public/2026-10/Vignette%20de%20Pascal%20Rousseau.png?itok=UCkvOR8W",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Ateliers de pratiques artistiques (6-11 ans) / LES MERCREDIS",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1795005000000,
+      "ends_at": 1795012200000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MATISSE",
+      "source_url": "https://www.musee-matisse-nice.org/fr/evenement/atelier-de-pratiques-artistiques-6-11-ans-2/",
+      "image_url": "https://www.musee-matisse-nice.org/wp-content/uploads/2021/02/Musee-Matisse-Nice-Partage.png",
       "category": "AUTRE"
     },
     {
@@ -1711,6 +1831,21 @@
       "source_url": "https://www.tnn.fr/fr/spectacles/saison-2026-2027/l-ecole-des-femmes",
       "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-05-793-l-ecole-des-femmes-slider.jpg",
       "category": "THEATRE"
+    },
+    {
+      "title": "Atelier de pratiques artistiques ‒ Pour les ados (12-15 ans)",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1797859800000,
+      "ends_at": 1797867000000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MATISSE",
+      "source_url": "https://www.musee-matisse-nice.org/fr/evenement/atelier-de-pratiques-artistiques-%e2%80%92-pour-les-ados-12-15-ans/",
+      "image_url": "https://www.musee-matisse-nice.org/wp-content/uploads/2021/02/Musee-Matisse-Nice-Partage.png",
+      "category": "AUTRE"
     },
     {
       "title": "Le Petit Garçon avec une ombre d'oiseau",
