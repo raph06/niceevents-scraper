@@ -1,82 +1,7 @@
 {
-  "scraped_at": "2026-10-25T13:34:10Z",
-  "count": 260,
+  "scraped_at": "2026-10-25T18:06:24Z",
+  "count": 255,
   "events": [
-    {
-      "title": "Boogie Nights",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1792933200000,
-      "ends_at": 1792940400000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/projection/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/10/boogie-nights-©-dr-warner.jpg",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Ligue 1: AS MONACO - Lille OSC",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1792933200000,
-      "ends_at": 1792940400000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/ligue-1-as-monaco-lille-osc",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/9/8/9/9/2239989-5-fre-FR/e4034a27b41f-106251_img_0PWdW0d.png.webp",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Jean-Christophe Maillot & Ioannis Mandafounis",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1792936800000,
-      "ends_at": 1792944000000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/ballet/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/06/17-25-10-maillot-510x383-1.jpeg",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Marty Supreme",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1792943100000,
-      "ends_at": 1792950300000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/projection/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/10/marty-supreme-©-dr-a24-central-group-central-pictures.jpg",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Concert symphonique - L. Kuokman - R. Goosby",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1792944000000,
-      "ends_at": 1792951200000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/concert-symphonique-l.-kuokman-r.-goosby",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/0/6/6/0/2150660-2-fre-FR/9885f1d8686a-106102_img_0D1cs2R.jpg.webp",
-      "category": "CONCERT"
-    },
     {
       "title": "Musique de chambre 2026-2027",
       "description": "",
@@ -119,7 +44,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/05/vieux-nice-250x250.jpg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
@@ -134,7 +59,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/10/lac-valrose-rdv-patrimoine.jpg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
@@ -164,7 +89,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/concert/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/08/musique-de-chambre-au-foyer-de-l-opera-saison-25-26-1353-250x250.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "CONCERT"
     },
     {
@@ -179,7 +104,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/atelier/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/02/arbre-feuille-matisse.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
@@ -239,7 +164,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/formation/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/12/2026-09-826-laboratoire-2026-2027-liste.jpg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
@@ -269,7 +194,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/04/interieur-diacosmie-250x250.jpg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
@@ -284,7 +209,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/lecture/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/09/grandes-histoires-touts-petits.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
