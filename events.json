@@ -1,52 +1,7 @@
 {
-  "scraped_at": "2026-10-26T15:44:50Z",
-  "count": 256,
+  "scraped_at": "2026-10-26T22:13:16Z",
+  "count": 253,
   "events": [
-    {
-      "title": "Résurrection",
-      "description": "DansRésurrection, il est question d’un écrivain célèbre qui mène une vie de plaisirs dans une grande ville et se retrouve juré au procès d’une femme accusée de meurtre. Il reconnaît son amour de jeunesse, autrefois au service de sa famille. Il a abusé d’elle et l’a mise enceinte avant de l’abandonner. Elle est devenue une prostituée. Désireux de racheter sa faute, il tente de l’innocenter, mais el",
-      "place": "Les FranciscainsLa Cuisine",
-      "city": "Nice",
-      "starts_at": 1793027340000,
-      "ends_at": 1793034540000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "TNN",
-      "source_url": "https://www.tnn.fr/fr/spectacles/saison-2026-2027/resurrection",
-      "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-10-787-resurrection-slider.jpg",
-      "category": "THEATRE"
-    },
-    {
-      "title": "Le Lab'Oratoire",
-      "description": "Chaque dernier lundi du mois à 19h, d’octobre à avril, Muriel Mayette-Holtz et les comédiens de la Troupe proposent des cours d’oralité et permettent à chacun de s’entraîner à la prise de parole en public.Le Lab'Oratoireest l’occasion, pour les acteurs de la troupe et moi, de transmettre quelques clés d’un métier aussi mystérieux qu’essentiel : celui de l’acteur, et plus intimement encore, celui d",
-      "place": "Les FranciscainsLa Cuisine",
-      "city": "Nice",
-      "starts_at": 1793037600000,
-      "ends_at": 1793044800000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "TNN",
-      "source_url": "https://www.tnn.fr/fr/evenements/laboratoire-2026-2027",
-      "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-09-826-laboratoire-2026-2027-slider.jpg",
-      "category": "THEATRE"
-    },
-    {
-      "title": "Le Lab’Oratoire",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1793037600000,
-      "ends_at": 1793044800000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/formation/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/12/2026-09-826-laboratoire-2026-2027-liste.jpg",
-      "category": "AUTRE"
-    },
     {
       "title": "Ateliers Môm’Art des vacances d’automne",
       "description": "",
@@ -164,7 +119,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/lecture/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/01/club-lecture.jpeg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
@@ -179,7 +134,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/animation/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/09/manga-2026.jpg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
@@ -209,7 +164,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/atelier/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/09/manga-2026.jpg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
@@ -466,6 +421,21 @@
       "source_url": "https://www.explorenicecotedazur.com/evenement/atmospherique-filmer-larchitecture/",
       "image_url": "https://cdn.iris-etourism.io/media/nice/7944333/a9cc3e1a627161fa-335x335.webp",
       "category": "CINEMA"
+    },
+    {
+      "title": "Exposition du peintre russe Oleg Sheludyakov – L’Atelier sur mer",
+      "description": "",
+      "place": "ExpositionPeinture",
+      "city": "Nice",
+      "starts_at": 1793314800000,
+      "ends_at": 1793322000000,
+      "has_time": false,
+      "price": "—",
+      "price_val": 0,
+      "source": "OT_NICE",
+      "source_url": "https://www.explorenicecotedazur.com/evenement/exposition-du-peintre-russe-oleg-sheludyakov-latelier-sur-mer/",
+      "image_url": "https://cdn.iris-etourism.io/media/nice/8015279/5d6132a8e1028d58-335x335.webp",
+      "category": "EXPO"
     },
     {
       "title": "Strauss / Brahms",
@@ -1936,21 +1906,6 @@
       "source_url": "https://www.tnn.fr/fr/spectacles/saison-2026-2027/le-petit-garcon-avec-une-ombre-doiseau",
       "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-05-792-le-petit-garcon-avec-une-ombre-doiseau-slider.jpg",
       "category": "THEATRE"
-    },
-    {
-      "title": "Cours d’Arts Plastiques à Valdeblore",
-      "description": "",
-      "place": "Arts plastiques / graphiques",
-      "city": "Nice",
-      "starts_at": 1797980400000,
-      "ends_at": 1797987600000,
-      "has_time": false,
-      "price": "—",
-      "price_val": 0,
-      "source": "OT_NICE",
-      "source_url": "https://www.explorenicecotedazur.com/evenement/cours-darts-plastiques-a-valdeblore/",
-      "image_url": "https://cdn.iris-etourism.io/media/nice/6600969/57f8609631f45571-335x335.webp",
-      "category": "AUTRE"
     },
     {
       "title": "Le Petit Garçon avec une ombre d'oiseau",
