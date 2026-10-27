@@ -1,22 +1,7 @@
 {
-  "scraped_at": "2026-10-26T22:13:16Z",
-  "count": 253,
+  "scraped_at": "2026-10-27T03:12:19Z",
+  "count": 257,
   "events": [
-    {
-      "title": "Ateliers Môm’Art des vacances d’automne",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1793055600000,
-      "ends_at": 1793062800000,
-      "has_time": false,
-      "price": "—",
-      "price_val": 0,
-      "source": "MAMAC",
-      "source_url": "https://www.mamac-nice.org/evenement/ateliers-momart-des-vacances-dautomne/",
-      "image_url": "https://www.mamac-nice.org/wp-content/uploads/2021/05/site-mamac.jpg",
-      "category": "AUTRE"
-    },
     {
       "title": "Visite guidée de la Diacosmie",
       "description": "",
@@ -44,7 +29,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/lecture/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/09/grandes-histoires-touts-petits.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
@@ -74,7 +59,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/animation/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/02/jeux-en-famille.jpeg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
@@ -89,7 +74,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/05/riviera-visite.jpg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
@@ -104,7 +89,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/lecture/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/06/ecumeurs-de-livres.jpeg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
@@ -134,7 +119,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/animation/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/09/manga-2026.jpg",
       "category": "AUTRE"
     },
     {
@@ -164,7 +149,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/atelier/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/09/manga-2026.jpg",
       "category": "AUTRE"
     },
     {
@@ -179,7 +164,82 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/atelier/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/10/virtuel.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Potager en famille",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1793106000000,
+      "ends_at": 1793113200000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/atelier/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/03/potager-en-famille-25-11.png",
+      "category": "FAMILLE"
+    },
+    {
+      "title": "Quiz manga",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1793106000000,
+      "ends_at": 1793113200000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/animation/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/09/manga-2026.jpg",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Construction de cabanes/gîtes à hérisson",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1793106000000,
+      "ends_at": 1793113200000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/atelier/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Atelier de jeux et création numérique",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1793106000000,
+      "ends_at": 1793113200000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/atelier/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/10/atelier-crea-jeu-num.jpeg",
+      "category": "AUTRE"
+    },
+    {
+      "title": "M",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1793106900000,
+      "ends_at": 1793114100000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/projection/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/10/m-©-dr-studiocanal.jpg",
       "category": "AUTRE"
     },
     {
