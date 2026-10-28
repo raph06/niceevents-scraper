@@ -1,22 +1,7 @@
 {
-  "scraped_at": "2026-10-27T21:43:52Z",
-  "count": 239,
+  "scraped_at": "2026-10-28T03:18:15Z",
+  "count": 238,
   "events": [
-    {
-      "title": "Journées en famille",
-      "description": "Cette saison, le TNN ouvre les portes de la salle des Franciscains aux familles. Deux journées immersives et thématiques avec au programme : visite de l’envers du décor, jeux de piste et atelier de pratique théâtrale ! Parents et enfants, partez à la découverte des coulisses et de leurs secrets, de la fabrique d’un spectacle, des métiers méconnus du théâtre, ainsi que des nombreuses superstitions ",
-      "place": "Les FranciscainsLa Cuisine",
-      "city": "Nice",
-      "starts_at": 1793142000000,
-      "ends_at": 1793149200000,
-      "has_time": false,
-      "price": "—",
-      "price_val": 0,
-      "source": "TNN",
-      "source_url": "https://www.tnn.fr/fr/evenements/journee-en-famille-26-27",
-      "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-10-832-journee-en-famille-26-27-slider.jpg",
-      "category": "THEATRE"
-    },
     {
       "title": "Jardin aquatique",
       "description": "",
