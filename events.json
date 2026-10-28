@@ -1,52 +1,7 @@
 {
-  "scraped_at": "2026-10-28T11:58:11Z",
-  "count": 237,
+  "scraped_at": "2026-10-28T17:46:51Z",
+  "count": 234,
   "events": [
-    {
-      "title": "La Castagnada – Rives du Paillon",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1793188800000,
-      "ends_at": 1793196000000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/animation/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Voir et créer avec Alex Katz",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1793190600000,
-      "ends_at": 1793197800000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/atelier/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Ateliers jeunesse - Peinture murale 6-9 ans",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1793192400000,
-      "ends_at": 1793197800000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/ateliers-jeunesse-peinture-murale-6-9-ans",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/5/8/5/9/2349585-1-fre-FR/b41c70bb47d1-106550_img_0ZBBvS0.jpg.webp",
-      "category": "EXPO"
-    },
     {
       "title": "Ciné-club \"La source des femmes \"",
       "description": "",
@@ -1154,7 +1109,7 @@
       "price_val": 0,
       "source": "NIKAIA",
       "source_url": "https://www.nikaia.fr/programmation/eric-serra-live",
-      "image_url": "https://www.nikaia.fr/files/2025-11/eric-serra-live-2026-web-meta-1080x1080-nice.jpg",
+      "image_url": "https://www.nikaia.fr/files/2026-10/serra-annule.jpg",
       "category": "AUTRE"
     },
     {
@@ -3149,7 +3104,7 @@
       "price_val": 0,
       "source": "TNN",
       "source_url": "https://www.tnn.fr/fr/spectacles/saison-2026-2027/petite-balade-aux-enfers",
-      "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-05-794-petite-balade-aux-enfers-slider.jpg",
+      "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-10-794-petite-balade-aux-enfers-slider.jpg",
       "category": "THEATRE"
     },
     {
@@ -3209,7 +3164,7 @@
       "price_val": 0,
       "source": "TNN",
       "source_url": "https://www.tnn.fr/fr/spectacles/saison-2026-2027/petite-balade-aux-enfers",
-      "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-05-794-petite-balade-aux-enfers-slider.jpg",
+      "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-10-794-petite-balade-aux-enfers-slider.jpg",
       "category": "THEATRE"
     },
     {
@@ -3224,7 +3179,7 @@
       "price_val": 0,
       "source": "TNN",
       "source_url": "https://www.tnn.fr/fr/spectacles/saison-2026-2027/petite-balade-aux-enfers",
-      "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-05-794-petite-balade-aux-enfers-slider.jpg",
+      "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-10-794-petite-balade-aux-enfers-slider.jpg",
       "category": "THEATRE"
     },
     {
@@ -3299,7 +3254,7 @@
       "price_val": 0,
       "source": "TNN",
       "source_url": "https://www.tnn.fr/fr/spectacles/saison-2026-2027/petite-balade-aux-enfers",
-      "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-05-794-petite-balade-aux-enfers-slider.jpg",
+      "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-10-794-petite-balade-aux-enfers-slider.jpg",
       "category": "THEATRE"
     },
     {
