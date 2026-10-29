@@ -1,82 +1,7 @@
 {
-  "scraped_at": "2026-10-29T03:43:47Z",
-  "count": 247,
+  "scraped_at": "2026-10-29T12:05:25Z",
+  "count": 245,
   "events": [
-    {
-      "title": "Découverte du musée Matisse",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1793264400000,
-      "ends_at": 1793271600000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/atelier/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
-      "category": "EXPO"
-    },
-    {
-      "title": "Atelier créatif",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1793264400000,
-      "ends_at": 1793271600000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/atelier/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Halloween et sa traditionnelle citrouille avec la Bib’Mobile !",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1793264400000,
-      "ends_at": 1793271600000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/atelier/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Les Hauts de Carabacel",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1793264400000,
-      "ends_at": 1793271600000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Quand Nice invente la Riviera",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1793264400000,
-      "ends_at": 1793271600000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
-      "category": "AUTRE"
-    },
     {
       "title": "Le fantôme de l’opéra",
       "description": "",
@@ -104,7 +29,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/atelier/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/10/virtuel.png",
       "category": "AUTRE"
     },
     {
@@ -119,7 +44,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/atelier/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/03/potager-en-famille-25-11.png",
       "category": "FAMILLE"
     },
     {
@@ -134,7 +59,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/atelier/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/10/scrapbook-27-11.png",
       "category": "AUTRE"
     },
     {
@@ -213,6 +138,36 @@
       "category": "AUTRE"
     },
     {
+      "title": "Ciné jeunesse spécial Halloween",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1793282400000,
+      "ends_at": 1793289600000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/projection/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "category": "CINEMA"
+    },
+    {
+      "title": "Organiser une manifestation",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1793293200000,
+      "ends_at": 1793300400000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/formation/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "category": "AUTRE"
+    },
+    {
       "title": "Les Jeudis littéraires",
       "description": "Tous les jeudis à 19h, au bar-restaurant de la salle des Franciscains, un comédien de la Troupe lit des textes “coup de cœur”. Naviguant du grand répertoire classique à l’écriture contemporaine, de la poésie aux récits mythologiques, les voix de la Troupe vous font (re)découvrir les plus beaux textes. Venez savourer un apéritif et la chaleur de mots choisis.OCTOBREAutour de notre programmation• Je",
       "place": "Les FranciscainsLa Cuisine",
@@ -255,6 +210,21 @@
       "source": "MONACO",
       "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/romeo-et-juliette",
       "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/9/0/9/6/2306909-1-fre-FR/713f013ed206-106436_img_0ImqlbX.jpg.webp",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Mémoires d’un escargot",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1793300400000,
+      "ends_at": 1793307600000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/projection/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/10/memoires-dun-escargot-©-dr-arenamedia-screen-australia-snails-pace-films.jpg",
       "category": "AUTRE"
     },
     {
@@ -421,21 +391,6 @@
       "source_url": "https://www.tnn.fr/fr/evenements/nissa-slam-26-27",
       "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-09-827-nissa-slam-26-27-slider.jpg",
       "category": "THEATRE"
-    },
-    {
-      "title": "Roméo et Juliette",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1793385000000,
-      "ends_at": 1793394000000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/romeo-et-juliette2",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/1/7/0/7/2307071-1-fre-FR/6954961f4d7a-106437_img_0KLr5jS.jpg.webp",
-      "category": "AUTRE"
     },
     {
       "title": "LAURA PAUSINI",
@@ -618,6 +573,21 @@
       "category": "AUTRE"
     },
     {
+      "title": "Roméo et Juliette",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1793471400000,
+      "ends_at": 1793480400000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/romeo-et-juliette4",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/3/3/2/7/2307233-2-fre-FR/a11155456bd9-106438_img_03V2rVo.jpg.webp",
+      "category": "AUTRE"
+    },
+    {
       "title": "PATRICK BRUEL",
       "description": "",
       "place": "Nice",
@@ -690,21 +660,6 @@
       "source": "NIKAIA",
       "source_url": "https://www.nikaia.fr/programmation/vanessa-paradis",
       "image_url": "https://www.nikaia.fr/files/2025-10/1080x1080-vp-hd.jpg",
-      "category": "AUTRE"
-    },
-    {
-      "title": "YONA",
-      "description": "Frigo 16",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1794596400000,
-      "ends_at": 1794603600000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "LE109",
-      "source_url": "https://le109.nice.fr/programmation/yona",
-      "image_url": "https://wsrv.nl/?url=le109.nice.fr/thumbs/1024x562r/2026-10/capture-d-e-cran-2026-10-12-a-10.02.40.png",
       "category": "AUTRE"
     },
     {
@@ -1141,6 +1096,21 @@
       "source_url": "https://www.tnn.fr/fr/spectacles/saison-2026-2027/orgueilleuse",
       "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-09-789-orgueilleuse-slider.jpg",
       "category": "THEATRE"
+    },
+    {
+      "title": "JERRYCANS",
+      "description": "Frigo 16",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1795719600000,
+      "ends_at": 1795726800000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "LE109",
+      "source_url": "https://le109.nice.fr/programmation/jerrycans",
+      "image_url": "https://wsrv.nl/?url=le109.nice.fr/files/default-image.png",
+      "category": "AUTRE"
     },
     {
       "title": "My Fierce Ignorant Step",
