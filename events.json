@@ -1,142 +1,7 @@
 {
-  "scraped_at": "2026-10-31T03:31:06Z",
-  "count": 234,
+  "scraped_at": "2026-10-31T11:33:12Z",
+  "count": 228,
   "events": [
-    {
-      "title": "Upcycling métal repoussé",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1793433600000,
-      "ends_at": 1793440800000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/atelier/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/08/31-10-upcycling-metal.png",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Lectures pour petites oreilles",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1793437200000,
-      "ends_at": 1793444400000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/lecture/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/06/lecture-enfants.jpeg",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Ateliers jeunesse- Histoire contée 3-5 ans",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1793437200000,
-      "ends_at": 1793440800000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/ateliers-jeunesse-histoire-contee-3-5-ans2",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/7/4/7/9/2349747-1-fre-FR/33a20db900ae-106551_img_0RJ7qE7.jpg.webp",
-      "category": "FAMILLE"
-    },
-    {
-      "title": "Initiation aux techniques de l’estampe",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1793439000000,
-      "ends_at": 1793446200000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/atelier/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/05/atelier-matisse-encre.png",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Atelier de pratiques artistiques (à partir de 16 ans)",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1793439000000,
-      "ends_at": 1793446200000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MATISSE",
-      "source_url": "https://www.musee-matisse-nice.org/fr/evenement/atelier-de-pratiques-artistiques-a-partir-de-16-ans-4/",
-      "image_url": "https://www.musee-matisse-nice.org/wp-content/uploads/2021/02/Musee-Matisse-Nice-Partage.png",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Les Procès des grands personnages",
-      "description": "Tous les samedis à 11h, sur le parvis de la salle des Franciscains, participez aux Procès des grands personnages avec la plaidoirie d’un avocat du Barreau et un comédien de la Troupe ou un apprenti comédien de l’ERACM.Qui seront les prochains à rejoindre le banc des accusés ?OCTOBRE• Samedi 3/10 :Le Procès de Picsou- Laurent Prévot - Maître Robert Chemla - Hervé Van der Meulen• Samedi 10/10 :Le Pr",
-      "place": "Les FranciscainsLa Cuisine",
-      "city": "Nice",
-      "starts_at": 1793440800000,
-      "ends_at": 1793448000000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "TNN",
-      "source_url": "https://www.tnn.fr/fr/evenements/proces-grands-personnages-26-27",
-      "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-09-829-proces-grands-personnages-26-27-slider.jpg",
-      "category": "THEATRE"
-    },
-    {
-      "title": "Visite guidée de l’exposition – Henri Matisse ‒ Alex Katz. Le silence de la peinture",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1793440800000,
-      "ends_at": 1793448000000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/10/matisse-katz.png",
-      "category": "EXPO"
-    },
-    {
-      "title": "Visite de l’exposition temporaire : « De la scène à la toile. Artistes et mondaines de la Belle Époque »",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1793440800000,
-      "ends_at": 1793448000000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/06/mba-expo-2026.jpg",
-      "category": "EXPO"
-    },
-    {
-      "title": "Visite guidée de l’exposition « Henri Matisse ‒ Alex Katz. Le silence de la peinture »",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1793440800000,
-      "ends_at": 1793448000000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MATISSE",
-      "source_url": "https://www.musee-matisse-nice.org/fr/evenement/visite-commentee-des-collections-et-de-lexposition/",
-      "image_url": "https://www.musee-matisse-nice.org/wp-content/uploads/2021/02/Musee-Matisse-Nice-Partage.png",
-      "category": "EXPO"
-    },
     {
       "title": "La Castagnada – Nice Ouest",
       "description": "",
@@ -149,7 +14,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/animation/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/10/castagnada-illu-evenement-250x250.png",
       "category": "AUTRE"
     },
     {
@@ -164,7 +29,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/animation/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/06/halloween-jean-bouin-rs-10-26-1200-x-675-nice.fr--250x250.jpg",
       "category": "AUTRE"
     },
     {
@@ -239,7 +104,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/projection/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/09/cine-moulins.jpg",
       "category": "CINEMA"
     },
     {
@@ -269,7 +134,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/spectacle/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/08/gouter-sur-scene.png",
       "category": "AUTRE"
     },
     {
@@ -359,7 +224,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/concert/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/07/psykup.jpg",
       "category": "AUTRE"
     },
     {
@@ -390,6 +255,21 @@
       "source": "MONACO",
       "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/animation-jeux5",
       "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/9/7/2/3/2363279-1-fre-FR/e49d83bd7e34-106606_img_0fXLoOt.jpg.webp",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Café Littéraire - Venez échanger sur vos coups de cœur",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1794416400000,
+      "ends_at": 1794421800000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/cafe-litteraire-venez-echanger-sur-vos-coups-de-caeur2",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/2/3/2/2/2282232-1-fre-FR/70c267aaaaea-106408_img_0cPcl8E.png.webp",
       "category": "AUTRE"
     },
     {
@@ -481,6 +361,21 @@
       "source_url": "https://www.tnn.fr/fr/evenements/proces-grands-personnages-26-27",
       "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-09-829-proces-grands-personnages-26-27-slider.jpg",
       "category": "THEATRE"
+    },
+    {
+      "title": "Visite guidée de l’exposition « Henri Matisse ‒ Alex Katz. Le silence de la peinture »",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1794650400000,
+      "ends_at": 1794657600000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MATISSE",
+      "source_url": "https://www.musee-matisse-nice.org/fr/evenement/visite-commentee-des-collections-et-de-lexposition/",
+      "image_url": "https://www.musee-matisse-nice.org/wp-content/uploads/2021/02/Musee-Matisse-Nice-Partage.png",
+      "category": "EXPO"
     },
     {
       "title": "Résurrection",
@@ -690,6 +585,21 @@
       "source": "LE109",
       "source_url": "https://le109.nice.fr/programmation/paul-seul",
       "image_url": "https://wsrv.nl/?url=le109.nice.fr/thumbs/1024x562r/2026-08/capture-d-e-cran-2026-08-17-a-09.24.51.png",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Atelier de pratiques artistiques (à partir de 16 ans)",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1795253400000,
+      "ends_at": 1795260600000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MATISSE",
+      "source_url": "https://www.musee-matisse-nice.org/fr/evenement/atelier-de-pratiques-artistiques-a-partir-de-16-ans-6/",
+      "image_url": "https://www.musee-matisse-nice.org/wp-content/uploads/2021/02/Musee-Matisse-Nice-Partage.png",
       "category": "AUTRE"
     },
     {
