@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-31T23:58:06Z",
-  "count": 217,
+  "scraped_at": "2026-11-01T03:32:20Z",
+  "count": 218,
   "events": [
     {
       "title": "La Veuve joyeuse",
@@ -888,51 +888,6 @@
       "category": "THEATRE"
     },
     {
-      "title": "Conversation intime avec Jean-François Sivadier",
-      "description": "Jean-François Sivadierest un comédien, auteur et metteur en scène incontournable du paysage théâtral et lyrique français. Formé au Théâtre National de Strasbourg, il s'impose par des mises en scène pointues des grands textes du répertoire, et remporte le Molière du metteur en scène en 2005. Artiste complet, il déploie également son talent à l'opéra et à la télévision. Il viendra partager avecCathe",
-      "place": "Les FranciscainsLa Cuisine",
-      "city": "Nice",
-      "starts_at": 1796857200000,
-      "ends_at": 1796864400000,
-      "has_time": false,
-      "price": "—",
-      "price_val": 0,
-      "source": "TNN",
-      "source_url": "https://www.tnn.fr/fr/evenements/conversation-intime-1-2627",
-      "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-09-825-conversation-intime-1-2627-slider.jpg",
-      "category": "THEATRE"
-    },
-    {
-      "title": "Conversation intime avec Jean-François Sivadier",
-      "description": "Jean-François Sivadierest un comédien, auteur et metteur en scène incontournable du paysage théâtral et lyrique français. Formé au Théâtre National de Strasbourg, il s'impose par des mises en scène pointues des grands textes du répertoire, et remporte le Molière du metteur en scène en 2005. Artiste complet, il déploie également son talent à l'opéra et à la télévision. Il viendra partager avecCathe",
-      "place": "Les FranciscainsLa Cuisine",
-      "city": "Nice",
-      "starts_at": 1796927400000,
-      "ends_at": 1796934600000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "TNN",
-      "source_url": "https://www.tnn.fr/fr/evenements/conversation-intime-1-2627",
-      "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-09-825-conversation-intime-1-2627-slider.jpg",
-      "category": "THEATRE"
-    },
-    {
-      "title": "Ivanov",
-      "description": "Ivanovnous confronte au destin contrarié d’un homme : Ivanov, un propriétaire terrien ruiné, dont l’épouse est gravement malade. Enlisé dans une existence étouffée par les ragots, l’hypocrisie et les préjugés, Ivanov tombe amoureux de Sacha, la fille de son ami et voisin Lebedev. Tiraillé entre la mort imminente de son épouse et l’exaltation d’un amour naissant, son incapacité à agir et son désenc",
-      "place": "Les FranciscainsLa Cuisine",
-      "city": "Nice",
-      "starts_at": 1796941560000,
-      "ends_at": 1796948760000,
-      "has_time": true,
-      "price": "€15–16",
-      "price_val": 15,
-      "source": "TNN",
-      "source_url": "https://www.tnn.fr/fr/spectacles/saison-2026-2027/ivanov",
-      "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-05-786-ivanov-slider.jpg",
-      "category": "THEATRE"
-    },
-    {
       "title": "Résurrection",
       "description": "DansRésurrection, il est question d’un écrivain célèbre qui mène une vie de plaisirs dans une grande ville et se retrouve juré au procès d’une femme accusée de meurtre. Il reconnaît son amour de jeunesse, autrefois au service de sa famille. Il a abusé d’elle et l’a mise enceinte avant de l’abandonner. Elle est devenue une prostituée. Désireux de racheter sa faute, il tente de l’innocenter, mais el",
       "place": "Les FranciscainsLa Cuisine",
@@ -1561,6 +1516,21 @@
       "source_url": "https://www.explorenicecotedazur.com/evenement/coun-libera-lart-au-palais-lascaris/",
       "image_url": "https://cdn.iris-etourism.io/media/nice/7855801/11652e69de49ecc6-335x335.webp",
       "category": "AUTRE"
+    },
+    {
+      "title": "Expositon « Chagall Couture. Un hommage à l’artiste »",
+      "description": "",
+      "place": "ExpositionArt moderne / contemporain",
+      "city": "Nice",
+      "starts_at": 1800226800000,
+      "ends_at": 1800234000000,
+      "has_time": false,
+      "price": "—",
+      "price_val": 0,
+      "source": "OT_NICE",
+      "source_url": "https://www.explorenicecotedazur.com/evenement/expositon-chagall-couture-un-hommage-a-lartiste/",
+      "image_url": "https://cdn.iris-etourism.io/media/nice/7996958/bd8ac40277a1c59c-335x335.webp",
+      "category": "EXPO"
     },
     {
       "title": "Presque Hamlet",
@@ -2806,6 +2776,51 @@
       "source_url": "https://www.tnn.fr/fr/spectacles/saison-2026-2027/scaramuccia",
       "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-09-801-scaramuccia-slider.jpg",
       "category": "THEATRE"
+    },
+    {
+      "title": "Café parents – Maison des Familles",
+      "description": "",
+      "place": "Saint-Laurent-du-Var",
+      "city": "Nice",
+      "starts_at": 1814306400000,
+      "ends_at": 1814313600000,
+      "has_time": false,
+      "price": "—",
+      "price_val": 0,
+      "source": "OT_NICE",
+      "source_url": "https://www.explorenicecotedazur.com/evenement/cafe-parents-maison-des-familles/",
+      "image_url": "https://cdn.iris-etourism.io/media/nice/8021979/9b83cc6875e0df34-335x335.webp",
+      "category": "FAMILLE"
+    },
+    {
+      "title": "Pilates Prénatal",
+      "description": "",
+      "place": "Saint-Laurent-du-Var",
+      "city": "Nice",
+      "starts_at": 1814306400000,
+      "ends_at": 1814313600000,
+      "has_time": false,
+      "price": "—",
+      "price_val": 0,
+      "source": "OT_NICE",
+      "source_url": "https://www.explorenicecotedazur.com/evenement/pilates-prenatal/",
+      "image_url": "https://cdn.iris-etourism.io/media/nice/8021944/f299eff5d85e9107-335x335.webp",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Ateliers Baby Yoga et Baby motricité",
+      "description": "",
+      "place": "Saint-Laurent-du-Var",
+      "city": "Nice",
+      "starts_at": 1814306400000,
+      "ends_at": 1814313600000,
+      "has_time": false,
+      "price": "—",
+      "price_val": 0,
+      "source": "OT_NICE",
+      "source_url": "https://www.explorenicecotedazur.com/evenement/ateliers-baby-yoga-et-baby-motricite/",
+      "image_url": "https://cdn.iris-etourism.io/media/nice/8022090/ae7cad39348ba185-335x335.webp",
+      "category": "SPORT"
     },
     {
       "title": "Les Jeudis littéraires",
