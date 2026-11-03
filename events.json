@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-11-03T04:48:11Z",
-  "count": 222,
+  "scraped_at": "2026-11-03T13:24:49Z",
+  "count": 223,
   "events": [
     {
       "title": "La Veuve joyeuse",
@@ -15,6 +15,21 @@
       "source": "OPERA_NICE",
       "source_url": "https://www.opera-nice.org/agenda/la-veuve-joyeuse/",
       "image_url": "https://www.opera-nice.org/wp-content/uploads/2026/05/share-opera-nice-cote-dazur.jpg",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Don de plantes",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1794394800000,
+      "ends_at": 1794402000000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/don-de-plantes3",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/7/2/9/3/2363927-1-fre-FR/3dc901a95c78-106610_img_0GIZALC.jpg.webp",
       "category": "AUTRE"
     },
     {
