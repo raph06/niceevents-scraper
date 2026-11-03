@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-11-02T21:13:53Z",
+  "scraped_at": "2026-11-03T04:48:11Z",
   "count": 222,
   "events": [
     {
@@ -2808,6 +2808,21 @@
       "category": "THEATRE"
     },
     {
+      "title": "Cours d’Arts Plastiques à Valdeblore",
+      "description": "",
+      "place": "Arts plastiques / graphiques",
+      "city": "Nice",
+      "starts_at": 1814306400000,
+      "ends_at": 1814313600000,
+      "has_time": false,
+      "price": "—",
+      "price_val": 0,
+      "source": "OT_NICE",
+      "source_url": "https://www.explorenicecotedazur.com/evenement/cours-darts-plastiques-a-valdeblore/",
+      "image_url": "https://cdn.iris-etourism.io/media/nice/6600969/b280a48ef43e94fd-335x335.webp",
+      "category": "AUTRE"
+    },
+    {
       "title": "Café parents – Maison des Familles",
       "description": "",
       "place": "Saint-Laurent-du-Var",
@@ -3016,21 +3031,6 @@
       "source_url": "https://www.tnn.fr/fr/evenements/proces-grands-personnages-26-27",
       "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-09-829-proces-grands-personnages-26-27-slider.jpg",
       "category": "THEATRE"
-    },
-    {
-      "title": "Cours de Yoga accessible à tous à Valdeblore",
-      "description": "",
-      "place": "Animation sportiveYoga",
-      "city": "Nice",
-      "starts_at": 1819663200000,
-      "ends_at": 1819670400000,
-      "has_time": false,
-      "price": "—",
-      "price_val": 0,
-      "source": "OT_NICE",
-      "source_url": "https://www.explorenicecotedazur.com/evenement/cours-de-yoga-accessible-a-tous-a-valdeblore/",
-      "image_url": "https://cdn.iris-etourism.io/media/nice/7002119/4de0a60f1cbf377f-335x335.webp",
-      "category": "SPORT"
     },
     {
       "title": "Les Procès des grands personnages",
