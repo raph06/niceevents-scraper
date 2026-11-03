@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-11-03T13:24:49Z",
-  "count": 223,
+  "scraped_at": "2026-11-03T20:48:43Z",
+  "count": 227,
   "events": [
     {
       "title": "La Veuve joyeuse",
@@ -273,6 +273,21 @@
       "category": "CONCERT"
     },
     {
+      "title": "Les Archives du lundi - programme B de novembre",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1794837600000,
+      "ends_at": 1796049900000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/les-archives-du-lundi-programme-b-de-novembre",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/3/9/7/2/2362793-1-fre-FR/34a228d79596-106603_img_0c5IXx0.jpg.webp",
+      "category": "AUTRE"
+    },
+    {
       "title": "Conférence | Pascal Rousseau",
       "description": "",
       "place": "Nice",
@@ -285,6 +300,36 @@
       "source": "CHAGALL",
       "source_url": "https://musees-nationaux-alpesmaritimes.fr/chagall/agenda",
       "image_url": "https://musees-nationaux-alpesmaritimes.fr/chagall/sites/chagall/files/styles/crop_vignette/public/2026-10/Vignette%20de%20Pascal%20Rousseau.png?itok=UCkvOR8W",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Sieste Musicale - Instant détente pendant la pause déjeuner",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1794914100000,
+      "ends_at": 1794919500000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/sieste-musicale-instant-detente-pendant-la-pause-dejeuner6",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/6/5/5/7/2287556-2-fre-FR/96dbbb0976c8-106410_img_0xsMktY.png.webp",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Pause écriture autour d’un roman, animée par Christiane Campredon",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1794922200000,
+      "ends_at": 1794929400000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/pause-ecriture-autour-d-un-roman-animee-par-christiane-campredon",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/4/9/3/2/2282394-1-fre-FR/d503ab10b106-106409_img_0iQrz96.png.webp",
       "category": "AUTRE"
     },
     {
@@ -436,6 +481,21 @@
       "source_url": "https://le109.nice.fr/programmation/paul-seul",
       "image_url": "https://wsrv.nl/?url=le109.nice.fr/thumbs/1024x562r/2026-08/capture-d-e-cran-2026-08-17-a-09.24.51.png",
       "category": "AUTRE"
+    },
+    {
+      "title": "Vide-greniers à Lou Pantaï",
+      "description": "",
+      "place": "La Trinité",
+      "city": "Nice",
+      "starts_at": 1795215600000,
+      "ends_at": 1795222800000,
+      "has_time": false,
+      "price": "—",
+      "price_val": 0,
+      "source": "INFOLOCALE",
+      "source_url": "https://www.infolocale.fr/evenements?age%5B0%5D=Tout%20Public&age%5B1%5D=Adulte&age%5B2%5D=Adolescent&age%5B3%5D=Enfant&age%5B4%5D=Bebe&commune=06088",
+      "image_url": "https://photos.infolocale.fr/infolocale/annonce/2026/1102/9028113/_1.jpg?rnd=20261103145106",
+      "category": "MARCHE"
     },
     {
       "title": "Atelier de pratiques artistiques (à partir de 16 ans)",
@@ -768,7 +828,7 @@
       "category": "THEATRE"
     },
     {
-      "title": "ATELIER / SEMAINE DE L’ENFANCE",
+      "title": "ATELIER / SEMAINE DES DROITS DE L’ENFANT",
       "description": "",
       "place": "Nice",
       "city": "Nice",
@@ -780,7 +840,7 @@
       "source": "MATISSE",
       "source_url": "https://www.musee-matisse-nice.org/fr/evenement/atelier-semaine-de-lenfance/",
       "image_url": "https://www.musee-matisse-nice.org/wp-content/uploads/2021/02/Musee-Matisse-Nice-Partage.png",
-      "category": "AUTRE"
+      "category": "FAMILLE"
     },
     {
       "title": "Orgueilleuse",
