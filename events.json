@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-11-03T20:48:43Z",
-  "count": 227,
+  "scraped_at": "2026-11-04T01:04:48Z",
+  "count": 228,
   "events": [
     {
       "title": "La Veuve joyeuse",
@@ -330,6 +330,21 @@
       "source": "MONACO",
       "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/pause-ecriture-autour-d-un-roman-animee-par-christiane-campredon",
       "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/4/9/3/2/2282394-1-fre-FR/d503ab10b106-106409_img_0iQrz96.png.webp",
+      "category": "AUTRE"
+    },
+    {
+      "title": "\"Jour de fête\" de Jacques Tati",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1794938400000,
+      "ends_at": 1794947400000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/jour-de-fete-de-jacques-tati",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/7/7/7/5/2315777-1-fre-FR/03c3c49da6d8-106484_img_0WOJFLf.jpg.webp",
       "category": "AUTRE"
     },
     {
