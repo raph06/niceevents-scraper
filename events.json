@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-11-04T19:14:03Z",
-  "count": 229,
+  "scraped_at": "2026-11-05T01:16:32Z",
+  "count": 230,
   "events": [
     {
       "title": "La Veuve joyeuse",
@@ -406,6 +406,21 @@
       "source_url": "https://www.nikaia.fr/programmation/legendary-rock-voices",
       "image_url": "https://www.nikaia.fr/files/2026-03/lrv-nice-arwork03-1080x1080.png",
       "category": "CONCERT"
+    },
+    {
+      "title": "Feu d'artifice de Fête Nationale 2026",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1795029000000,
+      "ends_at": 1795030800000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/feu-d-artifice-de-fete-nationale-2026",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/6/7/3/8/2358376-1-fre-FR/442be8f13995-106592_img_0kM03Cv.jpg.webp",
+      "category": "AUTRE"
     },
     {
       "title": "Le Petit Chaperon rouge",
