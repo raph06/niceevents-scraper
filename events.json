@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-11-05T19:33:07Z",
-  "count": 230,
+  "scraped_at": "2026-11-06T01:31:57Z",
+  "count": 234,
   "events": [
     {
       "title": "La Veuve joyeuse",
@@ -423,6 +423,21 @@
       "category": "AUTRE"
     },
     {
+      "title": "PIAF - Le Spectacle",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1795032000000,
+      "ends_at": 1795039200000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/piaf-le-spectacle",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/9/3/3/2/2352339-1-fre-FR/fd39ffe0890f-106567_img_09simGo.jpg.webp",
+      "category": "THEATRE"
+    },
+    {
       "title": "Le Petit Chaperon rouge",
       "description": "Il était une fois une petite fille qui s’ennuyait, seule dans sa maison. Sa mère, débordée et toujours pressée, lui interdisait de sortir. L’enfant rêvait de découvrir le monde au-delà de la forêt. Un jour, elle obtient enfin la permission d’aller rendre visite à sa grand-mère, de l’autre côté des bois. Sur le chemin, elle traverse un monde où la curiosité se mêle à la peur, où l’inconnu attire au",
       "place": "Les FranciscainsLa Cuisine",
@@ -436,6 +451,21 @@
       "source_url": "https://www.tnn.fr/fr/spectacles/saison-2026-2027/le-petit-chaperon-rouge",
       "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-05-788-le-petit-chaperon-rouge-slider.jpg",
       "category": "THEATRE"
+    },
+    {
+      "title": "Fête nationale au Marché de la Condamine",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1795078800000,
+      "ends_at": 1795120200000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/fete-nationale-au-marche-de-la-condamine",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/5/6/7/3/2363765-1-fre-FR/8ea6ac5c81ea-106609_img_0iKeAPM.jpg.webp",
+      "category": "MARCHE"
     },
     {
       "title": "Le Petit Chaperon rouge",
@@ -453,6 +483,21 @@
       "category": "THEATRE"
     },
     {
+      "title": "Anne Roumanoff – « L’âge libre »",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1795107600000,
+      "ends_at": 1795114800000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/anne-roumanoff-l-age-libre",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/1/0/5/2/2352501-1-fre-FR/5eae0bb72ca6-106568_img_0mjD6MW.jpg.webp",
+      "category": "AUTRE"
+    },
+    {
       "title": "Les Jeudis littéraires",
       "description": "Tous les jeudis à 19h, au bar-restaurant de la salle des Franciscains, un comédien de la Troupe lit des textes “coup de cœur”. Naviguant du grand répertoire classique à l’écriture contemporaine, de la poésie aux récits mythologiques, les voix de la Troupe vous font (re)découvrir les plus beaux textes. Venez savourer un apéritif et la chaleur de mots choisis.OCTOBREAutour de notre programmation• Je",
       "place": "Les FranciscainsLa Cuisine",
@@ -466,6 +511,21 @@
       "source_url": "https://www.tnn.fr/fr/evenements/jeudis-litteraires-26-27",
       "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-09-828-jeudis-litteraires-26-27-slider.jpg",
       "category": "THEATRE"
+    },
+    {
+      "title": "SI UNE HISTOIRE FRAPPE À TA PORTE",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1795114800000,
+      "ends_at": 1795368600000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/si-une-histoire-frappe-a-ta-porte",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/5/2/8/2/2352825-1-fre-FR/51c2f54659c1-106570_img_0PPN7SD.png.webp",
+      "category": "AUTRE"
     },
     {
       "title": "Vive l’opérette",
