@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-11-06T18:48:21Z",
-  "count": 234,
+  "scraped_at": "2026-11-07T00:42:28Z",
+  "count": 237,
   "events": [
     {
       "title": "La Veuve joyeuse",
@@ -558,6 +558,21 @@
       "category": "AUTRE"
     },
     {
+      "title": "Carmen - Opéra mis en espace",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1795199400000,
+      "ends_at": 1795213800000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/carmen-opera-mis-en-espace",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/4/8/8/8/2098884-73-fre-FR/c8510cda4c26-106031_img_0uae211.jpg.webp",
+      "category": "CONCERT"
+    },
+    {
       "title": "Le Petit Chaperon rouge",
       "description": "Il était une fois une petite fille qui s’ennuyait, seule dans sa maison. Sa mère, débordée et toujours pressée, lui interdisait de sortir. L’enfant rêvait de découvrir le monde au-delà de la forêt. Un jour, elle obtient enfin la permission d’aller rendre visite à sa grand-mère, de l’autre côté des bois. Sur le chemin, elle traverse un monde où la curiosité se mêle à la peur, où l’inconnu attire au",
       "place": "Les FranciscainsLa Cuisine",
@@ -601,6 +616,21 @@
       "source_url": "https://www.infolocale.fr/evenements?age%5B0%5D=Tout%20Public&age%5B1%5D=Adulte&age%5B2%5D=Adolescent&age%5B3%5D=Enfant&age%5B4%5D=Bebe&commune=06088",
       "image_url": "https://photos.infolocale.fr/infolocale/annonce/2026/1102/9028113/_1.jpg?rnd=20261103145106",
       "category": "MARCHE"
+    },
+    {
+      "title": "Ateliers jeunesse- Histoire contée 3-5 ans",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1795251600000,
+      "ends_at": 1795255200000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/ateliers-jeunesse-histoire-contee-3-5-ans4",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/5/9/3/0/2350395-1-fre-FR/b622809befea-106555_img_0cO6JtY.jpg.webp",
+      "category": "FAMILLE"
     },
     {
       "title": "Atelier de pratiques artistiques (à partir de 16 ans)",
@@ -2043,6 +2073,21 @@
       "category": "EXPO"
     },
     {
+      "title": "Sabine WEISS – Une vie de photographe",
+      "description": "",
+      "place": "ExpositionPhotographie",
+      "city": "Nice",
+      "starts_at": 1801350000000,
+      "ends_at": 1801357200000,
+      "has_time": false,
+      "price": "—",
+      "price_val": 0,
+      "source": "OT_NICE",
+      "source_url": "https://www.explorenicecotedazur.com/evenement/sabine-weiss-une-vie-de-photographe/",
+      "image_url": "https://cdn.iris-etourism.io/media/nice/8036916/6447c3df29458405-335x335.webp",
+      "category": "EXPO"
+    },
+    {
       "title": "Les Procès des grands personnages",
       "description": "Tous les samedis à 11h, sur le parvis de la salle des Franciscains, participez aux Procès des grands personnages avec la plaidoirie d’un avocat du Barreau et un comédien de la Troupe ou un apprenti comédien de l’ERACM.Qui seront les prochains à rejoindre le banc des accusés ?OCTOBRE• Samedi 3/10 :Le Procès de Picsou- Laurent Prévot - Maître Robert Chemla - Hervé Van der Meulen• Samedi 10/10 :Le Pr",
       "place": "Les FranciscainsLa Cuisine",
@@ -3213,6 +3258,21 @@
       "category": "THEATRE"
     },
     {
+      "title": "Cours de Yoga accessible à tous à Valdeblore",
+      "description": "",
+      "place": "Animation sportiveYoga",
+      "city": "Nice",
+      "starts_at": 1819663200000,
+      "ends_at": 1819670400000,
+      "has_time": false,
+      "price": "—",
+      "price_val": 0,
+      "source": "OT_NICE",
+      "source_url": "https://www.explorenicecotedazur.com/evenement/cours-de-yoga-accessible-a-tous-a-valdeblore/",
+      "image_url": "https://cdn.iris-etourism.io/media/nice/7002119/4de0a60f1cbf377f-335x335.webp",
+      "category": "SPORT"
+    },
+    {
       "title": "Les Procès des grands personnages",
       "description": "Tous les samedis à 11h, sur le parvis de la salle des Franciscains, participez aux Procès des grands personnages avec la plaidoirie d’un avocat du Barreau et un comédien de la Troupe ou un apprenti comédien de l’ERACM.Qui seront les prochains à rejoindre le banc des accusés ?OCTOBRE• Samedi 3/10 :Le Procès de Picsou- Laurent Prévot - Maître Robert Chemla - Hervé Van der Meulen• Samedi 10/10 :Le Pr",
       "place": "Les FranciscainsLa Cuisine",
@@ -3300,21 +3360,6 @@
       "source": "OT_NICE",
       "source_url": "https://www.explorenicecotedazur.com/evenement/de-la-scene-a-la-toile-artistes-et-mondaines-de-la-belle-epoque/",
       "image_url": "https://cdn.iris-etourism.io/media/nice/7836872/a28502e7476e769a-335x335.webp",
-      "category": "AUTRE"
-    },
-    {
-      "title": "La Vague Qui Vient",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1821132000000,
-      "ends_at": 1821139200000,
-      "has_time": false,
-      "price": "—",
-      "price_val": 0,
-      "source": "INFOLOCALE",
-      "source_url": "https://www.infolocale.fr/evenements?age%5B0%5D=Tout%20Public&age%5B1%5D=Adulte&age%5B2%5D=Adolescent&age%5B3%5D=Enfant&age%5B4%5D=Bebe&commune=06088",
-      "image_url": "https://photos.infolocale.fr/infolocale/annonce/2026/0822/8959480/_1.jpg?rnd=20260828102517",
       "category": "AUTRE"
     },
     {
