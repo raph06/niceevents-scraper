@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-11-07T21:20:43Z",
-  "count": 244,
+  "scraped_at": "2026-11-08T03:38:14Z",
+  "count": 246,
   "events": [
     {
       "title": "La Veuve joyeuse",
@@ -44,7 +44,7 @@
       "price_val": 0,
       "source": "MONACO",
       "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/animation-jeux5",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/9/7/2/3/2363279-2-fre-FR/eed88feebc81-106606_img_0m0PH2f.jpg.webp",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/9/7/2/3/2363279-3-fre-FR/39ccf21fbc86-106606_img_0OefmUV.jpg.webp",
       "category": "AUTRE"
     },
     {
@@ -91,6 +91,21 @@
       "source_url": "https://le109.nice.fr/programmation/brodinski",
       "image_url": "https://wsrv.nl/?url=le109.nice.fr/thumbs/1024x562r/2026-08/capture-d-e-cran-2026-08-17-a-10.42.26.png",
       "category": "AUTRE"
+    },
+    {
+      "title": "Projection - Philipppe Favier, Aux Déchirants Départs des Archipels Superbes, 1983",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1794560400000,
+      "ends_at": 1794762000000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/projection-philipppe-favier-aux-dechirants-departs-des-archipels-superbes-1983",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/9/8/2/7/2367289-1-fre-FR/8b4cbaafbd80-106642_img_0M5eWtw.jpg.webp",
+      "category": "CINEMA"
     },
     {
       "title": "Résurrection",
@@ -569,7 +584,7 @@
       "price_val": 0,
       "source": "MONACO",
       "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/carmen-opera-mis-en-espace",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/4/8/8/8/2098884-73-fre-FR/c8510cda4c26-106031_img_0uae211.jpg.webp",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/4/8/8/8/2098884-75-fre-FR/4a3e64cca459-106031_img_0TvPws5.jpg.webp",
       "category": "CONCERT"
     },
     {
@@ -749,7 +764,7 @@
       "price_val": 0,
       "source": "MONACO",
       "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/cape-town-heritage-horizons-concert",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/8/0/2/9/2099208-73-fre-FR/6a8fd42315c2-106032_img_0usjiAO.jpg.webp",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/8/0/2/9/2099208-75-fre-FR/23e31097d1ff-106032_img_0B4x84Z.jpg.webp",
       "category": "CONCERT"
     },
     {
@@ -1381,6 +1396,21 @@
       "source_url": "https://www.tnn.fr/fr/spectacles/saison-2026-2027/l-ecole-des-femmes",
       "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-05-793-l-ecole-des-femmes-slider.jpg",
       "category": "THEATRE"
+    },
+    {
+      "title": "La Belle au bois dormant",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1797375600000,
+      "ends_at": 1797382800000,
+      "has_time": false,
+      "price": "—",
+      "price_val": 0,
+      "source": "OPERA_NICE",
+      "source_url": "https://www.opera-nice.org/agenda/la-belle-au-bois-dormant-2026-2027/",
+      "image_url": "https://www.opera-nice.org/wp-content/uploads/2026/05/share-opera-nice-cote-dazur.jpg",
+      "category": "AUTRE"
     },
     {
       "title": "Le Petit Garçon avec une ombre d'oiseau",
