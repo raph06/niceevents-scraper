@@ -1,7 +1,22 @@
 {
-  "scraped_at": "2026-11-09T10:46:03Z",
-  "count": 249,
+  "scraped_at": "2026-11-09T21:53:56Z",
+  "count": 253,
   "events": [
+    {
+      "title": "108e anniversaire de l'Armistice du 11 novembre 1918",
+      "description": "",
+      "place": "Cannes",
+      "city": "Cannes",
+      "starts_at": 1794351600000,
+      "ends_at": 1794358800000,
+      "has_time": false,
+      "price": "—",
+      "price_val": 0,
+      "source": "CANNES",
+      "source_url": "https://www.cannes.com/fr/agenda/annee-2026/novembre/l-armistice-du-11-novembre-1918.html",
+      "image_url": "https://www.cannes.com/_object/ametys-internal%253Asites/www/ametys-internal%253Acontents/e-journee-nationale-en-hommage-aux-harkis-evenement-4-3-2-2-2-2/_attribute/illustration/image/hotel-de-ville-vignette.jpg?objectId=defaultWebContent://cd9e2f9b-202f-4f24-a9aa-44fdfbf11a29",
+      "category": "AUTRE"
+    },
     {
       "title": "La Veuve joyeuse",
       "description": "",
@@ -558,7 +573,7 @@
       "category": "AUTRE"
     },
     {
-      "title": "Pas croisés - Ballets de Monte-Carlo",
+      "title": "Pas croisés - Ballets de Monte-Carlo | 20 novembre 2026",
       "description": "",
       "place": "Nice",
       "city": "Nice",
@@ -569,7 +584,7 @@
       "price_val": 0,
       "source": "CHAGALL",
       "source_url": "https://musees-nationaux-alpesmaritimes.fr/chagall/agenda",
-      "image_url": "https://musees-nationaux-alpesmaritimes.fr/chagall/sites/chagall/files/styles/thumbnail_w880/public/2025-10/Pas%20crois%C3%A9s%20-%20Ballets%20de%20Monte-Carlo.jpeg?itok=Jxp2CvfD",
+      "image_url": "https://musees-nationaux-alpesmaritimes.fr/chagall/sites/chagall/files/styles/thumbnail_w880/public/2026-11/ChatGPT%20Image%203%20juin%202026%2C%2011_30_55.png?itok=AToqRYSX",
       "category": "AUTRE"
     },
     {
@@ -873,6 +888,21 @@
       "category": "CINEMA"
     },
     {
+      "title": "Récital piano - Lucas Debargue",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1795631400000,
+      "ends_at": 1795637700000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/recital-piano-lucas-debargue",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/6/4/1/1/2151146-2-fre-FR/5097f54105db-106106_img_0fJEf7G.jpg.webp",
+      "category": "CONCERT"
+    },
+    {
       "title": "Orgueilleuse",
       "description": "Un petit hameau de la Nièvre, coupé du reste du monde. Les témoignages de trois femmes, trois voisines, trois amies, qui “n’ont pas grand-chose à raconter”, disent-elles. Et pourtant, elles se livrent, discrètes, modestes. Ève Pereur saisit, dans ce récit, la beauté fragile des hasards de la vie.Dans cette histoire, les hommes sont morts. Tous à 47 ans. De maladie ou d'alcoolisme.Dans cette histoi",
       "place": "Les FranciscainsLa Cuisine",
@@ -916,6 +946,21 @@
       "source_url": "https://www.tnn.fr/fr/spectacles/saison-2026-2027/orgueilleuse",
       "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-09-789-orgueilleuse-slider.jpg",
       "category": "THEATRE"
+    },
+    {
+      "title": "Les Cent Ans du Renaudot, autour d’Armand Lunel, Premier Prix 1926 - Une conférence de Manuel Carcassonne - Editeur",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1795714200000,
+      "ends_at": 1795719600000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/les-cent-ans-du-renaudot-autour-d-armand-lunel-premier-prix-1926-une-conference-de-manuel-carcassonne-editeur",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/1/5/4/7/2367451-1-fre-FR/2d108eb16513-106643_img_055uCx4.png.webp",
+      "category": "AUTRE"
     },
     {
       "title": "Les Jeudis littéraires",
@@ -975,6 +1020,21 @@
       "source": "LE109",
       "source_url": "https://le109.nice.fr/programmation/jerrycans",
       "image_url": "https://wsrv.nl/?url=le109.nice.fr/thumbs/1024x562r/2026-11/capture-d-e-cran-2026-10-29-a-09.34.33.png",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Gagnant-Gagnant",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1795719600000,
+      "ends_at": 1795973400000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/gagnant-gagnant",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/9/1/3/7/2357319-1-fre-FR/14712490d634-106577_img_0uFPohX.png.webp",
       "category": "AUTRE"
     },
     {
@@ -1938,6 +1998,21 @@
       "category": "EXPO"
     },
     {
+      "title": "Alex Katz – Le silence de la peinture",
+      "description": "",
+      "place": "ExpositionPeinture",
+      "city": "Nice",
+      "starts_at": 1800226800000,
+      "ends_at": 1800234000000,
+      "has_time": false,
+      "price": "—",
+      "price_val": 0,
+      "source": "OT_NICE",
+      "source_url": "https://www.explorenicecotedazur.com/evenement/alex-katz-le-silence-de-la-peinture/",
+      "image_url": "https://cdn.iris-etourism.io/media/nice/7974500/6ef4832f855fe983-335x335.webp",
+      "category": "EXPO"
+    },
+    {
       "title": "Presque Hamlet",
       "description": "Tour à tour professeur, clown, mime ou chanteur, le comédien s’en donne à cœur joie. Seul en scène… ou presque. Sont convoqués, dans un jeu qui ouvre la porte de nos imaginaires, le fantôme du père d’Hamlet et les fossoyeurs, Gertrude, Guildenstern, Ophélie et les siens, tant et si bien que la scène se peuple et se recompose à loisir. Un piano droit, un service à thé, des rideaux de velours ou un ",
       "place": "Les FranciscainsLa Cuisine",
@@ -2221,21 +2296,6 @@
       "source_url": "https://www.tnn.fr/fr/evenements/proces-grands-personnages-26-27",
       "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-09-829-proces-grands-personnages-26-27-slider.jpg",
       "category": "THEATRE"
-    },
-    {
-      "title": "Exposition « Mortimer et le Japon de papier »",
-      "description": "",
-      "place": "ExpositionBande dessinée",
-      "city": "Nice",
-      "starts_at": 1801350000000,
-      "ends_at": 1801357200000,
-      "has_time": false,
-      "price": "—",
-      "price_val": 0,
-      "source": "OT_NICE",
-      "source_url": "https://www.explorenicecotedazur.com/evenement/exposition-mortimer-et-le-japon-de-papier/",
-      "image_url": "https://cdn.iris-etourism.io/media/nice/7819410/5a88d7ea281c7f69-335x335.webp",
-      "category": "EXPO"
     },
     {
       "title": "Sabine WEISS – Une vie de photographe",
