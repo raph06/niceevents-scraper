@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-11-08T19:20:53Z",
-  "count": 247,
+  "scraped_at": "2026-11-09T00:26:58Z",
+  "count": 249,
   "events": [
     {
       "title": "La Veuve joyeuse",
@@ -856,6 +856,21 @@
       "source_url": "https://www.opera-nice.org/lieux/foyer-montserrat-caballe-de-lopera/",
       "image_url": "https://www.opera-nice.org/wp-content/uploads/2026/05/share-opera-nice-cote-dazur.jpg",
       "category": "NUIT"
+    },
+    {
+      "title": "Ciné Famille - \"Le Petit Prince\" de Mark Osborne (2015)",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1795615200000,
+      "ends_at": 1795622400000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/cine-famille-le-petit-prince-de-mark-osborne-2015",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/0/9/7/9/2319790-1-fre-FR/878a0a4d82e6-106500_img_0L6u58O.png.webp",
+      "category": "CINEMA"
     },
     {
       "title": "Orgueilleuse",
@@ -2235,6 +2250,21 @@
       "source": "OT_NICE",
       "source_url": "https://www.explorenicecotedazur.com/evenement/sabine-weiss-une-vie-de-photographe/",
       "image_url": "https://cdn.iris-etourism.io/media/nice/8036916/6447c3df29458405-335x335.webp",
+      "category": "EXPO"
+    },
+    {
+      "title": "Exposition « L’art de la citation »",
+      "description": "",
+      "place": "Exposition",
+      "city": "Nice",
+      "starts_at": 1801350000000,
+      "ends_at": 1801357200000,
+      "has_time": false,
+      "price": "—",
+      "price_val": 0,
+      "source": "OT_NICE",
+      "source_url": "https://www.explorenicecotedazur.com/evenement/exposition-lart-de-la-citation/",
+      "image_url": "https://cdn.iris-etourism.io/media/nice/6304524/6dfb83b11ded18c4-335x335.webp",
       "category": "EXPO"
     },
     {
