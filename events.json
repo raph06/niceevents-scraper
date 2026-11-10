@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-11-09T21:53:56Z",
-  "count": 253,
+  "scraped_at": "2026-11-10T05:27:22Z",
+  "count": 254,
   "events": [
     {
       "title": "108e anniversaire de l'Armistice du 11 novembre 1918",
@@ -768,21 +768,6 @@
       "category": "AUTRE"
     },
     {
-      "title": "Cape Town Heritage Horizons - Concert",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1795356000000,
-      "ends_at": 1795366800000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/cape-town-heritage-horizons-concert",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/8/0/2/9/2099208-75-fre-FR/23e31097d1ff-106032_img_0B4x84Z.jpg.webp",
-      "category": "CONCERT"
-    },
-    {
       "title": "\"L'Homme au bras d'or\" d'Otto Preminger",
       "description": "",
       "place": "Monaco",
@@ -796,6 +781,21 @@
       "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/l-homme-au-bras-d-or-d-otto-preminger",
       "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/9/3/9/5/2315939-1-fre-FR/a0fe4bc3a3c5-106485_img_0t2zseI.jpg.webp",
       "category": "AUTRE"
+    },
+    {
+      "title": "Cape Town Heritage Horizons - Concert",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1795356000000,
+      "ends_at": 1795366800000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/cape-town-heritage-horizons-concert",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/8/0/2/9/2099208-75-fre-FR/23e31097d1ff-106032_img_0B4x84Z.jpg.webp",
+      "category": "CONCERT"
     },
     {
       "title": "Naviguer au coeur des mutations maritimes",
@@ -1455,6 +1455,21 @@
       "source": "LE109",
       "source_url": "https://le109.nice.fr/programmation/mungo-s-hi-fi",
       "image_url": "https://wsrv.nl/?url=le109.nice.fr/thumbs/1024x562r/2026-08/capture-d-e-cran-2026-08-17-a-10.51.53.png",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Conférence | Bruno Trentini",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1797289200000,
+      "ends_at": 1797296400000,
+      "has_time": false,
+      "price": "—",
+      "price_val": 0,
+      "source": "CHAGALL",
+      "source_url": "https://musees-nationaux-alpesmaritimes.fr/chagall/agenda",
+      "image_url": "https://musees-nationaux-alpesmaritimes.fr/chagall/sites/chagall/files/styles/crop_vignette/public/2026-10/Vignette%20de%20Buno%20Trentini.png?itok=v1tL_Dfp",
       "category": "AUTRE"
     },
     {
