@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-11-10T14:05:37Z",
-  "count": 258,
+  "scraped_at": "2026-11-10T21:12:21Z",
+  "count": 263,
   "events": [
     {
       "title": "108e anniversaire de l'Armistice du 11 novembre 1918",
@@ -89,7 +89,22 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/05/evenement-crypte-250x250.jpg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "category": "AUTRE"
+    },
+    {
+      "title": "La Veuve joyeuse",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1794405600000,
+      "ends_at": 1794412800000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/opera/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
@@ -108,6 +123,21 @@
       "category": "AUTRE"
     },
     {
+      "title": "Éperdument",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1794411000000,
+      "ends_at": 1794418200000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/projection/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/10/eperdument-©-dr-pan-europeenne-lgm-productions-studiocanal.jpg",
+      "category": "AUTRE"
+    },
+    {
       "title": "Café Littéraire - Venez échanger sur vos coups de cœur",
       "description": "",
       "place": "Monaco",
@@ -120,6 +150,21 @@
       "source": "MONACO",
       "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/cafe-litteraire-venez-echanger-sur-vos-coups-de-caeur2",
       "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/2/3/2/2/2282232-1-fre-FR/70c267aaaaea-106408_img_0cPcl8E.png.webp",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Midsommar",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1794422700000,
+      "ends_at": 1794429900000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/projection/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/10/midsommar-©-dr-a24-b-reel-films-nordisk-film.jpg",
       "category": "AUTRE"
     },
     {
@@ -175,7 +220,7 @@
       "starts_at": 1794596400000,
       "ends_at": 1794603600000,
       "has_time": true,
-      "price": "€4–63",
+      "price": "€4–20",
       "price_val": 4,
       "source": "TNN",
       "source_url": "https://www.tnn.fr/fr/spectacles/saison-2026-2027/resurrection",
@@ -280,7 +325,7 @@
       "starts_at": 1794664800000,
       "ends_at": 1794672000000,
       "has_time": true,
-      "price": "€4–63",
+      "price": "€4–20",
       "price_val": 4,
       "source": "TNN",
       "source_url": "https://www.tnn.fr/fr/spectacles/saison-2026-2027/resurrection",
@@ -798,21 +843,6 @@
       "category": "AUTRE"
     },
     {
-      "title": "Cape Town Heritage Horizons - Concert",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1795356000000,
-      "ends_at": 1795366800000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/cape-town-heritage-horizons-concert",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/8/0/2/9/2099208-75-fre-FR/23e31097d1ff-106032_img_0B4x84Z.jpg.webp",
-      "category": "CONCERT"
-    },
-    {
       "title": "\"L'Homme au bras d'or\" d'Otto Preminger",
       "description": "",
       "place": "Monaco",
@@ -826,6 +856,21 @@
       "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/l-homme-au-bras-d-or-d-otto-preminger",
       "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/9/3/9/5/2315939-1-fre-FR/a0fe4bc3a3c5-106485_img_0t2zseI.jpg.webp",
       "category": "AUTRE"
+    },
+    {
+      "title": "Cape Town Heritage Horizons - Concert",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1795356000000,
+      "ends_at": 1795366800000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/cape-town-heritage-horizons-concert",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/8/0/2/9/2099208-75-fre-FR/23e31097d1ff-106032_img_0B4x84Z.jpg.webp",
+      "category": "CONCERT"
     },
     {
       "title": "Naviguer au coeur des mutations maritimes",
@@ -1113,6 +1158,21 @@
       "category": "AUTRE"
     },
     {
+      "title": "29ème Monte-Carlo Gastronomie",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1795770000000,
+      "ends_at": 1796058000000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/29eme-monte-carlo-gastronomie",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/5/6/9/6/2366965-1-fre-FR/e2e9aa499f26-106633_img_0ckqFq3.png.webp",
+      "category": "FOOD"
+    },
+    {
       "title": "Nissa Slam",
       "description": "Animées par le comédien et slameurJacky Ido, ces soirées sont organisées une fois par mois au bar-restaurant de notre salle de La Cuisine et sont ouvertes à toutes et à tous. Venez jouer avec la musicalité des mots !1 vers dit = 1 verre offert !**1 verre offert pour toute participation. Soft ou alcool [vin, bière] en fonction de l’âge. L’abus d’alcool est dangereux pour la santé. Il est interdit d",
       "place": "Les FranciscainsLa Cuisine",
@@ -1248,6 +1308,21 @@
       "category": "EXPO"
     },
     {
+      "title": "Les Concerts de la Voûte : La Malibran",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1795888800000,
+      "ends_at": 1795897800000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/les-concerts-de-la-voute-la-malibran",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/7/3/7/8/2248737-1-fre-FR/babcf42e2229-106278_img_066zFHM.png.webp",
+      "category": "CONCERT"
+    },
+    {
       "title": "ERIC SERRA LIVE",
       "description": "",
       "place": "Nice",
@@ -1375,7 +1450,7 @@
       "starts_at": 1796943600000,
       "ends_at": 1796950800000,
       "has_time": false,
-      "price": "€4–63",
+      "price": "€4–20",
       "price_val": 4,
       "source": "TNN",
       "source_url": "https://www.tnn.fr/fr/spectacles/saison-2026-2027/resurrection",
@@ -1420,7 +1495,7 @@
       "starts_at": 1797015600000,
       "ends_at": 1797022800000,
       "has_time": true,
-      "price": "€4–63",
+      "price": "€4–20",
       "price_val": 4,
       "source": "TNN",
       "source_url": "https://www.tnn.fr/fr/spectacles/saison-2026-2027/resurrection",
