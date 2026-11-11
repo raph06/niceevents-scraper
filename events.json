@@ -1,37 +1,7 @@
 {
-  "scraped_at": "2026-11-10T21:12:21Z",
-  "count": 263,
+  "scraped_at": "2026-11-11T03:59:01Z",
+  "count": 269,
   "events": [
-    {
-      "title": "108e anniversaire de l'Armistice du 11 novembre 1918",
-      "description": "",
-      "place": "Cannes",
-      "city": "Cannes",
-      "starts_at": 1794351600000,
-      "ends_at": 1794358800000,
-      "has_time": false,
-      "price": "—",
-      "price_val": 0,
-      "source": "CANNES",
-      "source_url": "https://www.cannes.com/fr/agenda/annee-2026/novembre/l-armistice-du-11-novembre-1918.html",
-      "image_url": "https://www.cannes.com/_object/ametys-internal%253Asites/www/ametys-internal%253Acontents/e-journee-nationale-en-hommage-aux-harkis-evenement-4-3-2-2-2-2/_attribute/illustration/image/hotel-de-ville-vignette.jpg?objectId=defaultWebContent://cd9e2f9b-202f-4f24-a9aa-44fdfbf11a29",
-      "category": "AUTRE"
-    },
-    {
-      "title": "La Veuve joyeuse",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1794351600000,
-      "ends_at": 1794358800000,
-      "has_time": false,
-      "price": "—",
-      "price_val": 0,
-      "source": "OPERA_NICE",
-      "source_url": "https://www.opera-nice.org/agenda/la-veuve-joyeuse/",
-      "image_url": "https://www.opera-nice.org/wp-content/uploads/2026/05/share-opera-nice-cote-dazur.jpg",
-      "category": "AUTRE"
-    },
     {
       "title": "Jardin aquatique",
       "description": "",
@@ -59,7 +29,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/lecture/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/09/bib-mobile-2.jpg",
       "category": "AUTRE"
     },
     {
@@ -104,7 +74,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/opera/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/07/11-13-11-veuve-1024x768-1-250x250.jpeg",
       "category": "AUTRE"
     },
     {
@@ -119,7 +89,7 @@
       "price_val": 0,
       "source": "MONACO",
       "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/animation-jeux5",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/9/7/2/3/2363279-3-fre-FR/39ccf21fbc86-106606_img_0OefmUV.jpg.webp",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/9/7/2/3/2363279-4-fre-FR/7c6348c82e99-106606_img_0Hx6rss.jpg.webp",
       "category": "AUTRE"
     },
     {
@@ -179,7 +149,7 @@
       "price_val": 0,
       "source": "MONACO",
       "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/le-bourgeois-gentilhomme",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/7/0/9/2/2182907-41-fre-FR/912e7586706e-106173_img_0PXq9wV.jpg.webp",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/7/0/9/2/2182907-43-fre-FR/93a89620c944-106173_img_0mno4qA.jpg.webp",
       "category": "AUTRE"
     },
     {
@@ -383,13 +353,13 @@
       "place": "Monaco",
       "city": "Monaco",
       "starts_at": 1794751200000,
-      "ends_at": 1794765600000,
+      "ends_at": 1795300200000,
       "has_time": true,
       "price": "—",
       "price_val": 0,
       "source": "MONACO",
       "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/the-gershwins-R-porgy-and-bess-R-opera",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/0/6/5/8/2098560-5-fre-FR/03d6a620063f-106030_img_0LAW4s0.jpg.webp",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/0/6/5/8/2098560-7-fre-FR/fced8f873e6f-106030_img_0x2SqSs.jpg.webp",
       "category": "CONCERT"
     },
     {
@@ -689,7 +659,7 @@
       "price_val": 0,
       "source": "MONACO",
       "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/carmen-opera-mis-en-espace",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/4/8/8/8/2098884-75-fre-FR/4a3e64cca459-106031_img_0TvPws5.jpg.webp",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/4/8/8/8/2098884-77-fre-FR/80d0677054de-106031_img_0NBpk3W.jpg.webp",
       "category": "CONCERT"
     },
     {
@@ -843,6 +813,21 @@
       "category": "AUTRE"
     },
     {
+      "title": "Cape Town Heritage Horizons - Concert",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1795356000000,
+      "ends_at": 1795366800000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/cape-town-heritage-horizons-concert",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/8/0/2/9/2099208-77-fre-FR/2ab33ab71db4-106032_img_0X2KI7b.jpg.webp",
+      "category": "CONCERT"
+    },
+    {
       "title": "\"L'Homme au bras d'or\" d'Otto Preminger",
       "description": "",
       "place": "Monaco",
@@ -856,21 +841,6 @@
       "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/l-homme-au-bras-d-or-d-otto-preminger",
       "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/9/3/9/5/2315939-1-fre-FR/a0fe4bc3a3c5-106485_img_0t2zseI.jpg.webp",
       "category": "AUTRE"
-    },
-    {
-      "title": "Cape Town Heritage Horizons - Concert",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1795356000000,
-      "ends_at": 1795366800000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/cape-town-heritage-horizons-concert",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/8/0/2/9/2099208-75-fre-FR/23e31097d1ff-106032_img_0B4x84Z.jpg.webp",
-      "category": "CONCERT"
     },
     {
       "title": "Naviguer au coeur des mutations maritimes",
@@ -918,6 +888,21 @@
       "category": "CONCERT"
     },
     {
+      "title": "Concert de polyphonies corses - Alternatim",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1795546800000,
+      "ends_at": 1795552200000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/concert-de-polyphonies-corses-alternatim",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/0/5/4/9/2369450-1-fre-FR/794af7b5da61-106650_img_06iZy8L.jpg.webp",
+      "category": "CONCERT"
+    },
+    {
       "title": "La Crise",
       "description": "",
       "place": "Monaco",
@@ -930,6 +915,21 @@
       "source": "MONACO",
       "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/la-crise",
       "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/4/2/2/1/2261224-1-fre-FR/fbde53f16624-106339_img_05bLFBe.jpg.webp",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Festival Résonance édition 2026",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1795546800000,
+      "ends_at": 1791838800000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/festival-resonance-edition-2026",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/8/8/2/9/2369288-1-fre-FR/c06089eb1fdc-106649_img_0E6abTK.jpg.webp",
       "category": "AUTRE"
     },
     {
@@ -991,6 +991,21 @@
       "source_url": "https://www.tnn.fr/fr/spectacles/saison-2026-2027/orgueilleuse",
       "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-09-789-orgueilleuse-slider.jpg",
       "category": "THEATRE"
+    },
+    {
+      "title": "Lecture musicale - \"Voici l'homme - Ecce Homo\"",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1795633200000,
+      "ends_at": 1795638600000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/lecture-musicale-voici-l-homme-ecce-homo",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/2/1/6/9/2369612-1-fre-FR/ba274bb7452c-106651_img_0pAJqaY.jpg.webp",
+      "category": "AUTRE"
     },
     {
       "title": "Rencontre insolite entre le clavecin et l'accordéon",
@@ -1158,21 +1173,6 @@
       "category": "AUTRE"
     },
     {
-      "title": "29ème Monte-Carlo Gastronomie",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1795770000000,
-      "ends_at": 1796058000000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/29eme-monte-carlo-gastronomie",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/5/6/9/6/2366965-1-fre-FR/e2e9aa499f26-106633_img_0ckqFq3.png.webp",
-      "category": "FOOD"
-    },
-    {
       "title": "Nissa Slam",
       "description": "Animées par le comédien et slameurJacky Ido, ces soirées sont organisées une fois par mois au bar-restaurant de notre salle de La Cuisine et sont ouvertes à toutes et à tous. Venez jouer avec la musicalité des mots !1 vers dit = 1 verre offert !**1 verre offert pour toute participation. Soft ou alcool [vin, bière] en fonction de l’âge. L’abus d’alcool est dangereux pour la santé. Il est interdit d",
       "place": "Les FranciscainsLa Cuisine",
@@ -1215,21 +1215,6 @@
       "source": "LE109",
       "source_url": "https://le109.nice.fr/programmation/phaphane",
       "image_url": "https://wsrv.nl/?url=le109.nice.fr/thumbs/1024x562r/2026-10/capture-d-e-cran-2026-10-12-a-10.04.21.png",
-      "category": "AUTRE"
-    },
-    {
-      "title": "La Cathédrale engloutie",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1795806000000,
-      "ends_at": 1795811400000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/la-cathedrale-engloutie",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/0/7/8/1/2261870-1-fre-FR/5d6a8e2a95eb-106344_img_031LXdb.jpg.webp",
       "category": "AUTRE"
     },
     {
@@ -1306,21 +1291,6 @@
       "source_url": "https://www.infolocale.fr/evenements?age%5B0%5D=Tout%20Public&age%5B1%5D=Adulte&age%5B2%5D=Adolescent&age%5B3%5D=Enfant&age%5B4%5D=Bebe&commune=06088",
       "image_url": "https://photos.infolocale.fr/infolocale/annonce/2026/0902/8969108/_1.jpg?rnd=20260902121747",
       "category": "EXPO"
-    },
-    {
-      "title": "Les Concerts de la Voûte : La Malibran",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1795888800000,
-      "ends_at": 1795897800000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/les-concerts-de-la-voute-la-malibran",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/7/3/7/8/2248737-1-fre-FR/babcf42e2229-106278_img_066zFHM.png.webp",
-      "category": "CONCERT"
     },
     {
       "title": "ERIC SERRA LIVE",
@@ -1456,6 +1426,126 @@
       "source_url": "https://www.tnn.fr/fr/spectacles/saison-2026-2027/resurrection",
       "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-10-787-resurrection-slider.jpg",
       "category": "THEATRE"
+    },
+    {
+      "title": "Atelier d’écriture",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1796977800000,
+      "ends_at": 1796985000000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/atelier/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "category": "AUTRE"
+    },
+    {
+      "title": "La Bib’Mobile – Jardin Alsace Lorraine",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1796977800000,
+      "ends_at": 1796985000000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/lecture/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/09/bib-mobile-2.jpg",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Danse dans les jardins – Cours de capoeira",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1796979600000,
+      "ends_at": 1796986800000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/seance-de-plein-air/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Atelier manipulation",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1796979600000,
+      "ends_at": 1796986800000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/atelier/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "category": "AUTRE"
+    },
+    {
+      "title": "La recyclerie",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1796979600000,
+      "ends_at": 1796986800000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/atelier/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Danse dans les jardins – Cours de « Danses du monde »",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1796979600000,
+      "ends_at": 1796986800000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/seance-de-plein-air/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "category": "AUTRE"
+    },
+    {
+      "title": "L’art déco à Cessole",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1796979600000,
+      "ends_at": 1796986800000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/10/belle-epoque-cessole.jpg",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Quand Nice invente la Riviera",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1796979600000,
+      "ends_at": 1796986800000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/05/riviera-visite.jpg",
+      "category": "AUTRE"
     },
     {
       "title": "Exposition Øyvind Hjelmen & Helén Petersen",
