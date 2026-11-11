@@ -1,52 +1,7 @@
 {
-  "scraped_at": "2026-11-11T03:59:01Z",
-  "count": 269,
+  "scraped_at": "2026-11-11T13:21:08Z",
+  "count": 271,
   "events": [
-    {
-      "title": "Jardin aquatique",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1794384900000,
-      "ends_at": 1794392100000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/animation/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
-      "category": "AUTRE"
-    },
-    {
-      "title": "La Bib’Mobile – St Antoine de Ginestière",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1794385800000,
-      "ends_at": 1794393000000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/lecture/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/09/bib-mobile-2.jpg",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Don de plantes",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1794394800000,
-      "ends_at": 1794402000000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/don-de-plantes3",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/7/2/9/3/2363927-1-fre-FR/3dc901a95c78-106610_img_0GIZALC.jpg.webp",
-      "category": "AUTRE"
-    },
     {
       "title": "Visite commentée de la Crypte archéologique",
       "description": "",
@@ -59,7 +14,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/05/evenement-crypte-250x250.jpg",
       "category": "AUTRE"
     },
     {
@@ -181,6 +136,21 @@
       "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/projection-philipppe-favier-aux-dechirants-departs-des-archipels-superbes-1983",
       "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/9/8/2/7/2367289-1-fre-FR/8b4cbaafbd80-106642_img_0M5eWtw.jpg.webp",
       "category": "CINEMA"
+    },
+    {
+      "title": "Concert Daniel Lavoie & Jean-Philippe Sylvestre : un nouveau souffle classique",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1794592800000,
+      "ends_at": 1794598200000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/concert-daniel-lavoie-jean-philippe-sylvestre-un-nouveau-souffle-classique",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/6/2/1/9/2369126-1-fre-FR/11cd88844965-106648_img_0n4Qycd.png.webp",
+      "category": "CONCERT"
     },
     {
       "title": "Résurrection",
@@ -963,6 +933,21 @@
       "category": "CINEMA"
     },
     {
+      "title": "Ciné-club \"Anatomie d'une chute \"",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1795629600000,
+      "ends_at": 1795642200000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/cine-club-anatomie-d-une-chute",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/8/7/4/8/2368478-1-fre-FR/93f43d427ab4-106645_img_0srziAR.jpeg.webp",
+      "category": "CINEMA"
+    },
+    {
       "title": "Récital piano - Lucas Debargue",
       "description": "",
       "place": "Monaco",
@@ -1110,21 +1095,6 @@
       "source": "LE109",
       "source_url": "https://le109.nice.fr/programmation/jerrycans",
       "image_url": "https://wsrv.nl/?url=le109.nice.fr/thumbs/1024x562r/2026-11/capture-d-e-cran-2026-10-29-a-09.34.33.png",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Gagnant-Gagnant",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1795719600000,
-      "ends_at": 1795973400000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/gagnant-gagnant",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/9/1/3/7/2357319-1-fre-FR/14712490d634-106577_img_0uFPohX.png.webp",
       "category": "AUTRE"
     },
     {
@@ -1529,7 +1499,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/10/belle-epoque-cessole.jpg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
@@ -1544,7 +1514,67 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/05/riviera-visite.jpg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "category": "AUTRE"
+    },
+    {
+      "title": "L’Artistique, découverte du lieu et des expositions",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1796981400000,
+      "ends_at": 1796988600000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "category": "EXPO"
+    },
+    {
+      "title": "Tout en fil",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1796994000000,
+      "ends_at": 1797001200000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/atelier/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/05/tout-en-fil.jpg",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Cercle de jeux échecs",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1796994000000,
+      "ends_at": 1797001200000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/atelier/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/05/echecs.jpg",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Nice et Matisse",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1796994000000,
+      "ends_at": 1797001200000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/05/portrait-matisseetnice.jpg",
       "category": "AUTRE"
     },
     {
