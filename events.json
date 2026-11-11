@@ -1,112 +1,7 @@
 {
-  "scraped_at": "2026-11-11T13:21:08Z",
-  "count": 271,
+  "scraped_at": "2026-11-11T21:45:44Z",
+  "count": 266,
   "events": [
-    {
-      "title": "Visite commentée de la Crypte archéologique",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1794402000000,
-      "ends_at": 1794409200000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/05/evenement-crypte-250x250.jpg",
-      "category": "AUTRE"
-    },
-    {
-      "title": "La Veuve joyeuse",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1794405600000,
-      "ends_at": 1794412800000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/opera/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/07/11-13-11-veuve-1024x768-1-250x250.jpeg",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Animation Jeux",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1794409200000,
-      "ends_at": 1794416400000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/animation-jeux5",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/9/7/2/3/2363279-4-fre-FR/7c6348c82e99-106606_img_0Hx6rss.jpg.webp",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Éperdument",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1794411000000,
-      "ends_at": 1794418200000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/projection/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/10/eperdument-©-dr-pan-europeenne-lgm-productions-studiocanal.jpg",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Café Littéraire - Venez échanger sur vos coups de cœur",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1794416400000,
-      "ends_at": 1794421800000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/cafe-litteraire-venez-echanger-sur-vos-coups-de-caeur2",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/2/3/2/2/2282232-1-fre-FR/70c267aaaaea-106408_img_0cPcl8E.png.webp",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Midsommar",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1794422700000,
-      "ends_at": 1794429900000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/projection/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/10/midsommar-©-dr-a24-b-reel-films-nordisk-film.jpg",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Le Bourgeois Gentilhomme",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1794423600000,
-      "ends_at": 1794429900000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/le-bourgeois-gentilhomme",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/7/0/9/2/2182907-43-fre-FR/93a89620c944-106173_img_0mno4qA.jpg.webp",
-      "category": "AUTRE"
-    },
     {
       "title": "BRODINSKI",
       "description": "Frigo 16",
@@ -180,21 +75,6 @@
       "source": "NIKAIA",
       "source_url": "https://www.nikaia.fr/programmation/vanessa-paradis",
       "image_url": "https://www.nikaia.fr/files/2025-10/1080x1080-vp-hd.jpg",
-      "category": "AUTRE"
-    },
-    {
-      "title": "JETLAG GANG",
-      "description": "Frigo 16",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1794609000000,
-      "ends_at": 1794616200000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "LE109",
-      "source_url": "https://le109.nice.fr/programmation/jetlag-gang",
-      "image_url": "https://wsrv.nl/?url=le109.nice.fr/thumbs/1024x562r/2026-08/capture-d-e-cran-2026-08-17-a-09.20.38.png",
       "category": "AUTRE"
     },
     {
@@ -286,6 +166,21 @@
       "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/spectacle-pyjamas",
       "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/7/7/1/2/2352177-1-fre-FR/32cc66c18e23-106566_img_0sUnnZZ.jpg.webp",
       "category": "THEATRE"
+    },
+    {
+      "title": "ÜBM Junior",
+      "description": "L’Entre-Pont",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1794679200000,
+      "ends_at": 1794686400000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "LE109",
+      "source_url": "https://le109.nice.fr/programmation/uebm-junior-1",
+      "image_url": "https://wsrv.nl/?url=le109.nice.fr/thumbs/1024x562r/2026-11/se-l-pics-hugo-jan-22-9-sur-17-1024x682.jpg",
+      "category": "AUTRE"
     },
     {
       "title": "CARAVEL",
@@ -738,21 +633,6 @@
       "category": "AUTRE"
     },
     {
-      "title": "The Gershwins'® Porgy and Bess® - Opéra",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1795287600000,
-      "ends_at": 1795301940000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/the-gershwins-R-porgy-and-bess-R-opera2",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/5/1/4/2/2212415-1-fre-FR/e62a6a8d4ee0-106198_img_0oShqxN.jpg.webp",
-      "category": "CONCERT"
-    },
-    {
       "title": "L'HÉRITAGE GOLDMAN",
       "description": "",
       "place": "Nice",
@@ -858,21 +738,6 @@
       "category": "CONCERT"
     },
     {
-      "title": "Concert de polyphonies corses - Alternatim",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1795546800000,
-      "ends_at": 1795552200000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/concert-de-polyphonies-corses-alternatim",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/0/5/4/9/2369450-1-fre-FR/794af7b5da61-106650_img_06iZy8L.jpg.webp",
-      "category": "CONCERT"
-    },
-    {
       "title": "La Crise",
       "description": "",
       "place": "Monaco",
@@ -886,6 +751,21 @@
       "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/la-crise",
       "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/4/2/2/1/2261224-1-fre-FR/fbde53f16624-106339_img_05bLFBe.jpg.webp",
       "category": "AUTRE"
+    },
+    {
+      "title": "Concert de polyphonies corses - Alternatim",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1795546800000,
+      "ends_at": 1795552200000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/concert-de-polyphonies-corses-alternatim",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/0/5/4/9/2369450-1-fre-FR/794af7b5da61-106650_img_06iZy8L.jpg.webp",
+      "category": "CONCERT"
     },
     {
       "title": "Festival Résonance édition 2026",
@@ -1098,6 +978,21 @@
       "category": "AUTRE"
     },
     {
+      "title": "Gagnant-Gagnant",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1795719600000,
+      "ends_at": 1795973400000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/gagnant-gagnant",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/9/1/3/7/2357319-1-fre-FR/14712490d634-106577_img_0uFPohX.png.webp",
+      "category": "AUTRE"
+    },
+    {
       "title": "My Fierce Ignorant Step",
       "description": "Christos Papadopoulos, figure majeure de la danse contemporaine grecque, explore dansMy Fierce Ignorant Stepla puissance du mouvement collectif et la musicalité du corps. Le chorégraphe réunit dix interprètes qui, guidés par leur souffle, tissent un univers où la danse dialogue avec la musique et la littérature. Au sein d’une dimension plastique très travaillée et propre au chorégraphe, cette œuvr",
       "place": "Les FranciscainsLa Cuisine",
@@ -1143,6 +1038,21 @@
       "category": "AUTRE"
     },
     {
+      "title": "Spectacle Rendez-vous avec Serge Reggiani  Annick Cisaruk, chant et David Ventucci, accordéon sous le regard complice d’Ariane Ascaride",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1795802400000,
+      "ends_at": 1795807800000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/spectacle-rendez-vous-avec-serge-reggiani-annick-cisaruk-chant-et-david-ventucci-accordeon-sous-le-regard-complice-d-ariane-ascaride",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/6/3/9/9/2369936-1-fre-FR/b1efb6d88b73-106653_img_0vU4149.png.webp",
+      "category": "CONCERT"
+    },
+    {
       "title": "Nissa Slam",
       "description": "Animées par le comédien et slameurJacky Ido, ces soirées sont organisées une fois par mois au bar-restaurant de notre salle de La Cuisine et sont ouvertes à toutes et à tous. Venez jouer avec la musicalité des mots !1 vers dit = 1 verre offert !**1 verre offert pour toute participation. Soft ou alcool [vin, bière] en fonction de l’âge. L’abus d’alcool est dangereux pour la santé. Il est interdit d",
       "place": "Les FranciscainsLa Cuisine",
@@ -1186,6 +1096,21 @@
       "source_url": "https://le109.nice.fr/programmation/phaphane",
       "image_url": "https://wsrv.nl/?url=le109.nice.fr/thumbs/1024x562r/2026-10/capture-d-e-cran-2026-10-12-a-10.04.21.png",
       "category": "AUTRE"
+    },
+    {
+      "title": "Concert hommage à Marie-Claire Alain à l'occasion du centenaire de sa naissance",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1795806000000,
+      "ends_at": 1795811400000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/concert-hommage-a-marie-claire-alain-a-l-occasion-du-centenaire-de-sa-naissance",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/4/7/7/9/2369774-1-fre-FR/90771f3320c5-106652_img_011w2dU.webp.webp",
+      "category": "CONCERT"
     },
     {
       "title": "My Fierce Ignorant Step",
@@ -1409,7 +1334,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/atelier/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/06/atelier-ecriture-c.jpeg",
       "category": "AUTRE"
     },
     {
