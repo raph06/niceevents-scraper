@@ -1,7 +1,37 @@
 {
-  "scraped_at": "2026-11-12T05:06:16Z",
+  "scraped_at": "2026-11-12T14:25:40Z",
   "count": 271,
   "events": [
+    {
+      "title": "Visite guidée du Vieux-Nice",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1794558600000,
+      "ends_at": 1794565800000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Visite commentée du 109",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1794560400000,
+      "ends_at": 1794567600000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/08/109-rdv-patrimoine.jpg",
+      "category": "AUTRE"
+    },
     {
       "title": "Projection - Philipppe Favier, Aux Déchirants Départs des Archipels Superbes, 1983",
       "description": "",
@@ -16,6 +46,21 @@
       "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/projection-philipppe-favier-aux-dechirants-departs-des-archipels-superbes-1983",
       "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/9/8/2/7/2367289-1-fre-FR/8b4cbaafbd80-106642_img_0M5eWtw.jpg.webp",
       "category": "CINEMA"
+    },
+    {
+      "title": "Cours de dessin/aquarelle (en extérieur)",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1794562200000,
+      "ends_at": 1794569400000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/atelier/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "category": "AUTRE"
     },
     {
       "title": "Concert Daniel Lavoie & Jean-Philippe Sylvestre : un nouveau souffle classique",
@@ -151,36 +196,6 @@
       "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/spectacle-pyjamas",
       "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/7/7/1/2/2352177-1-fre-FR/32cc66c18e23-106566_img_0sUnnZZ.jpg.webp",
       "category": "THEATRE"
-    },
-    {
-      "title": "ÜBM Junior",
-      "description": "L’Entre-Pont",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1794679200000,
-      "ends_at": 1794686400000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "LE109",
-      "source_url": "https://le109.nice.fr/programmation/uebm-junior-1",
-      "image_url": "https://wsrv.nl/?url=le109.nice.fr/thumbs/1024x562r/2026-11/se-l-pics-hugo-jan-22-9-sur-17-1024x682.jpg",
-      "category": "AUTRE"
-    },
-    {
-      "title": "CARAVEL",
-      "description": "Frigo 16",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1794682800000,
-      "ends_at": 1794690000000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "LE109",
-      "source_url": "https://le109.nice.fr/programmation/caravel",
-      "image_url": "https://wsrv.nl/?url=le109.nice.fr/thumbs/1024x562r/2026-08/capture-d-e-cran-2026-08-17-a-09.22.29.png",
-      "category": "AUTRE"
     },
     {
       "title": "Viens avec ton doudou",
@@ -439,7 +454,7 @@
     },
     {
       "title": "Les Jeudis littéraires",
-      "description": "Tous les jeudis à 19h, au bar-restaurant de la salle des Franciscains, un comédien de la Troupe lit des textes “coup de cœur”. Naviguant du grand répertoire classique à l’écriture contemporaine, de la poésie aux récits mythologiques, les voix de la Troupe vous font (re)découvrir les plus beaux textes. Venez savourer un apéritif et la chaleur de mots choisis.OCTOBREAutour de notre programmation• Je",
+      "description": "Tous les jeudis à 19h, au bar-restaurant de la salle des Franciscains, un comédien de la Troupe lit des textes “coup de cœur”. Naviguant du grand répertoire classique à l’écriture contemporaine, de la poésie aux récits mythologiques, les voix de la Troupe vous font (re)découvrir les plus beaux textes. Venez savourer un apéritif et la chaleur de mots choisis.OCTOBRE• Jeudi 1/10 :Poésie anglaise : S",
       "place": "Les FranciscainsLa Cuisine",
       "city": "Nice",
       "starts_at": 1795111200000,
@@ -528,21 +543,6 @@
       "category": "THEATRE"
     },
     {
-      "title": "PAUL SEUL",
-      "description": "Frigo 16",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1795201200000,
-      "ends_at": 1795208400000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "LE109",
-      "source_url": "https://le109.nice.fr/programmation/paul-seul",
-      "image_url": "https://wsrv.nl/?url=le109.nice.fr/thumbs/1024x562r/2026-08/capture-d-e-cran-2026-08-17-a-09.24.51.png",
-      "category": "AUTRE"
-    },
-    {
       "title": "Ateliers jeunesse- Histoire contée 3-5 ans",
       "description": "",
       "place": "Monaco",
@@ -601,6 +601,21 @@
       "source_url": "https://www.tnn.fr/fr/spectacles/saison-2026-2027/le-petit-chaperon-rouge",
       "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-05-788-le-petit-chaperon-rouge-slider.jpg",
       "category": "THEATRE"
+    },
+    {
+      "title": "MicaSphaera",
+      "description": "L’Entre-Pont",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1795285800000,
+      "ends_at": 1795293000000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "LE109",
+      "source_url": "https://le109.nice.fr/programmation/micasphaera",
+      "image_url": "https://wsrv.nl/?url=le109.nice.fr/thumbs/1024x562r/2026-11/micasphaera-crop.jpg",
+      "category": "AUTRE"
     },
     {
       "title": "MARCUS GAD",
@@ -723,21 +738,6 @@
       "category": "CONCERT"
     },
     {
-      "title": "Concert de polyphonies corses - Alternatim",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1795546800000,
-      "ends_at": 1795552200000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/concert-de-polyphonies-corses-alternatim",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/0/5/4/9/2369450-1-fre-FR/794af7b5da61-106650_img_06iZy8L.jpg.webp",
-      "category": "CONCERT"
-    },
-    {
       "title": "La Crise",
       "description": "",
       "place": "Monaco",
@@ -751,6 +751,21 @@
       "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/la-crise",
       "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/4/2/2/1/2261224-1-fre-FR/fbde53f16624-106339_img_05bLFBe.jpg.webp",
       "category": "AUTRE"
+    },
+    {
+      "title": "Concert de polyphonies corses - Alternatim",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1795546800000,
+      "ends_at": 1795552200000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/concert-de-polyphonies-corses-alternatim",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/0/5/4/9/2369450-1-fre-FR/794af7b5da61-106650_img_06iZy8L.jpg.webp",
+      "category": "CONCERT"
     },
     {
       "title": "Festival Résonance édition 2026",
@@ -904,7 +919,7 @@
     },
     {
       "title": "Les Jeudis littéraires",
-      "description": "Tous les jeudis à 19h, au bar-restaurant de la salle des Franciscains, un comédien de la Troupe lit des textes “coup de cœur”. Naviguant du grand répertoire classique à l’écriture contemporaine, de la poésie aux récits mythologiques, les voix de la Troupe vous font (re)découvrir les plus beaux textes. Venez savourer un apéritif et la chaleur de mots choisis.OCTOBREAutour de notre programmation• Je",
+      "description": "Tous les jeudis à 19h, au bar-restaurant de la salle des Franciscains, un comédien de la Troupe lit des textes “coup de cœur”. Naviguant du grand répertoire classique à l’écriture contemporaine, de la poésie aux récits mythologiques, les voix de la Troupe vous font (re)découvrir les plus beaux textes. Venez savourer un apéritif et la chaleur de mots choisis.OCTOBRE• Jeudi 1/10 :Poésie anglaise : S",
       "place": "Les FranciscainsLa Cuisine",
       "city": "Nice",
       "starts_at": 1795716000000,
@@ -1083,7 +1098,7 @@
       "category": "AUTRE"
     },
     {
-      "title": "La Cathédrale engloutie",
+      "title": "Concert hommage à Marie-Claire Alain à l'occasion du centenaire de sa naissance",
       "description": "",
       "place": "Monaco",
       "city": "Monaco",
@@ -1093,9 +1108,9 @@
       "price": "—",
       "price_val": 0,
       "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/la-cathedrale-engloutie",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/0/7/8/1/2261870-1-fre-FR/5d6a8e2a95eb-106344_img_031LXdb.jpg.webp",
-      "category": "AUTRE"
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/concert-hommage-a-marie-claire-alain-a-l-occasion-du-centenaire-de-sa-naissance",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/4/7/7/9/2369774-1-fre-FR/90771f3320c5-106652_img_011w2dU.webp.webp",
+      "category": "CONCERT"
     },
     {
       "title": "My Fierce Ignorant Step",
@@ -1203,6 +1218,21 @@
       "category": "AUTRE"
     },
     {
+      "title": "Seuls les robots n'ont pas pe...",
+      "description": "L’Entre-Pont",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1795896000000,
+      "ends_at": 1795903200000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "LE109",
+      "source_url": "https://le109.nice.fr/programmation/seuls-les-robots-n-ont-pas-peur-de-la-mort",
+      "image_url": "https://wsrv.nl/?url=le109.nice.fr/thumbs/1024x562r/2026-11/seuls-les-robots-nont-pas-peur-de-la-mort-cz-redi.png",
+      "category": "AUTRE"
+    },
+    {
       "title": "Concerts à la Trinquette Jazz Club",
       "description": "",
       "place": "ConcertJazz et blues",
@@ -1246,6 +1276,21 @@
       "source_url": "https://www.opera-nice.org/agenda/la-princesse-moche/20261129-1100/",
       "image_url": "https://www.opera-nice.org/wp-content/uploads/2026/05/share-opera-nice-cote-dazur.jpg",
       "category": "AUTRE"
+    },
+    {
+      "title": "Le Lab'Oratoire",
+      "description": "Chaque dernier lundi du mois à 19h, d’octobre à avril, Muriel Mayette-Holtz et les comédiens de la Troupe proposent des cours d’oralité et permettent à chacun de s’entraîner à la prise de parole en public.Le Lab'Oratoireest l’occasion, pour les acteurs de la troupe et moi, de transmettre quelques clés d’un métier aussi mystérieux qu’essentiel : celui de l’acteur, et plus intimement encore, celui d",
+      "place": "Les FranciscainsLa Cuisine",
+      "city": "Nice",
+      "starts_at": 1795993200000,
+      "ends_at": 1796000400000,
+      "has_time": false,
+      "price": "—",
+      "price_val": 0,
+      "source": "TNN",
+      "source_url": "https://www.tnn.fr/fr/evenements/laboratoire-2026-2027",
+      "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-09-826-laboratoire-2026-2027-slider.jpg",
+      "category": "THEATRE"
     },
     {
       "title": "Musique de chambre 2026-2027",
@@ -1323,139 +1368,19 @@
       "category": "AUTRE"
     },
     {
-      "title": "Atelier d’écriture",
-      "description": "",
-      "place": "Nice",
+      "title": "Résurrection",
+      "description": "DansRésurrection, il est question d’un écrivain célèbre qui mène une vie de plaisirs dans une grande ville et se retrouve juré au procès d’une femme accusée de meurtre. Il reconnaît son amour de jeunesse, autrefois au service de sa famille. Il a abusé d’elle et l’a mise enceinte avant de l’abandonner. Elle est devenue une prostituée. Désireux de racheter sa faute, il tente de l’innocenter, mais el",
+      "place": "Les FranciscainsLa Cuisine",
       "city": "Nice",
-      "starts_at": 1796977800000,
-      "ends_at": 1796985000000,
+      "starts_at": 1796981640000,
+      "ends_at": 1796988840000,
       "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/atelier/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
-      "category": "AUTRE"
-    },
-    {
-      "title": "La Bib’Mobile – Jardin Alsace Lorraine",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1796977800000,
-      "ends_at": 1796985000000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/lecture/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Danse dans les jardins – Cours de capoeira",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1796979600000,
-      "ends_at": 1796986800000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/seance-de-plein-air/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Atelier manipulation",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1796979600000,
-      "ends_at": 1796986800000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/atelier/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
-      "category": "AUTRE"
-    },
-    {
-      "title": "La recyclerie",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1796979600000,
-      "ends_at": 1796986800000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/atelier/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Danse dans les jardins – Cours de « Danses du monde »",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1796979600000,
-      "ends_at": 1796986800000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/seance-de-plein-air/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
-      "category": "AUTRE"
-    },
-    {
-      "title": "L’art déco à Cessole",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1796979600000,
-      "ends_at": 1796986800000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Quand Nice invente la Riviera",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1796979600000,
-      "ends_at": 1796986800000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
-      "category": "AUTRE"
-    },
-    {
-      "title": "L’Artistique, découverte du lieu et des expositions",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1796981400000,
-      "ends_at": 1796988600000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
-      "category": "EXPO"
+      "price": "€4–20",
+      "price_val": 4,
+      "source": "TNN",
+      "source_url": "https://www.tnn.fr/fr/spectacles/saison-2026-2027/resurrection",
+      "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-10-787-resurrection-slider.jpg",
+      "category": "THEATRE"
     },
     {
       "title": "Tout en fil",
@@ -1484,26 +1409,11 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/atelier/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/05/echecs.jpg",
       "category": "AUTRE"
     },
     {
       "title": "Nice et Matisse",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1796994000000,
-      "ends_at": 1797001200000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Visite commentée de la Crypte archéologique",
       "description": "",
       "place": "Nice",
       "city": "Nice",
@@ -1529,7 +1439,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/projection/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/10/qui-etes-vous-polly-maggoo-©-dr-william-klein-studio.jpg",
       "category": "AUTRE"
     },
     {
@@ -1559,7 +1469,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/atelier/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/encre-reves.jpg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
@@ -1574,7 +1484,37 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/lecture/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/09/les-mots-lesmets.jpg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Visite commentée de la Crypte archéologique",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1796997600000,
+      "ends_at": 1797004800000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/05/evenement-crypte-250x250.jpg",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Atelier de sensibilisation aux gestes de premiers secours",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1796999400000,
+      "ends_at": 1797006600000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/atelier/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/08/bp-605916-premiers-secours.jpg",
       "category": "AUTRE"
     },
     {
@@ -1593,8 +1533,23 @@
       "category": "EXPO"
     },
     {
+      "title": "13 à table ! Lancement du recueil de nouvelles des Restos du Coeur avec Alexandra Lapierre",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1797008400000,
+      "ends_at": 1797015600000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/rencontre/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/09/un-jour-un-auteur-novembre-alexandra-lapierre-photo-philippe-matsas-opale.photo-.jpg",
+      "category": "AUTRE"
+    },
+    {
       "title": "Les Jeudis littéraires",
-      "description": "Tous les jeudis à 19h, au bar-restaurant de la salle des Franciscains, un comédien de la Troupe lit des textes “coup de cœur”. Naviguant du grand répertoire classique à l’écriture contemporaine, de la poésie aux récits mythologiques, les voix de la Troupe vous font (re)découvrir les plus beaux textes. Venez savourer un apéritif et la chaleur de mots choisis.OCTOBREAutour de notre programmation• Je",
+      "description": "Tous les jeudis à 19h, au bar-restaurant de la salle des Franciscains, un comédien de la Troupe lit des textes “coup de cœur”. Naviguant du grand répertoire classique à l’écriture contemporaine, de la poésie aux récits mythologiques, les voix de la Troupe vous font (re)découvrir les plus beaux textes. Venez savourer un apéritif et la chaleur de mots choisis.OCTOBRE• Jeudi 1/10 :Poésie anglaise : S",
       "place": "Les FranciscainsLa Cuisine",
       "city": "Nice",
       "starts_at": 1797012000000,
@@ -1606,6 +1561,21 @@
       "source_url": "https://www.tnn.fr/fr/evenements/jeudis-litteraires-26-27",
       "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-09-828-jeudis-litteraires-26-27-slider.jpg",
       "category": "THEATRE"
+    },
+    {
+      "title": "Bonnie and Clyde",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1797013800000,
+      "ends_at": 1797021000000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/projection/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "category": "AUTRE"
     },
     {
       "title": "Résurrection",
@@ -1623,6 +1593,21 @@
       "category": "THEATRE"
     },
     {
+      "title": "La Veuve joyeuse",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1797015600000,
+      "ends_at": 1797022800000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/opera/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/07/11-13-11-veuve-1024x768-1-250x250.jpeg",
+      "category": "AUTRE"
+    },
+    {
       "title": "LETTRES À ANNE",
       "description": "",
       "place": "Monaco",
@@ -1635,6 +1620,21 @@
       "source": "MONACO",
       "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/lettres-a-anne",
       "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/9/9/0/9/2349099-1-fre-FR/8fc87b584a63-106546_img_05xiufB.png.webp",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Véronique Sanson",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1797017400000,
+      "ends_at": 1797024600000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/concert/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/04/250x250-sanson.jpg",
       "category": "AUTRE"
     },
     {
@@ -1834,7 +1834,7 @@
     },
     {
       "title": "Les Jeudis littéraires",
-      "description": "Tous les jeudis à 19h, au bar-restaurant de la salle des Franciscains, un comédien de la Troupe lit des textes “coup de cœur”. Naviguant du grand répertoire classique à l’écriture contemporaine, de la poésie aux récits mythologiques, les voix de la Troupe vous font (re)découvrir les plus beaux textes. Venez savourer un apéritif et la chaleur de mots choisis.OCTOBREAutour de notre programmation• Je",
+      "description": "Tous les jeudis à 19h, au bar-restaurant de la salle des Franciscains, un comédien de la Troupe lit des textes “coup de cœur”. Naviguant du grand répertoire classique à l’écriture contemporaine, de la poésie aux récits mythologiques, les voix de la Troupe vous font (re)découvrir les plus beaux textes. Venez savourer un apéritif et la chaleur de mots choisis.OCTOBRE• Jeudi 1/10 :Poésie anglaise : S",
       "place": "Les FranciscainsLa Cuisine",
       "city": "Nice",
       "starts_at": 1797530400000,
@@ -2119,7 +2119,7 @@
     },
     {
       "title": "Les Jeudis littéraires",
-      "description": "Tous les jeudis à 19h, au bar-restaurant de la salle des Franciscains, un comédien de la Troupe lit des textes “coup de cœur”. Naviguant du grand répertoire classique à l’écriture contemporaine, de la poésie aux récits mythologiques, les voix de la Troupe vous font (re)découvrir les plus beaux textes. Venez savourer un apéritif et la chaleur de mots choisis.OCTOBREAutour de notre programmation• Je",
+      "description": "Tous les jeudis à 19h, au bar-restaurant de la salle des Franciscains, un comédien de la Troupe lit des textes “coup de cœur”. Naviguant du grand répertoire classique à l’écriture contemporaine, de la poésie aux récits mythologiques, les voix de la Troupe vous font (re)découvrir les plus beaux textes. Venez savourer un apéritif et la chaleur de mots choisis.OCTOBRE• Jeudi 1/10 :Poésie anglaise : S",
       "place": "Les FranciscainsLa Cuisine",
       "city": "Nice",
       "starts_at": 1799949600000,
@@ -2314,7 +2314,7 @@
     },
     {
       "title": "Les Jeudis littéraires",
-      "description": "Tous les jeudis à 19h, au bar-restaurant de la salle des Franciscains, un comédien de la Troupe lit des textes “coup de cœur”. Naviguant du grand répertoire classique à l’écriture contemporaine, de la poésie aux récits mythologiques, les voix de la Troupe vous font (re)découvrir les plus beaux textes. Venez savourer un apéritif et la chaleur de mots choisis.OCTOBREAutour de notre programmation• Je",
+      "description": "Tous les jeudis à 19h, au bar-restaurant de la salle des Franciscains, un comédien de la Troupe lit des textes “coup de cœur”. Naviguant du grand répertoire classique à l’écriture contemporaine, de la poésie aux récits mythologiques, les voix de la Troupe vous font (re)découvrir les plus beaux textes. Venez savourer un apéritif et la chaleur de mots choisis.OCTOBRE• Jeudi 1/10 :Poésie anglaise : S",
       "place": "Les FranciscainsLa Cuisine",
       "city": "Nice",
       "starts_at": 1800554400000,
@@ -2479,7 +2479,7 @@
     },
     {
       "title": "Les Jeudis littéraires",
-      "description": "Tous les jeudis à 19h, au bar-restaurant de la salle des Franciscains, un comédien de la Troupe lit des textes “coup de cœur”. Naviguant du grand répertoire classique à l’écriture contemporaine, de la poésie aux récits mythologiques, les voix de la Troupe vous font (re)découvrir les plus beaux textes. Venez savourer un apéritif et la chaleur de mots choisis.OCTOBREAutour de notre programmation• Je",
+      "description": "Tous les jeudis à 19h, au bar-restaurant de la salle des Franciscains, un comédien de la Troupe lit des textes “coup de cœur”. Naviguant du grand répertoire classique à l’écriture contemporaine, de la poésie aux récits mythologiques, les voix de la Troupe vous font (re)découvrir les plus beaux textes. Venez savourer un apéritif et la chaleur de mots choisis.OCTOBRE• Jeudi 1/10 :Poésie anglaise : S",
       "place": "Les FranciscainsLa Cuisine",
       "city": "Nice",
       "starts_at": 1801159200000,
@@ -2779,7 +2779,7 @@
     },
     {
       "title": "Les Jeudis littéraires",
-      "description": "Tous les jeudis à 19h, au bar-restaurant de la salle des Franciscains, un comédien de la Troupe lit des textes “coup de cœur”. Naviguant du grand répertoire classique à l’écriture contemporaine, de la poésie aux récits mythologiques, les voix de la Troupe vous font (re)découvrir les plus beaux textes. Venez savourer un apéritif et la chaleur de mots choisis.OCTOBREAutour de notre programmation• Je",
+      "description": "Tous les jeudis à 19h, au bar-restaurant de la salle des Franciscains, un comédien de la Troupe lit des textes “coup de cœur”. Naviguant du grand répertoire classique à l’écriture contemporaine, de la poésie aux récits mythologiques, les voix de la Troupe vous font (re)découvrir les plus beaux textes. Venez savourer un apéritif et la chaleur de mots choisis.OCTOBRE• Jeudi 1/10 :Poésie anglaise : S",
       "place": "Les FranciscainsLa Cuisine",
       "city": "Nice",
       "starts_at": 1802973600000,
@@ -2854,7 +2854,7 @@
     },
     {
       "title": "Les Jeudis littéraires",
-      "description": "Tous les jeudis à 19h, au bar-restaurant de la salle des Franciscains, un comédien de la Troupe lit des textes “coup de cœur”. Naviguant du grand répertoire classique à l’écriture contemporaine, de la poésie aux récits mythologiques, les voix de la Troupe vous font (re)découvrir les plus beaux textes. Venez savourer un apéritif et la chaleur de mots choisis.OCTOBREAutour de notre programmation• Je",
+      "description": "Tous les jeudis à 19h, au bar-restaurant de la salle des Franciscains, un comédien de la Troupe lit des textes “coup de cœur”. Naviguant du grand répertoire classique à l’écriture contemporaine, de la poésie aux récits mythologiques, les voix de la Troupe vous font (re)découvrir les plus beaux textes. Venez savourer un apéritif et la chaleur de mots choisis.OCTOBRE• Jeudi 1/10 :Poésie anglaise : S",
       "place": "Les FranciscainsLa Cuisine",
       "city": "Nice",
       "starts_at": 1803578400000,
@@ -3019,7 +3019,7 @@
     },
     {
       "title": "Les Jeudis littéraires",
-      "description": "Tous les jeudis à 19h, au bar-restaurant de la salle des Franciscains, un comédien de la Troupe lit des textes “coup de cœur”. Naviguant du grand répertoire classique à l’écriture contemporaine, de la poésie aux récits mythologiques, les voix de la Troupe vous font (re)découvrir les plus beaux textes. Venez savourer un apéritif et la chaleur de mots choisis.OCTOBREAutour de notre programmation• Je",
+      "description": "Tous les jeudis à 19h, au bar-restaurant de la salle des Franciscains, un comédien de la Troupe lit des textes “coup de cœur”. Naviguant du grand répertoire classique à l’écriture contemporaine, de la poésie aux récits mythologiques, les voix de la Troupe vous font (re)découvrir les plus beaux textes. Venez savourer un apéritif et la chaleur de mots choisis.OCTOBRE• Jeudi 1/10 :Poésie anglaise : S",
       "place": "Les FranciscainsLa Cuisine",
       "city": "Nice",
       "starts_at": 1806685200000,
@@ -3064,7 +3064,7 @@
     },
     {
       "title": "Les Jeudis littéraires",
-      "description": "Tous les jeudis à 19h, au bar-restaurant de la salle des Franciscains, un comédien de la Troupe lit des textes “coup de cœur”. Naviguant du grand répertoire classique à l’écriture contemporaine, de la poésie aux récits mythologiques, les voix de la Troupe vous font (re)découvrir les plus beaux textes. Venez savourer un apéritif et la chaleur de mots choisis.OCTOBREAutour de notre programmation• Je",
+      "description": "Tous les jeudis à 19h, au bar-restaurant de la salle des Franciscains, un comédien de la Troupe lit des textes “coup de cœur”. Naviguant du grand répertoire classique à l’écriture contemporaine, de la poésie aux récits mythologiques, les voix de la Troupe vous font (re)découvrir les plus beaux textes. Venez savourer un apéritif et la chaleur de mots choisis.OCTOBRE• Jeudi 1/10 :Poésie anglaise : S",
       "place": "Les FranciscainsLa Cuisine",
       "city": "Nice",
       "starts_at": 1807808400000,
@@ -3169,7 +3169,7 @@
     },
     {
       "title": "Les Jeudis littéraires",
-      "description": "Tous les jeudis à 19h, au bar-restaurant de la salle des Franciscains, un comédien de la Troupe lit des textes “coup de cœur”. Naviguant du grand répertoire classique à l’écriture contemporaine, de la poésie aux récits mythologiques, les voix de la Troupe vous font (re)découvrir les plus beaux textes. Venez savourer un apéritif et la chaleur de mots choisis.OCTOBREAutour de notre programmation• Je",
+      "description": "Tous les jeudis à 19h, au bar-restaurant de la salle des Franciscains, un comédien de la Troupe lit des textes “coup de cœur”. Naviguant du grand répertoire classique à l’écriture contemporaine, de la poésie aux récits mythologiques, les voix de la Troupe vous font (re)découvrir les plus beaux textes. Venez savourer un apéritif et la chaleur de mots choisis.OCTOBRE• Jeudi 1/10 :Poésie anglaise : S",
       "place": "Les FranciscainsLa Cuisine",
       "city": "Nice",
       "starts_at": 1808413200000,
@@ -3214,7 +3214,7 @@
     },
     {
       "title": "Les Jeudis littéraires",
-      "description": "Tous les jeudis à 19h, au bar-restaurant de la salle des Franciscains, un comédien de la Troupe lit des textes “coup de cœur”. Naviguant du grand répertoire classique à l’écriture contemporaine, de la poésie aux récits mythologiques, les voix de la Troupe vous font (re)découvrir les plus beaux textes. Venez savourer un apéritif et la chaleur de mots choisis.OCTOBREAutour de notre programmation• Je",
+      "description": "Tous les jeudis à 19h, au bar-restaurant de la salle des Franciscains, un comédien de la Troupe lit des textes “coup de cœur”. Naviguant du grand répertoire classique à l’écriture contemporaine, de la poésie aux récits mythologiques, les voix de la Troupe vous font (re)découvrir les plus beaux textes. Venez savourer un apéritif et la chaleur de mots choisis.OCTOBRE• Jeudi 1/10 :Poésie anglaise : S",
       "place": "Les FranciscainsLa Cuisine",
       "city": "Nice",
       "starts_at": 1809018000000,
@@ -3289,7 +3289,7 @@
     },
     {
       "title": "Les Jeudis littéraires",
-      "description": "Tous les jeudis à 19h, au bar-restaurant de la salle des Franciscains, un comédien de la Troupe lit des textes “coup de cœur”. Naviguant du grand répertoire classique à l’écriture contemporaine, de la poésie aux récits mythologiques, les voix de la Troupe vous font (re)découvrir les plus beaux textes. Venez savourer un apéritif et la chaleur de mots choisis.OCTOBREAutour de notre programmation• Je",
+      "description": "Tous les jeudis à 19h, au bar-restaurant de la salle des Franciscains, un comédien de la Troupe lit des textes “coup de cœur”. Naviguant du grand répertoire classique à l’écriture contemporaine, de la poésie aux récits mythologiques, les voix de la Troupe vous font (re)découvrir les plus beaux textes. Venez savourer un apéritif et la chaleur de mots choisis.OCTOBRE• Jeudi 1/10 :Poésie anglaise : S",
       "place": "Les FranciscainsLa Cuisine",
       "city": "Nice",
       "starts_at": 1810227600000,
@@ -3349,7 +3349,7 @@
     },
     {
       "title": "Les Jeudis littéraires",
-      "description": "Tous les jeudis à 19h, au bar-restaurant de la salle des Franciscains, un comédien de la Troupe lit des textes “coup de cœur”. Naviguant du grand répertoire classique à l’écriture contemporaine, de la poésie aux récits mythologiques, les voix de la Troupe vous font (re)découvrir les plus beaux textes. Venez savourer un apéritif et la chaleur de mots choisis.OCTOBREAutour de notre programmation• Je",
+      "description": "Tous les jeudis à 19h, au bar-restaurant de la salle des Franciscains, un comédien de la Troupe lit des textes “coup de cœur”. Naviguant du grand répertoire classique à l’écriture contemporaine, de la poésie aux récits mythologiques, les voix de la Troupe vous font (re)découvrir les plus beaux textes. Venez savourer un apéritif et la chaleur de mots choisis.OCTOBRE• Jeudi 1/10 :Poésie anglaise : S",
       "place": "Les FranciscainsLa Cuisine",
       "city": "Nice",
       "starts_at": 1810832400000,
@@ -3469,7 +3469,7 @@
     },
     {
       "title": "Les Jeudis littéraires",
-      "description": "Tous les jeudis à 19h, au bar-restaurant de la salle des Franciscains, un comédien de la Troupe lit des textes “coup de cœur”. Naviguant du grand répertoire classique à l’écriture contemporaine, de la poésie aux récits mythologiques, les voix de la Troupe vous font (re)découvrir les plus beaux textes. Venez savourer un apéritif et la chaleur de mots choisis.OCTOBREAutour de notre programmation• Je",
+      "description": "Tous les jeudis à 19h, au bar-restaurant de la salle des Franciscains, un comédien de la Troupe lit des textes “coup de cœur”. Naviguant du grand répertoire classique à l’écriture contemporaine, de la poésie aux récits mythologiques, les voix de la Troupe vous font (re)découvrir les plus beaux textes. Venez savourer un apéritif et la chaleur de mots choisis.OCTOBRE• Jeudi 1/10 :Poésie anglaise : S",
       "place": "Les FranciscainsLa Cuisine",
       "city": "Nice",
       "starts_at": 1811437200000,
@@ -3604,7 +3604,7 @@
     },
     {
       "title": "Les Jeudis littéraires",
-      "description": "Tous les jeudis à 19h, au bar-restaurant de la salle des Franciscains, un comédien de la Troupe lit des textes “coup de cœur”. Naviguant du grand répertoire classique à l’écriture contemporaine, de la poésie aux récits mythologiques, les voix de la Troupe vous font (re)découvrir les plus beaux textes. Venez savourer un apéritif et la chaleur de mots choisis.OCTOBREAutour de notre programmation• Je",
+      "description": "Tous les jeudis à 19h, au bar-restaurant de la salle des Franciscains, un comédien de la Troupe lit des textes “coup de cœur”. Naviguant du grand répertoire classique à l’écriture contemporaine, de la poésie aux récits mythologiques, les voix de la Troupe vous font (re)découvrir les plus beaux textes. Venez savourer un apéritif et la chaleur de mots choisis.OCTOBRE• Jeudi 1/10 :Poésie anglaise : S",
       "place": "Les FranciscainsLa Cuisine",
       "city": "Nice",
       "starts_at": 1814461200000,
@@ -3724,7 +3724,7 @@
     },
     {
       "title": "Les Jeudis littéraires",
-      "description": "Tous les jeudis à 19h, au bar-restaurant de la salle des Franciscains, un comédien de la Troupe lit des textes “coup de cœur”. Naviguant du grand répertoire classique à l’écriture contemporaine, de la poésie aux récits mythologiques, les voix de la Troupe vous font (re)découvrir les plus beaux textes. Venez savourer un apéritif et la chaleur de mots choisis.OCTOBREAutour de notre programmation• Je",
+      "description": "Tous les jeudis à 19h, au bar-restaurant de la salle des Franciscains, un comédien de la Troupe lit des textes “coup de cœur”. Naviguant du grand répertoire classique à l’écriture contemporaine, de la poésie aux récits mythologiques, les voix de la Troupe vous font (re)découvrir les plus beaux textes. Venez savourer un apéritif et la chaleur de mots choisis.OCTOBRE• Jeudi 1/10 :Poésie anglaise : S",
       "place": "Les FranciscainsLa Cuisine",
       "city": "Nice",
       "starts_at": 1817398800000,
@@ -3934,7 +3934,7 @@
     },
     {
       "title": "Les Jeudis littéraires",
-      "description": "Tous les jeudis à 19h, au bar-restaurant de la salle des Franciscains, un comédien de la Troupe lit des textes “coup de cœur”. Naviguant du grand répertoire classique à l’écriture contemporaine, de la poésie aux récits mythologiques, les voix de la Troupe vous font (re)découvrir les plus beaux textes. Venez savourer un apéritif et la chaleur de mots choisis.OCTOBREAutour de notre programmation• Je",
+      "description": "Tous les jeudis à 19h, au bar-restaurant de la salle des Franciscains, un comédien de la Troupe lit des textes “coup de cœur”. Naviguant du grand répertoire classique à l’écriture contemporaine, de la poésie aux récits mythologiques, les voix de la Troupe vous font (re)découvrir les plus beaux textes. Venez savourer un apéritif et la chaleur de mots choisis.OCTOBRE• Jeudi 1/10 :Poésie anglaise : S",
       "place": "Les FranciscainsLa Cuisine",
       "city": "Nice",
       "starts_at": 1825178400000,
