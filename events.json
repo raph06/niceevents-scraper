@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-11-12T14:25:40Z",
-  "count": 271,
+  "scraped_at": "2026-11-12T21:45:36Z",
+  "count": 272,
   "events": [
     {
       "title": "Visite guidée du Vieux-Nice",
@@ -29,7 +29,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/08/109-rdv-patrimoine.jpg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
@@ -61,6 +61,81 @@
       "source_url": "https://www.nice.fr/agenda/type/atelier/",
       "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
+    },
+    {
+      "title": "Visite de la verrerie de Biot",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1794572100000,
+      "ends_at": 1794579300000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Entre femmes",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1794573000000,
+      "ends_at": 1794580200000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/atelier/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Au cœur des émotions du jeune enfant : comprendre pour mieux accompagner",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1794574800000,
+      "ends_at": 1794582000000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/conference/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "category": "FAMILLE"
+    },
+    {
+      "title": "Le stylo à plume",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1794574800000,
+      "ends_at": 1794582000000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/atelier/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/08/stylo-plume.jpeg",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Brillat Savarin ou la naissance de la gastronomie moderne",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1794578400000,
+      "ends_at": 1794585600000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/rencontre/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/09/brillat.jpeg",
+      "category": "FOOD"
     },
     {
       "title": "Concert Daniel Lavoie & Jean-Philippe Sylvestre : un nouveau souffle classique",
@@ -1383,21 +1458,6 @@
       "category": "THEATRE"
     },
     {
-      "title": "Tout en fil",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1796994000000,
-      "ends_at": 1797001200000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/atelier/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/05/tout-en-fil.jpg",
-      "category": "AUTRE"
-    },
-    {
       "title": "Cercle de jeux échecs",
       "description": "",
       "place": "Nice",
@@ -1424,7 +1484,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/05/portrait-matisseetnice.jpg",
       "category": "AUTRE"
     },
     {
@@ -1443,36 +1503,6 @@
       "category": "AUTRE"
     },
     {
-      "title": "Brèves lectures",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1796995800000,
-      "ends_at": 1797003000000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/lecture/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
-      "category": "AUTRE"
-    },
-    {
-      "title": "L’encre des rêves",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1796995800000,
-      "ends_at": 1797003000000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/atelier/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
-      "category": "AUTRE"
-    },
-    {
       "title": "Les mots des mets – L’Artistique",
       "description": "",
       "place": "Nice",
@@ -1484,38 +1514,23 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/lecture/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/09/les-mots-lesmets.jpg",
       "category": "AUTRE"
     },
     {
-      "title": "Visite commentée de la Crypte archéologique",
-      "description": "",
-      "place": "Nice",
+      "title": "Résurrection",
+      "description": "DansRésurrection, il est question d’un écrivain célèbre qui mène une vie de plaisirs dans une grande ville et se retrouve juré au procès d’une femme accusée de meurtre. Il reconnaît son amour de jeunesse, autrefois au service de sa famille. Il a abusé d’elle et l’a mise enceinte avant de l’abandonner. Elle est devenue une prostituée. Désireux de racheter sa faute, il tente de l’innocenter, mais el",
+      "place": "Les FranciscainsLa Cuisine",
       "city": "Nice",
-      "starts_at": 1796997600000,
-      "ends_at": 1797004800000,
+      "starts_at": 1796998140000,
+      "ends_at": 1797005340000,
       "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/05/evenement-crypte-250x250.jpg",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Atelier de sensibilisation aux gestes de premiers secours",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1796999400000,
-      "ends_at": 1797006600000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/atelier/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/08/bp-605916-premiers-secours.jpg",
-      "category": "AUTRE"
+      "price": "€4–20",
+      "price_val": 4,
+      "source": "TNN",
+      "source_url": "https://www.tnn.fr/fr/spectacles/saison-2026-2027/resurrection",
+      "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-10-787-resurrection-slider.jpg",
+      "category": "THEATRE"
     },
     {
       "title": "Exposition Øyvind Hjelmen & Helén Petersen",
@@ -1544,7 +1559,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/rencontre/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/09/un-jour-un-auteur-novembre-alexandra-lapierre-photo-philippe-matsas-opale.photo-.jpg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
@@ -1604,7 +1619,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/opera/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/07/11-13-11-veuve-1024x768-1-250x250.jpeg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
@@ -1634,7 +1649,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/concert/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/04/250x250-sanson.jpg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
