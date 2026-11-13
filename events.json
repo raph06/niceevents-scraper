@@ -1,97 +1,7 @@
 {
-  "scraped_at": "2026-11-13T04:20:47Z",
+  "scraped_at": "2026-11-13T13:46:09Z",
   "count": 271,
   "events": [
-    {
-      "title": "Visite guidée du Vieux-Nice",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1794558600000,
-      "ends_at": 1794565800000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Visite commentée du 109",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1794560400000,
-      "ends_at": 1794567600000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Projection - Philipppe Favier, Aux Déchirants Départs des Archipels Superbes, 1983",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1794560400000,
-      "ends_at": 1794762000000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/projection-philipppe-favier-aux-dechirants-departs-des-archipels-superbes-1983",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/9/8/2/7/2367289-1-fre-FR/8b4cbaafbd80-106642_img_0M5eWtw.jpg.webp",
-      "category": "CINEMA"
-    },
-    {
-      "title": "Cours de dessin/aquarelle (en extérieur)",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1794562200000,
-      "ends_at": 1794569400000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/atelier/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Visite de la verrerie de Biot",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1794572100000,
-      "ends_at": 1794579300000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Entre femmes",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1794573000000,
-      "ends_at": 1794580200000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/atelier/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
-      "category": "AUTRE"
-    },
     {
       "title": "Au cœur des émotions du jeune enfant : comprendre pour mieux accompagner",
       "description": "",
@@ -119,7 +29,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/atelier/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/08/stylo-plume.jpeg",
       "category": "AUTRE"
     },
     {
@@ -134,7 +44,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/rencontre/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/09/brillat.jpeg",
       "category": "FOOD"
     },
     {
@@ -149,7 +59,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/projection/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/10/les-garcons-et-guillaume-a-table-©-dr-gaumont.jpg",
       "category": "AUTRE"
     },
     {
@@ -164,7 +74,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/projection/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/10/saillie-©-dr-topshot-films.jpg",
       "category": "AUTRE"
     },
     {
@@ -269,7 +179,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/theatre/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/10/img225-683x10241-1.jpg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
@@ -316,6 +226,66 @@
       "source_url": "https://www.nice.fr/agenda/type/concert/",
       "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
+    },
+    {
+      "title": "Le songe d’une nuit d’été",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1794596400000,
+      "ends_at": 1794603600000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/theatre/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "category": "AUTRE"
+    },
+    {
+      "title": "La Veuve joyeuse",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1794596400000,
+      "ends_at": 1794603600000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/opera/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/07/11-13-11-veuve-1024x768-1-250x250.jpeg",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Malik Belkhodja",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1794596400000,
+      "ends_at": 1794603600000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/humour/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/07/malik-belkhodja.jpg",
+      "category": "CONCERT"
+    },
+    {
+      "title": "La symphonie des faux-culs",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1794596400000,
+      "ends_at": 1794603600000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/theatre/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/08/symphonie-fc-250x250.jpg",
+      "category": "CONCERT"
     },
     {
       "title": "Escape Game",
@@ -1083,6 +1053,21 @@
       "category": "AUTRE"
     },
     {
+      "title": "Tant qu’un cœur bat… De la mort imminente à la greffe d’un cœur",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1795633200000,
+      "ends_at": 1797375600000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/tant-qu-un-caeur-bat-de-la-mort-imminente-a-la-greffe-d-un-caeur",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/2/5/2/2/2372252-1-fre-FR/9ccf4bfd13e3-106670_img_0rwGD4e.png.webp",
+      "category": "AUTRE"
+    },
+    {
       "title": "Rencontre insolite entre le clavecin et l'accordéon",
       "description": "",
       "place": "Nice",
@@ -1308,21 +1293,6 @@
       "category": "AUTRE"
     },
     {
-      "title": "La Cathédrale engloutie",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1795806000000,
-      "ends_at": 1795811400000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/la-cathedrale-engloutie",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/0/7/8/1/2261870-1-fre-FR/5d6a8e2a95eb-106344_img_031LXdb.jpg.webp",
-      "category": "AUTRE"
-    },
-    {
       "title": "My Fierce Ignorant Step",
       "description": "Christos Papadopoulos, figure majeure de la danse contemporaine grecque, explore dansMy Fierce Ignorant Stepla puissance du mouvement collectif et la musicalité du corps. Le chorégraphe réunit dix interprètes qui, guidés par leur souffle, tissent un univers où la danse dialogue avec la musique et la littérature. Au sein d’une dimension plastique très travaillée et propre au chorégraphe, cette œuvr",
       "place": "Les FranciscainsLa Cuisine",
@@ -1488,6 +1458,21 @@
       "category": "AUTRE"
     },
     {
+      "title": "Les fontaines de l'Italie",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1795962600000,
+      "ends_at": 1795969800000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "INFOLOCALE",
+      "source_url": "https://www.infolocale.fr/evenements?age%5B0%5D=Tout%20Public&age%5B1%5D=Adulte&age%5B2%5D=Adolescent&age%5B3%5D=Enfant&age%5B4%5D=Bebe&commune=06088",
+      "image_url": "https://photos.infolocale.fr/infolocale/annonce/2026/1111/9036122/_1.jpg?rnd=20261113115119",
+      "category": "AUTRE"
+    },
+    {
       "title": "Le Lab'Oratoire",
       "description": "Chaque dernier lundi du mois à 19h, d’octobre à avril, Muriel Mayette-Holtz et les comédiens de la Troupe proposent des cours d’oralité et permettent à chacun de s’entraîner à la prise de parole en public.Le Lab'Oratoireest l’occasion, pour les acteurs de la troupe et moi, de transmettre quelques clés d’un métier aussi mystérieux qu’essentiel : celui de l’acteur, et plus intimement encore, celui d",
       "place": "Les FranciscainsLa Cuisine",
@@ -1606,6 +1591,21 @@
       "source_url": "https://www.infolocale.fr/evenements?age%5B0%5D=Tout%20Public&age%5B1%5D=Adulte&age%5B2%5D=Adolescent&age%5B3%5D=Enfant&age%5B4%5D=Bebe&commune=06088",
       "image_url": "https://photos.infolocale.fr/infolocale/annonce/2026/1106/9032775/_1.jpg?rnd=20261107080314",
       "category": "EXPO"
+    },
+    {
+      "title": "Résurrection",
+      "description": "DansRésurrection, il est question d’un écrivain célèbre qui mène une vie de plaisirs dans une grande ville et se retrouve juré au procès d’une femme accusée de meurtre. Il reconnaît son amour de jeunesse, autrefois au service de sa famille. Il a abusé d’elle et l’a mise enceinte avant de l’abandonner. Elle est devenue une prostituée. Désireux de racheter sa faute, il tente de l’innocenter, mais el",
+      "place": "Les FranciscainsLa Cuisine",
+      "city": "Nice",
+      "starts_at": 1797010140000,
+      "ends_at": 1797017340000,
+      "has_time": true,
+      "price": "€4–20",
+      "price_val": 4,
+      "source": "TNN",
+      "source_url": "https://www.tnn.fr/fr/spectacles/saison-2026-2027/resurrection",
+      "image_url": "https://www.tnn.fr/img/spectacles/saison-2026-2027/2026-10-787-resurrection-slider.jpg",
+      "category": "THEATRE"
     },
     {
       "title": "Les Jeudis littéraires",
