@@ -1,67 +1,7 @@
 {
-  "scraped_at": "2026-11-16T00:38:47Z",
-  "count": 269,
+  "scraped_at": "2026-11-16T10:30:18Z",
+  "count": 268,
   "events": [
-    {
-      "title": "Motricité libre",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1794819600000,
-      "ends_at": 1794826800000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/atelier/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Les rocailles de Valrose",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1794819600000,
-      "ends_at": 1794826800000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Les droits des enfants",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1794819600000,
-      "ends_at": 1794826800000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/atelier/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
-      "category": "FAMILLE"
-    },
-    {
-      "title": "Danse dans les jardins – Cours de Moov’Dance",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1794821400000,
-      "ends_at": 1794828600000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/seance-de-plein-air/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
-      "category": "AUTRE"
-    },
     {
       "title": "Les lundis de la science : Conférence « Science pour Tous 06 »",
       "description": "",
@@ -89,7 +29,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/05/evenement-opera-250x250.jpg",
       "category": "CONCERT"
     },
     {
@@ -164,7 +104,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/lecture/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/01/club-lecture.jpeg",
       "category": "AUTRE"
     },
     {
@@ -194,7 +134,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/atelier/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/11/atelier-lecture-ecirure-st-roch-250x250.jpg",
       "category": "AUTRE"
     },
     {
@@ -213,6 +153,21 @@
       "category": "FOOD"
     },
     {
+      "title": "Les droits des enfants",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1794906000000,
+      "ends_at": 1794913200000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/atelier/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/09/jeu-mains-enfants.png",
+      "category": "FAMILLE"
+    },
+    {
       "title": "Bien-être par le mouvement",
       "description": "",
       "place": "Nice",
@@ -228,6 +183,21 @@
       "category": "AUTRE"
     },
     {
+      "title": "Éveil corporel",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1794909600000,
+      "ends_at": 1794916800000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/atelier/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/11/eveil-corporel.jpg",
+      "category": "AUTRE"
+    },
+    {
       "title": "Sieste Musicale - Instant détente pendant la pause déjeuner",
       "description": "",
       "place": "Monaco",
@@ -240,6 +210,21 @@
       "source": "MONACO",
       "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/sieste-musicale-instant-detente-pendant-la-pause-dejeuner6",
       "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/6/5/5/7/2287556-2-fre-FR/96dbbb0976c8-106410_img_0xsMktY.png.webp",
+      "category": "AUTRE"
+    },
+    {
+      "title": "La Bib’Mobile – L’Arénas",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1794915000000,
+      "ends_at": 1794922200000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/lecture/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/09/bib-mobile-2.jpg",
       "category": "AUTRE"
     },
     {
