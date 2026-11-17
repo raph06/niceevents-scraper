@@ -1,22 +1,7 @@
 {
-  "scraped_at": "2026-11-16T21:32:57Z",
-  "count": 267,
+  "scraped_at": "2026-11-17T05:55:36Z",
+  "count": 269,
   "events": [
-    {
-      "title": "Conférence | Pascal Rousseau",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1794870000000,
-      "ends_at": 1794877200000,
-      "has_time": false,
-      "price": "—",
-      "price_val": 0,
-      "source": "CHAGALL",
-      "source_url": "https://musees-nationaux-alpesmaritimes.fr/chagall/agenda",
-      "image_url": "https://musees-nationaux-alpesmaritimes.fr/chagall/sites/chagall/files/styles/crop_vignette/public/2026-10/Vignette%20de%20Pascal%20Rousseau.png?itok=UCkvOR8W",
-      "category": "AUTRE"
-    },
     {
       "title": "Au fil des pages",
       "description": "",
@@ -29,7 +14,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/lecture/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/01/club-lecture.jpeg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
@@ -59,7 +44,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/atelier/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/11/atelier-lecture-ecirure-st-roch-250x250.jpg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
@@ -74,7 +59,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/conference/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/09/giuseppe-arcimboldo-lautomne-1573.jpeg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "FOOD"
     },
     {
@@ -89,7 +74,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/atelier/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/09/jeu-mains-enfants.png",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "FAMILLE"
     },
     {
@@ -119,7 +104,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/atelier/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/11/eveil-corporel.jpg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
@@ -149,7 +134,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/lecture/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2025/09/bib-mobile-2.jpg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
@@ -164,7 +149,7 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/projection/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/10/intouchables-©-dr-gaumont.jpg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
       "category": "AUTRE"
     },
     {
@@ -209,7 +194,52 @@
       "price_val": 0,
       "source": "VILLE_NICE",
       "source_url": "https://www.nice.fr/agenda/type/atelier/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/02/premiers-pas-ordinateur1.jpg",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Des fortifications à la place royale",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1794922200000,
+      "ends_at": 1794929400000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/11/fortification-place-royale.jpg",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Karaoké / Bal",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1794922200000,
+      "ends_at": 1794929400000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/animation/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/07/image-de-partage-site.png",
+      "category": "AUTRE"
+    },
+    {
+      "title": "Visite guidée du Vieux-Nice",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1794922200000,
+      "ends_at": 1794929400000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/visite-guidee/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2025/05/vieux-nice-250x250.jpg",
       "category": "AUTRE"
     },
     {
@@ -708,21 +738,6 @@
       "category": "CONCERT"
     },
     {
-      "title": "Concert de polyphonies corses - Alternatim",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1795546800000,
-      "ends_at": 1795552200000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/concert-de-polyphonies-corses-alternatim",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/0/5/4/9/2369450-1-fre-FR/794af7b5da61-106650_img_06iZy8L.jpg.webp",
-      "category": "CONCERT"
-    },
-    {
       "title": "La Crise",
       "description": "",
       "place": "Monaco",
@@ -736,6 +751,21 @@
       "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/la-crise",
       "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/4/2/2/1/2261224-1-fre-FR/fbde53f16624-106339_img_05bLFBe.jpg.webp",
       "category": "AUTRE"
+    },
+    {
+      "title": "Concert de polyphonies corses - Alternatim",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1795546800000,
+      "ends_at": 1795552200000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/concert-de-polyphonies-corses-alternatim",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/0/5/4/9/2369450-1-fre-FR/794af7b5da61-106650_img_06iZy8L.jpg.webp",
+      "category": "CONCERT"
     },
     {
       "title": "Festival Résonance édition 2026",
@@ -1098,21 +1128,6 @@
       "category": "AUTRE"
     },
     {
-      "title": "La Cathédrale engloutie",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1795806000000,
-      "ends_at": 1795811400000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/la-cathedrale-engloutie",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/0/7/8/1/2261870-1-fre-FR/5d6a8e2a95eb-106344_img_031LXdb.jpg.webp",
-      "category": "AUTRE"
-    },
-    {
       "title": "Concert hommage à Marie-Claire Alain à l'occasion du centenaire de sa naissance",
       "description": "",
       "place": "Monaco",
@@ -1126,6 +1141,21 @@
       "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/concert-hommage-a-marie-claire-alain-a-l-occasion-du-centenaire-de-sa-naissance",
       "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/4/7/7/9/2369774-1-fre-FR/90771f3320c5-106652_img_011w2dU.webp.webp",
       "category": "CONCERT"
+    },
+    {
+      "title": "La Cathédrale engloutie",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1795806000000,
+      "ends_at": 1795811400000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/la-cathedrale-engloutie",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/0/7/8/1/2261870-1-fre-FR/5d6a8e2a95eb-106344_img_031LXdb.jpg.webp",
+      "category": "AUTRE"
     },
     {
       "title": "My Fierce Ignorant Step",
