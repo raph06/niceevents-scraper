@@ -1,37 +1,7 @@
 {
-  "scraped_at": "2026-11-18T11:00:32Z",
-  "count": 246,
+  "scraped_at": "2026-11-18T19:52:02Z",
+  "count": 244,
   "events": [
-    {
-      "title": "Atelier de pratiques artistiques du mercredi",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1795005000000,
-      "ends_at": 1795012200000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "VILLE_NICE",
-      "source_url": "https://www.nice.fr/agenda/type/atelier/",
-      "image_url": "https://www.nice.fr/wp-content/uploads/2026/10/atelier-matisse-mercredi.png",
-      "category": "AUTRE"
-    },
-    {
-      "title": "Ateliers de pratiques artistiques (6-11 ans) / LES MERCREDIS",
-      "description": "",
-      "place": "Nice",
-      "city": "Nice",
-      "starts_at": 1795005000000,
-      "ends_at": 1795012200000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MATISSE",
-      "source_url": "https://www.musee-matisse-nice.org/fr/evenement/atelier-de-pratiques-artistiques-6-11-ans-2/",
-      "image_url": "https://www.musee-matisse-nice.org/wp-content/uploads/2021/02/Musee-Matisse-Nice-Partage.png",
-      "category": "AUTRE"
-    },
     {
       "title": "Le Petit Chaperon rouge",
       "description": "Il était une fois une petite fille qui s’ennuyait, seule dans sa maison. Sa mère, débordée et toujours pressée, lui interdisait de sortir. L’enfant rêvait de découvrir le monde au-delà de la forêt. Un jour, elle obtient enfin la permission d’aller rendre visite à sa grand-mère, de l’autre côté des bois. Sur le chemin, elle traverse un monde où la curiosité se mêle à la peur, où l’inconnu attire au",
@@ -48,7 +18,7 @@
       "category": "THEATRE"
     },
     {
-      "title": "LEGENDARY ROCK VOICES",
+      "title": "Legendary Rock Voices",
       "description": "",
       "place": "Nice",
       "city": "Nice",
@@ -57,25 +27,10 @@
       "has_time": true,
       "price": "—",
       "price_val": 0,
-      "source": "NIKAIA",
-      "source_url": "https://www.nikaia.fr/programmation/legendary-rock-voices",
-      "image_url": "https://www.nikaia.fr/files/2026-03/lrv-nice-arwork03-1080x1080.png",
+      "source": "VILLE_NICE",
+      "source_url": "https://www.nice.fr/agenda/type/concert/",
+      "image_url": "https://www.nice.fr/wp-content/uploads/2026/03/rock-voices.jpg",
       "category": "CONCERT"
-    },
-    {
-      "title": "Feu d'artifice de Fête Nationale 2026",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1795029000000,
-      "ends_at": 1795030800000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/feu-d-artifice-de-fete-nationale-2026",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/6/7/3/8/2358376-1-fre-FR/442be8f13995-106592_img_0kM03Cv.jpg.webp",
-      "category": "AUTRE"
     },
     {
       "title": "PIAF - Le Spectacle",
@@ -453,21 +408,6 @@
       "category": "CONCERT"
     },
     {
-      "title": "La Crise",
-      "description": "",
-      "place": "Monaco",
-      "city": "Monaco",
-      "starts_at": 1795546800000,
-      "ends_at": 1795555200000,
-      "has_time": true,
-      "price": "—",
-      "price_val": 0,
-      "source": "MONACO",
-      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/la-crise",
-      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/4/2/2/1/2261224-1-fre-FR/fbde53f16624-106339_img_05bLFBe.jpg.webp",
-      "category": "AUTRE"
-    },
-    {
       "title": "Concert de polyphonies corses - Alternatim",
       "description": "",
       "place": "Monaco",
@@ -481,6 +421,21 @@
       "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/concert-de-polyphonies-corses-alternatim",
       "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/0/5/4/9/2369450-1-fre-FR/794af7b5da61-106650_img_06iZy8L.jpg.webp",
       "category": "CONCERT"
+    },
+    {
+      "title": "La Crise",
+      "description": "",
+      "place": "Monaco",
+      "city": "Monaco",
+      "starts_at": 1795546800000,
+      "ends_at": 1795555200000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MONACO",
+      "source_url": "https://www.visitmonaco.com/evenements/agenda-des-evenements/la-crise",
+      "image_url": "https://www.visitmonaco.com/var/visitmonaco/storage/images/_aliases/w414_search/4/2/2/1/2261224-1-fre-FR/fbde53f16624-106339_img_05bLFBe.jpg.webp",
+      "category": "AUTRE"
     },
     {
       "title": "Festival Résonance édition 2026",
@@ -511,6 +466,21 @@
       "source_url": "https://www.opera-nice.org/lieux/foyer-montserrat-caballe-de-lopera/",
       "image_url": "https://www.opera-nice.org/wp-content/uploads/2026/05/share-opera-nice-cote-dazur.jpg",
       "category": "NUIT"
+    },
+    {
+      "title": "Ateliers de pratiques artistiques (6-11 ans) / LES MERCREDIS",
+      "description": "",
+      "place": "Nice",
+      "city": "Nice",
+      "starts_at": 1795609800000,
+      "ends_at": 1795617000000,
+      "has_time": true,
+      "price": "—",
+      "price_val": 0,
+      "source": "MATISSE",
+      "source_url": "https://www.musee-matisse-nice.org/fr/evenement/atelier-de-pratiques-artistiques-6-11-ans-2/",
+      "image_url": "https://www.musee-matisse-nice.org/wp-content/uploads/2021/02/Musee-Matisse-Nice-Partage.png",
+      "category": "AUTRE"
     },
     {
       "title": "Ciné Famille - \"Le Petit Prince\" de Mark Osborne (2015)",
